@@ -1,8 +1,10 @@
 name: Generate Outputs
 on:
   push:
-    branches:
-      - '!main'
+    branches: 
+    - '*'
+#     branches:
+#      - '!main'
 #     paths:
 #       - 'tags/*.yml'
 #       - 'alias.yml'
