@@ -12,9 +12,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
-#       - name: Validate YAML file // Would be cool to have some sorta linting here
-#         run: yamllint abc.yml
-      - name: Checkout
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
