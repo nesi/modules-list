@@ -3,10 +3,10 @@ on:
   push:
     branches:
       - '!main'
-    paths:
-      - 'tags/*.yml'
-      - 'alias.yml'
-      - 'overwrite.yml'
+#     paths:
+#       - 'tags/*.yml'
+#       - 'alias.yml'
+#       - 'overwrite.yml'
 jobs:
   validate-yaml:
     runs-on: ubuntu-latest
