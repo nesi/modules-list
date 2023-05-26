@@ -9,3 +9,4 @@ proprietary:
   - IQmol
   - QChem
   - GOLD
+  - VASP
