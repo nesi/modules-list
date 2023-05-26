@@ -8,20 +8,22 @@ on:
       - 'alias.yml'
       - 'overwrite.yml'
 jobs:
-  generate_outputs:
+  validate-yaml:
     runs-on: ubuntu-latest
     steps:
-    - name: Checkout
-      uses: actions/checkout@v3
-    - name: Install dependencies
-      run: |
-        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-    - name: Generate outputs
-      run: python3 workflows/merge.py
-    - name: Commit to main
-      run: |
-        git config user.name "${GITHUB_ACTOR}"
-        git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
-        git add outputs/*
-        git commit -m "Automated generation of outputs" 
-        git push -f origin main
+      - uses: actions/checkout@v3
+#       - name: Validate YAML file // Would be cool to have some sorta linting here
+#         run: yamllint abc.yml
+      - name: Checkout
+      - name: Install dependencies
+        run: |
+          if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+      - name: Generate outputs
+        run: python3 workflows/merge.py 2> problems.log
+      - name: Commit to main
+        run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git add --all
+          git commit -m "Automated generation of outputs" 
+          git push -f origin main
