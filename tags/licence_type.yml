@@ -10,5 +10,5 @@ proprietary:
   - QChem
   - GOLD
   - VASP
-  - VASP2
+  - FDS
 
