@@ -25,5 +25,6 @@ jobs:
           git add --all
           git status
           git remote -v
+          git branch -b
           git commit --allow-empty -m "Automated merge"
           git push -f origin main
