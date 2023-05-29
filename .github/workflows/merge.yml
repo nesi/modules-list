@@ -30,6 +30,6 @@ jobs:
           git add --all
           git commit --allow-empty -m "Automated merge"
           git status
-          git checkout -v main
+          git checkout main
           git merge -v ${GITHUB_REF##*/}
           git push -v -f origin main
