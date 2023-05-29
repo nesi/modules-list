@@ -4976,7 +4976,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://pages.nist.gov/fds-smv/",
-        "licence_type": "",
+        "licence_type": "proprietary",
         "licences": [],
         "link_output_dictride": "",
         "machines": {
