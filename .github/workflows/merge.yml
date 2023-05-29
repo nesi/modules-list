@@ -29,6 +29,5 @@ jobs:
           git fetch
           git branch -r
           git checkout -b main origin/main
-          echo "${CI_COMMIT_REF_NAME},{GITHUB_HEAD_REF},${GITHUB_REF##*/}"
-          git merge ${CI_COMMIT_REF_NAME}
+          git merge ${GITHUB_REF##*/}
           git push -v -f origin main
