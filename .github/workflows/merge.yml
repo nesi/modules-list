@@ -14,6 +14,12 @@ jobs:
     steps:
       - name: Setup Repo
         uses: actions/checkout@v3
+      - name: Set Git Credentials
+      - run: |
+          git config user.name "${GITHUB_ACTOR}"
+          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
+          git fetch -v
+          git pull -v --all
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
@@ -21,13 +27,9 @@ jobs:
         run: python3 .github/workflows/merge.py #2> problems.log
       - name: Commit to main
         run: |
-          git config user.name "${GITHUB_ACTOR}"
-          git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add --all
           git commit --allow-empty -m "Automated merge"
           git status
-          git fetch
-          git branch -r
-          git checkout -b main origin/main
-          git merge ${GITHUB_REF##*/}
+          git checkout -v main
+          git merge -v ${GITHUB_REF##*/}
           git push -v -f origin main
