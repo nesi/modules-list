@@ -4,12 +4,8 @@ on:
     branches: 
      - '*'
      - '!main'
-#     paths:
-#       - 'tags/*.yml'
-#       - 'alias.yml'
-#       - 'overwrite.yml'
 jobs:
-  validate-yaml:
+  update-main:
     runs-on: ubuntu-latest
     steps:
       - name: Setup Repo
@@ -23,13 +19,14 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Generate Merge YAML
-        run: python3 .github/workflows/merge.py #2> problems.log
+      - name: Validate YAML here;
+        run: echo TODO
+      - name: Generate Merged YAML
+        run: python3 .github/workflows/merge.py 2> problems.log
       - name: Commit to main
         run: |
           git add --all
           git commit --allow-empty -m "Automated merge"
-          git status
           git checkout main
           git merge -v ${GITHUB_REF##*/}
           git push -v -f origin main
