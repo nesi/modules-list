@@ -1,1 +1,8 @@
-python3: can't open file '/scale_wlg_persistent/filesets/opt_nesi/nesi-apps-admin/ModuleList/workflows/merge.py': [Errno 2] No such file or directory
+Tag Classifier does not correspond to a application on the platform.
+Tag Fastq-tools does not correspond to a application on the platform.
+Tag RegCM does not correspond to a application on the platform.
+Tag ARCSC does not correspond to a application on the platform.
+Tag datamash does not correspond to a application on the platform.
+Tag RegCM does not correspond to a application on the platform.
+Tag IRIS does not correspond to a application on the platform.
+Tag Ncview does not correspond to a application on the platform.
