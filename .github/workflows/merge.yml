@@ -30,4 +30,4 @@ jobs:
           git remote -v
           git branch -r
           git commit --allow-empty -m "Automated merge"
-          git push -v -f origin/main
+          git push -v -f origin main
