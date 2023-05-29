@@ -171,7 +171,6 @@ engineering:
   - OpenSees
   - Elmer
   - FDS
-  - imkl
   - Octave
   - ParaView
 language:
@@ -250,3 +249,10 @@ visualisation:
   - NCARG
   - OSPRay
   - ANSYS
+climate_science: 
+  - ESMF  
+  - CDO
+workflow_management:
+  - snakemake
+  - Nextflow
+  - cromwell
