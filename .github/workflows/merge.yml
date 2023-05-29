@@ -15,7 +15,7 @@ jobs:
       - name: Setup Repo
         uses: actions/checkout@v3
       - name: Pull other branches
-        run: git pull --all
+
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
@@ -27,6 +27,7 @@ jobs:
           git config user.email "${GITHUB_ACTOR}@users.noreply.github.com"
           git add --all
           git commit --allow-empty -m "Automated merge"
+          git fetch
           git branch -r
           git checkout -b main origin/main
           git merge ${CI_COMMIT_REF_NAME}
