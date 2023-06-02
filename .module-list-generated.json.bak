@@ -2,14 +2,12 @@
     "ABAQUS": {
         "default": "",
         "description": "Finite Element Analysis software for modeling, visualization and best-in-class implicit and explicit dynamics FEA.",
-        "domains": [
-            "engineering"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "http://www.simulia.com/products/abaqus_fea.html",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [
             {
                 "allowed_clusters": [
@@ -147,9 +145,7 @@
     "ABySS": {
         "default": "",
         "description": "Assembly By Short Sequences - a de novo, parallel, paired-end sequence assembler",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -349,15 +345,12 @@
     "ANSYS": {
         "default": "",
         "description": "",
-        "domains": [
-            "engineering",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "http://www.ansys.com",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [
             {
                 "allowed_clusters": [
@@ -577,9 +570,7 @@
     "ANTLR": {
         "default": "",
         "description": "ANTLR, ANother Tool for Language Recognition, (formerly PCCTS)  is a language tool that provides a framework for constructing recognizers,  compilers, and translators from grammatical descriptions containing  Java, C#, C++, or Python actions.",
-        "domains": [
-            "social_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -808,9 +799,7 @@
     "ARCSI": {
         "default": "",
         "description": "The Atmospheric and Radiometric Correction of Satellite Imagery (ARCSI) software provides a command line tool for the atmospheric correction of Earth Observation imagery. The aim of ARCSI is to provide as automatic as possible method of retrieving the atmospheric correction parameters and using them to parameterise 6S.Universal Command Line Environment for AWS.",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -884,9 +873,7 @@
     "AUGUSTUS": {
         "default": "",
         "description": "AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1046,7 +1033,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "http://ambermd.org/amber.html",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [],
         "link_output_dictride": "",
         "machines": {
@@ -1065,9 +1052,7 @@
     "Anaconda2": {
         "default": "",
         "description": "Built to complement the rich, open source Python community, the Anaconda platform provides an enterprise-ready data analytics platform  that empowers companies to adopt a modern open data science analytics architecture.  IMPORTANT: This version of Anaconda Python comes with Intel MKL support to speed up            certain types of mathematical computations, such as linear algebra or FFT.            The module sets             MKL_NUM_THREADS=1             to run MKL on a single thread by default, avoiding accidental oversubscription            of cores. The number of threads can be increased for large problems, please            refer to the Intel MKL documentation for guidance.",
-        "domains": [
-            "machine_learning"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1092,9 +1077,7 @@
     "Anaconda3": {
         "default": "",
         "description": "Built to complement the rich, open source Python community, the Anaconda platform provides an enterprise-ready data analytics platform  that empowers companies to adopt a modern open data science analytics architecture.",
-        "domains": [
-            "machine_learning"
-        ],
+        "domains": [],
         "extensions": "pyspark-2.4.3",
         "force_hide": "False",
         "force_show": "False",
@@ -1241,9 +1224,7 @@
     "Augustus": {
         "default": "",
         "description": "AUGUSTUS is a program that predicts genes in eukaryotic genomic sequences.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1317,9 +1298,7 @@
     "BBMap": {
         "default": "",
         "description": "BBMap short read aligner, and other bioinformatic tools.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1349,9 +1328,7 @@
     "BCFtools": {
         "default": "",
         "description": "Manipulate variant calls in the Variant Call Format (VCF) and its binary counterpart BCF.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1407,9 +1384,7 @@
     "BEAST": {
         "default": "",
         "description": "Bayesian MCMC phylogenetic analysis of molecular sequences for reconstructing",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1439,9 +1414,7 @@
     "BEDOPS": {
         "default": "",
         "description": "BEDOPS is an open-source command-line toolkit that performs highly",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1467,9 +1440,7 @@
     "BEDTools": {
         "default": "",
         "description": "The BEDTools utilities allow one to address common genomics tasks such as finding feature overlaps",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1498,9 +1469,7 @@
     "BEEF": {
         "default": "",
         "description": "BEEF is a library implementing the Bayesian Error Estimation Functional, a description of which can be found here:  http://dx.doi.org/10.1103/PhysRevB.85.235149",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1535,9 +1504,7 @@
     "BLASR": {
         "default": "",
         "description": "BLASR (Basic Local Alignment with Successive Refinement) rapidly maps",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1561,9 +1528,7 @@
     "BLAST": {
         "default": "",
         "description": "Basic Local Alignment Search Tool, or BLAST, is an algorithm",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1623,9 +1588,7 @@
     "BLAT": {
         "default": "",
         "description": "BLAT on DNA is designed to quickly find sequences of 95% and greater similarity of length 25 bases or more.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1731,9 +1694,7 @@
     "BUSCO": {
         "default": "",
         "description": "Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1764,9 +1725,7 @@
     "BWA": {
         "default": "",
         "description": "Burrows-Wheeler Aligner (BWA) is an efficient program that aligns",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -1795,9 +1754,7 @@
     "BamTools": {
         "default": "",
         "description": "BamTools provides both a programmer's API and an end-user's toolkit for handling BAM files.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2016,9 +1973,7 @@
     "BerkeleyGW": {
         "default": "",
         "description": "The BerkeleyGW Package is a set of computer codes that calculates the quasiparticle",
-        "domains": [
-            "physics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2119,9 +2074,7 @@
     "BioConductor": {
         "default": "",
         "description": "Tools for the analysis of high-throughput genomic data in R.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": "ade4-1.7-8, affy-1.54.0, affyio-1.46.0, ALDEx2-1.8.0, annaffy-1.48.0, annotate-1.54.0, AnnotationDbi-1.38.2, AnnotationFilter-1.0.0, AnnotationForge-1.18.2, baySeq-2.10.0, Biobase-2.36.2, BiocGenerics-0.22.1, BiocInstaller-1.26.1, BiocParallel-1.10.1, biomaRt-2.32.1, biomformat-1.4.0, Biostrings-2.44.2, BSgenome-1.44.2, BSgenome.Hsapiens.UCSC.hg19-1.4.0, bumphunter-1.16.0, Category-2.42.1, CGHbase-1.36.0, DEGseq-1.30.0, DelayedArray-0.2.7, derfinder-1.10.6, derfinderHelper-1.10.0, DESeq2-1.16.1, DynDoc-1.54.0, edgeR-3.18.1, FDb.InfiniumMethylation.hg19-2.2.0, gcrma-2.48.0, gdsfmt-1.12.0, genefilter-1.58.1, geneLenDataBase-1.12.0, geneplotter-1.54.0, GenomeGraphs-1.36.0, GenomeInfoDb-1.12.3, GenomeInfoDbData-0.99.0, GenomicAlignments-1.12.2, GenomicFeatures-1.28.5, GenomicFiles-1.12.0, GenomicRanges-1.28.6, genoset-1.32.0, GEOquery-2.42.0, GO.db-3.4.1, goseq-1.28.0, GOstats-2.42.0, graph-1.54.0, GSEABase-1.38.2, GSVA-1.24.2, hgu133a.db-3.2.3, hgu133plus2.db-3.2.3, Homo.sapiens-1.3.1, illuminaio-0.18.0, impute-1.50.1, interactiveDisplayBase-1.14.0, IRanges-2.10.5, KEGG.db-3.2.3, KEGGgraph-1.38.1, KEGGREST-1.16.1, LEA-1.8.1, limma-3.32.8, lumi-2.28.0, lumiHumanAll.db-1.22.0, lumiHumanIDMapping-1.10.1, marray-1.54.0, metagenomeSeq-1.18.0, methylumi-2.22.0, minfi-1.22.1, multtest-2.32.0, NOISeq-2.20.0, oligoClasses-1.38.0, org.Hs.eg.db-3.4.1, OrganismDbi-1.18.0, pcaMethods-1.68.0, PFAM.db-3.4.1, phyloseq-1.20.0, polyester-1.12.0, preprocessCore-1.38.1, ProtGenerics-1.8.0, qvalue-2.8.0, RBGL-1.52.0, reactome.db-1.59.1, Rgraphviz-2.20.0, rhdf5-2.20.0, RNASeqPower-1.16.0, Rsamtools-1.28.0, Rsubread-1.26.1, rtracklayer-1.36.5, S4Vectors-0.14.7, samr-2.0, ShortRead-1.34.2, sigaR-1.24.0, siggenes-1.50.0, SNPRelate-1.10.2, SPIA-2.28.0, SummarizedExperiment-1.6.5, TxDb.Hsapiens.UCSC.hg19.knownGene-3.2.2, tximport-1.4.0, VariantAnnotation-1.22.3, venn-1.2, XVector-0.16.0, zlibbioc-1.22.0",
         "force_hide": "False",
         "force_show": "False",
@@ -2170,9 +2123,7 @@
     "Bismark": {
         "default": "",
         "description": "A tool to map bisulfite converted sequence reads and",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2197,9 +2148,7 @@
     "Bison": {
         "default": "",
         "description": "Bison is a general-purpose parser generator that converts an annotated context-free grammar into a deterministic LR or generalized LR (GLR) parser employing LALR(1) parser tables.",
-        "domains": [
-            "social_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2308,9 +2257,7 @@
     "Bowtie": {
         "default": "",
         "description": "Ultrafast, memory-efficient short read aligner.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2340,9 +2287,7 @@
     "Bowtie2": {
         "default": "",
         "description": "Ultrafast and memory-efficient tool for aligning",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2370,9 +2315,7 @@
     "Bpipe": {
         "default": "",
         "description": "A platform for running big bioinformatics jobs that consist of a series of processing stages",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2425,9 +2368,7 @@
     "BreakDancer": {
         "default": "",
         "description": "Genome-wide detection of structural variants from next generation paired-end sequencing reads.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2501,9 +2442,7 @@
     "CD-HIT": {
         "default": "",
         "description": "CD-HIT is a very widely used program for clustering and",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2664,9 +2603,7 @@
     "CNVnator": {
         "default": "",
         "description": "Copy Number Variation discovery and genotyping from depth of read mapping.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -2716,16 +2653,12 @@
     "COMSOL": {
         "default": "",
         "description": "COMSOL is a multiphysics solver that provides a unified workflow for electrical, mechanical, fluid, and chemical applications.",
-        "domains": [
-            "chemistry",
-            "engineering",
-            "physics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://www.comsol.com/",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [
             {
                 "allowed_clusters": [
@@ -3012,9 +2945,7 @@
     "CP2K": {
         "default": "",
         "description": "CP2K is a freely available (GPL) program, written in Fortran 95, to perform atomistic and molecular",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -3167,9 +3098,7 @@
     "Canu": {
         "default": "",
         "description": "Sequence assembler designed for high-noise single-molecule sequencing.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -3513,9 +3442,7 @@
     "Clustal-Omega": {
         "default": "",
         "description": "Clustal Omega is a multiple sequence alignment",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -3792,9 +3719,7 @@
     "Cufflinks": {
         "default": "",
         "description": "Transcript assembly, differential expression, and differential regulation for RNA-Seq",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -3818,10 +3743,7 @@
     "Cytoscape": {
         "default": "",
         "description": "Cytoscape is an open source software platform for visualizing molecular interaction networks and",
-        "domains": [
-            "biology",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -3924,9 +3846,7 @@
     "DBG2OLC": {
         "default": "",
         "description": "DBG2OLC:Efficient Assembly of Large Genomes Using Long Erroneous Reads of the Third Generation",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -3977,9 +3897,7 @@
     "DIAMOND": {
         "default": "",
         "description": "Sequence aligner for protein and translated DNA searches",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4440,9 +4358,7 @@
     "EMBOSS": {
         "default": "",
         "description": "EMBOSS is 'The European Molecular Biology Open Software Suite'.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4467,9 +4383,7 @@
     "EMIRGE": {
         "default": "",
         "description": "Reconstructs full length ribosomal genes from short read",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4519,9 +4433,7 @@
     "ESMF": {
         "default": "",
         "description": "The Earth System Modeling Framework (ESMF) is software for building and coupling weather,  climate, and related models.",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4636,9 +4548,7 @@
     "Eigen": {
         "default": "",
         "description": "Eigen is a C++ template library for linear algebra:",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4667,9 +4577,7 @@
     "Elmer": {
         "default": "",
         "description": "Elmer is an open source multiphysical simulation software mainly developed by",
-        "domains": [
-            "engineering"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4750,10 +4658,7 @@
     "ErlangOTP": {
         "default": "",
         "description": "Erlang is a programming language used to build massively scalable",
-        "domains": [
-            "language",
-            "social_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4802,9 +4707,7 @@
     "ExaBayes": {
         "default": "",
         "description": "Bayesian tree inference, particularly suitable for large-scale analyses.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4829,9 +4732,7 @@
     "ExaML": {
         "default": "",
         "description": "Exascale Maximum Likelihood for phylogenetic inference using MPI.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4881,9 +4782,7 @@
     "FALCON": {
         "default": "",
         "description": "Falcon: a set of tools for fast aligning long reads for consensus and assembly",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": "FALCON-1.8.8, networkx-1.10, pypeFLOW-20170504",
         "force_hide": "False",
         "force_show": "False",
@@ -4908,9 +4807,7 @@
     "FASTX-Toolkit": {
         "default": "",
         "description": "Tools for Short-Reads FASTA/FASTQ files preprocessing.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -4968,10 +4865,7 @@
     "FDS": {
         "default": "",
         "description": "Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows,  with an emphasis on smoke and heat transport from fires.",
-        "domains": [
-            "engineering",
-            "physics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5187,9 +5081,7 @@
     "FastQC": {
         "default": "",
         "description": "A set of tools (in Java) for working with next generation sequencing data in the BAM format.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5240,9 +5132,7 @@
     "FastTree": {
         "default": "",
         "description": "FastTree infers approximately-maximum-likelihood phylogenetic trees from alignments of nucleotide",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5370,9 +5260,7 @@
     "Flye": {
         "default": "",
         "description": "Flye is a de novo assembler for long and noisy reads, such as those produced by PacBio",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5450,9 +5338,7 @@
     "FreeBayes": {
         "default": "",
         "description": "Genetic variant detector designed to find polymorphisms smaller than the length of a short-read sequencing alignment.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5557,9 +5443,7 @@
     "GATK": {
         "default": "",
         "description": "The Genome Analysis Toolkit or GATK is a software package developed at the Broad Institute",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5701,9 +5585,7 @@
     "GDAL": {
         "default": "",
         "description": "GDAL is a translator library for raster geospatial data formats that is released under an X/MIT style  Open Source license by the Open Source Geospatial Foundation. As a library, it presents a single abstract data model  to the calling application for all supported formats. It also comes with a variety of useful command-line utilities for  data translation and processing.  NOTE: The GDAL IO cache by default uses 5% of total memory. This seems not necessary. This module sets GDAL_CACHEMAX=256 (256MB),   which should have no performance impact. Feel free to change if necessary, using 'export GDAL_CACHEMAX=xxx' (in your job script)   after loading the GDAL module.",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5774,9 +5656,7 @@
     "GEOS": {
         "default": "",
         "description": "GEOS (Geometry Engine - Open Source) is a C++ port of the  Java Topology Suite (JTS)",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5897,9 +5777,7 @@
     "GMAP-GSNAP": {
         "default": "",
         "description": "GMAP: A Genomic Mapping and Alignment Program for mRNA and EST Sequences",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5924,9 +5802,7 @@
     "GMP": {
         "default": "",
         "description": "GMP is a free library for arbitrary precision arithmetic,",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -5988,7 +5864,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://www.ccdc.cam.ac.uk/solutions/csd-discovery/Components/Gold/",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [],
         "link_output_dictride": "",
         "machines": {
@@ -6060,10 +5936,7 @@
     "GRASS": {
         "default": "",
         "description": "The Geographic Resources Analysis Support System - used for geospatial data management and analysis, image processing, graphics and maps production, spatial modeling, and visualization",
-        "domains": [
-            "earth_science",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -6114,9 +5987,7 @@
     "GROMACS": {
         "default": "",
         "description": "GROMACS is a versatile package to perform molecular dynamics,  i.e. simulate the Newtonian equations of motion for systems with hundreds to millions of particles.",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -6156,9 +6027,7 @@
     "GSL": {
         "default": "",
         "description": "The GNU Scientific Library (GSL) is a numerical library for C and C++  programmers.  The library provides a wide range of mathematical routines  such as random number generators, special functions and least-squares fitting.",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -6375,14 +6244,12 @@
     "Gaussian": {
         "default": "",
         "description": "",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [],
         "link_output_dictride": "",
         "machines": {
@@ -6622,9 +6489,7 @@
     "Gubbins": {
         "default": "",
         "description": "Genealogies Unbiased By recomBinations In Nucleotide Sequences",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -6802,9 +6667,7 @@
     "HISAT2": {
         "default": "",
         "description": "HISAT2 is a fast and sensitive alignment program for mapping next-generation sequencing reads",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -6833,9 +6696,7 @@
     "HMMER": {
         "default": "",
         "description": "HMMER is used for searching sequence databases for homologs of protein sequences,",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -6943,9 +6804,7 @@
     "HTSlib": {
         "default": "",
         "description": "A C library for reading/writing high-throughput sequencing data.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7140,9 +6999,7 @@
     "IDBA": {
         "default": "",
         "description": "Iterative de Bruijn graph assembler for second-generation sequencing reads.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7191,10 +7048,7 @@
     "IGV": {
         "default": "",
         "description": "The Integrative Genomics Viewer (IGV) is a high-performance visualization",
-        "domains": [
-            "biology",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7221,9 +7075,7 @@
     "IMPUTE": {
         "default": "",
         "description": "Genotype imputation and haplotype phasing.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7275,14 +7127,12 @@
     "IQmol": {
         "default": "",
         "description": "",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [],
         "link_output_dictride": "",
         "machines": {
@@ -7394,9 +7244,7 @@
     "Infernal": {
         "default": "",
         "description": "Infernal ('INFERence of RNA ALignment') is for searching DNA sequence databases",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7475,9 +7323,7 @@
     "JAGS": {
         "default": "",
         "description": "Just Another Gibbs Sampler - a program for the statistical analysis of Bayesian hierarchical models by Markov Chain Monte Carlo.",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7564,9 +7410,7 @@
     "Java": {
         "default": "",
         "description": "Java Platform, Standard Edition (Java SE) lets you develop and deploy  Java applications on desktops and servers.",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7601,9 +7445,7 @@
     "Jellyfish": {
         "default": "",
         "description": "Jellyfish is a tool for fast, memory-efficient counting of k-mers in DNA.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -7896,9 +7738,7 @@
     "Kraken2": {
         "default": "",
         "description": "Taxonomic sequence classifier.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -8006,10 +7846,7 @@
     "LAMMPS": {
         "default": "",
         "description": "LAMMPS is a classical molecular dynamics code, and an acronym for Large-scale Atomic/Molecular Massively Parallel Simulator. LAMMPS has potentials for solid-state materials (metals, semiconductors) and soft matter (biomolecules, polymers) and coarse-grained or mesoscopic systems. It can be used to model atoms or, more generically, as a parallel particle simulator at the atomic, meso, or continuum scale. LAMMPS runs on single processors or in parallel using message-passing techniques and a spatial-decomposition of the simulation domain. The code is designed to be easy to modify or extend with new functionality.",
-        "domains": [
-            "biology",
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -8069,9 +7906,7 @@
     "LASTZ": {
         "default": "",
         "description": "LASTZ is a program for aligning DNA sequences, a pairwise aligner. Originally designed to",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -8097,9 +7932,7 @@
     "LDC": {
         "default": "",
         "description": "D programming language compiler",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -8434,9 +8267,7 @@
     "Libint": {
         "default": "",
         "description": "Libint library is used to evaluate the traditional (electron repulsion) and certain novel two-body  matrix elements (integrals) over Cartesian Gaussian functions used in modern atomic and molecular theory.",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -8567,9 +8398,7 @@
     "MAFFT": {
         "default": "",
         "description": "Multiple sequence alignment program offering a range of methods.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -8676,16 +8505,12 @@
     "MATLAB": {
         "default": "",
         "description": "A high-level language and interactive environment for numerical computing.",
-        "domains": [
-            "engineering",
-            "mathematics",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "http://www.mathworks.com/products/matlab",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [
             {
                 "allowed_clusters": [
@@ -9019,9 +8844,7 @@
     "METIS": {
         "default": "",
         "description": "METIS is a set of serial programs for partitioning graphs, partitioning finite element meshes,",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9132,9 +8955,7 @@
     "MPFR": {
         "default": "",
         "description": "The MPFR library is a C library for multiple-precision",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9186,9 +9007,7 @@
     "MUMPS": {
         "default": "",
         "description": "A parallel sparse direct solver",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9218,9 +9037,7 @@
     "MUMmer": {
         "default": "",
         "description": "MUMmer is a system for rapidly aligning entire genomes,",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9249,9 +9066,7 @@
     "MUSCLE": {
         "default": "",
         "description": "MUSCLE is a program for creating multiple alignments of amino acid or nucleotide",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9302,9 +9117,7 @@
     "MaSuRCA": {
         "default": "",
         "description": "MaSuRCA is whole genome assembly software. It combines the efficiency of the de Bruijn graph",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9488,9 +9301,7 @@
     "Mesa": {
         "default": "",
         "description": "Mesa is an open-source implementation of the OpenGL specification -  a system for rendering interactive 3D graphics.   Note that this build enables CPU-based rendering with OpenSWR and LLVM.  The module is intended to be used with visualisation software, such as  ParaView, on nodes where no GPU hardware is available.   Both on-screen and off-screen rendering are supported.  IMPORTANT: The OpenSWR software rasteriser can use multiple threads for            best performance. The number of threads is controlled by the            environment variable KNOB_MAX_WORKER_THREADS. The module sets             KNOB_MAX_WORKER_THREADS=1             by default to avoid accidental oversubscription of nodes.",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9703,9 +9514,7 @@
     "MetaVelvet": {
         "default": "",
         "description": "A short read assember for metagenomics",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9754,9 +9563,7 @@
     "Metaxa2": {
         "default": "",
         "description": "Taxonomic classification of rRNA.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9784,9 +9591,7 @@
     "Miniconda3": {
         "default": "",
         "description": "A platform for Python-based data analytics",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9881,9 +9686,7 @@
     "Molcas": {
         "default": "",
         "description": "Molcas is an ab initio quantum chemistry software package",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9907,9 +9710,7 @@
     "Molpro": {
         "default": "",
         "description": "Molpro is a complete system of ab initio programs for molecular electronic structure calculations.",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -9985,9 +9786,7 @@
     "Mothur": {
         "default": "",
         "description": "Mothur is a single piece of open-source, expandable software",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10012,9 +9811,7 @@
     "MotionCorr": {
         "default": "",
         "description": "Motion Correction for Dose-Fractionation Stack, by Dr. Xueming Li of the Cheng Laboratory at UCSF. The actual executable is named dosefgpu_driftcorr",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10038,9 +9835,7 @@
     "MrBayes": {
         "default": "",
         "description": "MrBayes is a program for the Bayesian estimation of phylogeny.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10094,9 +9889,7 @@
     "MultiQC": {
         "default": "",
         "description": "Aggregate results from bioinformatics analyses across many samples into a single",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": "certifi-2022.9.24, chardet-5.0.0, click-8.1.3, coloredlogs-15.0.1, colormath-3.0.0, flit_core-3.7.1, future-0.18.2, humanfriendly-10.0, idna-3.4, lzstring-1.0.4, Markdown-3.4.1, MarkupSafe-2.1.1, multiqc-1.13, requests-2.28.1, rich-click-1.5.2, simplejson-3.17.6, spectra-0.0.11, urllib3-1.26.12",
         "force_hide": "False",
         "force_show": "False",
@@ -10125,10 +9918,7 @@
     "NAMD": {
         "default": "",
         "description": "NAMD is a parallel molecular dynamics code designed for high-performance simulation of",
-        "domains": [
-            "biology",
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10156,9 +9946,7 @@
     "NASM": {
         "default": "",
         "description": "NASM: General-purpose x86 assembler",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10198,9 +9986,7 @@
     "NCARG": {
         "default": "",
         "description": "NCAR Graphics is a Fortran and C based software package for",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10254,9 +10040,7 @@
     "NCL": {
         "default": "",
         "description": "NCL is an interpreted language designed specifically for scientific data analysis and   visualization.",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10343,9 +10127,7 @@
     "NGS": {
         "default": "",
         "description": "NGS is a new, domain-specific API for accessing reads, alignments and pileups produced from",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10519,10 +10301,7 @@
     "NWChem": {
         "default": "",
         "description": "NWChem aims to provide its users with computational chemistry tools that are scalable both in",
-        "domains": [
-            "biology",
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10937,9 +10716,7 @@
     "ORCA": {
         "default": "",
         "description": "ORCA is a flexible, efficient and easy-to-use general purpose tool for quantum chemistry",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -10967,9 +10744,7 @@
     "OSPRay": {
         "default": "",
         "description": "OSPRay features interactive CPU rendering capabilities geared towards Scientific Visualization applications. Advanced shading effects such as Ambient Occlusion, shadows, and transparency can be rendered interactively, enabling new insights into data exploration.",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11051,10 +10826,7 @@
     "Octave": {
         "default": "",
         "description": "GNU Octave is a high-level interpreted language, primarily intended for numerical computations.",
-        "domains": [
-            "engineering",
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11079,9 +10851,7 @@
     "Octopus": {
         "default": "",
         "description": "Octopus is a scientific program aimed at the ab initio virtual experimentation",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11133,10 +10903,7 @@
     "OpenBabel": {
         "default": "",
         "description": "Open Babel is a chemical toolbox designed to speak the many",
-        "domains": [
-            "biology",
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11184,9 +10951,7 @@
     "OpenCV": {
         "default": "",
         "description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision",
-        "domains": [
-            "machine_learning"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11214,10 +10979,7 @@
     "OpenFAST": {
         "default": "",
         "description": "Wind turbine multiphysics simulation tool",
-        "domains": [
-            "engineering",
-            "physics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11241,10 +11003,7 @@
     "OpenFOAM": {
         "default": "",
         "description": "OpenFOAM is a free, open source CFD software package.",
-        "domains": [
-            "chemistry",
-            "engineering"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11372,10 +11131,7 @@
     "OpenSees": {
         "default": "",
         "description": "OpenSees is a software framework for developing applications to simulate the performance of structural and geotechnical systems subjected to earthquakes.",
-        "domains": [
-            "earth_science",
-            "engineering"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11631,9 +11387,7 @@
     "PBJelly": {
         "default": "",
         "description": "PBJelly is a highly automated pipeline that aligns long sequencing reads (such as PacBio RS reads or",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11904,9 +11658,7 @@
     "PLINK": {
         "default": "",
         "description": "PLINK is a free, open-source whole genome association analysis toolset,",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -11932,10 +11684,7 @@
     "PLUMED": {
         "default": "",
         "description": "PLUMED is an open source library for free energy calculations in molecular systems which",
-        "domains": [
-            "biology",
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12065,9 +11814,7 @@
     "ParMETIS": {
         "default": "",
         "description": "ParMETIS is an MPI-based parallel library that implements a variety of algorithms for partitioning unstructured graphs,",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12095,10 +11842,7 @@
     "ParaView": {
         "default": "",
         "description": "ParaView is a scientific parallel visualizer.  This version supports CPU-only rendering without X context using the OSMesa library, it does not support GPU rendering, and it does not provide a GUI.  Use the GALLIUM_DRIVER environment variable to choose a software renderer, it is recommended to use  GALLIUM_DRIVER=swr  for best performance.  Ray tracing using the OSPRay library is also supported.",
-        "domains": [
-            "engineering",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12240,9 +11984,7 @@
     "Perl": {
         "default": "",
         "description": "Larry Wall's Practical Extraction and Report Language",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": "Algorithm::Dependency-1.110, Algorithm::Diff-1.1903, aliased-0.34, AnyData-0.12, AnyEvent-7.13, AppConfig-1.71, Archive::Extract-0.80, Authen::SASL-2.16, B::Lint-1.20, boolean-0.46, Bundle::BioPerl-2.1.9, Canary::Stability-2012, Capture::Tiny-0.46, Carp-1.38, Class::Accessor-0.34, Class::Data::Inheritable-0.08, Class::DBI-v3.0.17, Class::DBI::SQLite-0.11, Class::Inspector-1.31, Class::ISA-0.36, Class::Load-0.23, Class::Load::XS-0.09, Class::Singleton-1.5, Class::Trigger-0.14, Clone-0.38, Config::General-2.63, Config::IniFiles-2.94, CPANPLUS-0.9164, Crypt::DES-2.07, Crypt::Rijndael-1.13, Cwd::Guard-0.05, Data::Dumper::Concise-2.022, Data::Grove-0.08, Data::OptList-0.110, Data::Section::Simple-0.07, Data::Stag-0.14, Data::Types-0.09, Data::UUID-1.221, Date::Handler-1.2, Date::Language-2.30, DateTime-1.42, DateTime::Locale-1.16, DateTime::TimeZone-2.11, DateTime::Tiny-1.06, DBD::AnyData-0.110, DBD::Oracle-1.75_2, DBD::SQLite-1.54, DBI-1.636, DBIx::Admin::TableInfo-3.03, DBIx::ContextualFetch-1.03, DBIx::Simple-1.35, Devel::CheckCompiler-0.07, Devel::CheckLib-1.11, Devel::GlobalDestruction-0.14, Devel::StackTrace-2.02, Digest::HMAC-1.03, Digest::SHA1-2.13, Dist::CheckConflicts-0.11, Email::Date::Format-1.005, Encode::Locale-1.05, Error-0.17024, Eval::Closure-0.14, Exception::Class-1.42, Expect-1.33, Exporter-5.72, Exporter::Declare-0.114, Exporter::Tiny-0.044, ExtUtils::Config-0.008, ExtUtils::Helpers-0.026, ExtUtils::InstallPaths-0.011, Fennec::Lite-0.004, File::CheckTree-4.42, File::Copy::Recursive-0.38, File::Find::Rule-0.34, File::Find::Rule::Perl-1.15, File::HomeDir-1.00, File::Listing-6.04, File::ShareDir::Install-0.11, File::Slurp-9999.19, File::Slurp::Tiny-0.004, File::Spec-3.62, File::Which-1.21, Font::TTF-1.06, FreezeThaw-0.5001, GD::Graph-1.54, Getopt::Long-2.49.1, Git-0.41, GO-0.04, GO::Utils-0.15, Hash::Merge-0.200, HTML::Entities::Interpolate-1.10, HTML::Form-6.03, HTML::Parser-3.72, HTML::Tagset-3.20, HTML::Tree-5.03, HTTP::Cookies-6.03, HTTP::Daemon-6.01, HTTP::Date-6.02, HTTP::Negotiate-6.01, HTTP::Request-6.11, HTTP::Tiny-0.070, Ima::DBI-0.35, Import::Into-1.002005, IO::HTML-1.001, IO::Socket::SSL-2.047, IO::String-1.08, IO::Stringy-2.111, IO::Tty-1.12, IPC::Run-0.94, IPC::Run3-0.048, JSON-2.90, Lingua::EN::PluralToSingular-0.19, List::AllUtils-0.14, List::MoreUtils-0.418, Log::Handler-0.88, Log::Message-0.08, Log::Message::Simple-0.10, LWP::MediaTypes-6.02, LWP::Simple-6.25, Mail::Util-2.18, Math::Bezier-0.01, Math::Round-0.07, Math::VecStat-0.08, Meta::Builder-0.003, MIME::Lite-3.030, MIME::Types-2.13, Mock::Quick-1.111, Module::Build-0.4222, Module::Build::Tiny-0.039, Module::Build::XSUtil-0.16, Module::Implementation-0.09, Module::Pluggable-5.2, Module::Runtime-0.014, Moo-2.003002, Moose-2.2004, Mouse-v2.4.9, MRO::Compat-0.13, Net::HTTP-6.13, Net::SMTP::SSL-1.04, Net::SNMP-v6.0.1, Number::Compare-0.03, Number::Format-1.75, Object::Accessor-0.48, Package::DeprecationManager-0.17, Package::Stash-0.37, Package::Stash::XS-0.28, Params::Util-1.07, Params::Validate-1.26, Parse::RecDescent-1.967014, PDF::API2-2.031, PDL-2.018, PDL::NetCDF-4.20, Pod::LaTeX-0.61, Pod::Plainer-1.04, Pod::POM-2.01, Readonly-2.05, Regexp::Common-2016060801, Scalar::Util-1.47, Set::Array-0.30, Set::IntSpan-1.19, Set::IntSpan::Fast-1.15, Set::Scalar-1.29, Shell-0.73, SQL::Abstract-1.84, SQL::Statement-1.410, Statistics::Basic-1.6611, Statistics::Descriptive-3.0612, strictures-2.000003, Sub::Exporter-0.987, Sub::Exporter::Progressive-0.001013, Sub::Install-0.928, Sub::Name-0.21, Sub::Uplevel-0.2800, Sub::Uplevel-0.2800, SVG-2.77, SVN::Client-1.8.11.0, Switch-2.17, Template-2.26, Template::Plugin::Number::Format-1.06, Term::ReadKey-2.14, Term::UI-0.46, Test::ClassAPI-1.06, Test::Deep-1.126, Test::Differences-0.64, Test::Exception-0.43, Test::Exception::LessClever-0.009, Test::Fatal-0.014, Test::Harness-3.38, Test::LeakTrace-0.15, Test::Most-0.35, Test::NoWarnings-1.04, Test::Output-1.031, Test::Pod-1.51, Test::Requires-0.10, Test::Simple-1.302078, Test::Version-2.05, Test::Warn-0.32, Test::Warnings-0.026, Text::Balanced-2.03, Text::CSV-1.92, Text::Diff-1.44, Text::Format-0.60, Text::Glob-0.11, Text::Iconv-1.7, Text::Soundex-3.05, Text::Table-1.132, Text::Template-1.47, Tie::Function-0.02, Tie::IxHash-1.23, Time::Piece-1.31, Time::Piece::MySQL-0.06, Tree::DAG_Node-1.29, Try::Tiny-0.28, UNIVERSAL::moniker-0.08, URI-1.71, version-0.9917, Want-0.29, WWW::RobotRules-6.02, XML::Bare-0.53, XML::NamespaceSupport-1.12, XML::Parser-2.44, XML::SAX-0.99, XML::SAX::Base-1.09, XML::SAX::Writer-0.56, XML::Simple-2.22, XML::Tiny-2.06, XML::Twig-3.52, XML::XPath-1.40",
         "force_hide": "False",
         "force_show": "False",
@@ -12279,9 +12021,7 @@
     "PhyML": {
         "default": "",
         "description": "Phylogenetic estimation using Maximum Likelihood",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12334,9 +12074,7 @@
     "Pilon": {
         "default": "",
         "description": "Pilon is an automated genome assembly improvement and variant detection tool",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12387,9 +12125,7 @@
     "Porechop": {
         "default": "",
         "description": "Porechop is a tool for finding and removing adapters from Oxford Nanopore reads.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12606,12 +12342,7 @@
     "Python": {
         "default": "",
         "description": "Python is a programming language that lets you work more quickly and integrate your systems more effectively.",
-        "domains": [
-            "data_analytics",
-            "language",
-            "machine_learning",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": "altair-4.2.0, ase-3.22.1, biom-format-2.1.12, biopython-1.79, bokeh-2.4.3, Bottleneck-1.3.4, cftime-1.6.0, click-8.0.3, click-plugins-1.1.1, colorcet-3.0.0, Cython-0.29.30, dask-2022.5.2, dask-jobqueue-0.7.3, dask-mpi-2022.4.0, datashader-0.14.0, datashape-0.5.2, decorator-5.1.1, DendroPy-4.5.2, distlib-0.3.4, docopt-ng-0.8.1, flake8-black-0.3.3, future-0.18.2, h5py-3.7.0, hdf5storage-0.1.18, holoviews-1.14.9, HTSeq-2.0.1, hvplot-0.8.0, ipython-8.4.0, ipywidgets-7.7.0, joblib-1.1.0, kiwisolver-1.3.2, liac-arff-2.5.0, llvmlite-0.38.1, lockfile-0.12.2, lxml-4.9.0, Mako-1.1.6, Markdown-3.3.7, matplotlib-3.5.2, mpi4py-3.1.3, mpmath-1.2.1, NeSI-1.0, netCDF4-1.5.8, networkx-2.8.4, numba-0.55.2, numexpr_fakename-2.8.1, numpy-1.22.4, obspy-1.3.0, openpyxl-3.0.9, pandas-1.4.2, panel-0.13.1, patsy-0.5.2, paycheck-1.0.2, Pillow-9.1.1, pipenv-2022.5.2, plotly-5.8.2, poetry-core-1.0.8, prettytable-3.3.0, psycopg-3.0.15, psycopg2-binary-2.9.3, pudb-2022.1.1, py-spy-0.3.11, Py6S-1.9.1, pybedtools-0.9.0, pyct-0.4.8, PYPIpybind11-2.9.2, pysam-0.19.1, pysolar-0.10, pytest-7.1.2, python-dateutil-2.8.2, pythran-0.11.0, pytz_deprecation_shim-0.1.0.post0, pyviz_comms-2.2.0, qutip-4.7.0, reportlab-3.6.9, requests-2.27.1, rich-12.4.4, scalene-1.5.8, scikit-bio-0.5.7, scikit-image-0.19.2, scikit-learn-1.1.1, scipy-1.8.1, seaborn-0.11.2, six-1.16.0, SQLAlchemy-1.4.28, statsmodels-0.13.2, streamlit-1.10.0, sympy-1.10.1, tabulate-0.8.9, tqdm-4.64.0, tzdata-2022.1, tzlocal-4.2, virtualenv-20.14.1, wheel-0.37.1, xarray-2022.3.0, xlrd-2.0.1",
         "force_hide": "False",
         "force_show": "False",
@@ -12660,9 +12391,7 @@
     "Python-GPU": {
         "default": "",
         "description": "The python packages which depend on CUDA: pycuda, pygpu, and scikit-cuda.",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": "pycuda-2017.1.1, pygpu-0.7.4, scikit-cuda-0.5.1",
         "force_hide": "False",
         "force_show": "False",
@@ -12686,9 +12415,7 @@
     "Python-Geo": {
         "default": "",
         "description": "Python packages for geospatial data I/O, mostly based on the OSGEO libraries GDAL and OGR",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": "affine-2.4.0, cligj-0.7.2, descartes-1.1.0, eccodes-1.5.2, findlibs-0.0.2, Fiona-1.9.3, GDAL-3.6.3, geopandas-0.12.2, munch-2.5.0, pygeos-0.14, pygrib-2.1.4, pyogrio-0.5.1, pyproj-3.5.0, rasterio-1.3.6, rios-1.4.15, shapely-2.0.1",
         "force_hide": "False",
         "force_show": "False",
@@ -12721,15 +12448,13 @@
     "QChem": {
         "default": "",
         "description": "",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
         "homepage": "",
         "http": "//www.q-chem.com",
-        "licence_type": "proprietary",
+        "licence_type": "",
         "licences": [],
         "link_output_dictride": "",
         "machines": {
@@ -12753,9 +12478,7 @@
     "QIIME2": {
         "default": "",
         "description": "An open-source bioinformatics pipeline for microbiome analysis",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12787,9 +12510,7 @@
     "QUAST": {
         "default": "",
         "description": "Evaluates genome assemblies",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": "QUAST-5.2.0, simplejson-3.17.2",
         "force_hide": "False",
         "force_show": "False",
@@ -12852,9 +12573,7 @@
     "QuantumESPRESSO": {
         "default": "",
         "description": "Quantum ESPRESSO  is an integrated suite of computer codes",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -12907,12 +12626,7 @@
     "R": {
         "default": "",
         "description": "R is a free software environment for statistical computing and graphics.",
-        "domains": [
-            "data_analytics",
-            "language",
-            "machine_learning",
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": "abind-1.4-5, acepack-1.4.1, akima-0.6-2, ape-5.3, askpass-1.1, assertthat-0.2.1, assertthat-0.2.1, b-a, backports-1.1.4, base64-2.0, base64enc-0.1-3, BB-2014.10-1, BBmisc-1.11, beanplot-1.2, BH-1.69.0-1, BiasedUrn-1.07, bibtex-0.4.2, bindr-0.1.1, bindrcpp-0.2.2, bit-1.1-14, bit64-0.9-7, bitops-1.0-6, blob-1.2.0, boot-1.3-23, boot-1.3-23, brew-1.0-6, brglm-0.6.2, broom-0.5.2, c-o, callr-3.3.0, car-3.0-3, carData-3.0-2, caTools-1.17.1.2, cellranger-1.1.0, checkmate-1.9.4, chron-2.3-53, class-7.3-15, classInt-0.3-3, cli-1.1.0, clipr-0.6.0, cluster-2.1.0, coda-0.19-3, codetools-0.2-16, colorspace-1.4-1, corpcor-1.6.9, crayon-1.3.4, crayon-1.3.4, crosstalk-1.0.0, crs-0.15-31, cubature-2.0.3, curl-3.3, d-a, data.table-1.12.2, DBI-1.0.0, deldir-0.1-22, DEoptimR-1.0-8, desc-1.2.0, deSolve-1.24, dichromat-2.0-0, digest-0.6.20, dismo-1.1-4, doMPI-0.2.2, doParallel-1.0.14, doRNG-1.7.1, dotCall64-1.0-0, dplyr-0.8.3, e1071-1.7-2, ellipse-0.4.1, ellipsis-0.2.0.1, ellipsis-0.2.0.1, evaluate-0.14, expm-0.999-4, fail-1.3, fansi-0.4.0, fastcluster-1.1.25, fastICA-1.2-2, fastmatch-1.1-0, ff-2.2-14, float-0.2-3, FNN-1.1.3, forcats-0.4.0, foreach-1.4.4, foreign-0.8-71, formatR-1.7, Formula-1.2-3, futile.logger-1.4.3, futile.options-1.0.1, g-r, g-r, g-r, gam-1.16.1, gamlss.data-5.1-4, gamlss.dist-5.1-4, gbm-2.1.5, gdata-2.18.0, generics-0.0.2, getopt-1.20.3, ggplot2-3.2.0, glmmML-1.1.0, glmnet-2.0-18, glue-1.3.1, glue-1.3.1, gmodels-2.18.1, goftest-1.1-1, gplots-3.0.1.1, gridBase-0.4-7, gridExtra-2.3, gsalib-2.1, gtable-0.3.0, gtools-3.8.1, haven-2.1.1, highr-0.8, Hmisc-4.2-0, hms-0.5.0, htmlTable-1.13.1, htmltools-0.3.6, htmlwidgets-1.3, httpuv-1.5.1, httr-1.4.0, hwriter-1.3.2, igraph-1.2.4.1, inline-0.3.15, intervals-0.15.1, irace-3.3, irlba-2.3.3, iterators-1.0.10, jomo-2.6-8, jsonlite-1.6, KernSmooth-2.23-15, knitr-1.23, labeling-0.3, lambda.r-1.2.3, later-0.8.0, lattice-0.20-38, latticeExtra-0.6-28, lazyeval-0.2.2, LearnBayes-2.15.1, lme4-1.1-21, lmtest-0.9-37, locfit-1.5-9.1, logistf-1.23, logspline-2.1.13, loo-2.1.0, lpSolve-5.6.13.1, m-e, magrittr-1.5, manipulateWidget-0.10.0, maptools-0.9-5, markdown-1.0, MASS-7.3-51.4, Matrix-1.2-17, MatrixModels-0.4-1, matrixStats-0.54.0, mclust-5.4.5, memoise-1.1.0, mgcv-1.8-28, mice-3.6.0, mime-0.7, miniUI-0.1.1.1, minqa-1.2.4, mitml-0.3-7, mitools-2.4, mnormt-1.5-5, munsell-0.5.0, mvtnorm-1.0-11, neuRosim-0.2-12, nleqslv-3.3.2, nlme-3.1-140, nloptr-1.2.1, NMF-0.21.0, nnet-7.3-12, nnls-1.4, nor1mix-1.3-0, np-0.60-9, numDeriv-2016.8-1.1, openssl-1.4, openxlsx-4.1.0.1, optparse-1.6.2, ordinal-2019.4-25, p-a, pan-1.6, pbdMPI-0.3-9, pbkrtest-0.4-7, penalized-0.9-51, perm-1.0-0.0, permute-0.9-5, phangorn-2.5.5, pillar-1.4.2, pkgbuild-1.0.3, pkgconfig-2.0.2, pkgmaker-0.27, plogr-0.2.0, plyr-1.8.4, png-0.1-7, polyclip-1.10-0, prettyunits-1.0.2, processx-3.4.0, profileModel-0.6.0, profvis-0.3.6, progress-1.2.2, promises-1.0.1, proto-1.0.0, ps-1.3.0, pscl-1.5.2, purrr-0.3.2, quadprog-1.5-7, quantreg-5.42, R.methodsS3-1.7.1, R.oo-1.22.0, R2OpenBUGS-3.2-3.2, R6-2.4.0, R6-2.4.0, RandomFields-3.3.6, RandomFieldsUtils-0.5.3, randomForest-4.6-14, rARPACK-0.11-0, raster-2.9-23, RColorBrewer-1.1-2, Rcpp-1.0.1, RcppArmadillo-0.9.600.4.0, RcppEigen-0.3.3.5.0, RCurl-1.95-4.12, readr-1.3.1, readxl-1.3.1, registry-0.5-1, rematch-1.0.1, reshape-0.8.8, reshape2-1.4.3, rgl-0.100.26, rio-0.5.16, rJava-0.9-11, rlang-0.4.0, rlecuyer-0.3-4, Rmpi-0.6-6, rngtools-1.4, robustbase-0.93-5, rpart-4.1-15, rprojroot-1.3-2, RSpectra-0.15-0, RSQLite-2.1.1, rstan-2.19.2, rstudioapi-0.10, s-p, s-t, s-t, sandwich-2.5-1, scales-1.0.0, sendmailR-1.2-1, sfsmisc-1.1-4, shiny-1.3.2, snow-0.3-13, snowfall-1.84-6.1, sourcetools-0.1.7, sp-1.3-1, spam-2.2-2, SparseM-1.77, spatial-7.3-11, spatstat-1.58-2, spatstat.data-1.4-0, spatstat.utils-1.13-0, spData-0.3.0, spgrass6-0.8-9, splancs-2.01-40, StanHeaders-2.18.1-10, stringi-1.3.1, stringr-1.4.0, survey-3.36, survival-2.43-3, sys-3.2, t-o, tensor-1.5, tibble-2.1.3, tidyr-0.8.3, tidyselect-0.2.5, tseriesChaos-0.1-13.1, u-t, ucminf-1.1-4, utf8-1.1.4, vcd-1.4-4, vctrs-0.2.0, vegan-2.5-5, VGAM-1.1-1, viridis-0.5.1, viridisLite-0.3.0, waveslim-1.7.5.1, webshot-0.5.1, withr-2.1.2, xfun-0.8, XML-3.98-1.20, xtable-1.8-4, xts-0.11-2, yaml-2.2.0, zeallot-0.1.0, zip-2.0.3, zoo-1.8-6",
         "force_hide": "False",
         "force_show": "False",
@@ -13040,9 +12754,7 @@
     "RAxML": {
         "default": "",
         "description": "RAxML search algorithm for maximum likelihood based inference of phylogenetic trees.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13121,9 +12833,7 @@
     "RECON": {
         "default": "",
         "description": "De novo identification and classification of repeat sequence families from genomic sequences",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13149,9 +12859,7 @@
     "RMBlast": {
         "default": "",
         "description": "RMBlast supports RepeatMasker searches by adding a few necessary features to the stock NCBI blastn program. These include:",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13254,9 +12962,7 @@
     "RSEM": {
         "default": "",
         "description": "Estimates gene and isoform expression levels from RNA-Seq data",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13283,9 +12989,7 @@
     "RSGISLib": {
         "default": "",
         "description": "The Remote Sensing and GIS software library (RSGISLib) is a",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13442,9 +13146,7 @@
     "Relion": {
         "default": "",
         "description": "RELION (for REgularised LIkelihood OptimisatioN, pronounce rely-on)",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13471,9 +13173,7 @@
     "RepeatMasker": {
         "default": "",
         "description": "Screens DNA sequences for interspersed repeats and low complexity DNA sequences.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13528,9 +13228,7 @@
     "RepeatScout": {
         "default": "",
         "description": "De novo identification of repeat families in large genomes",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13630,9 +13328,7 @@
     "Rstudio": {
         "default": "",
         "description": "RStudio is a set of integrated tools designed to help you be more productive with R.",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13662,9 +13358,7 @@
     "Ruby": {
         "default": "",
         "description": "Ruby is a dynamic, open source programming language with",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": "activesupport-5.2.6, addressable-2.8.0, arr-pm-0.0.11, backports-3.23.0, bundler-2.3.5, cabin-0.9.0, childprocess-4.1.0, clamp-1.3.2, concurrent-ruby-1.1.9, connection_pool-2.2.5, diff-lcs-1.5.0, ethon-0.15.0, faraday-1.0.0, faraday-net_http-2.0.1, faraday_middleware-1.2.0, ffi-1.15.5, gh-0.18.0, highline-2.0.3, i18n-1.8.11, json-2.6.1, launchy-2.5.0, minitest-5.15.0, multi_json-1.15.0, multipart-post-2.1.1, mustermann-1.1.1, net-http-persistent-2.9.4, net-http-pipeline-1.0.1, public_suffix-4.0.6, pusher-client-0.6.2, rack-2.2.3, rack-protection-2.1.0, rack-test-1.1.0, rspec-3.10.0, rspec-core-3.10.1, rspec-expectations-3.10.1, rspec-mocks-3.10.2, rspec-support-3.10.3, ruby2_keywords-0.0.5, sinatra-2.1.0, thread_safe-0.3.6, tilt-2.0.10, typhoeus-1.4.0, tzinfo-1.1.0, websocket-1.2.9, zeitwerk-2.5.3",
         "force_hide": "False",
         "force_show": "False",
@@ -13744,9 +13438,7 @@
     "SAMtools": {
         "default": "",
         "description": "Samtools is a suite of programs for interacting with high-throughput sequencing data.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -13816,9 +13508,7 @@
     "SCOTCH": {
         "default": "",
         "description": "Software package and libraries for sequential and parallel graph partitioning, static mapping, and sparse matrix block ordering, and sequential mesh and hypergraph partitioning.",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14095,9 +13785,7 @@
     "SOAPdenovo2": {
         "default": "",
         "description": "Short Oligonucleotide Analysis Package - novel short-read assembly",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14147,9 +13835,7 @@
     "SPAdes": {
         "default": "",
         "description": "Genome assembler for single-cell and isolates data sets",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14179,9 +13865,7 @@
     "SPECFEM3D": {
         "default": "",
         "description": "SPECFEM3D Cartesian simulates acoustic (fluid), elastic (solid), coupled acoustic/elastic, poroelastic or seismic wave propagation in any type of conforming mesh of hexahedra (structured or not.) It can, for instance, model seismic waves propagating in sedimentary basins or any other regional geological model following earthquakes. It can also be used for non-destructive testing or for ocean acoustics.",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14321,9 +14005,7 @@
     "STAR": {
         "default": "",
         "description": "Fast universal RNA-seq aligner",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14377,9 +14059,7 @@
     "SUNDIALS": {
         "default": "",
         "description": "SUNDIALS: SUite of Nonlinear and DIfferential/ALgebraic Equation Solvers",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14464,9 +14144,7 @@
     "Salmon": {
         "default": "",
         "description": "Salmon is a wicked-fast program to produce a highly-accurate,",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14498,9 +14176,7 @@
     "Sambamba": {
         "default": "",
         "description": "Tools for working with SAM/BAM data",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14729,9 +14405,7 @@
     "Siesta": {
         "default": "",
         "description": "SIESTA is both a method and its computer program implementation, to perform efficient electronic",
-        "domains": [
-            "physics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14880,9 +14554,7 @@
     "SortMeRNA": {
         "default": "",
         "description": "SortMeRNA is a biological sequence analysis tool for filtering, mapping and OTU-picking NGS reads.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -14909,9 +14581,7 @@
     "SourceTracker": {
         "default": "",
         "description": "SourceTracker is a Bayesian approach to estimating the proportion of a novel community that comes",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15017,9 +14687,7 @@
     "Stacks": {
         "default": "",
         "description": "Stacks is a software pipeline for building loci from short-read sequences, such as those generated on",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15103,9 +14771,7 @@
     "Subread": {
         "default": "",
         "description": "High performance read alignment, quantification and mutation discovery",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15223,9 +14889,7 @@
     "Supernova": {
         "default": "",
         "description": "Supernova is a software package for de novo assembly from Chromium Linked-Reads",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15390,9 +15054,7 @@
     "Tcl": {
         "default": "",
         "description": "Tcl (Tool Command Language) is a very powerful but easy to learn dynamic programming language,",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15429,9 +15091,7 @@
     "TensorFlow": {
         "default": "",
         "description": "An open-source software library for Machine Intelligence",
-        "domains": [
-            "machine_learning"
-        ],
+        "domains": [],
         "extensions": "absl-py-1.2.0, astunparse-1.6.3, flatbuffers-2.0, google-auth-2.10.0, google-auth-oauthlib-0.4.6, google-pasta-0.2.0, grpcio-1.47.0, keras-2.8.0, Keras_Preprocessing-1.1.2, libclang-14.0.6, oauthlib-3.2.0, opt_einsum-3.3.0, protobuf-3.17.3, pyasn1-0.4.8, pyasn1-modules-0.2.8, requests-oauthlib-1.3.1, rsa-4.9, tensorboard-2.8.0, tensorboard_data_server-0.6.1, tensorboard_plugin_wit-1.8.1, TensorFlow-2.8.2, tensorflow_estimator-2.8.0, termcolor-1.1.0, Werkzeug-2.2.2, wrapt-1.14.1",
         "force_hide": "False",
         "force_show": "False",
@@ -15542,9 +15202,7 @@
     "TopHat": {
         "default": "",
         "description": "TopHat is a fast splice junction mapper for RNA-Seq reads.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15667,9 +15325,7 @@
     "TrimGalore": {
         "default": "",
         "description": "A wrapper of FastQC and cutadapt to automate quality and adapter trimming",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15720,9 +15376,7 @@
     "Trinity": {
         "default": "",
         "description": "Trinity represents a novel method for the efficient and robust de novo reconstruction",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15806,9 +15460,7 @@
     "TuiView": {
         "default": "",
         "description": "TuiView is a lightweight raster GIS with powerful raster attribute table manipulation",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15889,9 +15541,7 @@
     "UDUNITS": {
         "default": "",
         "description": "UDUNITS supports conversion of unit specifications between formatted and binary forms,  arithmetic manipulation of units, and conversion of values between compatible scales of measurement.",
-        "domains": [
-            "physics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -15984,9 +15634,7 @@
     "VASP": {
         "default": "",
         "description": "The Vienna Ab initio Simulation Package (VASP) is a computer program for atomic scale materials modelling, e.g. electronic structure calculations and quantum-mechanical molecular dynamics, from first principles.",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16057,9 +15705,7 @@
     "VCFtools": {
         "default": "",
         "description": "The aim of VCFtools is to provide",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16189,9 +15835,7 @@
     "VSEARCH": {
         "default": "",
         "description": "An open source alternative to the metagenomics tool USEARCH.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16219,9 +15863,7 @@
     "VTK": {
         "default": "",
         "description": "The Visualization Toolkit (VTK) is an open-source, freely available software system for  3D computer graphics, image processing and visualization. VTK consists of a C++ class library and several  interpreted interface layers including Tcl/Tk, Java, and Python. VTK supports a wide variety of visualization  algorithms including: scalar, vector, tensor, texture, and volumetric methods; and advanced modeling techniques  such as: implicit modeling, polygon reduction, mesh smoothing, cutting, contouring, and Delaunay triangulation.",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16343,9 +15985,7 @@
     "Velvet": {
         "default": "",
         "description": "Sequence assembler for very short reads",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16395,9 +16035,7 @@
     "ViennaRNA": {
         "default": "",
         "description": "The Vienna RNA Package consists of a C code library and several",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16531,9 +16169,7 @@
     "VisIt": {
         "default": "",
         "description": "VisIt is an Open Source, interactive, scalable, visualization, animation and analysis tool.  This version supports interactive CPU-only rendering with the VisIt GUI using the Mesa library. It does not support GPU rendering.  Use the GALLIUM_DRIVER environment variable to choose a software renderer, it is recommended to use  GALLIUM_DRIVER=swr  for best performance.",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16608,9 +16244,7 @@
     "Wise2": {
         "default": "",
         "description": "Aligning proteins or protein HMMs to DNA",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16635,9 +16269,7 @@
     "XCONV": {
         "default": "",
         "description": "Xconv is a program designed to convert model output into a format suitable for use in various plotting packages. Xconv is designed to be simple to use with a point and click, windows based interface.",
-        "domains": [
-            "visualisation"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16913,9 +16545,7 @@
     "Yasm": {
         "default": "",
         "description": "Yasm: Complete rewrite of the NASM assembler with BSD license",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -16999,9 +16629,7 @@
     "Zonation": {
         "default": "",
         "description": "Spatial conservation prioritisation framework for large-scale conservation planning.",
-        "domains": [
-            "earth_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -17025,9 +16653,7 @@
     "angsd": {
         "default": "",
         "description": "Program for analysing NGS data.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -17362,9 +16988,7 @@
     "bcl2fastq2": {
         "default": "",
         "description": "bcl2fastq Conversion Software both demultiplexes data and converts BCL files generated by",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -17484,9 +17108,7 @@
     "blasr_libcpp": {
         "default": "",
         "description": "Blasr_libcpp is a library used by blasr and other executables such as samtoh5, loadPulses for",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -17839,9 +17461,7 @@
     "ctffind": {
         "default": "",
         "description": "ctffind is a program for finding CTFs of electron micrographs",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -17914,9 +17534,7 @@
     "cutadapt": {
         "default": "",
         "description": "cutadapt removes adapter sequences",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": "cutadapt-4.1, dnaio-0.9.1, isal-1.0.1, setuptools_scm-7.0.5, xopen-1.6.0",
         "force_hide": "False",
         "force_show": "False",
@@ -18439,9 +18057,7 @@
     "exonerate": {
         "default": "",
         "description": "Generic tool for pairwise sequence comparison",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -18511,9 +18127,7 @@
     "fastStructure": {
         "default": "",
         "description": "fastStructure is an algorithm for inferring population structure from large SNP genotype data. It is based on a variational Bayesian framework for posterior inference and is written in Python2.x.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -18691,9 +18305,7 @@
     "flex": {
         "default": "",
         "description": "Flex (Fast Lexical Analyzer) is a tool for generating scanners. A scanner,  sometimes called a tokenizer, is a program which recognizes lexical patterns  in text.",
-        "domains": [
-            "social_science"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -19830,10 +19442,7 @@
     "imkl": {
         "default": "",
         "description": "Intel oneAPI Math Kernel Library",
-        "domains": [
-            "engineering",
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -20250,9 +19859,7 @@
     "kallisto": {
         "default": "",
         "description": "kallisto is a program for quantifying abundances of transcripts from RNA-Seq data, or more generally",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -20797,9 +20404,7 @@
     "libgpuarray": {
         "default": "",
         "description": "Arrays on GPU device memory, for Theano",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -20922,9 +20527,7 @@
     "libmatheval": {
         "default": "",
         "description": "GNU libmatheval is a library (callable from C and Fortran) to parse",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -21210,9 +20813,7 @@
     "libxc": {
         "default": "",
         "description": "Libxc is a library of exchange-correlation functionals for density-functional theory.  The aim is to provide a portable, well tested and reliable set of exchange and correlation functionals.",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -21319,9 +20920,7 @@
     "libxsmm": {
         "default": "",
         "description": "LIBXSMM is a library for small dense and small sparse matrix-matrix multiplications",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -21427,9 +21026,7 @@
     "lp_solve": {
         "default": "",
         "description": "Mixed Integer Linear Programming (MILP) solver",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -22022,9 +21619,7 @@
     "muParser": {
         "default": "",
         "description": "muParser is an extensible high performance math expression",
-        "domains": [
-            "mathematics"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -22215,9 +21810,7 @@
     "ncbi-vdb": {
         "default": "",
         "description": "The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -22589,9 +22182,7 @@
     "nodejs": {
         "default": "",
         "description": "Node.js is a platform built on Chrome's JavaScript runtime  for easily building fast, scalable network applications. Node.js uses an  event-driven, non-blocking I/O model that makes it lightweight and efficient,  perfect for data-intensive real-time applications that run across distributed devices.",
-        "domains": [
-            "language"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -22627,9 +22218,7 @@
     "nseg": {
         "default": "",
         "description": "Used to mask nucleic acid sequences",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23024,9 +22613,7 @@
     "picard": {
         "default": "",
         "description": "A set of tools (in Java) for working with next generation sequencing data in the BAM format.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23131,9 +22718,7 @@
     "pplacer": {
         "default": "",
         "description": "Places query sequences on a fixed reference phylogenetic tree",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23260,9 +22845,7 @@
     "proovread": {
         "default": "",
         "description": "PacBio hybrid error correction through iterative short read consensus",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23624,9 +23207,7 @@
     "rDock": {
         "default": "",
         "description": "rDock is a fast and versatile Open Source docking program that",
-        "domains": [
-            "chemistry"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23878,9 +23459,7 @@
     "samblaster": {
         "default": "",
         "description": "samblaster is a fast and flexible program for marking duplicates in read-id grouped paired-end SAM files.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23956,9 +23535,7 @@
     "seqmagick": {
         "default": "",
         "description": "Seqmagick is a utility built in the spirit of imagemagick to expose the",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -23985,9 +23562,7 @@
     "seqtk": {
         "default": "",
         "description": "Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -24244,9 +23819,7 @@
     "snpEff": {
         "default": "",
         "description": "SnpEff is a variant annotation and effect prediction tool.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -24431,9 +24004,7 @@
     "sratoolkit": {
         "default": "",
         "description": "The SRA Toolkit, and the source-code SRA System Development",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -24522,9 +24093,7 @@
     "swarm": {
         "default": "",
         "description": "A robust and fast clustering method for amplicon-based studies.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
@@ -24739,9 +24308,7 @@
     "trf": {
         "default": "",
         "description": "Locates tandem repeats in DNA sequences.",
-        "domains": [
-            "biology"
-        ],
+        "domains": [],
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
