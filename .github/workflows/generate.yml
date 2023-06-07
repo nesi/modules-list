@@ -1,4 +1,4 @@
-name: Generate
+name: Generate Combined Software List
 on:
   push:
     branches: 
