@@ -1,0 +1,15 @@
+site_name: Supported Applications
+extra_css:
+    - supportedApplications.css
+extra_javascript:
+    - https://code.jquery.com/jquery-3.7.0.min.js
+    - supportedApplications.js
+theme:
+  name: material
+  custom_dir: overrides
+hooks: 
+    - load_data.py
+markdown_extensions:
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true 

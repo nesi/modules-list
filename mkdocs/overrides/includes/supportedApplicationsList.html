@@ -1,0 +1,23 @@
+<div class="article__body markdown" itemprop="articleBody">
+  <div class="layoutrow">
+        <h2>Application List</h2>
+        <div id="updated" style="display: flex;">Updated:&nbsp;<div id="updated_timestamp">time</div></div>
+        <div class="input-group mb-3">
+            <div class="input-group-prepend">
+                <span class="input-group-text" id="basic-addon1" style="font-family: 'FontAwesome'; font-style: normal;"><span class="fas fa-search"></span></span>
+            </div>
+            <input type="text" id="srchbar" onkeyup="srchFunc(event)" class="form-control" placeholder="Search for Applications" aria-label="Application">
+            <div id="srchbar-badge-party"><span id="srchbar-badge-party-domains"></span><span id="srchbar-badge-party-clusters"></span></div>
+        </div>
+        <div class="layoutrow">
+            <div class="article-div">
+                <div id="mainList" class="label_data data-labelsection">
+                {% for application in applications %}
+                    {% include "includes/application.html" %}
+                {% endfor %}
+                </div>
+            </div>
+        </div>
+        <br>
+    </div>
+</div>
