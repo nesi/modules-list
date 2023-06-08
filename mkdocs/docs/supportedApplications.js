@@ -53,9 +53,10 @@ function removeFilter(self) {
 function srchFunc(event) {
     // Function called whenever search field edited.
     //Consider replacing with Fuse, if fuzzy or faster search needed.
-
     // Check if search string matches canon domain.
-    string_normal = $('#srchbar')[0].value.toLowerCase()
+    string_normal = $('#srchbar')[0].value.toLowerCase();
+    console.log(`Calling Search Function ${string_normal}`);
+
     if (event == undefined || event.key == " " || event.key == "Enter") {
         canon_domains.forEach((domain) => {
             match_pos = string_normal.search(domain.replace('_', ' '));
@@ -102,6 +103,7 @@ function filterSearch() {
         // If element matches all contitions, leave visible and skip to next element
         //console.log([matchClasses(element, domain_array), matchClasses(element, cluster_array), (comptxt.toLowerCase().indexOf(string_normal) > -1)]);
         if (matchClasses(element, domain_array) && matchClasses(element, cluster_array) && (comptxt.toLowerCase().indexOf(string_normal) > -1)) {
+            console.log(`${element} is visible`);
             return true
         }
         element.addClass('hide_search'); //Hides element
@@ -122,14 +124,14 @@ function filterSearch() {
     });
 }
 
-function toggleCluster() { // Called by cluster toggle buttons.
-    setTimeout(function () { // Must fire after button state changed. Token timeout.
-        $('.list-group-item-application').addClass('hide_cluster'); // Hide all
-        if ($('.btn-cluster-mahuika').hasClass('active')) { // Is button active.
-            $('.list-group-item-application-mahuika').removeClass('hide_cluster');
-        }
-        if ($('.btn-cluster-maui').hasClass('active')) {
-            $('.list-group-item-application-maui').removeClass('hide_cluster');
-        }
-    }, 1);
-}
+// function toggleCluster() { // Called by cluster toggle buttons.
+//     setTimeout(function () { // Must fire after button state changed. Token timeout.
+//         $('.list-group-item-application').addClass('hide_cluster'); // Hide all
+//         if ($('.btn-cluster-mahuika').hasClass('active')) { // Is button active.
+//             $('.list-group-item-application-mahuika').removeClass('hide_cluster');
+//         }
+//         if ($('.btn-cluster-maui').hasClass('active')) {
+//             $('.list-group-item-application-maui').removeClass('hide_cluster');
+//         }
+//     }, 1);
+// }

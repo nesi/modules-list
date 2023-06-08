@@ -8,11 +8,21 @@
 
 .md-typeset .admonition.software,
 .md-typeset details.software {
-  border-color: rgb(68, 68, 68);
+  margin: 0 0 -1px 0;
+  border-radius: 0;
+  background-color: #fff;
+  border: 1px solid rgb(199, 199, 199);
+  /* Nesting here to increase prio */
+  &.hide_cluster {
+    display: none;
+    }
+  &.hide_search {
+        display: none;
+    }
 }
 .md-typeset .software > .admonition-title,
 .md-typeset .software > summary {
-  background-color: rgba(182, 182, 182, 0.1);
+    background-color: #fff;
 }
 .md-typeset .software > .admonition-title::before,
 .md-typeset .software > summary::before {
@@ -120,12 +130,6 @@ li {
     margin-right: 10px;
     padding-bottom: -20px;
 }
-.hide_cluster {
-    display: none;
-}
-.hide_search {
-    display: none;
-}
 /*badges*/
 .badge{
     margin: 0 0.5em 0 0.5em;
@@ -133,6 +137,8 @@ li {
     line-height: 100%;
     vertical-align: middle;
     cursor: pointer;
+    padding: 0.2em;
+    border-radius: 1pt;
 }
 .badge-closeable > button {
     background-color: transparent;
@@ -142,7 +148,6 @@ li {
     cursor: pointer;
     padding: 0.4em 0.3em 0.3em 0.6em;
     margin: -0.3em;
-
 }
 .badge-closeable > button::after {
     content: " \f057";
@@ -153,7 +158,6 @@ li {
 }
 .badge-cluster {
     float: right;
-    border-radius: 0.4em;
     border-style: double; 
 }
 .badge-cluster-maui {
