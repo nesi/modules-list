@@ -23,8 +23,10 @@ jobs:
       - name: Install dependencies
         run: |
           if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
-      - name: Generate Merge YAML
-        run: python3 .github/workflows/merge.py #2> problems.log
+      - name: Validate YAML here;
+        run: echo TODO
+      - name: Generate Merged YAML
+        run: python3 .github/workflows/merge.py
       - name: Commit to main
         run: |
           git add --all
