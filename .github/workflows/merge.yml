@@ -22,7 +22,7 @@ jobs:
       - name: Validate YAML here;
         run: echo TODO
       - name: Generate Merged YAML
-        run: python3 .github/workflows/merge.py 2> problems.log
+        run: python3 .github/workflows/merge.py
       - name: Commit to main
         run: |
           git add --all
