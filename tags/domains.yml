@@ -250,6 +250,7 @@ visualisation:
   - OSPRay
   - ANSYS
 climate_science: 
+  - WRF
   - ESMF  
   - CDO
 workflow_management:
