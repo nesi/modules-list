@@ -1,7 +1,7 @@
 #!python
 
 import glob
-import ruamel.yaml as YAML
+from ruamel.yaml import YAML
 import json
 import re   
 import sys
