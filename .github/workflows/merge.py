@@ -1,7 +1,7 @@
 #!python
 
 import glob
-import ruamel.yaml as yaml
+import ruamel.yaml as YAML
 import json
 import re   
 import sys
@@ -29,9 +29,11 @@ def main():
 
     modified_modules_path = "module-list.json"
 
+    yaml = YAML(typ='safe') 
+
     for file in glob.glob('tags/*.yml'):
         tag_count = 0
-        tags = yaml.load(open(file), Loader=yaml.BaseLoader)
+        tags = yaml.load(open(file))
         property = re.match(r'^tags/(.*).(yml|yaml)$', file).group(1)
 
         for tag, modules in tags.items():
