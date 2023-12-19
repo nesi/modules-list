@@ -22992,7 +22992,7 @@
         "default": "",
         "description": "File format for storing nanopore dna data in an easily accessible way.",
         "domains": [],
-        "extensions": "iso8601-2.0.0, lib-pod5-0.2.4, more-itertools-10.1.0, pod5-0.3.2, polars-0.17.15, vbz_h5py_plugin-1.0.1",
+        "extensions": "iso8601-2.1.0, lib-pod5-0.3.2, more-itertools-10.1.0, pod5-0.3.2, polars-0.17.15, pyarrow-14.0.1, vbz_h5py_plugin-1.0.1",
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://github.com/nanoporetech/pod5-file-format",
