@@ -1369,7 +1369,6 @@
                 "default": "latest",
                 "versions": [
                     "1.10.4-gimkl-2017a-no-beagle",
-                    "2.4.7",
                     "2.5.2",
                     "2.6.3",
                     "2.6.6",
@@ -2112,7 +2111,6 @@
                 "versions": [
                     "1.55.0-gimkl-2018b",
                     "1.61.0-GCCcore-7.4.0",
-                    "1.61.0-gimkl-2017a-Python-2.7.14",
                     "1.61.0-gimkl-2017a",
                     "1.61.0-gimkl-2018b",
                     "1.61.0-intel-2018b",
@@ -4390,7 +4388,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.3.0-GCC-5.4.0",
                     "3.5.1-GCCcore-7.4.0",
                     "3.12.2-GCCcore-9.2.0"
                 ]
@@ -5230,10 +5227,8 @@
                 "versions": [
                     "3.5-Java-1.8.0_144",
                     "3.5-Java-15.0.2",
-                    "3.7",
                     "3.8-1",
                     "4.0.11.0-gimkl-2018b",
-                    "4.1.0.0-gimkl-2017a",
                     "4.1.4.1-gimkl-2018b",
                     "4.1.8.1-gimkl-2020a",
                     "4.2.5.0-gimkl-2020a",
@@ -10502,7 +10497,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1.6.1-GCC-5.4.0",
                     "1.8.2-GCCcore-7.4.0"
                 ]
             },
@@ -12010,7 +12004,6 @@
                 "default": "latest",
                 "versions": [
                     "2.7.16-gimkl-2018b",
-                    "3.6.3-gimkl-2017a",
                     "3.7.3-gimkl-2018b",
                     "3.8.2-gimkl-2020a",
                     "3.9.5-gimkl-2020a",
@@ -13302,7 +13295,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "4.19.2-gimkl-2017a-Python-3.6.3",
                     "4.19.8-gimkl-2018b-Python-3.7.3",
                     "4.19.8-gimkl-2020a-Python-3.8.2",
                     "4.19.15-gimkl-2018b-Python-3.7.3",
@@ -15269,7 +15261,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "90.3",
                     "103.1-GCC-9.2.0-Perl-5.30.1",
                     "104.3-GCC-9.2.0-Perl-5.30.1",
                     "107.0-GCC-11.3.0-Perl-5.34.1"
@@ -19551,7 +19542,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "9.0.0-GCC-5.4.0",
                     "9.0.0-GCCcore-7.4.0",
                     "9.0.1-GCCcore-9.2.0"
                 ]
@@ -21867,7 +21857,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.4.4",
                     "3.6.0",
                     "4.2.2",
                     "4.5.3",
