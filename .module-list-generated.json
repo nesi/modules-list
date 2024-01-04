@@ -1269,6 +1269,30 @@
         "support": "",
         "url": "http://vina.scripps.edu/index.html"
     },
+    "Autoconf-archive": {
+        "default": "",
+        "description": "A collection of more than 500 macros for GNU Autoconf",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://www.gnu.org/software/autoconf-archive",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "2023.02.20"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://www.gnu.org/software/autoconf-archive"
+    },
     "BBMap": {
         "default": "",
         "description": "BBMap short read aligner, and other bioinformatic tools.",
@@ -6262,14 +6286,16 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.3.1-gimkl-2017a"
+                    "2.3.1-gimkl-2017a",
+                    "3.2.2-gimkl-2022a-Python-3.10.5"
                 ]
             }
         },
         "module_path": "",
         "modulefile_text": "",
         "network_licences": [],
-        "support": ""
+        "support": "",
+        "url": "https://sanger-pathogens.github.io/gubbins/"
     },
     "Guile": {
         "default": "",
