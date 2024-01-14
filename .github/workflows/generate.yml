@@ -28,7 +28,13 @@ jobs:
         run: echo TODO
       - name: Generate Merged YAML
         run: python3 .github/workflows/merge.py
+      - name: Check if changes
+        id: changes
+        run: |
+          git add --all
+          echo ::set-output name=diff::$(git diff --quiet)
       - name: Commit to main
+        if: steps.changes.outputs.diff != 0
         run: |
           git add --all
           git commit --allow-empty -m "Automated merge"
