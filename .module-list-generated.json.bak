@@ -6757,7 +6757,6 @@
         "force_show": "False",
         "homepage": "http://www.harrisgeospatial.com/SoftwareTechnology/IDL.aspx",
         "licence_type": "",
-        "licences": [],
         "link_output_dictride": "",
         "machines": {
             "maui_ancil": {
@@ -7029,7 +7028,10 @@
                 "default": "latest",
                 "versions": [
                     "5.51-85.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2",
-                    "5.61-93.0-gimkl-2022aPerl-5.34.1-Python-3.11.3"
+                    "5.61-93.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
+                    "5.62-94.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
+                    "5.63-95.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
+                    "5.64-96.0-gimkl-2022aPerl-5.34.1-Python-3.11.3"
                 ]
             }
         },
@@ -16857,7 +16859,8 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "0.2.2-gimkl-2022a"
+                    "0.2.2-gimkl-2022a",
+                    "0.2.5-gimkl-2022a"
                 ]
             }
         },
@@ -18685,7 +18688,6 @@
         "force_show": "False",
         "homepage": "https://github.com/brentp/gsort",
         "licence_type": "",
-        "licences": [],
         "link_output_dictride": "",
         "machines": {
             "mahuika": {
@@ -20782,7 +20784,8 @@
                     "1.4.3-Miniconda3-4.10.3",
                     "1.6.0-Miniconda3-4.12.0",
                     "1.7.2-Miniconda3-22.11.1-1",
-                    "1.8.0-Miniconda3-22.11.1-1"
+                    "1.8.0-Miniconda3-22.11.1-1",
+                    "1.11.1-Miniconda3-22.11.1-1"
                 ]
             }
         },
@@ -23136,6 +23139,30 @@
         "support": "",
         "url": "https://github.com/lh3/seqtk/"
     },
+    "shrinkwrap": {
+        "default": "",
+        "description": "A std::streambuf wrapper for compression formats.",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/jonathonl/shrinkwrap",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "1.2.0-GCC-11.3.0"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/jonathonl/shrinkwrap"
+    },
     "shumlib": {
         "default": "",
         "description": "Shumlib is the collective name for a set of libraries which are used by the UM; the UK Met Office's Unified Model, that may be of use to external tools or applications where identical functionality is desired. The hope of the project is to enable developers to quickly and easily access parts of the UM code that are commonly duplicated elsewhere, at the same time benefiting from any improvements or optimisations that might be made in support of the UM itself.",
@@ -23279,7 +23306,6 @@
         "force_show": "False",
         "homepage": "https://github.com/bcgsc/LongStitch",
         "licence_type": "",
-        "licences": [],
         "link_output_dictride": "",
         "machines": {
             "mahuika": {
