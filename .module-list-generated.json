@@ -16859,7 +16859,8 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "0.2.2-gimkl-2022a"
+                    "0.2.2-gimkl-2022a",
+                    "0.2.5-gimkl-2022a"
                 ]
             }
         },
