@@ -32,7 +32,7 @@ jobs:
         id: changes
         run: |
           git add --all
-          echo ::set-output name=diff::$(git diff --quiet)
+          echo "{diff}={$(git diff --quiet)}" >> $GITHUB_OUTPUT
       - name: Commit to main
         if: steps.changes.outputs.diff != 0
         run: |
