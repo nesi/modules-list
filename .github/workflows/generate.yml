@@ -33,7 +33,7 @@ jobs:
         run: |
           git add --all
           git status
-          echo "{diff}={$(git diff --quiet)}" >> $GITHUB_OUTPUT
+          echo "{diff}={$(git diff --cached --quiet)}" >> $GITHUB_OUTPUT
       - name: Commit to main
         if: steps.changes.outputs.diff != 0
         run: |
