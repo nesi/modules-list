@@ -33,9 +33,9 @@ jobs:
         run: |
           git add --all
           git status
-          echo "{diff}={$(git diff --cached --quiet)}" >> $GITHUB_OUTPUT
+          git diff --cached --quiet &&  echo "There are no changes." || ( echo "There are changes" && echo "{diff}={1}" >> $GITHUB_OUTPUT )
       - name: Commit to main
-        if: steps.changes.outputs.diff != 0
+        if: steps.changes.outputs.diff == 1
         run: |
           git commit --allow-empty -m "Automated merge"
           git checkout main
