@@ -35,8 +35,9 @@ jobs:
           git status
           git diff --cached --quiet &&  echo "There are no changes." || ( echo "There are changes" && echo "{diff}={1}" >> $GITHUB_OUTPUT )
       - name: Commit to main
-        if: steps.changes.outputs.diff == 1
+        # if: steps.changes.outputs.diff == 1
         run: |
+          echo {{ steps.changes.outputs.diff }}
           git commit --allow-empty -m "Automated merge"
           git checkout main
           git merge -X 'theirs' -v ${GITHUB_REF##*/}
