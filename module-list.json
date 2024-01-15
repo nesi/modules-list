@@ -533,23 +533,6 @@
                 "server_polling": true,
                 "server_type": "FLEXlm",
                 "server_version": ""
-            },
-            {
-                "allowed_clusters": [
-                    "mahuika",
-                    "maui",
-                    "maui_ancil"
-                ],
-                "faculty_long": "",
-                "faculty_short": "",
-                "features": [],
-                "institution": "orbis",
-                "institution_long": "Orbis Diagnostics",
-                "institution_short": "",
-                "licence_contact": "",
-                "server_polling": true,
-                "server_type": "FLEXlm",
-                "server_version": ""
             }
         ],
         "support": "",
