@@ -31,15 +31,13 @@ jobs:
       - name: Check if changes
         id: changes
         run: |
-          git status
           git add --all
+          git status
           echo "{diff}={$(git diff --quiet)}" >> $GITHUB_OUTPUT
       - name: Commit to main
         if: steps.changes.outputs.diff != 0
         run: |
-          git add --all
           git commit --allow-empty -m "Automated merge"
-          git status
           git checkout main
           git merge -X 'theirs' -v ${GITHUB_REF##*/}
           git push -v -f origin main
