@@ -31,6 +31,7 @@ jobs:
       - name: Check if changes
         id: changes
         run: |
+          git status
           git add --all
           echo "{diff}={$(git diff --quiet)}" >> $GITHUB_OUTPUT
       - name: Commit to main
