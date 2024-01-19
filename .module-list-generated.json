@@ -9395,6 +9395,30 @@
         "support": "",
         "url": "https://github.com/agshumate/Liftoff"
     },
+    "ModelTest-NG": {
+        "default": "",
+        "description": "Tool for selecting the best-fit model of evolution for DNA and protein alignments.",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/ddarriba/modeltest",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "0.1.7-gompi-2022a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/ddarriba/modeltest"
+    },
     "Molcas": {
         "default": "",
         "description": "Molcas is an ab initio quantum chemistry software package",
