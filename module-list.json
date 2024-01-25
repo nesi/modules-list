@@ -1459,6 +1459,30 @@
         "support": "",
         "url": "http://suncat.stanford.edu/facility/software/functional"
     },
+    "BGC-Bayesian-genomic-clines": {
+        "default": "",
+        "description": "Collection of code for Bayesian genomic cline analyses.",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/zgompert/BGC-Bayesian-genomic-clines",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "1.03-gompi-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/zgompert/BGC-Bayesian-genomic-clines"
+    },
     "BLAST": {
         "default": "",
         "description": "Basic Local Alignment Search Tool, or BLAST, is an algorithm",
@@ -5873,7 +5897,8 @@
                     "2.4-iccifort-2018.1.163-GCC-7.4.0",
                     "2.6-GCCcore-9.2.0",
                     "2.6",
-                    "2.7-GCC-11.3.0"
+                    "2.7-GCC-11.3.0",
+                    "2.7-GCC-12.3.0"
                 ]
             },
             "maui_ancil": {
@@ -9423,6 +9448,54 @@
         "network_licences": [],
         "support": "",
         "url": "https://microbiology.se/software/metaxa2/"
+    },
+    "MiMiC": {
+        "default": "",
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://gitlab.com/MiMiC-projects",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "0.2.0-gimkl-2022a-Python-3.11.3"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://gitlab.com/MiMiC-projects"
+    },
+    "MiMiC-CommLib": {
+        "default": "",
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://gitlab.com/MiMiC-projects",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "2.0.2-gimkl-2022a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://gitlab.com/MiMiC-projects"
     },
     "Miniconda3": {
         "default": "",
