@@ -5130,7 +5130,8 @@
                     "2.7.1-gimkl-2020a-Python-2.7.18",
                     "2.8.3-gimkl-2020a-Python-3.8.2",
                     "2.9-gimkl-2020a-Python-3.8.2",
-                    "2.9.1-gimkl-2022a-Python-3.10.5"
+                    "2.9.1-gimkl-2022a-Python-3.10.5",
+                    "2.9.3-gimkl-2022a-Python-3.11.3"
                 ]
             }
         },
