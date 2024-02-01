@@ -23801,7 +23801,8 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.2.2-GCC-9.2.0"
+                    "2.2.2-GCC-9.2.0",
+                    "3.1.4-GCC-11.3.0"
                 ]
             }
         },
