@@ -5701,6 +5701,30 @@
         "support": "",
         "url": "https://gi.readthedocs.io/en/latest/"
     },
+    "GPAW": {
+        "default": "",
+        "description": "GPAW is a density-functional theory (DFT) Python code based on the projector-augmented wave (PAW)",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://wiki.fysik.dtu.dk/gpaw/",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "24.1.0-foss-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://wiki.fysik.dtu.dk/gpaw/"
+    },
     "GRADS": {
         "default": "",
         "description": "The Grid Analysis and Display System (GrADS) is an interactive desktop tool that is used for easy access, manipulation, and visualization of earth science data.",
@@ -20498,6 +20522,30 @@
         "network_licences": [],
         "support": "",
         "url": "https://www.nongnu.org/libunwind/"
+    },
+    "libvdwxc": {
+        "default": "",
+        "description": "libvdwxc is a general library for evaluating energy and potential for",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://libvdwxc.org",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "0.4.0-foss-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://libvdwxc.org"
     },
     "libvpx": {
         "default": "",
