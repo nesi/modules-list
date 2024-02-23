@@ -2910,6 +2910,30 @@
         "support": "",
         "url": "https://www.cp2k.org/"
     },
+    "CPMD": {
+        "default": "",
+        "description": "The CPMD code is a parallelized plane wave / pseudopotential implementation of DFT,",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/CPMD-code",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "4.3-foss-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/CPMD-code"
+    },
     "CRAMINO": {
         "default": "",
         "description": "A tool for quick quality assessment of cram and bam files, intended for long read sequencing",
