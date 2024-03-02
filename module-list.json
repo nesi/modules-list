@@ -21258,6 +21258,30 @@
         "support": "",
         "url": "https://lz4.github.io/lz4/"
     },
+    "maf_stream": {
+        "default": "",
+        "description": "Collection of utilities to manipulate multiple alignments in the Multiple Alignment Format",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/joelarmstrong/maf_stream",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "202005-GCC-12.3.0"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/joelarmstrong/maf_stream"
+    },
     "magma": {
         "default": "",
         "description": "The MAGMA project aims to develop a dense linear algebra library similar to",
