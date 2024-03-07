@@ -21750,6 +21750,30 @@
         "support": "",
         "url": "https://github.com/epi2me-labs/modbam2bed"
     },
+    "modkit": {
+        "default": "",
+        "description": "Tool for working with modified bases from Oxford Nanopore",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/nanoporetech/modkit",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "0.2.5-GCC-12.3.0"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/nanoporetech/modkit"
+    },
     "mosdepth": {
         "default": "",
         "description": "Fast BAM/CRAM depth calculation for WGS, exome, or targeted sequencing",
@@ -24764,7 +24788,8 @@
                 "default": "latest",
                 "versions": [
                     "1.3.1-Miniconda3",
-                    "1.4.1-Miniconda3"
+                    "1.4.1-Miniconda3",
+                    "2.0-Miniconda3"
                 ]
             }
         },
