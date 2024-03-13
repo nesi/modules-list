@@ -16234,6 +16234,30 @@
         "network_licences": [],
         "support": ""
     },
+    "Z3": {
+        "default": "",
+        "description": "A theorem prover from Microsoft Research.",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/Z3Prover/z3",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "4.12.2-GCCcore-12.3.0"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/Z3Prover/z3"
+    },
     "ZeroMQ": {
         "default": "",
         "description": "ZeroMQ looks like an embeddable networking library but acts like a concurrency framework.",
@@ -19059,7 +19083,8 @@
                 "versions": [
                     "1.11.13",
                     "2.2.0-GCCcore-9.2.0",
-                    "2.7.0-GCC-11.3.0"
+                    "2.7.0-GCC-11.3.0",
+                    "2.10.0-GCC-12.3.0"
                 ]
             }
         },
@@ -19821,7 +19846,8 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.5.2-GCCcore-9.2.0"
+                    "3.5.2-GCCcore-9.2.0",
+                    "3.7.2-GCC-12.3.0"
                 ]
             }
         },
@@ -20724,7 +20750,8 @@
                 "versions": [
                     "1.8.3-gimkl-2017a",
                     "1.16.2-gimkl-2020a",
-                    "1.16.2-intel-2022a"
+                    "1.16.2-intel-2022a",
+                    "1.17-GCC-12.3.0"
                 ]
             }
         },
@@ -24688,7 +24715,8 @@
                 "default": "latest",
                 "versions": [
                     "0.6.2-GCCcore-7.4.0",
-                    "0.6.3-GCCcore-9.2.0"
+                    "0.6.3-GCCcore-9.2.0",
+                    "0.8.0-GCC-12.3.0"
                 ]
             }
         },
