@@ -912,6 +912,30 @@
         "support": "",
         "url": "https://github.com/%/(github_account)s/adapterremoval"
     },
+    "AdaptiveCpp": {
+        "default": "",
+        "description": "AdaptiveCpp (formerly hipSYCL) is a SYCL implementation targeting CPUs and",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/illuhad/hipSYCL",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "23.10.0-GCC-12.3.0-CUDA-12.2.2"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://github.com/illuhad/hipSYCL"
+    },
     "Advisor": {
         "default": "",
         "description": "Vectorization Optimization and Thread Prototyping",
@@ -3385,7 +3409,8 @@
                 "default": "latest",
                 "versions": [
                     "0.1.12-Miniconda3",
-                    "1.0.0-Miniconda3"
+                    "1.0.0-Miniconda3",
+                    "1.0.5-Miniconda3"
                 ]
             }
         },
@@ -3394,6 +3419,30 @@
         "network_licences": [],
         "support": "",
         "url": "https://github.com/HKU-BAL/Clair3"
+    },
+    "Clang": {
+        "default": "",
+        "description": "C, C++, Objective-C compiler, based on LLVM.  Does not",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://clang.llvm.org/",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "17.0.6-GCC-12.3.0-CUDA-12.2.2"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://clang.llvm.org/"
     },
     "Clustal-Omega": {
         "default": "",
