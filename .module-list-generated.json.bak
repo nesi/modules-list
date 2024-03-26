@@ -24680,6 +24680,30 @@
         "support": "",
         "url": "https://xkbcommon.org/"
     },
+    "xtb": {
+        "default": "",
+        "description": "xtb - An extended tight-binding semi-empirical program package.",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://xtb-docs.readthedocs.io",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "6.6.1-foss-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://xtb-docs.readthedocs.io"
+    },
     "yacrd": {
         "default": "",
         "description": "Chimeric Read Detector for long reads",
