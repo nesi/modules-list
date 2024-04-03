@@ -1033,29 +1033,6 @@
         "support": "",
         "url": "https://danieldk.eu/Posts/2020-08-31-MKL-Zen.html"
     },
-    "Amber": {
-        "default": "",
-        "description": "Amber (originally Assisted Model Building with Energy",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "http://ambermd.org/amber.html",
-        "licence_type": "proprietary",
-        "link_output_dictride": "",
-        "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "16-intel-2018b-AmberTools-17-patchlevel-10-15"
-                ]
-            }
-        },
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": ""
-    },
     "Anaconda2": {
         "default": "",
         "description": "Built to complement the rich, open source Python community, the Anaconda platform provides an enterprise-ready data analytics platform  that empowers companies to adopt a modern open data science analytics architecture.  IMPORTANT: This version of Anaconda Python comes with Intel MKL support to speed up            certain types of mathematical computations, such as linear algebra or FFT.            The module sets             MKL_NUM_THREADS=1             to run MKL on a single thread by default, avoiding accidental oversubscription            of cores. The number of threads can be increased for large problems, please            refer to the Intel MKL documentation for guidance.",
@@ -6517,7 +6494,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.3.1-gimkl-2017a",
                     "3.2.2-gimkl-2022a-Python-3.10.5"
                 ]
             }
@@ -8057,7 +8033,6 @@
                 "default": "latest",
                 "versions": [
                     "4.0.0-gimkl-2017a",
-                    "5.0.1-gimkl-2017a",
                     "6.0.1-GCC-5.4.0",
                     "6.0.1-GCCcore-7.4.0",
                     "9.0.0-GCCcore-9.2.0",
@@ -9392,7 +9367,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "18.1.8-GCC-5.4.0",
                     "18.3.4-GCCcore-7.4.0",
                     "19.2.1-GCCcore-9.2.0"
                 ]
@@ -12705,8 +12679,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.4.2-gimkl-2017a",
-                    "3.5.1-gimkl-2017a",
                     "3.5.3-gimkl-2018b",
                     "3.6.1-gimkl-2018b",
                     "3.6.2-gimkl-2020a",
@@ -13471,12 +13443,6 @@
         "licence_type": "",
         "link_output_dictride": "",
         "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "1.1.456"
-                ]
-            },
             "maui_ancil": {
                 "default": "latest",
                 "versions": [
@@ -19540,7 +19506,6 @@
                 "versions": [
                     "2017.1.132-GCC-5.4.0",
                     "2017.6.256-GCC-5.4.0",
-                    "2018.1.163-GCC-7.1.0",
                     "2018.1.163-GCC-7.4.0"
                 ]
             },
@@ -19571,7 +19536,6 @@
                 "default": "latest",
                 "versions": [
                     "2017.6.256-GCC-5.4.0",
-                    "2018.1.163-GCC-7.1.0",
                     "2018.1.163-GCC-7.4.0",
                     "2020.0.166"
                 ]
@@ -19605,7 +19569,6 @@
                 "default": "latest",
                 "versions": [
                     "2017.6.256-GCC-5.4.0",
-                    "2018.1.163-GCC-7.1.0",
                     "2018.1.163-GCC-7.4.0"
                 ]
             },
@@ -19738,10 +19701,7 @@
                 "default": "latest",
                 "versions": [
                     "2017.6.256-GCC-5.4.0",
-                    "2017.6.256-iccifort-2017.1.132-GCC-5.4.0",
                     "2017.6.256-iccifort-2017.6.256-GCC-5.4.0",
-                    "2018.1.163-GCC-7.4.0",
-                    "2018.1.163-iccifort-2018.1.163-GCC-7.1.0",
                     "2018.1.163-iccifort-2018.1.163-GCC-7.4.0",
                     "2018.4.274-GCC-7.4.0",
                     "2019.6.166-GCC-9.2.0",
