@@ -9029,7 +9029,7 @@
         "extensions": [],
         "force_hide": "False",
         "force_show": "False",
-        "homepage": "http://graal.ens-lyon.fr/MUMPS/",
+        "homepage": "https://mumps-solver.org/",
         "licence_type": "",
         "link_output_dictride": "",
         "machines": {
@@ -9040,7 +9040,8 @@
                     "4.10.0-gimkl-2020a-metis-4.0.3",
                     "4.10.0-gimkl-2020a",
                     "5.3.1-gimkl-2020a-METIS-5.1.0",
-                    "5.5.0-gimkl-2022a"
+                    "5.5.0-gimkl-2022a",
+                    "5.6.1-foss-2023a"
                 ]
             }
         },
@@ -9048,7 +9049,7 @@
         "modulefile_text": "",
         "network_licences": [],
         "support": "",
-        "url": "http://graal.ens-lyon.fr/MUMPS/"
+        "url": "https://mumps-solver.org/"
     },
     "MUMmer": {
         "default": "",
@@ -11301,6 +11302,7 @@
                     "3.0.0-gimkl-2017a",
                     "3.2.0-gimkl-2020a-METIS4",
                     "3.2.0-gimkl-2020a",
+                    "3.6.0-foss-2023a",
                     "20220411-gimkl-2020a"
                 ]
             }
@@ -13633,7 +13635,8 @@
                     "6.0.6-gimpi-2018b",
                     "6.0.9-gimpi-2020a",
                     "6.1.2-gimpi-2022a",
-                    "7.0.3-gimpi-2022a"
+                    "7.0.3-gimpi-2022a",
+                    "7.0.4-foss-2023a"
                 ]
             },
             "maui": {
