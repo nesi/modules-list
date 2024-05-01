@@ -18032,6 +18032,30 @@
         "support": "",
         "url": "https://murraycadzow.github.io/2021-obss-day4/index.html"
     },
+    "easi": {
+        "default": "",
+        "description": "easi is a library for the Easy Initialization of models in three (or less or more) dimensional domains.",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://easyinit.readthedocs.io/en/latest/",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "1.3.0-foss-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://easyinit.readthedocs.io/en/latest/"
+    },
     "ecCodes": {
         "default": "",
         "description": "ecCodes is a package developed by ECMWF which provides an application programming interface and",
