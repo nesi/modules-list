@@ -11676,6 +11676,30 @@
         "support": "",
         "url": "https://github.com/SeisSol/PSpaMM"
     },
+    "PUMI": {
+        "default": "",
+        "description": "parallel unstructured mesh infrastructure API",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://scorec.rpi.edu/~seol/PUMI.pdf",
+        "licence_type": "",
+        "link_output_dictride": "",
+        "machines": {
+            "mahuika": {
+                "default": "latest",
+                "versions": [
+                    "2.2.7-foss-2023a"
+                ]
+            }
+        },
+        "module_path": "",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "url": "https://scorec.rpi.edu/~seol/PUMI.pdf"
+    },
     "Pango": {
         "default": "",
         "description": "Pango is a library for laying out and rendering of text, with an emphasis on internationalization.",
