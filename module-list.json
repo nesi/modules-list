@@ -14651,7 +14651,7 @@
         "default": "",
         "description": "A fast structural variant caller for long-read sequencing.",
         "domains": [],
-        "extensions": "sniffles-2.0.7",
+        "extensions": "sniffles-2.3.3",
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://github.com/fritzsedlazeck/Sniffles",
@@ -14661,7 +14661,8 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.0.7-gimkl-2022a-Python-3.10.5"
+                    "2.0.7-gimkl-2022a-Python-3.10.5",
+                    "2.3.3-gimkl-2022a-Python-3.10.5"
                 ]
             }
         },
