@@ -570,8 +570,7 @@
                 "default": "latest",
                 "versions": [
                     "2.7.7-GCC-7.4.0",
-                    "2.7.7-GCC-11.3.0",
-                    "2.7.7-gimkl-2017a"
+                    "2.7.7-GCC-11.3.0"
                 ]
             },
             "maui_ancil": {
@@ -584,7 +583,8 @@
         "module_path": "",
         "modulefile_text": "",
         "network_licences": [],
-        "support": ""
+        "support": "",
+        "url": "http://www.antlr2.org"
     },
     "ANTS": {
         "default": "",
@@ -1411,7 +1411,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.4.30-gimkl-2017a",
                     "2.4.41-gimkl-2022a"
                 ]
             }
@@ -1893,7 +1892,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "0.16.0-GCC-5.4.0",
                     "0.26.1-GCCcore-7.4.0",
                     "2.0.0-GCCcore-7.4.0",
                     "2.0.0-GCCcore-9.2.0",
@@ -4759,7 +4757,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "6.7.1-intel-2018b",
                     "6.7.5-intel-2020a",
                     "6.7.5-1526-intel-2020a",
                     "6.7.7-intel-2020a",
@@ -5204,29 +5201,6 @@
         "network_licences": [],
         "support": "",
         "url": "https://github.com/fenderglass/Flye"
-    },
-    "FoX": {
-        "default": "",
-        "description": "FoX is an XML library written in Fortran 95. It allows software developers to read, write and modify XML documents from Fortran applications without the complications of dealing with multi-language development.",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "http://homepages.see.leeds.ac.uk/~earawa/FoX/",
-        "licence_type": "",
-        "link_output_dictride": "",
-        "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "4.1.2-intel-2018b"
-                ]
-            }
-        },
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": ""
     },
     "FragGeneScan": {
         "default": "",
@@ -5921,8 +5895,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2019-intel-2018b-cuda-8.0.61-hybrid",
-                    "2019.3-intel-2018b-cuda-10.0.130-hybrid",
                     "2020.4-gimkl-2020a-cuda-11.3.1-hybrid-PLUMED-2.6.2",
                     "2020.5-intel-2020a-cuda-11.0.2-hybrid",
                     "2020.6-gimkl-2020a-cuda-11.3.1-hybrid-PLUMED-2.8.0",
@@ -6559,7 +6531,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1.8.12-gimkl-2017a",
                     "1.8.12-gimpi-2020a",
                     "1.8.18-gimkl-2017a",
                     "1.8.18-intel-2017a",
@@ -8172,7 +8143,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1.1.6-gimkl-2017a",
                     "2.6.0-iimpi-2020a-lmax-6-cp2k",
                     "2.6.0-iimpi-2022a-lmax-6-cp2k"
                 ]
@@ -8683,7 +8653,6 @@
                 "versions": [
                     "2016b",
                     "2017b",
-                    "2018b",
                     "2019a",
                     "2019b",
                     "2020a",
@@ -8779,7 +8748,6 @@
                     "5.1.0-GCC-12.3.0",
                     "5.1.0-GCCcore-9.2.0",
                     "5.1.0-gimkl-2017a",
-                    "5.1.0-gimkl-2017a-32bitIDX",
                     "5.1.0-intel-2018b",
                     "5.1.0-intel-2020a",
                     "5.1.0-intel-2022a"
@@ -8931,7 +8899,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "4.10.0-gimkl-2017a-metis-4.0.3",
                     "4.10.0-gimkl-2020a-metis-4.0.3",
                     "4.10.0-gimkl-2020a",
                     "5.3.1-gimkl-2020a-METIS-5.1.0",
@@ -9928,7 +9895,6 @@
                 "default": "latest",
                 "versions": [
                     "2.12-gimkl-2017a-cuda",
-                    "2.12-gimkl-2017a-mpi",
                     "2.14-gimkl-2022a-cuda",
                     "2.14-gimkl-2022a-mpi"
                 ]
@@ -10925,29 +10891,6 @@
         "network_licences": [],
         "support": ""
     },
-    "OpenCMISS": {
-        "default": "",
-        "description": "OpenCMISS is a set of libraries and applications which provide modelling and visualisation capabilities for complex bioengineering problems. This version is built from https://github.com/OpenCMISS/setup develop branch.",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "http://opencmiss.org",
-        "licence_type": "",
-        "link_output_dictride": "",
-        "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "develop-intel-2020a-Python-3.8"
-                ]
-            }
-        },
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": ""
-    },
     "OpenCV": {
         "default": "",
         "description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision and machine learning software library. OpenCV was built to provide a common infrastructure for computer vision applications and to accelerate the use of machine perception in the commercial products.",
@@ -11012,7 +10955,6 @@
                 "default": "latest",
                 "versions": [
                     "v1706-gimkl-2018b",
-                    "v1712-gimkl-2017a",
                     "v1812-gimkl-2018b-libAcoustics",
                     "v1812-gimkl-2018b",
                     "v1906-gimkl-2018b",
@@ -11599,7 +11541,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.3.0-gimkl-2017a",
                     "2.6.2-gimkl-2020a",
                     "2.6.2-intel-2020a",
                     "2.7.2-intel-2022a",
@@ -11945,7 +11886,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "5.24.1-gimkl-2017a-mt",
                     "5.24.1-gimkl-2017a",
                     "5.28.1-gimkl-2018b-mt",
                     "5.28.1-gimkl-2018b",
@@ -12767,7 +12707,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1.08-GCC-5.4.0",
                     "1.08-GCC-9.2.0"
                 ]
             }
@@ -12864,7 +12803,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.6.0-gimkl-2017a",
                     "2.9.0-GCC-7.4.0",
                     "2.10.0-GCC-9.2.0"
                 ]
@@ -12939,7 +12877,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "6.10.08-gimkl-2017a",
                     "6.16.00-GCC-7.4.0"
                 ]
             }
@@ -13139,7 +13076,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.0beta-gimkl-2017a-GPU",
                     "3.0beta-gimkl-2017a",
                     "4.0.1-gimkl-2020a"
                 ]
@@ -13165,7 +13101,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "4.0.7-gimkl-2017a",
                     "4.1.0-gimkl-2018b",
                     "4.1.0-gimkl-2020a-Dfam-3.2",
                     "4.1.0-gimkl-2020a"
@@ -14078,7 +14013,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "0.11.3-gimkl-2017a",
                     "0.13.1-gimkl-2018b",
                     "0.14.0-gimkl-2018b",
                     "1.3.0-gimkl-2020a",
@@ -14750,7 +14684,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "5.2.1-gimkl-2017a",
                     "5.2.1-gimkl-2020a"
                 ]
             }
@@ -15555,8 +15488,6 @@
                     "5.3.5-intel-2017a",
                     "5.4.4-gimkl-2022a",
                     "5.4.4-intel-2017a",
-                    "5.4.4-intel-2018b-VTST-sol",
-                    "5.4.4-intel-2018b",
                     "5.4.4-intel-2020a",
                     "6.2.1-intel-2022a-NOOMP",
                     "6.2.1-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2",
@@ -15890,15 +15821,15 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1.2.10-GCC-9.2.0",
-                    "1.2.10-gimkl-2017a"
+                    "1.2.10-GCC-9.2.0"
                 ]
             }
         },
         "module_path": "",
         "modulefile_text": "",
         "network_licences": [],
-        "support": ""
+        "support": "",
+        "url": "http://www.ebi.ac.uk/~zerbino/velvet/"
     },
     "VelvetOptimiser": {
         "default": "",
@@ -16461,7 +16392,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "4.2.5-gimkl-2017a",
                     "4.3.2-GCCcore-9.2.0",
                     "4.3.2-gimkl-2018b",
                     "4.3.4-GCCcore-11.3.0",
@@ -16498,29 +16428,6 @@
         "network_licences": [],
         "support": "",
         "url": "http://www.info-zip.org/Zip.html"
-    },
-    "Zonation": {
-        "default": "",
-        "description": "Spatial conservation prioritisation framework for large-scale conservation planning.",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "https://github.com/cbig/zonation-core/",
-        "licence_type": "",
-        "link_output_dictride": "",
-        "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "4.0.0"
-                ]
-            }
-        },
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": ""
     },
     "abritamr": {
         "default": "",
@@ -16709,7 +16616,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.4.0-gimkl-2017a",
                     "3.6.3-gimkl-2020a",
                     "3.6.3-intel-2017a",
                     "3.6.3-intel-2020a",
@@ -18690,7 +18596,6 @@
                 "versions": [
                     "0.19.8-gimkl-2017a",
                     "0.19.8-gimkl-2018b",
-                    "0.19.8-intel-2018b",
                     "0.19.8.1-GCCcore-7.4.0",
                     "0.19.8.1",
                     "0.21"
@@ -19090,12 +18995,6 @@
         "licence_type": "",
         "link_output_dictride": "",
         "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "1.23.1-gimkl-2017a"
-                ]
-            },
             "maui": {
                 "default": "latest",
                 "versions": [
@@ -20577,8 +20476,7 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1.1.11-gimkl-2017a",
-                    "1.1.11-intel-2017a"
+                    "1.1.11-gimkl-2017a"
                 ]
             }
         },
@@ -21944,7 +21842,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2.7.0-gimkl-2017a",
                     "2.9.3-gimkl-2018b",
                     "2.10.5-gimkl-2020a",
                     "2.11.2-gimpi-2022a"
@@ -22297,7 +22194,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "1998-GCC-5.4.0",
                     "1998-GCC-9.2.0"
                 ]
             }
@@ -22952,7 +22848,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "3.6.0-gimkl-2017a",
                     "3.10.0-GCCcore-7.4.0",
                     "3.12.1-gimkl-2018b",
                     "3.12.2-GCCcore-9.2.0",
@@ -24105,29 +24000,6 @@
         "support": "",
         "url": "https://github.com/gabime/spdlog"
     },
-    "spglib": {
-        "default": "",
-        "description": "Spglib is a C library for finding and handling crystal symmetries.",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "http://spglib.sourceforge.net/",
-        "licence_type": "",
-        "link_output_dictride": "",
-        "machines": {
-            "mahuika": {
-                "default": "latest",
-                "versions": [
-                    "1.9.2-gimkl-2017a"
-                ]
-            }
-        },
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": ""
-    },
     "splat": {
         "default": "",
         "description": "Splat deploys (builds and installs) the components of heterogenous systems such as cylc suites, described by splat config files, into target directory trees.",
@@ -24405,7 +24277,6 @@
             "mahuika": {
                 "default": "latest",
                 "versions": [
-                    "2017_U6-gimkl-2017a",
                     "2019_U1-gimkl-2017a",
                     "2019_U4-GCCcore-7.4.0",
                     "2019_U9-GCCcore-9.2.0",
