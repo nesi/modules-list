@@ -12213,7 +12213,8 @@
                 "default": "latest",
                 "versions": [
                     "0.2.4-gimkl-2018b-Python-3.7.3",
-                    "0.2.4-gimkl-2020a-Python-3.8.2"
+                    "0.2.4-gimkl-2020a-Python-3.8.2",
+                    "0.2.4-gimkl-2022a-Python-3.11.3"
                 ]
             }
         },
