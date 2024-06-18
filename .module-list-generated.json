@@ -16842,7 +16842,8 @@
         "module_path": "",
         "modulefile_text": "",
         "network_licences": [],
-        "support": ""
+        "support": "",
+        "url": "https://github.com/lh3/bioawk"
     },
     "breseq": {
         "default": "",
