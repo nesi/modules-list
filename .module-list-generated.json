@@ -7764,7 +7764,7 @@
             }
         ],
         "default": "2022.7.0-gimkl-2020a-3.4.3",
-        "default_type": "latest",
+        "default_type": "static",
         "description": "An extensible environment for interactive and reproducible computing, based on the Jupyter Notebook and Architecture.",
         "domains": [
             "tools"
@@ -7854,7 +7854,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://pypi.org/project/jupyterlab/",
-        "last_updated": 1724204445,
+        "last_updated": 1724721912,
         "licence_type": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/JupyterLab/2022.7.0-gimkl-2020a-3.4.3.lua",
         "modulefile_text": "",
@@ -7874,7 +7874,8 @@
             "2022.8.0-gimkl-2020a-3.4.5",
             "2023.1.0-gimkl-2022a-3.5.3",
             "2023.11.0-gimkl-2022a-3.6.3",
-            "2024.08.0-foss-2023a-4.2.4"
+            "2024.08.0-foss-2023a-4.2.4",
+            "2024.08.2-foss-2023a-4.2.4"
         ]
     },
     "KAT": {
@@ -21209,7 +21210,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://globus-compute.readthedocs.io/en/latest/index.html",
-        "last_updated": 1722983293,
+        "last_updated": 1724709242,
         "licence_type": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/globus-compute-endpoint/2.24.0-gimkl-2022a-Python-3.10.5.lua",
         "modulefile_text": "",
@@ -21219,6 +21220,7 @@
             "2.0.1-gimkl-2022a-Python-3.10.5",
             "2.19.0-gimkl-2022a-Python-3.10.5",
             "2.24.0-gimkl-2022a-Python-3.10.5",
+            "2.27.1-foss-2023a-Python-3.11.6",
             "2.3.2-gimkl-2022a-Python-3.10.5"
         ]
     },
