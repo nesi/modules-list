@@ -2164,14 +2164,15 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://github.com/pmelsted/bifrost",
-        "last_updated": 1599037473,
+        "last_updated": 1724796822,
         "licence_type": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Bifrost/1.0.4-GCC-9.2.0.lua",
         "modulefile_text": "",
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.0.4-GCC-9.2.0"
+            "1.0.4-GCC-9.2.0",
+            "1.3.5-GCC-12.3.0"
         ]
     },
     "Bio-DB-BigFile": {
