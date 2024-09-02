@@ -4255,7 +4255,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "http://oss.deltares.nl/web/delft3d",
-        "last_updated": 1722502892,
+        "last_updated": 1725168553,
         "licence_type": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Delft3D/141732-intel-2022a.lua",
         "modulefile_text": "",
