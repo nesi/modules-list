@@ -1057,7 +1057,11 @@
         ]
     },
     "Anaconda3": {
-        "admin_list": [],
+        "admin_list": [
+            {
+                "2021.05-gimkl-2020a": "Warning: Anaconda is deprecated for license reasons. Please switch to using Miniforge3 for any new environments."
+            }
+        ],
         "default": "2021.05-gimkl-2020a",
         "default_type": "latest",
         "description": "Built to complement the rich, open source Python community,\nthe Anaconda platform provides an enterprise-ready data analytics platform \nthat empowers companies to adopt a modern open data science analytics architecture.\n\nIMPORTANT: This version of Anaconda Python comes with Intel MKL support to speed up\n           certain types of mathematical computations, such as linear algebra or FFT.\n           The module sets\n\n           MKL_NUM_THREADS=1\n\n           to run MKL on a single thread by default, avoiding accidental oversubscription\n           of cores. The number of threads can be increased for large problems, please\n           refer to the Intel MKL documentation for guidance.\n",
@@ -14924,6 +14928,28 @@
             "2.3.2"
         ]
     },
+    "Ratatosk": {
+        "admin_list": [],
+        "default": "0.9.0-GCC-12.3.0",
+        "default_type": "latest",
+        "description": "Phased hybrid error correction of long reads using colored de Bruijn graphs",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/DecodeGenetics/Ratatosk",
+        "last_updated": 1725267194,
+        "licence_type": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Ratatosk/0.9.0-GCC-12.3.0.lua",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "versions": [
+            "0.9.0-GCC-12.3.0"
+        ]
+    },
     "Raven": {
         "admin_list": [
             {
@@ -23993,6 +24019,26 @@
         "network_licences": [],
         "support": "",
         "versions": []
+    },
+    "mpcci": {
+        "admin_list": [],
+        "default": "4.7.1",
+        "default_type": "latest",
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "",
+        "last_updated": 1725346150,
+        "licence_type": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/mpcci/4.7.1.lua",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "versions": [
+            "4.7.1"
+        ]
     },
     "mpifileutils": {
         "admin_list": [],
