@@ -1,0 +1,20 @@
+[
+    {
+        "date": "20241010",
+        "message": "2.9.5-foss-2023a-Python-3.11.6 added.",
+        "software": "Flye",
+        "type": "versionAdded"
+    },
+    {
+        "date": "20241010",
+        "message": "Default version of Flye changed from 2.9.3-gimkl-2022a-Python-3.11.3 to 2.9.5-foss-2023a-Python-3.11.6.",
+        "software": "Flye",
+        "type": "defaultChanged"
+    },
+    {
+        "date": "20241010",
+        "message": "Default version of Flye changed from 2.9.3-gimkl-2022a-Python-3.11.3 to 2.9.5-foss-2023a-Python-3.11.6.",
+        "software": "Flye",
+        "type": "defaultChanged"
+    }
+]
