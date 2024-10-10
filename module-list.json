@@ -5609,7 +5609,7 @@
     },
     "Flye": {
         "admin_list": [],
-        "default": "2.9.3-gimkl-2022a-Python-3.11.3",
+        "default": "2.9.5-foss-2023a-Python-3.11.6",
         "default_type": "latest",
         "description": "Flye is a de novo assembler for long and noisy reads, such as those produced by PacBio\n and Oxford Nanopore Technologies.",
         "domains": [
@@ -5620,9 +5620,9 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://github.com/fenderglass/Flye",
-        "last_updated": 1706512055,
+        "last_updated": 1728525703,
         "licence_type": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Flye/2.9.3-gimkl-2022a-Python-3.11.3.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Flye/2.9.5-foss-2023a-Python-3.11.6.lua",
         "modulefile_text": "",
         "network_licences": [],
         "support": "",
@@ -5632,7 +5632,8 @@
             "2.8.3-gimkl-2020a-Python-3.8.2",
             "2.9-gimkl-2020a-Python-3.8.2",
             "2.9.1-gimkl-2022a-Python-3.10.5",
-            "2.9.3-gimkl-2022a-Python-3.11.3"
+            "2.9.3-gimkl-2022a-Python-3.11.3",
+            "2.9.5-foss-2023a-Python-3.11.6"
         ]
     },
     "FoX": {
