@@ -15173,7 +15173,7 @@
         "network_licences": [],
         "default": "24.3.0-0",
         "default_type": "latest",
-        "last_updated": 1721695836,
+        "last_updated": 1728614390,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lang/Miniforge3/24.3.0-0.lua",
         "force_hide": "False",
