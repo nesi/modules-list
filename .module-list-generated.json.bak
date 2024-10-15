@@ -2938,7 +2938,7 @@
         "network_licences": [],
         "default": "2.1.6-gimkl-2020a-Perl-5.30.1-Python-3.8.2",
         "default_type": "latest",
-        "last_updated": 1725859362,
+        "last_updated": 1728962371,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/BRAKER/2.1.6-gimkl-2020a-Perl-5.30.1-Python-3.8.2.lua",
         "force_hide": "False",
@@ -26034,13 +26034,14 @@
         "support": "",
         "versions": [
             "1.1.0-gimkl-2022a-Python-3.10.5",
-            "1.1.1-gimkl-2022a-Python-3.11.3"
+            "1.1.1-gimkl-2022a-Python-3.11.3",
+            "1.1.2.5-gimkl-2022a-Python-3.11.3"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "1.1.0-gimkl-2022a-Python-3.10.5",
         "default_type": "latest",
-        "last_updated": 1684824322,
+        "last_updated": 1728961945,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/TSEBRA/1.1.0-gimkl-2022a-Python-3.10.5.lua",
         "force_hide": "False",
