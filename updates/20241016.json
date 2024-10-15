@@ -1,1 +1,14 @@
-[]
+[
+    {
+        "date": "20241016",
+        "message": "ABAQUS has been added.",
+        "software": "ABAQUS",
+        "type": "softwareAdded"
+    },
+    {
+        "date": "20241016",
+        "message": "skani has been added.",
+        "software": "skani",
+        "type": "softwareAdded"
+    }
+]

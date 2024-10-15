@@ -23959,6 +23959,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "skani": {
+        "description": "accurate, fast nucleotide identity calculation for MAGs, genomes, and databases",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/bluenote-1577/skani",
+        "support": "",
+        "versions": [
+            "0.2.2-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.2.2-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1729030725,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/skani/0.2.2-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "SKESA": {
         "description": "SKESA is a de-novo sequence read assembler for cultured single isolate genomes based on DeBruijn graphs.",
         "domains": [
