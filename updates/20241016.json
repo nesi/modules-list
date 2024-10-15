@@ -1,14 +1,8 @@
 [
     {
         "date": "20241016",
-        "message": "ABAQUS has been added.",
-        "software": "ABAQUS",
-        "type": "softwareAdded"
-    },
-    {
-        "date": "20241016",
-        "message": "skani has been added.",
-        "software": "skani",
-        "type": "softwareAdded"
+        "message": "Default version of binutils changed from 2.27-GCCcore-6.3.0 to 2.26-GCCcore-5.4.0.",
+        "software": "binutils",
+        "type": "defaultChanged"
     }
 ]
