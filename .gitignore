@@ -2,3 +2,4 @@ node_modules/*
 mkdocs/__pycache__/*
 mkdocs/site/*
 cron.log
+rss.xml.bkp
