@@ -160,7 +160,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.0.2-gimkl-2017a",
             "2.2.5-gimpi-2020a"
         ]
     },
@@ -184,28 +183,6 @@
         "support": "",
         "versions": [
             "1.1-GCCcore-9.2.0"
-        ]
-    },
-    "ADAM": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.30.0"
         ]
     },
     "AGAT": {
@@ -591,10 +568,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.7.7",
             "2.7.7-GCC-11.3.0",
-            "2.7.7-GCC-7.4.0",
-            "2.7.7-gimkl-2017a"
+            "2.7.7-GCC-7.4.0"
         ]
     },
     "ANTs": {
@@ -756,33 +731,6 @@
             "1.6.1"
         ]
     },
-    "ARCSI": {
-        "admin_list": [
-            {
-                "0.15.0-gimkl-2017a-Python-3.6.3": "Warning: ARCSI/0.15.0-gimkl-2017a-Python-3.6.3 is old and will soon be removed. Please let us know if you would like a new version of ARCSI to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "earth_science",
-            "geo"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.15.0-gimkl-2017a-Python-3.6.3"
-        ]
-    },
     "ARIBA": {
         "admin_list": [],
         "default": "2.14.6-gimkl-2022a-Python-3.10.5",
@@ -880,7 +828,6 @@
         "support": "",
         "versions": [
             "3.2.3-gimkl-2020a",
-            "3.3.2-gimkl-2017a",
             "3.3.2-gimkl-2018b",
             "3.3.3-gimkl-2020a",
             "3.4.0-gimkl-2020a",
@@ -1042,28 +989,6 @@
             "1.0"
         ]
     },
-    "Amber": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "chem"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "proprietary",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "16-intel-2018b-AmberTools-17-patchlevel-10-15"
-        ]
-    },
     "Anaconda3": {
         "admin_list": [
             {
@@ -1088,78 +1013,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2019.03",
-            "2019.03-gimkl-2018b",
-            "2019.03-gimpi-2018b",
             "2021.05-gimkl-2020a"
-        ]
-    },
-    "Anaconda3-Geo": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "geo"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2019.03-gimkl-2018b"
-        ]
-    },
-    "Anaconda3-Geo2": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lang"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2019.03",
-            "2019.03-gimkl-2018b",
-            "2019.03-gimpi-2018b"
-        ]
-    },
-    "Anaconda3_Geo2": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lang"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2019.03"
         ]
     },
     "Apptainer": {
@@ -1181,15 +1035,10 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.0.3",
-            "1.1.0",
-            "1.1.2",
-            "1.1.5",
             "1.1.8",
             "1.1.9",
             "1.2.2",
             "1.2.5",
-            "1.3.0",
             "1.3.1"
         ]
     },
@@ -1260,29 +1109,6 @@
         "support": "",
         "versions": [
             "3.9.6.1467.159c5b1"
-        ]
-    },
-    "Augustus": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "3.2.3-gimkl-2017a"
         ]
     },
     "AutoDock-GPU": {
@@ -1481,8 +1307,6 @@
         "support": "",
         "versions": [
             "1.10.4-gimkl-2017a-no-beagle",
-            "1.8.4-gimkl-2017a-no-beagle",
-            "2.4.7",
             "2.5.2",
             "2.6.3",
             "2.6.6",
@@ -1513,7 +1337,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.4.30-gimkl-2017a",
             "2.4.41-gimkl-2022a"
         ]
     },
@@ -1542,7 +1365,6 @@
         "support": "",
         "versions": [
             "2.25.0-GCC-7.4.0",
-            "2.26.0-gimkl-2017a",
             "2.28.0-gimkl-2018b",
             "2.29.2-GCC-9.2.0",
             "2.30.0-GCC-11.3.0",
@@ -1601,29 +1423,6 @@
         "support": "",
         "versions": [
             "1.03-gompi-2023a"
-        ]
-    },
-    "BLASR": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.2-gimkl-2017a"
         ]
     },
     "BLAST": {
@@ -1714,7 +1513,6 @@
         "versions": [
             "3.5-GCC-11.3.0",
             "3.5-GCC-9.2.0",
-            "3.5-gimkl-2017a",
             "3.5-gimkl-2018b"
         ]
     },
@@ -1784,7 +1582,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://github.com/Gaius-Augustus/BRAKER",
-        "last_updated": 1725859362,
+        "last_updated": 1728962371,
         "licence_type": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/BRAKER/2.1.6-gimkl-2020a-Perl-5.30.1-Python-3.8.2.lua",
         "modulefile_text": "",
@@ -1818,14 +1616,11 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.0.2-gimkl-2017a",
-            "3.0.2-gimkl-2018b",
             "4.0.5-gimkl-2020a",
             "4.1.4-gimkl-2020a",
             "5.1.3-gimkl-2020a",
             "5.2.2-gimkl-2020a",
             "5.3.2-gimkl-2020a",
-            "5.4.5-gimkl-2022a",
             "5.4.7-gimkl-2022a",
             "5.6.1-gimkl-2022a"
         ]
@@ -1885,10 +1680,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.4.1-gimkl-2017a",
             "2.5.1-gimkl-2018b",
             "2.5.1-gimkl-2020a",
-            "2.5.2-GCC-11.2.0",
             "2.5.2-GCC-11.3.0",
             "2.5.2-GCCcore-12.3.0"
         ]
@@ -2056,7 +1849,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.16.0-GCC-5.4.0",
             "0.26.1-GCCcore-7.4.0",
             "2.0.0-GCCcore-7.4.0",
             "2.0.0-GCCcore-9.2.0",
@@ -2087,51 +1879,6 @@
             "5.0-12Jul19.0df",
             "5.1-18May20.d20",
             "5.4-22Jul22.46e"
-        ]
-    },
-    "BerkeleyGW": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "phys",
-            "physics"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.2.0-gimkl-2017a"
-        ]
-    },
-    "Berkeley_UPC": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "compiler"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2019.4.2-gimkl-2018b"
         ]
     },
     "BiG-SCAPE": {
@@ -2229,33 +1976,6 @@
             "3.01-GCC-9.2.0-Perl-5.30.1-mt"
         ]
     },
-    "BioConductor": {
-        "admin_list": [
-            {
-                "3.5-gimkl-2017a-R-3.4.2": "Warning: BioConductor/3.5-gimkl-2017a-R-3.4.2 is very old and will soon be removed. Please try 'module spider R-bundle-BioConductor' to find a newer equivalent."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "3.5-gimkl-2017a-R-3.4.2"
-        ]
-    },
     "BioPP": {
         "admin_list": [],
         "default": "2.4.1-GCC-9.2.0",
@@ -2302,7 +2022,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.19.0-gimkl-2017a",
             "0.22.3-gimkl-2018b",
             "0.24.0-GCC-11.3.0"
         ]
@@ -2393,9 +2112,7 @@
             "1.55.0-gimkl-2018b",
             "1.61.0-GCCcore-7.4.0",
             "1.61.0-gimkl-2017a",
-            "1.61.0-gimkl-2017a-Python-2.7.14",
             "1.61.0-gimkl-2018b",
-            "1.61.0-intel-2017a",
             "1.61.0-intel-2018b",
             "1.64.0-gimkl-2018b-Python-2.7.16",
             "1.69.0-GCCcore-7.4.0",
@@ -2403,7 +2120,6 @@
             "1.71.0-gimkl-2018b-Python-3.7.3",
             "1.71.0-gimkl-2020a-Python-3.8.2",
             "1.76.0-intel-2022a",
-            "1.77.0-GCC-11.2.0",
             "1.77.0-GCC-11.3.0",
             "1.83.0-GCC-12.3.0"
         ]
@@ -2561,7 +2277,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.4.5-gimkl-2017a",
             "1.4.5-gimkl-2017a.lua"
         ]
     },
@@ -2724,7 +2439,6 @@
             "4.14.3-GCCcore-9.2.0",
             "4.9.1-GCCcore-7.4.0",
             "4.9.1-gimkl-2017a",
-            "4.9.1-gimkl-2017a-Python-2.7.14",
             "5.1.2-GCCcore-9.2.0",
             "5.5.2-GCC-11.3.0"
         ]
@@ -2782,7 +2496,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.3.3-gimkl-2017a",
             "0.4-GCC-7.4.0"
         ]
     },
@@ -3148,10 +2861,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.1-gimkl-2017a",
-            "6.1-gimkl-2017a",
-            "6.1-gimkl-2017a-cuda-10.0.130",
-            "6.1-gimkl-2017a-cuda-8.0.61",
             "8.2-intel-2022a-PLUMED-2.7.2",
             "8.2-intel-2022a-cuda-11.4.1-hybrid-PLUMED-2.7.2"
         ]
@@ -3259,7 +2968,6 @@
             "12.0.0",
             "12.1.1",
             "12.2.2",
-            "7.5.18",
             "8.0.61",
             "9.0.176",
             "9.1.85"
@@ -3291,28 +2999,6 @@
             "2.1-3-GCCcore-9.2.0"
         ]
     },
-    "Cannoli": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.8.0"
-        ]
-    },
     "Canu": {
         "admin_list": [
             {
@@ -3337,7 +3023,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.8-gimkl-2017a",
             "2.0-GCC-9.2.0",
             "2.1.1-GCC-9.2.0",
             "2.2-GCC-11.3.0",
@@ -3501,7 +3186,6 @@
         "support": "",
         "versions": [
             "1.0.13-gimkl-2018b-Python-2.7.16",
-            "1.0.13-gimkl-2018b-Python-3.7.3",
             "1.2.1-gimkl-2022a-Python-3.10.5",
             "1.2.3-foss-2023a-Python-3.11.6"
         ]
@@ -3677,7 +3361,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.2.2-gimkl-2017a",
             "1.2.4-GCC-11.3.0",
             "1.2.4-gimkl-2020a"
         ]
@@ -3789,30 +3472,7 @@
         "support": "",
         "versions": [
             "1.13.2-GCCcore-7.4.0",
-            "1.15.1-GCCcore-11.2.0",
             "1.15.1-GCCcore-11.3.0"
-        ]
-    },
-    "CubeGUI": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "perf"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.4.4-GCCcore-9.2.0"
         ]
     },
     "CubeLib": {
@@ -4007,33 +3667,6 @@
             "6.2.23-gimkl-2017a"
         ]
     },
-    "DBG2OLC": {
-        "admin_list": [
-            {
-                "20170208-gimkl-2017a": "Warning: DBG2OLC/20170208-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of DBG2OLC to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "20170208-gimkl-2017a"
-        ]
-    },
     "DBus": {
         "admin_list": [
             {
@@ -4112,8 +3745,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.8.38-gimkl-2017a",
-            "0.9.24-gimkl-2017a",
             "0.9.25-gimkl-2018b",
             "0.9.32-GCC-9.2.0",
             "2.0.14-GCC-9.2.0",
@@ -4151,28 +3782,6 @@
             "52488"
         ]
     },
-    "DMTCP": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.6.0"
-        ]
-    },
     "DRAM": {
         "admin_list": [],
         "default": "1.3.5-Miniconda3",
@@ -4192,9 +3801,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.1.1",
-            "1.3.5-Miniconda3",
-            "1.4.6-Miniconda3"
+            "1.3.5-Miniconda3"
         ]
     },
     "DaliLite": {
@@ -4288,11 +3895,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.2.0.2",
             "2.2.0.3",
             "2.2.0.6",
-            "2.2.2",
-            "2.2rc3",
             "2.3.5"
         ]
     },
@@ -4315,7 +3919,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "141732-gimkl-2022a",
             "141732-intel-2022a",
             "64418-intel-2022a",
             "66341-intel-2020a"
@@ -4369,28 +3972,6 @@
         "versions": [
             "0.8.1",
             "1.1.3"
-        ]
-    },
-    "DendroPy": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.5.2-gimkl-2022a-Python-3.10.5"
         ]
     },
     "Dorado": {
@@ -4455,7 +4036,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.8.13-gimkl-2017a",
             "1.8.17-GCCcore-9.2.0"
         ]
     },
@@ -4504,7 +4084,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.9.4",
             "1.9.6",
             "2.1.0"
         ]
@@ -4555,28 +4134,6 @@
             "2023.11.001-foss-2023a"
         ]
     },
-    "EMAN": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "base"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "daily"
-        ]
-    },
     "EMAN2": {
         "admin_list": [],
         "default": "2.99.47-gpu",
@@ -4597,8 +4154,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.12",
-            "2.3-gimkl-2018b-Python-2.7.16",
             "2.99.47-cpu",
             "2.99.47-gpu"
         ]
@@ -4627,35 +4182,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "6.6.0-gimkl-2017a",
             "6.6.0-gimkl-2020a"
-        ]
-    },
-    "EMIRGE": {
-        "admin_list": [
-            {
-                "0.61.1-gimkl-2017a-Python-2.7.14": "Warning: EMIRGE/0.61.1-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of EMIRGE to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.61.1-gimkl-2017a-Python-2.7.14"
         ]
     },
     "ENMTML": {
@@ -4786,22 +4313,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.5",
-            "3.6",
-            "3.8.0",
-            "3.9.1",
-            "3.9.4",
-            "4.0.1",
-            "4.1.1",
-            "4.2.0",
-            "4.3.2",
             "4.4",
-            "4.4.1",
-            "4.5.0",
-            "4.5.4",
-            "4.6.0",
             "4.7",
-            "4.7.0",
             "4.7.1",
             "4.8",
             "4.8.1",
@@ -4835,33 +4348,6 @@
             "3.4.0"
         ]
     },
-    "Elmer": {
-        "admin_list": [
-            {
-                "8.2-gimkl-2017a": "Warning: Elmer/8.2-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of Elmer to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "cae",
-            "engineering"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "8.2-gimkl-2017a"
-        ]
-    },
     "Embree": {
         "admin_list": [],
         "default": "3.5.1-GCCcore-7.4.0",
@@ -4882,58 +4368,7 @@
         "support": "",
         "versions": [
             "3.12.2-GCCcore-9.2.0",
-            "3.3.0-GCC-5.4.0",
             "3.5.1-GCCcore-7.4.0"
-        ]
-    },
-    "EnergyPlus": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "cae"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "9.1.0-gimkl-2018b-Python-3.7.3"
-        ]
-    },
-    "ErlangOTP": {
-        "admin_list": [
-            {
-                "20.2-gimkl-2017a": "Warning: ErlangOTP/20.2-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of ErlangOTP to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lang",
-            "language",
-            "social_science"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "20.2-gimkl-2017a"
         ]
     },
     "EukRep-EukCC": {
@@ -4982,7 +4417,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.5-gimkl-2017a",
             "1.5.1-gimpi-2020a"
         ]
     },
@@ -5010,7 +4444,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.0.21-gimkl-2017a",
             "3.0.22-gimkl-2020a"
         ]
     },
@@ -5090,7 +4523,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.8.8-gimkl-2017a",
             "1.8.8-gimkl-2020a-Python-2.7.18"
         ]
     },
@@ -5186,7 +4618,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "6.7.1-intel-2017a",
             "6.7.5-1526-intel-2020a",
             "6.7.5-intel-2020a",
             "6.7.7-intel-2020a",
@@ -5223,7 +4654,6 @@
             "3.3.10-gompi-2022a",
             "3.3.10-intel-compilers-2023.2.1",
             "3.3.5-gimkl-2017a",
-            "3.3.8-gimpi-2017a",
             "3.3.8-gimpi-2018b",
             "3.3.8-gimpi-2020a",
             "3.3.9-iimpi-2022a"
@@ -5322,29 +4752,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.3.4-gimkl-2017a",
             "1.3.5-GCCcore-9.2.0"
         ]
-    },
-    "FPM": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "FTGL": {
         "admin_list": [
@@ -5370,8 +4779,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.1.3-rc5-GCCcore-7.4.0",
-            "2.1.3-rc5-gimkl-2017a"
+            "2.1.3-rc5-GCCcore-7.4.0"
         ]
     },
     "FastANI": {
@@ -5423,7 +4831,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.1.5-gimkl-2017a",
             "2.1.6.1-gimkl-2018b",
             "2.1.6.2-GCC-9.2.0"
         ]
@@ -5636,32 +5043,6 @@
             "2.9.5-foss-2023a-Python-3.11.6"
         ]
     },
-    "FoX": {
-        "admin_list": [
-            {
-                "4.1.2-intel-2018b": "Warning: FoX-4.1.2-intel-2018b is old and marked for removal, so please let us know if you still need it."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.1.2-intel-2018b"
-        ]
-    },
     "FragGeneScan": {
         "admin_list": [],
         "default": "1.31-gimkl-2018b",
@@ -5709,7 +5090,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.1.0-gimkl-2017a",
             "1.3.1-GCC-7.4.0",
             "1.3.2-GCC-9.2.0"
         ]
@@ -5817,12 +5197,8 @@
         "versions": [
             "3.5-Java-1.8.0_144",
             "3.5-Java-15.0.2",
-            "3.7",
             "3.8-1",
-            "4.0.1.2-gimkl-2017a",
-            "4.0.11.0-gimkl-2017a",
             "4.0.11.0-gimkl-2018b",
-            "4.1.0.0-gimkl-2017a",
             "4.1.4.1-gimkl-2018b",
             "4.1.8.1-gimkl-2020a",
             "4.2.5.0-gimkl-2020a",
@@ -5851,7 +5227,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "11.2.0",
             "11.3.0",
             "12.3.0",
             "5.4.0",
@@ -5883,11 +5258,8 @@
             "11.2.0",
             "11.3.0",
             "12.3.0",
-            "5.4",
             "5.4.0",
-            "6.3",
             "6.3.0",
-            "7.1",
             "7.1.0",
             "7.4.0",
             "9.2.0"
@@ -6008,7 +5380,6 @@
             "3.11.2-GCC-11.3.0",
             "3.11.3-GCC-12.3.0",
             "3.5.1-gimkl-2017a",
-            "3.6.1-gimkl-2017a",
             "3.7.1-gimkl-2018b",
             "3.8.0-GCCcore-9.2.0"
         ]
@@ -6105,29 +5476,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.49.7-GCCcore-9.2.0",
             "2.49.7-GCCcore-9.2.0.lua"
         ]
-    },
-    "GLnexus": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "GMAP-GSNAP": {
         "admin_list": [
@@ -6153,7 +5503,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2018-03-11-gimkl-2017a",
             "2021-12-17-GCC-11.3.0"
         ]
     },
@@ -6298,8 +5647,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "7.2.0-gimkl-2017a-Python-2.7.14",
-            "7.6.0-gimkl-2017a-Python-2.7.14",
             "7.6.1-gimkl-2018b-Python-2.7.16",
             "8.2.1-gimkl-2022a"
         ]
@@ -6360,18 +5707,12 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2019-intel-2018b-cuda-8.0.61-hybrid",
-            "2019.3-intel-2018b-cuda-10.0.130-hybrid",
             "2020.4-gimkl-2020a-cuda-11.3.1-hybrid-PLUMED-2.6.2",
             "2020.5-intel-2020a-cuda-11.0.2-hybrid",
             "2020.6-gimkl-2020a-cuda-11.3.1-hybrid-PLUMED-2.8.0",
             "2020.6-intel-2020a-cuda-11.3.1-hybrid",
-            "2020.6-intel-2020a-cuda-11.3.1-hybrid-PLUMED-2.8.0",
             "2021.5-gimkl-2022a-cuda-11.6.2-hybrid",
-            "2021.6-gimkl-2020a-cuda-11.6.2-hybrid-PLUMED-2.8.0",
-            "4.6.5-intel-2017a",
-            "5.1.4-intel-2017a",
-            "5.1.4-intel-2017a-PLUMED"
+            "2021.6-gimkl-2020a-cuda-11.6.2-hybrid-PLUMED-2.8.0"
         ]
     },
     "GSL": {
@@ -6403,11 +5744,9 @@
         "versions": [
             "1.6-GCCcore-9.2.0",
             "2.3-gimkl-2017a",
-            "2.3-intel-2017a",
             "2.4-GCC-7.4.0",
             "2.4-GCCcore-7.4.0",
             "2.4-GCCcore-9.2.0",
-            "2.4-iccifort-2018.1.163-GCC-7.4.0",
             "2.6",
             "2.6-GCCcore-9.2.0",
             "2.7-GCC-11.3.0",
@@ -6541,7 +5880,6 @@
         "versions": [
             "0.7.6-GCC-11.3.0",
             "0.7.6-GCCcore-9.2.0",
-            "0.7.6-gimkl-2017a",
             "121130-GCCcore-7.4.0"
         ]
     },
@@ -6694,28 +6032,6 @@
             "1.7.3-Linux_x86_64-64bit"
         ]
     },
-    "Gerris": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "20180227-gimkl-2018b"
-        ]
-    },
     "GetOrganelle": {
         "admin_list": [],
         "default": "1.7.7.0-gimkl-2022a",
@@ -6846,30 +6162,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.3.1-gimkl-2017a",
             "3.2.2-gimkl-2022a-Python-3.10.5"
-        ]
-    },
-    "Guile": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "devel"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.8.8-GCC-5.4.0"
         ]
     },
     "HDF": {
@@ -6929,7 +6222,6 @@
             "1.12.2-iimpi-2022a",
             "1.14.3-gompi-2023a",
             "1.14.3-iompi-2023a",
-            "1.8.12-gimkl-2017a",
             "1.8.12-gimpi-2020a",
             "1.8.18-gimkl-2017a",
             "1.8.18-intel-2017a"
@@ -6962,8 +6254,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.0.5-gimkl-2017a",
-            "2.1.0-gimkl-2017a",
             "2.1.0-gimkl-2018b",
             "2.2.0-gimkl-2020a",
             "2.2.1-gimkl-2020a",
@@ -7111,8 +6401,7 @@
             "1.3.2-gimkl-2017a",
             "1.8-gimkl-2017a",
             "1.8-gimkl-2018b",
-            "1.9-GCC-7.4.0",
-            "1.9-gimkl-2018b"
+            "1.9-GCC-7.4.0"
         ]
     },
     "HarfBuzz": {
@@ -7257,33 +6546,6 @@
             "50.2-GCCcore-9.2.0",
             "66.1-GCCcore-9.2.0",
             "71.1-GCC-11.3.0"
-        ]
-    },
-    "IDBA": {
-        "admin_list": [
-            {
-                "1.1.3-gimkl-2017a": "Warning: IDBA/1.1.3-gimkl-2017a is old and will soon be removed. Please let us know if you still need it, or use 'module spider IDBA-UD' (note the change of name) to find a newer version."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.1.3-gimkl-2017a"
         ]
     },
     "IDBA-UD": {
@@ -7488,26 +6750,6 @@
             "2.30.0-gimkl-2020a"
         ]
     },
-    "IVE": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "vis"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
-    },
     "ImageMagick": {
         "admin_list": [],
         "default": "7.0.9-5-GCCcore-9.2.0",
@@ -7603,7 +6845,6 @@
         "support": "",
         "versions": [
             "5.51-85.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2",
-            "5.51-85.0-gimkl-2020aPerl-5.30.1-Python-3.8.2",
             "5.61-93.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
             "5.62-94.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
             "5.63-95.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
@@ -7641,7 +6882,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.2.0-gimkl-2017a",
             "4.3.0-gimkl-2018b",
             "4.3.0-gimkl-2018b-mt",
             "4.3.0-gimkl-2020a-mt",
@@ -7829,37 +7069,15 @@
             "1.2.0-gimkl-2018b-VTune",
             "1.4.1-GCC-9.2.0-VTune",
             "1.5.1-GCC-9.2.0-VTune",
-            "1.5.1-linux-x86_64",
             "1.6.0-GCC-9.2.0-VTune",
             "1.6.2-GCC-9.2.0-VTune",
             "1.7.1-GCC-9.2.0-VTune",
             "1.7.2-GCC-11.3.0-VTune",
             "1.8.0-GCC-11.3.0-VTune",
-            "1.8.0-beta3-GCC-11.3.0-VTune",
             "1.8.5-GCC-11.3.0-VTune",
             "1.9.1-GCC-11.3.0-VTune",
             "1.9.4-GCC-11.3.0-VTune"
         ]
-    },
-    "JupyterHub": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "JupyterLab": {
         "admin_list": [
@@ -8171,7 +7389,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.0.7-beta-gimkl-2017a",
             "2.0.7-beta-gimkl-2017a.lua",
             "2.0.8-beta-GCC-9.2.0",
             "2.0.8-beta-gimkl-2018b",
@@ -8280,7 +7497,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "16Mar2018-gimkl-2017a",
             "20180316-gimkl-2017a",
             "23Jun2022-gimkl-2022a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos-EChemDID"
@@ -8461,9 +7677,7 @@
             "11.1.0-GCC-11.3.0-static",
             "14.0.6-GCC-11.3.0-static",
             "14.0.6-GCC-12.3.0-static",
-            "3.8.1-gimkl-2017a",
             "4.0.0-gimkl-2017a",
-            "5.0.1-gimkl-2017a",
             "6.0.1-GCC-5.4.0",
             "6.0.1-GCCcore-7.4.0",
             "9.0.0-GCCcore-9.2.0"
@@ -8633,37 +7847,10 @@
         "versions": [
             "4.0.10-GCCcore-7.4.0",
             "4.0.10-GCCcore-9.2.0",
-            "4.0.10-gimkl-2017a",
             "4.0.7-gimkl-2017a",
             "4.4.0-GCCcore-11.3.0",
             "4.4.0-GCCcore-12.3.0",
             "4.5.1-GCCcore-12.3.0"
-        ]
-    },
-    "Libav": {
-        "admin_list": [
-            {
-                "11.12-gimkl-2017a": "Warning: Libav/11.12-gimkl-2017a is old and will soon be removed. Please use FFmpeg instead."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "vis"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "11.12-gimkl-2017a"
         ]
     },
     "Libint": {
@@ -8693,7 +7880,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.1.6-gimkl-2017a",
             "2.6.0-iimpi-2020a-lmax-6-cp2k",
             "2.6.0-iimpi-2022a-lmax-6-cp2k"
         ]
@@ -8748,28 +7934,6 @@
         "versions": [
             "2.16-GCC-12.3.0",
             "2.9-GCCcore-9.2.0"
-        ]
-    },
-    "Loki": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.1.7-gimkl-2017a"
         ]
     },
     "LongStitch": {
@@ -9201,7 +8365,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "14.137-gimkl-2017a",
             "14.137-gimkl-2018b",
             "14.137-gimkl-2020a"
         ]
@@ -9344,8 +8507,6 @@
             "5.1.0-GCC-7.4.0",
             "5.1.0-GCCcore-9.2.0",
             "5.1.0-gimkl-2017a",
-            "5.1.0-gimkl-2017a-32bitIDX",
-            "5.1.0-intel-2017a",
             "5.1.0-intel-2018b",
             "5.1.0-intel-2020a",
             "5.1.0-intel-2022a"
@@ -9375,32 +8536,6 @@
             "13-45111-gimpi-2020a",
             "14-7e284-gimpi-2022a",
             "15-6f452-gompi-2023a"
-        ]
-    },
-    "MOB-suite": {
-        "admin_list": [
-            {
-                "3.0.3-Miniconda3": "Warning: MOB-suite/3.0.3-Miniconda3 is old and marked for deletion. If you still need it, then please let us know."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "3.0.3-Miniconda3"
         ]
     },
     "MODFLOW": {
@@ -9455,24 +8590,6 @@
             "4.1.0-GCC-11.3.0"
         ]
     },
-    "MPICH": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
-    },
     "MSMC": {
         "admin_list": [
             {
@@ -9526,10 +8643,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.10.0-gimkl-2017a-metis-4.0.3",
             "4.10.0-gimkl-2020a",
             "4.10.0-gimkl-2020a-metis-4.0.3",
-            "5.0.2-gimkl-2017a-parmetis",
             "5.3.1-gimkl-2020a-METIS-5.1.0",
             "5.5.0-gimkl-2022a",
             "5.6.1-foss-2023a",
@@ -9561,7 +8676,6 @@
         "support": "",
         "versions": [
             "3.23-GCC-9.2.0",
-            "3.23-gimkl-2017a",
             "3.23-gimkl-2018b",
             "4.0.0rc1-GCCcore-11.3.0",
             "4.0.0rc1-GCCcore-9.2.0"
@@ -9647,7 +8761,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.2.8-gimkl-2017a",
             "3.3.1-gimkl-2018b",
             "3.3.4-gimkl-2018b",
             "3.4.1-gimkl-2020a",
@@ -9750,7 +8863,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.1-gimkl-2017a",
             "2.1-gimkl-2018b",
             "2.2-GCC-9.2.0",
             "2.3-GCC-11.3.0",
@@ -9855,32 +8967,6 @@
             "2.2.7-GCC-11.3.0-Perl-5.34.1"
         ]
     },
-    "Meraculous": {
-        "admin_list": [
-            {
-                "2.2.6-gimkl-2017a": "Warning: Meraculous/2.2.6-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of Meraculous to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.2.6-gimkl-2017a"
-        ]
-    },
     "Merqury": {
         "admin_list": [],
         "default": "1.3-Miniconda3",
@@ -9923,7 +9009,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "18.1.8-GCC-5.4.0",
             "18.3.4-GCCcore-7.4.0",
             "19.2.1-GCCcore-9.2.0"
         ]
@@ -10107,33 +9192,6 @@
             "0.5.4-gimkl-2018b-Python-2.7.16"
         ]
     },
-    "MetaVelvet": {
-        "admin_list": [
-            {
-                "1.2.01-gimkl-2017a": "Warning: MetaVelvet/1.2.01-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of MetaVelvet to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.2.01-gimkl-2017a"
-        ]
-    },
     "Metashape": {
         "admin_list": [
             {
@@ -10185,7 +9243,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.1.3-gimkl-2017a",
             "2.2-gimkl-2020a",
             "2.2.2-gimkl-2020a",
             "2.2.3-gimkl-2022a"
@@ -10268,10 +9325,7 @@
             "22.11.1-1",
             "23.10.0-1",
             "4.10.3",
-            "4.11.0",
             "4.12.0",
-            "4.4.10",
-            "4.5.12",
             "4.7.10",
             "4.8.2",
             "4.8.3",
@@ -10475,7 +9529,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2012.1.27-intel-2017a",
             "mpp-2015.1.25.linux_x86_64_openmp",
             "mpp-2019.2.2.linux_x86_64_openmp"
         ]
@@ -10580,35 +9633,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.39.5-gimkl-2017a",
             "1.41.0-gimkl-2018b-Python-2.7.16"
-        ]
-    },
-    "MotionCorr": {
-        "admin_list": [
-            {
-                "2.1-gimkl-2017a": "Warning: MotionCorr/2.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of MotionCorr to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.1-gimkl-2017a"
         ]
     },
     "MrBayes": {
@@ -10635,7 +9660,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.2.6-gimkl-2017a",
             "3.2.7-gimpi-2022a"
         ]
     },
@@ -10685,7 +9709,6 @@
             "1.12-gimkl-2020a-Python-3.9.9",
             "1.13-gimkl-2022a-Python-3.10.5",
             "1.24.1-foss-2023a-Python-3.11.6",
-            "1.5-gimkl-2017a-Python-3.6.3",
             "1.5-gimkl-2018b-Python-3.7.3",
             "1.7-gimkl-2018b-Python-3.7.3",
             "1.9-gimkl-2020a-Python-3.8.2"
@@ -10717,8 +9740,6 @@
         "support": "",
         "versions": [
             "2.12-gimkl-2017a-cuda",
-            "2.12-gimkl-2017a-mpi",
-            "2.12-gimkl-2017a-mpi-smp",
             "2.14-gimkl-2022a-cuda",
             "2.14-gimkl-2022a-mpi"
         ]
@@ -10749,33 +9770,6 @@
             "2.15.05"
         ]
     },
-    "NCARG": {
-        "admin_list": [
-            {
-                "6.4.0-gimkl-2017a": "Warning: NCARG/6.4.0-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of NCARG to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "vis",
-            "visualisation"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "6.4.0-gimkl-2017a"
-        ]
-    },
     "NCCL": {
         "admin_list": [
             {
@@ -10804,9 +9798,6 @@
             "2.16.5-CUDA-11.8.0",
             "2.17.1-CUDA-12.0.0",
             "2.4.7-CUDA-10.1.243",
-            "2.4.8-cuda-10.0.130",
-            "2.4.8-cuda-10.1.243",
-            "2.6.4",
             "2.6.4-CUDA-10.2.89",
             "2.7.8-CUDA-11.0.2",
             "2.8.4-CUDA-11.2.0"
@@ -10836,8 +9827,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "6.6.2-foss-2023a",
-            "6.6.2-intel-2018b"
+            "6.6.2-foss-2023a"
         ]
     },
     "NCO": {
@@ -11051,7 +10041,6 @@
         "versions": [
             "21.1-GCC-9.2.0-CUDA-11.2.0",
             "21.7-GCC-9.2.0-CUDA-11.4.1",
-            "21.9-GCC-11.2.0-CUDA-11.4.1",
             "21.9-GCC-11.3.0-CUDA-11.4.1",
             "22.3-GCC-11.3.0-CUDA-11.6.2",
             "23.5-CUDA-12.1.1",
@@ -11083,8 +10072,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16",
-            "6.8.revision47-gimkl-2017a-2017-12-14-Python-2.7.14"
+            "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16"
         ]
     },
     "NanoComp": {
@@ -11257,7 +10245,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.5.5-GCC-11.2.0",
             "0.5.5-GCC-11.3.0"
         ]
     },
@@ -11520,7 +10507,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.6.1-GCC-5.4.0",
             "1.8.2-GCCcore-7.4.0"
         ]
     },
@@ -11569,62 +10555,6 @@
             "2.2-GCCcore-9.2.0"
         ]
     },
-    "Octave": {
-        "admin_list": [
-            {
-                "4.2.0-gimkl-2017a": "Warning: Octave/4.2.0-gimkl-2017a is obsolete and will soon be removed, so please select a more recent version (try 'module spider Octave')."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "engineering",
-            "math",
-            "mathematics"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.2.0-gimkl-2017a",
-            "6.3.0-gimkl-2020a"
-        ]
-    },
-    "Octopus": {
-        "admin_list": [
-            {
-                "7.3-gimkl-2017a": "Warning: Octopus/7.3-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of Octopus to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "chem",
-            "chemistry"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "7.3-gimkl-2017a"
-        ]
-    },
     "OpenBLAS": {
         "admin_list": [
             {
@@ -11651,7 +10581,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.3.20-GCC-11.2.0",
             "0.3.20-GCC-11.3.0",
             "0.3.23-GCC-12.3.0",
             "0.3.23-intel-compilers-2023.2.1",
@@ -11684,35 +10613,6 @@
             "2.4.1-GCC-7.4.0"
         ]
     },
-    "OpenCMISS": {
-        "admin_list": [
-            {
-                "develop-191015-gimkl-2017a-Python-3.6.3": "Warning: OpenCMISS/develop-191015-gimkl-2017a-Python-3.6.3 is obsolete and will soon be removed, so please select a more recent version (try 'module spider OpenCMISS')."
-            },
-            {
-                "develop-intel-2020a-Python-3.8": "Warning: OpenCMISS/develop-intel-2020a-Python-3.8 is old and will soon be deleted. Please let us know if you still need it."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "cae"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "develop-191015-gimkl-2017a-Python-3.6.3"
-        ]
-    },
     "OpenCV": {
         "admin_list": [
             {
@@ -11740,9 +10640,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.4.0-gimkl-2017a-Python-2.7.14",
             "3.4.1-GCC-7.4.0",
-            "3.4.1-gimkl-2017a",
             "3.4.1-gimkl-2020a",
             "3.4.7-gimkl-2020a"
         ]
@@ -11809,9 +10707,7 @@
             "5.0-gimkl-2018b",
             "6-gimkl-2018b",
             "8-gimkl-2020a",
-            "v1706-gimkl-2017a",
             "v1706-gimkl-2018b",
-            "v1712-gimkl-2017a",
             "v1812-gimkl-2018b",
             "v1812-gimkl-2018b-libAcoustics",
             "v1906-gimkl-2018b",
@@ -11869,7 +10765,6 @@
             "2.1.6-GCC-7.4.0-CUDA-10.0.130",
             "3.1.4-GCC-9.2.0",
             "4.1.1-GCC-9.2.0",
-            "4.1.3-GCC-11.2.0",
             "4.1.3-GCC-11.3.0",
             "4.1.3-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2",
             "4.1.5-GCC-12.3.0",
@@ -11897,7 +10792,6 @@
         "versions": [
             "1.1",
             "1.1.0e-gimkl-2017a",
-            "1.1.1k-GCCcore-11.2.0",
             "1.1.1k-GCCcore-11.3.0",
             "1.1.1k-GCCcore-12.3.0",
             "1.1.1k-GCCcore-9.2.0"
@@ -11937,9 +10831,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.5.0-r6536-gimkl-2017a",
-            "2.5.0-r6537-gimkl-2017a",
-            "2.5.0-r6635-Arman-gimkl-2017a",
             "20220411-gimkl-2020a",
             "3.0.0-gimkl-2017a",
             "3.2.0-gimkl-2020a",
@@ -12166,36 +11057,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "5.4.3-intel-2017a",
             "5.7.0-intel-2020a",
             "6.0.0-GCCcore-9.2.0"
-        ]
-    },
-    "PBJelly": {
-        "admin_list": [
-            {
-                "15.8.24-gimkl-2017a-Python-2.7.14": "Warning: PBJelly/15.8.24-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of PBJelly to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "15.8.24-gimkl-2017a-Python-2.7.14"
         ]
     },
     "PCRE": {
@@ -12340,50 +11203,6 @@
             "3.9.3-gimkl-2018b"
         ]
     },
-    "PFFT": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "numlib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.0.8-alpha-gimkl-2017a"
-        ]
-    },
-    "PGI": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "compiler"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "19.10-GCC-9.2.0-2.32"
-        ]
-    },
     "PHASIUS": {
         "admin_list": [],
         "default": "0.1.0d-GCC-11.3.0",
@@ -12426,7 +11245,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.09b3.32",
             "1.09b6.16",
             "2.00a2.3"
         ]
@@ -12465,8 +11283,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.3.0-gimkl-2017a",
-            "2.3.5-intel-2017a",
             "2.6.2-gimkl-2020a",
             "2.6.2-intel-2020a",
             "2.7.2-intel-2022a",
@@ -12660,12 +11476,9 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "5.3.0-gimkl-2017a",
-            "5.4.1-gimkl-2017a-Python-2.7.14",
             "5.4.1-gimkl-2018b-Python-2.7.16",
             "5.4.1-gimpi-2018b",
             "5.6.0-gimkl-2018b-Python-3.7.3",
-            "5.6.0-gimpi-2017a-Server-OSMesa",
             "5.6.0-gimpi-2018b",
             "5.9.0-gimkl-2020a-Python-3.8.2"
         ]
@@ -12716,32 +11529,6 @@
         "support": "",
         "versions": [
             "2.5.4-intel-2020a"
-        ]
-    },
-    "Paraver": {
-        "admin_list": [
-            {
-                "4.9.0-GCC-9.2.0": "Warning: Paraver/4.9.0-GCC-9.2.0 is old and marked for deletion. If you still need it, then please let us know."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "perf"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.9.0-GCC-9.2.0"
         ]
     },
     "Peregrine": {
@@ -13045,12 +11832,10 @@
         "support": "",
         "versions": [
             "5.24.1-gimkl-2017a",
-            "5.24.1-gimkl-2017a-mt",
             "5.28.1-gimkl-2018b",
             "5.28.1-gimkl-2018b-mt",
             "5.30.1-GCC-9.2.0",
             "5.30.1-GCC-9.2.0-mt",
-            "5.34.1-GCC-11.2.0",
             "5.34.1-GCC-11.3.0",
             "5.38.2-GCC-12.3.0"
         ]
@@ -13079,7 +11864,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.3.20180214-gimkl-2017a",
             "3.3.20211231-gimpi-2022a"
         ]
     },
@@ -13356,8 +12140,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.12-gimkl-2017a-Python-3.6.3",
-            "4.12.3-gimkl-2018b-Python-3.7.3",
             "5.10.1-gimkl-2018b-Python-3.7.3",
             "5.12.1-gimkl-2018b-Python-2.7.16",
             "5.12.1-gimkl-2020a-Python-3.8.2"
@@ -13518,7 +12300,6 @@
         "versions": [
             "2.7.14-gimkl-2017a",
             "2.7.16-gimkl-2018b",
-            "2.7.16-intel-2018b",
             "2.7.18-gimkl-2020a",
             "3.10.5-gimkl-2022a",
             "3.11.3-gimkl-2022a",
@@ -13528,36 +12309,8 @@
             "3.8.1-gimkl-2018b",
             "3.8.2-gimkl-2020",
             "3.8.2-gimkl-2020a",
-            "3.9.4-gimkl-2020a",
             "3.9.5-gimkl-2020a",
             "3.9.9-gimkl-2020a"
-        ]
-    },
-    "Python-GPU": {
-        "admin_list": [
-            {
-                "3.6.3-gimkl-2017a": "Warning: Python-GPU/3.6.3-gimkl-2017a is a deprecated environment module which will soon be removed. Please let us know if you still need it."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "math",
-            "mathematics"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "3.6.3-gimkl-2017a"
         ]
     },
     "Python-Geo": {
@@ -13598,11 +12351,9 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.7.14-gimkl-2017a",
             "2.7.16-gimkl-2018b",
             "3.10.5-gimkl-2022a",
             "3.11.3-gimkl-2022a",
-            "3.6.3-gimkl-2017a",
             "3.7.3-gimkl-2018b",
             "3.8.2-gimkl-2020",
             "3.8.2-gimkl-2020a",
@@ -13686,10 +12437,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2018.2",
-            "2019.1",
-            "2019.10",
-            "2019.4",
             "2020.11",
             "2020.2",
             "2020.6",
@@ -13732,8 +12479,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.4-gimkl-2017a",
-            "5.0.2-gimkl-2017a",
             "5.0.2-gimkl-2018b",
             "5.2.0-foss-2023a",
             "5.2.0-gimkl-2022a"
@@ -13769,8 +12514,7 @@
             "5.11.2-GCCcore-7.4.0",
             "5.12.3-GCCcore-7.4.0",
             "5.12.3-GCCcore-9.2.0",
-            "5.13.2-GCCcore-9.2.0",
-            "5.9.3-gimkl-2017a"
+            "5.13.2-GCCcore-9.2.0"
         ]
     },
     "QuantumESPRESSO": {
@@ -13800,8 +12544,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "5.2.0-intel-2017a",
-            "5.2.0-intel-2017a-hybrid",
             "6.8-intel-2020a",
             "7.2-intel-2022a"
         ]
@@ -14222,8 +12964,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.4.2-gimkl-2017a",
-            "3.5.0-gimkl-2017a",
             "3.5.3-gimkl-2018b",
             "3.6.1-gimkl-2018b",
             "3.6.2-gimkl-2020a",
@@ -14780,7 +13520,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.08-GCC-5.4.0",
             "1.08-GCC-9.2.0"
         ]
     },
@@ -14905,7 +13644,6 @@
         "versions": [
             "2.10.0-GCC-9.2.0",
             "2.14.1-GCC-12.3.0",
-            "2.6.0-gimkl-2017a",
             "2.9.0-GCC-7.4.0"
         ]
     },
@@ -14981,7 +13719,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "6.10.08-gimkl-2017a",
             "6.16.00-GCC-7.4.0"
         ]
     },
@@ -15012,7 +13749,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.3.1-gimkl-2017a",
             "1.3.3-gimkl-2020a",
             "1.3.3-gimkl-2022a"
         ]
@@ -15095,7 +13831,6 @@
             "1.4.13-GCC-9.2.0",
             "1.4.21-GCC-7.4.0-CUDA-11.2.0-hybrid",
             "1.4.21-GCC-9.2.0-CUDA-11.2.0-hybrid",
-            "1.5.0-GCC-11.2.0",
             "1.5.0-GCC-11.3.0"
         ]
     },
@@ -15247,12 +13982,9 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.0.3-gimkl-2017a",
             "2.0.3-gimkl-2017a.lua",
-            "2.1-gimkl-2017a",
             "2.1-gimkl-2017a.lua",
             "3.0beta-gimkl-2017a",
-            "3.0beta-gimkl-2017a-GPU",
             "4.0.1-gimkl-2020a"
         ]
     },
@@ -15280,7 +14012,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.0.7-gimkl-2017a",
             "4.1.0-gimkl-2018b",
             "4.1.0-gimkl-2020a",
             "4.1.0-gimkl-2020a-Dfam-3.2"
@@ -15336,9 +14067,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.0.5-GCC-9.2.0",
-            "1.0.5-GCC-9.2.0-Perl-5.30.1-mt",
-            "1.0.5-gimkl-2017a"
+            "1.0.5-GCC-9.2.0-Perl-5.30.1-mt"
         ]
     },
     "Riskscape": {
@@ -15401,26 +14130,6 @@
             "3.13.0-gimkl-2020a"
         ]
     },
-    "Rose": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "geo"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
-    },
     "Rosetta": {
         "admin_list": [],
         "default": "3.13-gimkl-2022a",
@@ -15441,33 +14150,6 @@
         "support": "",
         "versions": [
             "3.13-gimkl-2022a"
-        ]
-    },
-    "Rstudio": {
-        "admin_list": [
-            {
-                "1.1.456": "Warning: Rstudio/1.1.456 is old and will soon be deleted. Instead please see https://support.nesi.org.nz/hc/en-gb/articles/360004337836-RStudio-via-Jupyter-on-NeSI"
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lang",
-            "language"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.1.456"
         ]
     },
     "Ruby": {
@@ -15540,7 +14222,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.5.1-gimkl-2017a",
             "2.6.1-gimkl-2018b",
             "3.0.1-GCC-11.3.0"
         ]
@@ -15571,9 +14252,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.46.0-gimkl-2020a",
-            "1.59.0-GCCcore-9.2.0",
-            "1.60.0-GCC-11.2.0",
             "1.60.0-GCC-11.3.0",
             "1.66.1-GCC-11.3.0",
             "1.73.0-GCC-12.3.0",
@@ -15638,7 +14316,6 @@
         "versions": [
             "0.1.18-gimkl-2017a",
             "0.1.18-gimkl-2018b",
-            "0.1.19-GCCcore-11.2.0",
             "0.1.19-GCCcore-11.3.0",
             "0.1.19-GCCcore-12.3.0",
             "0.1.19-GCCcore-7.4.0",
@@ -15654,8 +14331,7 @@
             "1.3.1-gimkl-2017a",
             "1.8-gimkl-2017a",
             "1.8-gimkl-2018b",
-            "1.9-GCC-7.4.0",
-            "1.9-gimkl-2018b"
+            "1.9-GCC-7.4.0"
         ]
     },
     "SAS": {
@@ -15859,7 +14535,6 @@
         "versions": [
             "4.19.15-gimkl-2018b-Python-3.7.3",
             "4.19.15-gimkl-2020a-Python-3.8.2",
-            "4.19.2-gimkl-2017a-Python-3.6.3",
             "4.19.8-gimkl-2018b-Python-3.7.3",
             "4.19.8-gimkl-2020a-Python-3.8.2"
         ]
@@ -15909,28 +14584,6 @@
             "8.0.0.80529-cli-tools-only"
         ]
     },
-    "SNVoter": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.0"
-        ]
-    },
     "SNVoter-NanoMethPhase": {
         "admin_list": [],
         "default": "1.0",
@@ -15951,29 +14604,6 @@
         "support": "",
         "versions": [
             "1.0"
-        ]
-    },
-    "SOAPdenovo2": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "r240-gimkl-2017a"
         ]
     },
     "SOCI": {
@@ -16030,7 +14660,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.11.1-gimkl-2017a",
             "3.13.1-gimkl-2018b",
             "3.14.0-gimkl-2020a",
             "3.15.0-gimkl-2020a",
@@ -16089,7 +14718,6 @@
             "3.25.3",
             "3.27.2-GCCcore-7.4.0",
             "3.31.1-GCCcore-9.2.0",
-            "3.36.0-GCCcore-11.2.0",
             "3.36.0-GCCcore-11.3.0",
             "3.42.0-GCCcore-12.3.0"
         ]
@@ -16146,7 +14774,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.5.4b-gimkl-2017a",
             "2.7.0e-gimkl-2017a",
             "2.7.10b-GCC-11.3.0-alpha",
             "2.7.5c-GCC-9.2.0",
@@ -16214,7 +14841,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.0.0-gimkl-2017a",
             "4.1.0-gimkl-2018b",
             "5.5.0-gimkl-2020a",
             "5.7.0-gimkl-2020a",
@@ -16294,10 +14920,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.11.3-gimkl-2017a",
             "0.13.1-gimkl-2018b",
             "0.14.0-gimkl-2018b",
-            "0.8.2-gimkl-2017a",
             "1.3.0-gimkl-2020a",
             "1.4.0-gimkl-2020a",
             "1.5.1-gimkl-2020a",
@@ -16331,7 +14955,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.6.5-gimkl-2017a",
             "0.7.1",
             "0.8.0"
         ]
@@ -16358,54 +14981,6 @@
             "2.1.0-gompi-2022a",
             "2.2.0-gompi-2023a-fb",
             "2.2.0-iompi-2023a-fb"
-        ]
-    },
-    "Scalasca": {
-        "admin_list": [
-            {
-                "2.5-gimpi-2020a": "Warning: Scalasca/2.5-gimpi-2020a is old and marked for deletion. If you still need it, then please let us know."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "perf"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.5-gimpi-2020a"
-        ]
-    },
-    "Score-P": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "perf"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "6.0-gimpi-2020a"
         ]
     },
     "SeisSol": {
@@ -16514,32 +15089,6 @@
             "2.4.0"
         ]
     },
-    "SeqMonk": {
-        "admin_list": [
-            {
-                "1.44.0-gimkl-2017a": "Warning: SeqMonk/1.44.0-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of SeqMonk to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.44.0-gimkl-2017a"
-        ]
-    },
     "SiBELia": {
         "admin_list": [],
         "default": "3.0.7",
@@ -16591,37 +15140,9 @@
         "versions": [
             "4.0.1-intel-2017a",
             "4.1-b4-intel-2020a",
-            "4.1-b4-intel-2020a-debug",
-            "4.1-b4-intel-2020a-debug-noopt",
             "4.1.5-intel-2022a",
             "5.0.0-beta1-foss-2023a",
             "5.0.0-foss-2023a"
-        ]
-    },
-    "Siesta-Optical": {
-        "admin_list": [
-            {
-                "1.0.0-intel-2017a": "Warning: Siesta-Optical/1.0.0-intel-2017a is old and will soon be removed. Please let us know if you would like a new version of Siesta-Optical to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "phys"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.0.0-intel-2017a"
         ]
     },
     "SignalP": {
@@ -16711,10 +15232,6 @@
             "3.10.3",
             "3.11.0",
             "3.11.3",
-            "3.2.0",
-            "3.2.1",
-            "3.3.0",
-            "3.4.0",
             "3.5.2",
             "3.6.1",
             "3.6.4",
@@ -16929,9 +15446,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.46-gimkl-2017a",
-            "2.0b-gimkl-2017a",
-            "2.2-gimkl-2017a",
             "2.4-gimkl-2018b",
             "2.41-gimkl-2018b",
             "2.52-gimkl-2020a",
@@ -17017,7 +15531,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.5.3-gimkl-2017a",
             "2.0.0-GCC-9.2.0",
             "2.0.3-GCC-11.3.0",
             "2.0.6-GCC-12.3.0",
@@ -17099,7 +15612,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "5.2.1-gimkl-2017a",
             "5.2.1-gimkl-2020a"
         ]
     },
@@ -17237,7 +15749,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://github.com/Gaius-Augustus/TSEBRA",
-        "last_updated": 1684824322,
+        "last_updated": 1728961945,
         "licence_type": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/TSEBRA/1.1.0-gimkl-2022a-Python-3.10.5.lua",
         "modulefile_text": "",
@@ -17245,7 +15757,8 @@
         "support": "",
         "versions": [
             "1.1.0-gimkl-2022a-Python-3.10.5",
-            "1.1.1-gimkl-2022a-Python-3.11.3"
+            "1.1.1-gimkl-2022a-Python-3.11.3",
+            "1.1.2.5-gimkl-2022a-Python-3.11.3"
         ]
     },
     "TURBOMOLE": {
@@ -17320,26 +15833,6 @@
             "8.6.9-GCCcore-7.4.0"
         ]
     },
-    "TensorBoard": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
-    },
     "TensorFlow": {
         "admin_list": [
             {
@@ -17392,8 +15885,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.10.1-gimkl-2017a-Python-3.6.3",
-            "2.0.0-gimkl-2018b-Python-3.7.3",
             "2.0.1-gimkl-2018b-Python-3.8.1",
             "2.13.0-gimkl-2022a-Python-3.11.3",
             "2.2.0-gimkl-2018b-Python-3.8.1",
@@ -17423,8 +15914,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "7.0.0.11-gimkl-2017a-Python-2.7.14",
-            "7.0.0.11-gimkl-2018b-Python-2.7.16",
             "7.0.0.11-gimkl-2018b-Python-3.7.3",
             "8.6.1.6-gimkl-2022a-Python-3.11.3-CUDA-11.8.0"
         ]
@@ -17484,33 +15973,6 @@
             "8.6.9-GCCcore-7.4.0"
         ]
     },
-    "TopHat": {
-        "admin_list": [
-            {
-                "2.1.1-gimkl-2017a": "Warning: TopHat/2.1.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of TopHat to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.1.1-gimkl-2017a"
-        ]
-    },
     "TransDecoder": {
         "admin_list": [],
         "default": "5.5.0-GCC-9.2.0-Perl-5.30.1",
@@ -17534,24 +15996,6 @@
             "5.7.1-GCC-11.3.0-Perl-5.34.1"
         ]
     },
-    "Transrate": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
-    },
     "TreeMix": {
         "admin_list": [],
         "default": "1.13-GCC-11.3.0",
@@ -17572,28 +16016,6 @@
         "support": "",
         "versions": [
             "1.13-GCC-11.3.0"
-        ]
-    },
-    "Trilinos": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "numlib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "12.12.1-gimkl-2018b-Python-3.7.3"
         ]
     },
     "TrimGalore": {
@@ -17620,7 +16042,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.4.5-gimkl-2017a",
             "0.6.10-gimkl-2022a-Python-3.11.3-Perl-5.34.1",
             "0.6.4-gimkl-2018b",
             "0.6.7-gimkl-2020a-Python-3.8.2-Perl-5.30.1"
@@ -17679,8 +16100,6 @@
             "2.11.0-gimkl-2020a",
             "2.13.2-gimkl-2020a",
             "2.14.0-gimkl-2022a",
-            "2.5.1-gimkl-2017a",
-            "2.8.4-gimkl-2017a",
             "2.8.4-gimkl-2017a.lua",
             "2.8.4-gimkl-2018b",
             "2.8.5-gimkl-2018b",
@@ -17763,9 +16182,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.1.12-gimkl-2017a-Python-3.6.3",
             "1.2.10-gimkl-2020a-Python-3.8.2",
-            "1.2.11-gimkl-2020a-Python-3.8.2",
             "1.2.4-gimkl-2018b-Python-3.7.3",
             "1.2.6-gimkl-2020a-Python-3.8.2"
         ]
@@ -17839,7 +16256,6 @@
         "support": "",
         "versions": [
             "1.10.0-GCCcore-9.2.0",
-            "1.12.1-GCC-11.2.0",
             "1.12.1-GCC-11.3.0",
             "1.12.1-GCC-11.3.0-CUDA-11.6.2",
             "1.12.1-intel-compilers-2022.0.2",
@@ -17974,14 +16390,8 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.6-gimkl-2017a",
             "4.6-gimkl-2020a",
-            "5.3.5-intel-2017a",
-            "5.3.5-intel-2017a-VTST-BEEF",
             "5.4.4-gimkl-2022a",
-            "5.4.4-intel-2017a",
-            "5.4.4-intel-2018b",
-            "5.4.4-intel-2018b-VTST-sol",
             "5.4.4-intel-2020a",
             "6.2.1-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2",
             "6.2.1-intel-2022a-NOOMP",
@@ -18184,7 +16594,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "6.3.0-gimkl-2017a-Python-2.7.14",
             "7.1.1-gimkl-2018b-Python-2.7.16"
         ]
     },
@@ -18239,7 +16648,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.13.0-gimkl-2017a",
             "3.14.0-GCC-7.4.0",
             "3.16.1-GCC-9.2.0",
             "3.19.0-GCC-11.3.0"
@@ -18291,8 +16699,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.2.10-GCC-9.2.0",
-            "1.2.10-gimkl-2017a"
+            "1.2.10-GCC-9.2.0"
         ]
     },
     "VelvetOptimiser": {
@@ -18341,7 +16748,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.4.11-gimkl-2017a",
             "2.4.17-gimkl-2020a"
         ]
     },
@@ -18545,56 +16951,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.4.1-GCC-11.3.0",
-            "2.4.1-gimkl-2017a"
-        ]
-    },
-    "XALT": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "NeSI"
-        ]
-    },
-    "XGKS": {
-        "admin_list": [
-            {
-                "2.6.1-gimkl-2017a-uw": "Warning: XGKS/2.6.1-gimkl-2017a-uw is old and will soon be removed. Please let us know if you would like a new version of XGKS to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "vis"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.6.1-gimkl-2017a-uw"
+            "2.4.1-GCC-11.3.0"
         ]
     },
     "XHMM": {
@@ -18703,7 +17060,6 @@
             "5.2.4-GCCcore-7.4.0",
             "5.2.4-GCCcore-9.2.0",
             "5.2.4-intel-2018b",
-            "5.2.5-GCCcore-11.2.0",
             "5.2.5-GCCcore-11.3.0",
             "5.4.2-GCCcore-12.3.0"
         ]
@@ -18735,7 +17091,6 @@
         "support": "",
         "versions": [
             "3.1.1-GCCcore-9.2.0",
-            "3.1.4-gimkl-2017a",
             "3.2.2-GCCcore-7.4.0",
             "3.2.3-GCCcore-9.2.0"
         ]
@@ -18761,36 +17116,6 @@
         "versions": [
             "0.6.2-gimpi-2020a",
             "0.9.3.1-gimpi-2022a"
-        ]
-    },
-    "Yade": {
-        "admin_list": [
-            {
-                "1.20.0-gimkl-2017a-Python-2.7.14": "Warning: Yade/1.20.0-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of Yade to be installed."
-            },
-            {
-                "2018.02b-gimkl-2017a-Python-2.7.14": "Warning: Yade/2018.02b-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of Yade to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "devel"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.20.0-gimkl-2017a-Python-2.7.14",
-            "2018.02b-gimkl-2017a-Python-2.7.14"
         ]
     },
     "Yasm": {
@@ -18869,7 +17194,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.2.5-gimkl-2017a",
             "4.3.2-GCCcore-9.2.0",
             "4.3.2-gimkl-2018b",
             "4.3.4-GCCcore-11.3.0",
@@ -18896,29 +17220,6 @@
         "support": "",
         "versions": [
             "3.0-GCCcore-9.2.0"
-        ]
-    },
-    "Zonation": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "earth_science",
-            "geo"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.0.0"
         ]
     },
     "abritamr": {
@@ -18965,7 +17266,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.923-gimkl-2017a",
             "0.935-GCC-9.2.0"
         ]
     },
@@ -19019,10 +17319,7 @@
         "support": "",
         "versions": [
             "5.1.2-gimkl-2020a-Python-3.8.2",
-            "6.0.0-gimkl-2020a-Python-3.9.5",
-            "6.0.1-gimkl-2020a-Python-3.8.2",
-            "6.0.1-gimkl-2020a-Python-3.9.5",
-            "7.0.0-gimkl-2022a-Python-3.11.3"
+            "6.0.1-gimkl-2020a-Python-3.8.2"
         ]
     },
     "any2fasta": {
@@ -19072,7 +17369,6 @@
         "support": "",
         "versions": [
             "2.13-GCC-11.3.0",
-            "2.13-gimkl-2017a",
             "2.13-gimkl-2020a"
         ]
     },
@@ -19095,7 +17391,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.36.0-GCCcore-11.2.0",
             "1.36.0-GCCcore-11.3.0"
         ]
     },
@@ -19125,7 +17420,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.4.0-gimkl-2017a",
             "3.6.3-gimkl-2020a",
             "3.6.3-intel-2017a",
             "3.6.3-intel-2020a",
@@ -19344,7 +17638,7 @@
     },
     "binutils": {
         "admin_list": [],
-        "default": "2.27-GCCcore-6.3.0",
+        "default": "2.26-GCCcore-5.4.0",
         "default_type": "latest",
         "description": "binutils: GNU binary utilities",
         "domains": [
@@ -19356,12 +17650,11 @@
         "homepage": "http://directory.fsf.org/project/binutils/",
         "last_updated": 1697609966,
         "licence_type": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/binutils/2.27-GCCcore-6.3.0.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/binutils/2.26-GCCcore-5.4.0.lua",
         "modulefile_text": "",
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.26-GCCcore-5.4",
             "2.26-GCCcore-5.4.0",
             "2.27-GCCcore-6.3.0",
             "2.28-GCCcore-7.1.0",
@@ -19370,7 +17663,6 @@
             "2.32-GCCcore-9.2.0",
             "2.34-GCCcore-9.2.0",
             "2.38",
-            "2.38-GCCcore-11.2.0",
             "2.38-GCCcore-11.3.0",
             "2.40",
             "2.40-GCCcore-12.3.0"
@@ -19397,53 +17689,6 @@
         "versions": [
             "1.0"
         ]
-    },
-    "blasr_libcpp": {
-        "admin_list": [
-            {
-                "5.3.1-gimkl-2017a": "Warning: blasr_libcpp/5.3.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of blasr_libcpp to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "5.3.1-gimkl-2017a"
-        ]
-    },
-    "branches": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            ".git"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "breseq": {
         "admin_list": [
@@ -19528,10 +17773,7 @@
         "versions": [
             "1.0.6-GCCcore-7.4.0",
             "1.0.6-gimkl-2017a",
-            "1.0.6-gimkl-2018b",
-            "1.0.6-intel-2017a",
             "1.0.6-intel-2018b",
-            "1.0.8-GCCcore-11.2.0",
             "1.0.8-GCCcore-11.3.0",
             "1.0.8-GCCcore-12.3.0",
             "1.0.8-GCCcore-9.2.0"
@@ -19556,7 +17798,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.18.1-GCCcore-11.2.0",
             "1.18.1-GCCcore-11.3.0"
         ]
     },
@@ -19897,7 +18138,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.16-gimkl-2017a-Python-3.6.3",
             "1.16-gimkl-2018b-Python-3.7.3",
             "2.10-gimkl-2020a-Python-3.8.2",
             "2.3-gimkl-2018b-Python-3.7.3",
@@ -19979,26 +18219,6 @@
         "versions": [
             "3.0.20200317203547-gimkl-2020a-Python-3.8.2"
         ]
-    },
-    "cylc": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "geo"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "cyvcf2": {
         "admin_list": [],
@@ -20086,29 +18306,6 @@
         "support": "",
         "versions": [
             "1.2"
-        ]
-    },
-    "datamash": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "math",
-            "mathematics"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.1.0"
         ]
     },
     "datasets": {
@@ -20260,7 +18457,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.3.2-gimkl-2017a-Python-3.6.3",
             "2.3.2-gimkl-2018b-Python-3.7.3",
             "3.4.2-gimkl-2022a-Python-3.10.5"
         ]
@@ -20576,7 +18772,6 @@
         "versions": [
             "2.2.0-GCC-7.4.0",
             "2.2.0-GCC-9.2.0",
-            "2.2.0-gimkl-2017a",
             "2.4.0-GCC-11.3.0",
             "2.4.0-GCC-9.2.0"
         ]
@@ -20603,7 +18798,6 @@
             "2.2.0-gimkl-2017a",
             "2.2.6-GCCcore-7.4.0",
             "2.2.9-GCCcore-9.2.0",
-            "2.4.1-GCCcore-11.2.0",
             "2.4.1-GCCcore-11.3.0",
             "2.5.0-GCCcore-12.3.0"
         ]
@@ -20632,7 +18826,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.0-gimkl-2017a-Python-2.7.14",
             "1.0-gimkl-2020a-Python-2.7.18"
         ]
     },
@@ -20916,7 +19109,6 @@
             "2.12.1-gimkl-2017a",
             "2.13.1-GCCcore-7.4.0",
             "2.13.1-GCCcore-9.2.0",
-            "2.14.0-GCCcore-11.2.0",
             "2.14.0-GCCcore-11.3.0",
             "2.14.2-GCCcore-12.3.0"
         ]
@@ -20940,7 +19132,7 @@
         "force_hide": "False",
         "force_show": "False",
         "homepage": "https://developer.arm.com/products/software-development-tools/hpc/arm-forge",
-        "last_updated": 1651114306,
+        "last_updated": 1672783956,
         "licence_type": "",
         "module_path": "/opt/nesi/share/modules/all/forge/21.1.3.lua.bk",
         "modulefile_text": "",
@@ -20950,10 +19142,8 @@
             "19.0",
             "20.0.2",
             "21.1",
-            "21.1.3",
             "21.1.3.lua",
-            "22.1",
-            "22.1.2"
+            "22.1"
         ]
     },
     "foss": {
@@ -20999,7 +19189,6 @@
         "support": "",
         "versions": [
             "2.10.1-GCCcore-9.2.0",
-            "2.11.1-GCCcore-11.2.0",
             "2.11.1-GCCcore-11.3.0",
             "2.13.2-GCCcore-12.3.0",
             "2.7.1-gimkl-2017a",
@@ -21241,8 +19430,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.0.207-foss-2023a-Python-3.11.6",
-            "0.0.208-foss-2023a-Python-3.11.6"
+            "0.0.207-foss-2023a-Python-3.11.6"
         ]
     },
     "genometools": {
@@ -21300,7 +19488,6 @@
         "versions": [
             "0.19.8-gimkl-2017a",
             "0.19.8-gimkl-2018b",
-            "0.19.8-intel-2018b",
             "0.19.8.1",
             "0.19.8.1-GCCcore-7.4.0",
             "0.21"
@@ -21648,7 +19835,6 @@
         "support": "",
         "versions": [
             "2.0.3",
-            "2.0.3-gimkl-2017a",
             "2.0.3-gimkl-2018b",
             "2.0.4"
         ]
@@ -21676,8 +19862,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.10.0-GCCcore-9.2.0",
-            "1.8.0-gimkl-2017a"
+            "1.10.0-GCCcore-9.2.0"
         ]
     },
     "gperf": {
@@ -21701,32 +19886,6 @@
         "versions": [
             "3.1",
             "3.1-GCCcore-7.4.0"
-        ]
-    },
-    "grib_api": {
-        "admin_list": [
-            {
-                "1.23.1-gimkl-2017a": "Warning: grib_api/1.23.1-gimkl-2017a is very old and will soon be deleted. If you still need it, then please let us know."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "data"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.23.1-gimkl-2017a"
         ]
     },
     "grive2": {
@@ -21953,7 +20112,6 @@
             "1.11.13",
             "2.10.0-GCC-12.3.0",
             "2.2.0-GCCcore-9.2.0",
-            "2.7.0-GCC-11.2.0",
             "2.7.0-GCC-11.3.0"
         ]
     },
@@ -22015,7 +20173,6 @@
         "versions": [
             "2017.1.132-GCC-5.4.0",
             "2017.6.256-GCC-5.4.0",
-            "2018.1.163-GCC-7.1.0",
             "2018.1.163-GCC-7.4.0"
         ]
     },
@@ -22040,7 +20197,6 @@
         "support": "",
         "versions": [
             "2017.6.256-GCC-5.4.0",
-            "2018.1.163-GCC-7.1.0",
             "2018.1.163-GCC-7.4.0",
             "2020.0.166"
         ]
@@ -22065,7 +20221,6 @@
         "support": "",
         "versions": [
             "2017.6.256-GCC-5.4.0",
-            "2018.1.163-GCC-7.1.0",
             "2018.1.163-GCC-7.4.0"
         ]
     },
@@ -22199,8 +20354,6 @@
         "versions": [
             "2017.6.256-GCC-5.4.0",
             "2017.6.256-iccifort-2017.6.256-GCC-5.4.0",
-            "2018.1.163-GCC-7.4.0",
-            "2018.1.163-iccifort-2018.1.163-GCC-7.1.0",
             "2018.1.163-iccifort-2018.1.163-GCC-7.4.0",
             "2018.4.274-GCC-7.4.0",
             "2019.6.166-GCC-9.2.0",
@@ -22208,7 +20361,6 @@
             "2019.6.166-NVHPC-21.7-GCC-9.2.0-CUDA-11.4.1",
             "2019.6.166-PGI-19.10-GCC-9.2.0-2.32",
             "2019.6.166-iccifort-2020.0.166",
-            "2021.5.1-GCC-11.2.0",
             "2021.5.1-GCC-11.3.0",
             "2021.5.1-intel-compilers-2022.0.2"
         ]
@@ -22286,26 +20438,6 @@
             "2022.0.2",
             "2023.2.1"
         ]
-    },
-    "intltool": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lang"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "iofbf": {
         "admin_list": [],
@@ -22611,7 +20743,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.43.1-gimkl-2017a",
             "0.46.2-gimkl-2020a"
         ]
     },
@@ -22711,7 +20842,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "9.0.0-GCC-5.4.0",
             "9.0.0-GCCcore-7.4.0",
             "9.0.1-GCCcore-9.2.0"
         ]
@@ -22826,32 +20956,6 @@
         "support": "",
         "versions": [
             "0.3-iimpi-2020a"
-        ]
-    },
-    "libconfig": {
-        "admin_list": [
-            {
-                "1.5-gimkl-2017a": "Warning: libconfig/1.5-gimkl-2017a is old and will soon be removed. Please let us know if you need a new version on libconfig."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.5-gimkl-2017a"
         ]
     },
     "libdeflate": {
@@ -23043,7 +21147,6 @@
             "2.2.4-gimkl-2017a",
             "2.2.5-GCCcore-7.4.0",
             "2.2.5-GCCcore-9.2.0",
-            "2.3.3-GCCcore-11.2.0",
             "2.3.3-GCCcore-11.3.0",
             "2.3.3-GCCcore-12.3.0"
         ]
@@ -23173,7 +21276,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.7.4-gimkl-2017a-CUDA-8.0.61",
             "0.7.6-GCCcore-9.2.0-CUDA-8.0.61"
         ]
     },
@@ -23250,40 +21352,8 @@
             "1.5.1-gimkl-2017a",
             "2.0.2-GCCcore-7.4.0",
             "2.0.2-GCCcore-9.2.0",
-            "2.1.3-GCCcore-11.2.0",
             "2.1.3-GCCcore-11.3.0",
             "2.1.5.1-GCCcore-12.3.0"
-        ]
-    },
-    "libmatheval": {
-        "admin_list": [
-            {
-                "1.1.11-intel-2017a": "Warning: libmatheval/1.1.11-intel-2017a is very old and wil soon be removed. If you still need it then please let us know."
-            },
-            {
-                "1.1.11-gimkl-2017a": "Warning: libmatheval/1.1.11-gimkl-2017a is old and marked for deletion. If you still need it, then please let us know."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib",
-            "mathematics"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.1.11-gimkl-2017a",
-            "1.1.11-intel-2017a"
         ]
     },
     "libpciaccess": {
@@ -23306,7 +21376,6 @@
         "support": "",
         "versions": [
             "0.16",
-            "0.16-GCCcore-11.2.0",
             "0.16-GCCcore-11.3.0",
             "0.16-GCCcore-9.2.0"
         ]
@@ -23358,9 +21427,7 @@
         "versions": [
             "1.2.58",
             "1.6.28-gimkl-2017a",
-            "1.6.28-intel-2017a",
             "1.6.36-GCCcore-7.4.0",
-            "1.6.37-GCCcore-11.2.0",
             "1.6.37-GCCcore-11.3.0",
             "1.6.37-GCCcore-9.2.0",
             "1.6.40-GCCcore-12.3.0"
@@ -23389,7 +21456,6 @@
             "6.3-gimkl-2017a",
             "8.0-GCCcore-7.4.0",
             "8.0-GCCcore-9.2.0",
-            "8.1-GCCcore-11.2.0",
             "8.1-GCCcore-11.3.0",
             "8.2-GCCcore-12.3.0"
         ]
@@ -23413,7 +21479,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.10.2-GCCcore-7.4.0",
             "2.10.2-GCCcore-7.4.0.lua"
         ]
     },
@@ -23442,7 +21507,6 @@
         "versions": [
             "4.3.0a-GCCcore-9.2.0",
             "4.3.0a-gimkl-2017a-GEOS-3.5.1",
-            "4.3.0a-gimkl-2017a-GEOS-3.6.1",
             "4.3.0a-gimkl-2018b",
             "5.0.1-GCCcore-11.3.0"
         ]
@@ -23562,7 +21626,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.2.3-gimkl-2017a",
             "4.2.3-gimkl-2017a",
             "5.1.5-intel-2020a",
             "5.1.5-intel-2022a",
@@ -23589,7 +21652,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.40.1-GCCcore-9.2.0",
             "2.40.1-GCCcore-9.2.0.lua"
         ]
     },
@@ -23613,7 +21675,6 @@
         "support": "",
         "versions": [
             "2.11.4-GCCcore-12.3.0",
-            "2.9.10-GCCcore-11.2.0",
             "2.9.10-GCCcore-11.3.0",
             "2.9.10-GCCcore-9.2.0",
             "2.9.4-gimkl-2017a",
@@ -23679,7 +21740,6 @@
             "1.16.2-gimkl-2020a",
             "1.16.2-intel-2022a",
             "1.17-GCC-12.3.0",
-            "1.6.4-gimkl-2017a",
             "1.8.3-gimkl-2017a"
         ]
     },
@@ -23804,7 +21864,6 @@
         "versions": [
             "5.5.2.11-GCC-11.3.0",
             "5.5.2.11-GCC-9.2.0",
-            "5.5.2.5-gimkl-2017a",
             "5.5.2.5-gimkl-2018b",
             "5.5.2.5-gimkl-2020a"
         ]
@@ -23903,29 +21962,6 @@
             "2.7.1-gimkl-2022a-CUDA-11.6.2"
         ]
     },
-    "make": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "devel"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "4.3",
-            "4.3-GCCcore-9.2.0"
-        ]
-    },
     "manta": {
         "admin_list": [],
         "default": "1.6.0-gimkl-2020a-Python-2.7.18",
@@ -24018,7 +22054,6 @@
             "1.11.1-Miniconda3-22.11.1-1",
             "1.4.3-Miniconda3-4.10.3",
             "1.6.0-Miniconda3-4.12.0",
-            "1.6.1-Miniconda3-4.12.0",
             "1.7.2-Miniconda3-22.11.1-1",
             "1.8.0-Miniconda3-22.11.1-1"
         ]
@@ -24186,28 +22221,6 @@
             "0.3-20191007-GCC-11.3.0"
         ]
     },
-    "minieigen": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.5.4-gimkl-2017a-Python-2.7.14"
-        ]
-    },
     "minimap2": {
         "admin_list": [
             {
@@ -24357,26 +22370,6 @@
         "versions": [
             "0.3.4-GCC-11.3.0"
         ]
-    },
-    "motif": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "vis"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "mpcci": {
         "admin_list": [],
@@ -24632,7 +22625,6 @@
         "versions": [
             "2.10.5-gimkl-2020a",
             "2.11.2-gimpi-2022a",
-            "2.7.0-gimkl-2017a",
             "2.9.3-gimkl-2018b"
         ]
     },
@@ -24660,7 +22652,6 @@
             "6.1",
             "6.1-GCCcore-7.4.0",
             "6.1-GCCcore-9.2.0",
-            "6.2-GCCcore-11.2.0",
             "6.2-GCCcore-11.3.0",
             "6.4-GCCcore-12.3.0"
         ]
@@ -24711,8 +22702,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.0.1",
-            "3.0.1-gimkl-2017a"
+            "3.0.1"
         ]
     },
     "nearline": {
@@ -24760,8 +22750,6 @@
             "4.4.1-intel-2017a",
             "4.6.2-gimpi-2018b",
             "4.6.2-iimpi-2018b",
-            "4.7.2-gimpi-2020a",
-            "4.7.2-iimpi-2020a",
             "4.7.3-gimpi-2020a",
             "4.7.3-iimpi-2020a",
             "4.8.1-gimpi-2022a",
@@ -24792,7 +22780,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.2-intel-2017a",
             "4.2-intel-2020a"
         ]
     },
@@ -24825,9 +22812,7 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "4.3.0-gimkl-2017a",
             "4.3.0-iimpi-2018b",
-            "4.3.0-intel-2017a",
             "4.3.1-gimpi-2020a",
             "4.3.1-iimpi-2020a"
         ]
@@ -24869,54 +22854,6 @@
             "4.6.1-gompi-2023a"
         ]
     },
-    "nettle": {
-        "admin_list": [
-            {
-                "3.3-gimkl-2017a": "Warning: nettle/3.3-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of nettle to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lib"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "3.3-gimkl-2017a"
-        ]
-    },
-    "networkx": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.11-gimkl-2017a-Python-2.7.14"
-        ]
-    },
     "nodejs": {
         "admin_list": [
             {
@@ -24954,8 +22891,7 @@
             "16.15.1-GCCcore-11.3.0",
             "17.8.0-GCCcore-9.2.0",
             "18.18.2-GCCcore-11.3.0",
-            "18.18.2-GCCcore-12.3.0",
-            "8.7.0-gimkl-2017a"
+            "18.18.2-GCCcore-12.3.0"
         ]
     },
     "nseg": {
@@ -24982,7 +22918,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1998-GCC-5.4.0",
             "1998-GCC-9.2.0"
         ]
     },
@@ -25051,7 +22986,6 @@
         "support": "",
         "versions": [
             "2.0.13",
-            "2.0.14-GCC-11.2.0",
             "2.0.14-GCC-11.3.0",
             "2.0.14-GCCcore-9.2.0",
             "2.0.14-intel-compilers-2022.0.2",
@@ -25115,10 +23049,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "3.4.4",
-            "3.6.0",
-            "4.2.2",
-            "4.5.3",
             "5.0.16",
             "5.0.7",
             "6.0.1",
@@ -25128,24 +23058,6 @@
             "6.4.6",
             "6.5.7"
         ]
-    },
-    "openseespy": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "padloc": {
         "admin_list": [],
@@ -25253,28 +23165,6 @@
         "support": "",
         "versions": [
             "2.8.0.1"
-        ]
-    },
-    "parallel": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "tools"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "20190622"
         ]
     },
     "parallel-fastq-dump": {
@@ -25553,33 +23443,10 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.34.0-gimkl-2017a",
             "0.38.4-GCCcore-7.4.0",
             "0.38.4-GCCcore-9.2.0",
             "0.40.0",
             "0.42.2-GCC-12.3.0"
-        ]
-    },
-    "pkg-config": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "devel"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "0.29.2-GCCcore-7.4.0"
         ]
     },
     "pod5": {
@@ -25734,33 +23601,6 @@
             "1.14.5-GCC-9.2.0"
         ]
     },
-    "proovread": {
-        "admin_list": [
-            {
-                "2.14.1-gimkl-2017a-mt": "Warning: proovread/2.14.1-gimkl-2017a-mt is old and will soon be removed. Please let us know if you would like a new version of proovread to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio",
-            "biology"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "2.14.1-gimkl-2017a-mt"
-        ]
-    },
     "protobuf": {
         "admin_list": [
             {
@@ -25795,30 +23635,7 @@
             "3.12.1-gimkl-2018b",
             "3.12.2-GCCcore-9.2.0",
             "3.14.0-GCCcore-9.2.0",
-            "3.17.3-GCCcore-9.2.0",
-            "3.6.0-gimkl-2017a"
-        ]
-    },
-    "protobuf-python": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "devel"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "3.6.0-gimkl-2017a-Python-3.6.3"
+            "3.17.3-GCCcore-9.2.0"
         ]
     },
     "psmc": {
@@ -26036,28 +23853,6 @@
         "support": "",
         "versions": [
             "2.5.0"
-        ]
-    },
-    "pyseer": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.3.11-gimkl-2022a-Python-3.11.3"
         ]
     },
     "pyspoa": {
@@ -26332,46 +24127,6 @@
             "2.2.2-gimkl-2022a"
         ]
     },
-    "rstudio": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "lang"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.3.959"
-        ]
-    },
-    "rstudio-server": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
-    },
     "rust-fmlrc": {
         "admin_list": [
             {
@@ -26399,7 +24154,6 @@
         "support": "",
         "versions": [
             "0.1.5-GCCcore-9.2.0",
-            "0.1.7-GCC-11.2.0",
             "0.1.7-GCC-11.3.0"
         ]
     },
@@ -26427,7 +24181,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.1.24-gimkl-2017a",
             "0.1.26-GCC-11.3.0",
             "0.1.26-GCC-9.2.0"
         ]
@@ -26640,7 +24393,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.7.0-gimkl-2017a-Python-3.6.3",
             "0.7.0-gimkl-2018b-Python-3.7.3",
             "0.8.4-gimkl-2020a-Python-3.8.2"
         ]
@@ -26670,7 +24422,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "1.2-gimkl-2017a",
             "1.3-GCC-11.3.0",
             "1.3-gimkl-2018b",
             "1.4-GCC-11.3.0"
@@ -26760,6 +24511,28 @@
         "versions": [
             "2.0.0-gimkl-2020a-R-4.1.0",
             "2.0.0-gimkl-2020a-R-4.1.0-Julia-1.7.1"
+        ]
+    },
+    "skani": {
+        "admin_list": [],
+        "default": "0.2.2-GCC-12.3.0",
+        "default_type": "latest",
+        "description": "accurate, fast nucleotide identity calculation for MAGs, genomes, and databases",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "force_hide": "False",
+        "force_show": "False",
+        "homepage": "https://github.com/bluenote-1577/skani",
+        "last_updated": 1729030725,
+        "licence_type": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/skani/0.2.2-GCC-12.3.0.lua",
+        "modulefile_text": "",
+        "network_licences": [],
+        "support": "",
+        "versions": [
+            "0.2.2-GCC-12.3.0"
         ]
     },
     "slow5tools": {
@@ -27069,32 +24842,6 @@
             "1.8.5-GCCcore-9.2.0"
         ]
     },
-    "spglib": {
-        "admin_list": [
-            {
-                "1.9.2-gimkl-2017a": "Warning: spglib/1.9.2-gimkl-2017a is very old and will soon be deleted. If you still need it, then please let us know."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "chem"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.9.2-gimkl-2017a"
-        ]
-    },
     "splat": {
         "admin_list": [],
         "default": "1.0",
@@ -27251,7 +24998,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2.1.9-gimkl-2017a",
             "2.2.2-GCC-9.2.0",
             "3.1.4-GCC-11.3.0"
         ]
@@ -27375,7 +25121,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "2017_U6-gimkl-2017a",
             "2019_U1-gimkl-2017a",
             "2019_U4-GCCcore-7.4.0",
             "2019_U9-GCCcore-9.2.0",
@@ -27408,24 +25153,6 @@
             "20200519-linux64",
             "20230926"
         ]
-    },
-    "test": {
-        "admin_list": [],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": []
     },
     "tmux": {
         "admin_list": [],
@@ -27681,7 +25408,6 @@
         "network_licences": [],
         "support": "",
         "versions": [
-            "0.31.1-gimkl-2017a-Python-3.6.3",
             "0.31.1-gimkl-2018b-Python-2.7.16",
             "0.31.1-gimkl-2020a-Python-2.7.18"
         ]
@@ -27777,32 +25503,6 @@
             "3.0-GCCcore-7.4.0",
             "3.2.1-GCCcore-9.2.0",
             "3.5-GCC-11.3.0"
-        ]
-    },
-    "xbitmaps": {
-        "admin_list": [
-            {
-                "1.1.1-gimkl-2017a": "Warning: xbitmaps/1.1.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of xbitmaps to be installed."
-            }
-        ],
-        "default": "latest",
-        "default_type": "latest",
-        "description": "",
-        "domains": [
-            "devel"
-        ],
-        "extensions": [],
-        "force_hide": "False",
-        "force_show": "False",
-        "homepage": "",
-        "last_updated": "0",
-        "licence_type": "",
-        "module_path": "",
-        "modulefile_text": "",
-        "network_licences": [],
-        "support": "",
-        "versions": [
-            "1.1.1-gimkl-2017a"
         ]
     },
     "xkbcommon": {
@@ -27946,8 +25646,7 @@
         "versions": [
             "0.6.2-GCCcore-7.4.0",
             "0.6.3-GCCcore-9.2.0",
-            "0.8.0-GCC-12.3.0",
-            "0.8.0-foss-2023a"
+            "0.8.0-GCC-12.3.0"
         ]
     },
     "zlib": {
@@ -27970,12 +25669,10 @@
         "support": "",
         "versions": [
             "1.2.11",
-            "1.2.11-GCCcore-11.2.0",
             "1.2.11-GCCcore-11.3.0",
             "1.2.11-GCCcore-7.4.0",
             "1.2.11-GCCcore-9.2.0",
             "1.2.11-gimkl-2017a",
-            "1.2.11-gimkl-2018b",
             "1.2.11-intel-2017a",
             "1.2.11-intel-2018b",
             "1.2.13",
