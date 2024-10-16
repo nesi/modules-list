@@ -191,6 +191,7 @@
         "homepage": "https://www.bcgsc.ca/platform/bioinfo/software/abyss",
         "support": "",
         "versions": [
+            "2.0.2-gimkl-2017a",
             "2.2.5-gimpi-2020a"
         ],
         "admin_list": [
@@ -226,6 +227,28 @@
         "last_updated": 1587706648,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ACTC/1.1-GCCcore-9.2.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "ADAM": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.30.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -417,6 +440,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Amber": {
+        "description": "",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "16-intel-2018b-AmberTools-17-patchlevel-10-15"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "AMOS": {
         "description": "Collection of tools for genome assembly",
         "domains": [
@@ -471,6 +516,9 @@
         "homepage": "https://www.continuum.io/anaconda-overview",
         "support": "",
         "versions": [
+            "2019.03",
+            "2019.03-gimkl-2018b",
+            "2019.03-gimpi-2018b",
             "2021.05-gimkl-2020a"
         ],
         "admin_list": [
@@ -487,6 +535,74 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Anaconda3-Geo": {
+        "description": "",
+        "domains": [
+            "geo"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2019.03-gimkl-2018b"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Anaconda3-Geo2": {
+        "description": "",
+        "domains": [
+            "lang"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2019.03",
+            "2019.03-gimkl-2018b",
+            "2019.03-gimpi-2018b"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Anaconda3_Geo2": {
+        "description": "",
+        "domains": [
+            "lang"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2019.03"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "angsd": {
         "description": "Program for analysing NGS data.",
         "domains": [
@@ -497,6 +613,7 @@
         "homepage": "http://www.popgen.dk/angsd",
         "support": "",
         "versions": [
+            "0.923-gimkl-2017a",
             "0.935-GCC-9.2.0"
         ],
         "admin_list": [],
@@ -800,7 +917,10 @@
         "support": "",
         "versions": [
             "5.1.2-gimkl-2020a-Python-3.8.2",
-            "6.0.1-gimkl-2020a-Python-3.8.2"
+            "6.0.0-gimkl-2020a-Python-3.9.5",
+            "6.0.1-gimkl-2020a-Python-3.8.2",
+            "6.0.1-gimkl-2020a-Python-3.9.5",
+            "7.0.0-gimkl-2022a-Python-3.11.3"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -822,8 +942,10 @@
         "homepage": "http://www.antlr2.org",
         "support": "",
         "versions": [
+            "2.7.7",
             "2.7.7-GCC-11.3.0",
-            "2.7.7-GCC-7.4.0"
+            "2.7.7-GCC-7.4.0",
+            "2.7.7-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -989,10 +1111,15 @@
         "homepage": "https://apptainer.org/",
         "support": "",
         "versions": [
+            "1.0.3",
+            "1.1.0",
+            "1.1.2",
+            "1.1.5",
             "1.1.8",
             "1.1.9",
             "1.2.2",
             "1.2.5",
+            "1.3.0",
             "1.3.1"
         ],
         "admin_list": [],
@@ -1053,6 +1180,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "ARCSI": {
+        "description": "",
+        "domains": [
+            "geo"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.15.0-gimkl-2017a-Python-3.6.3"
+        ],
+        "admin_list": [
+            {
+                "0.15.0-gimkl-2017a-Python-3.6.3": "Warning: ARCSI/0.15.0-gimkl-2017a-Python-3.6.3 is old and will soon be removed. Please let us know if you would like a new version of ARCSI to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "argtable": {
         "description": " Argtable is an ANSI C library for parsing GNU style\n command line options with a minimum of fuss. ",
         "domains": [
@@ -1064,6 +1217,7 @@
         "support": "",
         "versions": [
             "2.13-GCC-11.3.0",
+            "2.13-gimkl-2017a",
             "2.13-gimkl-2020a"
         ],
         "admin_list": [
@@ -1090,6 +1244,7 @@
         "homepage": "https://aria2.github.io",
         "support": "",
         "versions": [
+            "1.36.0-GCCcore-11.2.0",
             "1.36.0-GCCcore-11.3.0"
         ],
         "admin_list": [],
@@ -1167,6 +1322,7 @@
         "homepage": "https://github.com/opencollab/arpack-ng",
         "support": "",
         "versions": [
+            "3.4.0-gimkl-2017a",
             "3.6.3-gimkl-2020a",
             "3.6.3-intel-2017a",
             "3.6.3-intel-2020a",
@@ -1356,6 +1512,7 @@
         "support": "",
         "versions": [
             "3.2.3-gimkl-2020a",
+            "3.3.2-gimkl-2017a",
             "3.3.2-gimkl-2018b",
             "3.3.3-gimkl-2020a",
             "3.4.0-gimkl-2020a",
@@ -1369,6 +1526,28 @@
         "last_updated": 1684827222,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/AUGUSTUS/3.4.0-gimkl-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Augustus": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "3.2.3-gimkl-2017a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -1470,8 +1649,10 @@
         "homepage": "https://github.com/pezmaster31/bamtools",
         "support": "",
         "versions": [
+            "2.4.1-gimkl-2017a",
             "2.5.1-gimkl-2018b",
             "2.5.1-gimkl-2020a",
+            "2.5.2-GCC-11.2.0",
             "2.5.2-GCC-11.3.0",
             "2.5.2-GCCcore-12.3.0"
         ],
@@ -1664,6 +1845,7 @@
         "homepage": "https://bazel.io/",
         "support": "",
         "versions": [
+            "0.16.0-GCC-5.4.0",
             "0.26.1-GCCcore-7.4.0",
             "2.0.0-GCCcore-7.4.0",
             "2.0.0-GCCcore-9.2.0",
@@ -1884,6 +2066,8 @@
         "support": "",
         "versions": [
             "1.10.4-gimkl-2017a-no-beagle",
+            "1.8.4-gimkl-2017a-no-beagle",
+            "2.4.7",
             "2.5.2",
             "2.6.3",
             "2.6.6",
@@ -1922,6 +2106,7 @@
         "homepage": "https://github.com/bedops/bedops",
         "support": "",
         "versions": [
+            "2.4.30-gimkl-2017a",
             "2.4.41-gimkl-2022a"
         ],
         "admin_list": [
@@ -1949,6 +2134,7 @@
         "support": "",
         "versions": [
             "2.25.0-GCC-7.4.0",
+            "2.26.0-gimkl-2017a",
             "2.28.0-gimkl-2018b",
             "2.29.2-GCC-9.2.0",
             "2.30.0-GCC-11.3.0",
@@ -1996,6 +2182,50 @@
         "last_updated": 1713332036,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/BEEF/0.1.1-r16-intel-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Berkeley_UPC": {
+        "description": "",
+        "domains": [
+            "compiler"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2019.4.2-gimkl-2018b"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "BerkeleyGW": {
+        "description": "",
+        "domains": [
+            "phys"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.2.0-gimkl-2017a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -2102,6 +2332,7 @@
         "homepage": "http://directory.fsf.org/project/binutils/",
         "support": "",
         "versions": [
+            "2.26-GCCcore-5.4",
             "2.26-GCCcore-5.4.0",
             "2.27-GCCcore-6.3.0",
             "2.28-GCCcore-7.1.0",
@@ -2110,17 +2341,18 @@
             "2.32-GCCcore-9.2.0",
             "2.34-GCCcore-9.2.0",
             "2.38",
+            "2.38-GCCcore-11.2.0",
             "2.38-GCCcore-11.3.0",
             "2.40",
             "2.40-GCCcore-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.26-GCCcore-5.4.0",
+        "default": "2.27-GCCcore-6.3.0",
         "default_type": "latest",
         "last_updated": 1697609966,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/binutils/2.26-GCCcore-5.4.0.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/binutils/2.27-GCCcore-6.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -2192,6 +2424,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "BioConductor": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "3.5-gimkl-2017a-R-3.4.2"
+        ],
+        "admin_list": [
+            {
+                "3.5-gimkl-2017a-R-3.4.2": "Warning: BioConductor/3.5-gimkl-2017a-R-3.4.2 is very old and will soon be removed. Please try 'module spider R-bundle-BioConductor' to find a newer equivalent."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "BioPP": {
         "description": "\nBio++ is a set of C++ libraries for Bioinformatics, including sequence\nanalysis, phylogenetics, molecular evolution and population genetics. Bio++ is\nObject Oriented and is designed to be both easy to use and computer efficient.\nBio++ intends to help programmers to write computer expensive programs, by\nproviding them a set of re-usable tools.\n",
         "domains": [
@@ -2224,6 +2482,7 @@
         "homepage": "http://www.bioinformatics.babraham.ac.uk/projects/bismark/",
         "support": "",
         "versions": [
+            "0.19.0-gimkl-2017a",
             "0.22.3-gimkl-2018b",
             "0.24.0-GCC-11.3.0"
         ],
@@ -2265,6 +2524,54 @@
         "last_updated": 1551840432,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lang/Bison/3.0.4-GCC-5.4.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "BLASR": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.2-gimkl-2017a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "blasr_libcpp": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "5.3.1-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "5.3.1-gimkl-2017a": "Warning: blasr_libcpp/5.3.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of blasr_libcpp to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -2341,6 +2648,7 @@
         "versions": [
             "3.5-GCC-11.3.0",
             "3.5-GCC-9.2.0",
+            "3.5-gimkl-2017a",
             "3.5-gimkl-2018b"
         ],
         "admin_list": [
@@ -2442,7 +2750,9 @@
             "1.55.0-gimkl-2018b",
             "1.61.0-GCCcore-7.4.0",
             "1.61.0-gimkl-2017a",
+            "1.61.0-gimkl-2017a-Python-2.7.14",
             "1.61.0-gimkl-2018b",
+            "1.61.0-intel-2017a",
             "1.61.0-intel-2018b",
             "1.64.0-gimkl-2018b-Python-2.7.16",
             "1.69.0-GCCcore-7.4.0",
@@ -2450,6 +2760,7 @@
             "1.71.0-gimkl-2018b-Python-3.7.3",
             "1.71.0-gimkl-2020a-Python-3.8.2",
             "1.76.0-intel-2022a",
+            "1.77.0-GCC-11.2.0",
             "1.77.0-GCC-11.3.0",
             "1.83.0-GCC-12.3.0"
         ],
@@ -2627,9 +2938,29 @@
         "network_licences": [],
         "default": "2.1.6-gimkl-2020a-Perl-5.30.1-Python-3.8.2",
         "default_type": "latest",
-        "last_updated": 1728962371,
+        "last_updated": 1725859362,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/BRAKER/2.1.6-gimkl-2020a-Perl-5.30.1-Python-3.8.2.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "branches": {
+        "description": "",
+        "domains": [
+            ".git"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -2643,6 +2974,7 @@
         "homepage": "http://gmt.genome.wustl.edu/packages/breakdancer/index.html",
         "support": "",
         "versions": [
+            "1.4.5-gimkl-2017a",
             "1.4.5-gimkl-2017a.lua"
         ],
         "admin_list": [
@@ -2753,11 +3085,14 @@
         "homepage": "http://busco.ezlab.org",
         "support": "",
         "versions": [
+            "3.0.2-gimkl-2017a",
+            "3.0.2-gimkl-2018b",
             "4.0.5-gimkl-2020a",
             "4.1.4-gimkl-2020a",
             "5.1.3-gimkl-2020a",
             "5.2.2-gimkl-2020a",
             "5.3.2-gimkl-2020a",
+            "5.4.5-gimkl-2022a",
             "5.4.7-gimkl-2022a",
             "5.6.1-gimkl-2022a"
         ],
@@ -2817,7 +3152,10 @@
         "versions": [
             "1.0.6-GCCcore-7.4.0",
             "1.0.6-gimkl-2017a",
+            "1.0.6-gimkl-2018b",
+            "1.0.6-intel-2017a",
             "1.0.6-intel-2018b",
+            "1.0.8-GCCcore-11.2.0",
             "1.0.8-GCCcore-11.3.0",
             "1.0.8-GCCcore-12.3.0",
             "1.0.8-GCCcore-9.2.0"
@@ -2846,6 +3184,7 @@
         "homepage": "https://c-ares.org/",
         "support": "",
         "versions": [
+            "1.18.1-GCCcore-11.2.0",
             "1.18.1-GCCcore-11.3.0"
         ],
         "admin_list": [],
@@ -2883,6 +3222,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Cannoli": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.8.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "Canu": {
         "description": "Sequence assembler designed for high-noise single-molecule sequencing.",
         "domains": [
@@ -2893,6 +3254,7 @@
         "homepage": "https://canu.readthedocs.io",
         "support": "",
         "versions": [
+            "1.8-gimkl-2017a",
             "2.0-GCC-9.2.0",
             "2.1.1-GCC-9.2.0",
             "2.2-GCC-11.3.0",
@@ -3188,6 +3550,7 @@
             "4.14.3-GCCcore-9.2.0",
             "4.9.1-GCCcore-7.4.0",
             "4.9.1-gimkl-2017a",
+            "4.9.1-gimkl-2017a-Python-2.7.14",
             "5.1.2-GCCcore-9.2.0",
             "5.5.2-GCC-11.3.0"
         ],
@@ -3239,6 +3602,7 @@
         "support": "",
         "versions": [
             "1.0.13-gimkl-2018b-Python-2.7.16",
+            "1.0.13-gimkl-2018b-Python-3.7.3",
             "1.2.1-gimkl-2022a-Python-3.10.5",
             "1.2.3-foss-2023a-Python-3.11.6"
         ],
@@ -3459,6 +3823,7 @@
         "homepage": "http://www.clustal.org/omega/",
         "support": "",
         "versions": [
+            "1.2.2-gimkl-2017a",
             "1.2.4-GCC-11.3.0",
             "1.2.4-gimkl-2020a"
         ],
@@ -3542,6 +3907,7 @@
         "homepage": "http://sv.gersteinlab.org",
         "support": "",
         "versions": [
+            "0.3.3-gimkl-2017a",
             "0.4-GCC-7.4.0"
         ],
         "admin_list": [
@@ -3995,6 +4361,10 @@
         "homepage": "https://www.cp2k.org/",
         "support": "",
         "versions": [
+            "4.1-gimkl-2017a",
+            "6.1-gimkl-2017a",
+            "6.1-gimkl-2017a-cuda-10.0.130",
+            "6.1-gimkl-2017a-cuda-8.0.61",
             "8.2-intel-2022a-PLUMED-2.7.2",
             "8.2-intel-2022a-cuda-11.4.1-hybrid-PLUMED-2.7.2"
         ],
@@ -4051,6 +4421,7 @@
         "support": "",
         "versions": [
             "1.13.2-GCCcore-7.4.0",
+            "1.15.1-GCCcore-11.2.0",
             "1.15.1-GCCcore-11.3.0"
         ],
         "admin_list": [
@@ -4190,6 +4561,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "CubeGUI": {
+        "description": "",
+        "domains": [
+            "perf"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.4.4-GCCcore-9.2.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "CubeLib": {
         "description": "Cube general purpose C++ library component and command-line tools.\n",
         "domains": [
@@ -4263,6 +4656,7 @@
             "12.0.0",
             "12.1.1",
             "12.2.2",
+            "7.5.18",
             "8.0.61",
             "9.0.176",
             "9.1.85"
@@ -4413,6 +4807,7 @@
         "homepage": "https://cutadapt.readthedocs.io/",
         "support": "",
         "versions": [
+            "1.16-gimkl-2017a-Python-3.6.3",
             "1.16-gimkl-2018b-Python-3.7.3",
             "2.10-gimkl-2020a-Python-3.8.2",
             "2.3-gimkl-2018b-Python-3.7.3",
@@ -4505,6 +4900,26 @@
         "last_updated": 1594204307,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/cwltool/3.0.20200317203547-gimkl-2020a-Python-3.8.2.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "cylc": {
+        "description": "",
+        "domains": [
+            "geo"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -4713,6 +5128,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "datamash": {
+        "description": "",
+        "domains": [
+            "math"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.1.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "datasets": {
         "description": "Tool to gather data from across NCBI databases",
         "domains": [
@@ -4755,6 +5192,32 @@
         "last_updated": 1551767768,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/DB/6.2.23-GCCcore-7.4.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "DBG2OLC": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "20170208-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "20170208-gimkl-2017a": "Warning: DBG2OLC/20170208-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of DBG2OLC to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -4818,8 +5281,11 @@
         "homepage": "http://www.mackenziemathislab.org/deeplabcut",
         "support": "",
         "versions": [
+            "2.2.0.2",
             "2.2.0.3",
             "2.2.0.6",
+            "2.2.2",
+            "2.2rc3",
             "2.3.5"
         ],
         "admin_list": [
@@ -4893,6 +5359,7 @@
         "homepage": "http://oss.deltares.nl/web/delft3d",
         "support": "",
         "versions": [
+            "141732-gimkl-2022a",
             "141732-intel-2022a",
             "64418-intel-2022a",
             "66341-intel-2020a"
@@ -4954,6 +5421,28 @@
         "last_updated": 1660088003,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Delly/1.1.3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "DendroPy": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.5.2-gimkl-2022a-Python-3.10.5"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -5036,6 +5525,8 @@
         "homepage": "https://github.com/bbuchfink/diamond",
         "support": "",
         "versions": [
+            "0.8.38-gimkl-2017a",
+            "0.9.24-gimkl-2017a",
             "0.9.25-gimkl-2018b",
             "0.9.32-GCC-9.2.0",
             "2.0.14-GCC-9.2.0",
@@ -5086,6 +5577,28 @@
         "last_updated": 1614563505,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/DISCOVARdenovo/52488.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "DMTCP": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.6.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -5166,6 +5679,7 @@
         "homepage": "https://www.doxygen.org",
         "support": "",
         "versions": [
+            "1.8.13-gimkl-2017a",
             "1.8.17-GCCcore-9.2.0"
         ],
         "admin_list": [
@@ -5192,7 +5706,9 @@
         "homepage": "https://pypi.org/project/DRAM-bio/",
         "support": "",
         "versions": [
-            "1.3.5-Miniconda3"
+            "1.1.1",
+            "1.3.5-Miniconda3",
+            "1.4.6-Miniconda3"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -5217,6 +5733,7 @@
         "homepage": "https://drep.readthedocs.io/en/latest/",
         "support": "",
         "versions": [
+            "2.3.2-gimkl-2017a-Python-3.6.3",
             "2.3.2-gimkl-2018b-Python-3.7.3",
             "3.4.2-gimkl-2022a-Python-3.10.5"
         ],
@@ -5364,8 +5881,22 @@
         "homepage": "",
         "support": "",
         "versions": [
+            "3.5",
+            "3.6",
+            "3.8.0",
+            "3.9.1",
+            "3.9.4",
+            "4.0.1",
+            "4.1.1",
+            "4.2.0",
+            "4.3.2",
             "4.4",
+            "4.4.1",
+            "4.5.0",
+            "4.5.4",
+            "4.6.0",
             "4.7",
+            "4.7.0",
             "4.7.1",
             "4.8",
             "4.8.1",
@@ -5486,6 +6017,7 @@
         "homepage": "https://github.com/oushujun/EDTA",
         "support": "",
         "versions": [
+            "1.9.4",
             "1.9.6",
             "2.1.0"
         ],
@@ -5574,6 +6106,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Elmer": {
+        "description": "",
+        "domains": [
+            "cae"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "8.2-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "8.2-gimkl-2017a": "Warning: Elmer/8.2-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of Elmer to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "ELPA": {
         "description": "Eigenvalue SoLvers for Petaflop-Applications .",
         "domains": [
@@ -5598,6 +6156,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "EMAN": {
+        "description": "",
+        "domains": [
+            "base"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "daily"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "EMAN2": {
         "description": "Greyscale scientific image processing suite with a primary focus on processing data from transmission electron microscopes",
         "domains": [
@@ -5609,6 +6189,8 @@
         "homepage": "http://blake.bcm.edu/emanwiki/EMAN2/",
         "support": "",
         "versions": [
+            "2.12",
+            "2.3-gimkl-2018b-Python-2.7.16",
             "2.99.47-cpu",
             "2.99.47-gpu"
         ],
@@ -5632,6 +6214,7 @@
         "homepage": "http://emboss.sourceforge.net/",
         "support": "",
         "versions": [
+            "6.6.0-gimkl-2017a",
             "6.6.0-gimkl-2020a"
         ],
         "admin_list": [
@@ -5659,6 +6242,7 @@
         "support": "",
         "versions": [
             "3.12.2-GCCcore-9.2.0",
+            "3.3.0-GCC-5.4.0",
             "3.5.1-GCCcore-7.4.0"
         ],
         "admin_list": [],
@@ -5668,6 +6252,32 @@
         "last_updated": 1615517950,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/vis/Embree/3.5.1-GCCcore-7.4.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "EMIRGE": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.61.1-gimkl-2017a-Python-2.7.14"
+        ],
+        "admin_list": [
+            {
+                "0.61.1-gimkl-2017a-Python-2.7.14": "Warning: EMIRGE/0.61.1-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of EMIRGE to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -5693,6 +6303,28 @@
         "last_updated": 1687766319,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/emmtyper/0.2.0-gimkl-2022a-Python-3.11.3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "EnergyPlus": {
+        "description": "",
+        "domains": [
+            "cae"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "9.1.0-gimkl-2018b-Python-3.7.3"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -5798,6 +6430,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "ErlangOTP": {
+        "description": "",
+        "domains": [
+            "lang"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "20.2-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "20.2-gimkl-2017a": "Warning: ErlangOTP/20.2-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of ErlangOTP to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "ESMF": {
         "description": "The Earth System Modeling Framework (ESMF) is software for building and coupling weather,\n climate, and related models.",
         "domains": [
@@ -5879,6 +6537,7 @@
         "homepage": "https://sco.h-its.org/exelixis/web/software/exabayes/",
         "support": "",
         "versions": [
+            "1.5-gimkl-2017a",
             "1.5.1-gimpi-2020a"
         ],
         "admin_list": [
@@ -5905,6 +6564,7 @@
         "homepage": "https://sco.h-its.org/exelixis/web/software/examl/index.html",
         "support": "",
         "versions": [
+            "3.0.21-gimkl-2017a",
             "3.0.22-gimkl-2020a"
         ],
         "admin_list": [
@@ -5933,6 +6593,7 @@
         "versions": [
             "2.2.0-GCC-7.4.0",
             "2.2.0-GCC-9.2.0",
+            "2.2.0-gimkl-2017a",
             "2.4.0-GCC-11.3.0",
             "2.4.0-GCC-9.2.0"
         ],
@@ -5985,6 +6646,7 @@
             "2.2.0-gimkl-2017a",
             "2.2.6-GCCcore-7.4.0",
             "2.2.9-GCCcore-9.2.0",
+            "2.4.1-GCCcore-11.2.0",
             "2.4.1-GCCcore-11.3.0",
             "2.5.0-GCCcore-12.3.0"
         ],
@@ -6038,6 +6700,7 @@
         "homepage": "https://github.com/PacificBiosciences/FALCON",
         "support": "",
         "versions": [
+            "1.8.8-gimkl-2017a",
             "1.8.8-gimkl-2020a-Python-2.7.18"
         ],
         "admin_list": [
@@ -6090,6 +6753,7 @@
         "homepage": "http://www.atgc-montpellier.fr/fastme/",
         "support": "",
         "versions": [
+            "2.1.5-gimkl-2017a",
             "2.1.6.1-gimkl-2018b",
             "2.1.6.2-GCC-9.2.0"
         ],
@@ -6216,6 +6880,7 @@
         "homepage": "https://rajanil.github.io/fastStructure/",
         "support": "",
         "versions": [
+            "1.0-gimkl-2017a-Python-2.7.14",
             "1.0-gimkl-2020a-Python-2.7.18"
         ],
         "admin_list": [
@@ -6352,6 +7017,7 @@
         "homepage": "https://pages.nist.gov/fds-smv/",
         "support": "",
         "versions": [
+            "6.7.1-intel-2017a",
             "6.7.5-1526-intel-2020a",
             "6.7.5-intel-2020a",
             "6.7.7-intel-2020a",
@@ -6422,6 +7088,7 @@
             "3.3.10-gompi-2022a",
             "3.3.10-intel-compilers-2023.2.1",
             "3.3.5-gimkl-2017a",
+            "3.3.8-gimpi-2017a",
             "3.3.8-gimpi-2018b",
             "3.3.8-gimpi-2020a",
             "3.3.9-iimpi-2022a"
@@ -6728,6 +7395,7 @@
         "homepage": "http://www.fltk.org",
         "support": "",
         "versions": [
+            "1.3.4-gimkl-2017a",
             "1.3.5-GCCcore-9.2.0"
         ],
         "admin_list": [
@@ -6834,6 +7502,7 @@
             "2.12.1-gimkl-2017a",
             "2.13.1-GCCcore-7.4.0",
             "2.13.1-GCCcore-9.2.0",
+            "2.14.0-GCCcore-11.2.0",
             "2.14.0-GCCcore-11.3.0",
             "2.14.2-GCCcore-12.3.0"
         ],
@@ -6860,8 +7529,10 @@
             "19.0",
             "20.0.2",
             "21.1",
+            "21.1.3",
             "21.1.3.lua",
-            "22.1"
+            "22.1",
+            "22.1.2"
         ],
         "admin_list": [
             {
@@ -6874,7 +7545,7 @@
         "network_licences": [],
         "default": "21.1.3.lua",
         "default_type": "latest",
-        "last_updated": 1672783956,
+        "last_updated": 1651114306,
         "modulefile_text": "",
         "module_path": "/opt/nesi/share/modules/all/forge/21.1.3.lua.bk",
         "force_hide": "False",
@@ -6900,6 +7571,52 @@
         "last_updated": 1699310492,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/foss/2022a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "FoX": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.1.2-intel-2018b"
+        ],
+        "admin_list": [
+            {
+                "4.1.2-intel-2018b": "Warning: FoX-4.1.2-intel-2018b is old and marked for removal, so please let us know if you still need it."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "FPM": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -6936,6 +7653,7 @@
         "homepage": "https://github.com/ekg/freebayes/blob/master/README.md",
         "support": "",
         "versions": [
+            "1.1.0-gimkl-2017a",
             "1.3.1-GCC-7.4.0",
             "1.3.2-GCC-9.2.0"
         ],
@@ -6986,6 +7704,7 @@
         "support": "",
         "versions": [
             "2.10.1-GCCcore-9.2.0",
+            "2.11.1-GCCcore-11.2.0",
             "2.11.1-GCCcore-11.3.0",
             "2.13.2-GCCcore-12.3.0",
             "2.7.1-gimkl-2017a",
@@ -7061,7 +7780,8 @@
         "homepage": "http://ftgl.sourceforge.net/docs/html/",
         "support": "",
         "versions": [
-            "2.1.3-rc5-GCCcore-7.4.0"
+            "2.1.3-rc5-GCCcore-7.4.0",
+            "2.1.3-rc5-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -7261,8 +7981,12 @@
         "versions": [
             "3.5-Java-1.8.0_144",
             "3.5-Java-15.0.2",
+            "3.7",
             "3.8-1",
+            "4.0.1.2-gimkl-2017a",
+            "4.0.11.0-gimkl-2017a",
             "4.0.11.0-gimkl-2018b",
+            "4.1.0.0-gimkl-2017a",
             "4.1.4.1-gimkl-2018b",
             "4.1.8.1-gimkl-2020a",
             "4.2.5.0-gimkl-2020a",
@@ -7332,6 +8056,7 @@
         "homepage": "http://gcc.gnu.org/",
         "support": "",
         "versions": [
+            "11.2.0",
             "11.3.0",
             "12.3.0",
             "5.4.0",
@@ -7363,8 +8088,11 @@
             "11.2.0",
             "11.3.0",
             "12.3.0",
+            "5.4",
             "5.4.0",
+            "6.3",
             "6.3.0",
+            "7.1",
             "7.1.0",
             "7.4.0",
             "9.2.0"
@@ -7542,7 +8270,8 @@
         "homepage": "https://github.com/SeisSol/gemmforge",
         "support": "",
         "versions": [
-            "0.0.207-foss-2023a-Python-3.11.6"
+            "0.0.207-foss-2023a-Python-3.11.6",
+            "0.0.208-foss-2023a-Python-3.11.6"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -7662,6 +8391,7 @@
             "3.11.2-GCC-11.3.0",
             "3.11.3-GCC-12.3.0",
             "3.5.1-gimkl-2017a",
+            "3.6.1-gimkl-2017a",
             "3.7.1-gimkl-2018b",
             "3.8.0-GCCcore-9.2.0"
         ],
@@ -7676,6 +8406,28 @@
         "last_updated": 1701401622,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/math/GEOS/3.11.3-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Gerris": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "20180227-gimkl-2018b"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -7714,6 +8466,7 @@
         "versions": [
             "0.19.8-gimkl-2017a",
             "0.19.8-gimkl-2018b",
+            "0.19.8-intel-2018b",
             "0.19.8.1",
             "0.19.8.1-GCCcore-7.4.0",
             "0.21"
@@ -7915,6 +8668,7 @@
         "homepage": "https://www.gtk.org/",
         "support": "",
         "versions": [
+            "2.49.7-GCCcore-9.2.0",
             "2.49.7-GCCcore-9.2.0.lua"
         ],
         "admin_list": [],
@@ -7974,6 +8728,26 @@
         "last_updated": 1587447909,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/GLM/0.9.9.8.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "GLnexus": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -8122,6 +8896,7 @@
         "homepage": "http://research-pub.gene.com/gmap/",
         "support": "",
         "versions": [
+            "2018-03-11-gimkl-2017a",
             "2021-12-17-GCC-11.3.0"
         ],
         "admin_list": [
@@ -8340,6 +9115,7 @@
         "support": "",
         "versions": [
             "2.0.3",
+            "2.0.3-gimkl-2017a",
             "2.0.3-gimkl-2018b",
             "2.0.4"
         ],
@@ -8367,7 +9143,8 @@
         "homepage": "https://github.com/google/googletest",
         "support": "",
         "versions": [
-            "1.10.0-GCCcore-9.2.0"
+            "1.10.0-GCCcore-9.2.0",
+            "1.8.0-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -8460,6 +9237,8 @@
         "homepage": "http://grass.osgeo.org",
         "support": "",
         "versions": [
+            "7.2.0-gimkl-2017a-Python-2.7.14",
+            "7.6.0-gimkl-2017a-Python-2.7.14",
             "7.6.1-gimkl-2018b-Python-2.7.16",
             "8.2.1-gimkl-2022a"
         ],
@@ -8477,6 +9256,32 @@
         "last_updated": 1688516486,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/geo/GRASS/7.6.1-gimkl-2018b-Python-2.7.16.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "grib_api": {
+        "description": "",
+        "domains": [
+            "data"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.23.1-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.23.1-gimkl-2017a": "Warning: grib_api/1.23.1-gimkl-2017a is very old and will soon be deleted. If you still need it, then please let us know."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -8545,12 +9350,18 @@
         "homepage": "http://www.gromacs.org",
         "support": "",
         "versions": [
+            "2019-intel-2018b-cuda-8.0.61-hybrid",
+            "2019.3-intel-2018b-cuda-10.0.130-hybrid",
             "2020.4-gimkl-2020a-cuda-11.3.1-hybrid-PLUMED-2.6.2",
             "2020.5-intel-2020a-cuda-11.0.2-hybrid",
             "2020.6-gimkl-2020a-cuda-11.3.1-hybrid-PLUMED-2.8.0",
             "2020.6-intel-2020a-cuda-11.3.1-hybrid",
+            "2020.6-intel-2020a-cuda-11.3.1-hybrid-PLUMED-2.8.0",
             "2021.5-gimkl-2022a-cuda-11.6.2-hybrid",
-            "2021.6-gimkl-2020a-cuda-11.6.2-hybrid-PLUMED-2.8.0"
+            "2021.6-gimkl-2020a-cuda-11.6.2-hybrid-PLUMED-2.8.0",
+            "4.6.5-intel-2017a",
+            "5.1.4-intel-2017a",
+            "5.1.4-intel-2017a-PLUMED"
         ],
         "admin_list": [
             {
@@ -8581,9 +9392,11 @@
         "versions": [
             "1.6-GCCcore-9.2.0",
             "2.3-gimkl-2017a",
+            "2.3-intel-2017a",
             "2.4-GCC-7.4.0",
             "2.4-GCCcore-7.4.0",
             "2.4-GCCcore-9.2.0",
+            "2.4-iccifort-2018.1.163-GCC-7.4.0",
             "2.6",
             "2.6-GCCcore-9.2.0",
             "2.7-GCC-11.3.0",
@@ -8743,6 +9556,7 @@
         "versions": [
             "0.7.6-GCC-11.3.0",
             "0.7.6-GCCcore-9.2.0",
+            "0.7.6-gimkl-2017a",
             "121130-GCCcore-7.4.0"
         ],
         "admin_list": [
@@ -8772,6 +9586,7 @@
         "homepage": "https://sanger-pathogens.github.io/gubbins/",
         "support": "",
         "versions": [
+            "2.3.1-gimkl-2017a",
             "3.2.2-gimkl-2022a-Python-3.10.5"
         ],
         "admin_list": [
@@ -8785,6 +9600,28 @@
         "last_updated": 1704337885,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Gubbins/3.2.2-gimkl-2022a-Python-3.10.5.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Guile": {
+        "description": "",
+        "domains": [
+            "devel"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.8.8-GCC-5.4.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -8923,6 +9760,7 @@
             "1.12.2-iimpi-2022a",
             "1.14.3-gompi-2023a",
             "1.14.3-iompi-2023a",
+            "1.8.12-gimkl-2017a",
             "1.8.12-gimpi-2020a",
             "1.8.18-gimkl-2017a",
             "1.8.18-intel-2017a"
@@ -9001,6 +9839,8 @@
         "homepage": "https://ccb.jhu.edu/software/hisat2/index.shtml",
         "support": "",
         "versions": [
+            "2.0.5-gimkl-2017a",
+            "2.1.0-gimkl-2017a",
             "2.1.0-gimkl-2018b",
             "2.2.0-gimkl-2020a",
             "2.2.1-gimkl-2020a",
@@ -9206,7 +10046,8 @@
             "1.3.2-gimkl-2017a",
             "1.8-gimkl-2017a",
             "1.8-gimkl-2018b",
-            "1.9-GCC-7.4.0"
+            "1.9-GCC-7.4.0",
+            "1.9-gimkl-2018b"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -9279,6 +10120,7 @@
             "1.11.13",
             "2.10.0-GCC-12.3.0",
             "2.2.0-GCCcore-9.2.0",
+            "2.7.0-GCC-11.2.0",
             "2.7.0-GCC-11.3.0"
         ],
         "admin_list": [],
@@ -9387,6 +10229,7 @@
         "versions": [
             "2017.1.132-GCC-5.4.0",
             "2017.6.256-GCC-5.4.0",
+            "2018.1.163-GCC-7.1.0",
             "2018.1.163-GCC-7.4.0"
         ],
         "admin_list": [
@@ -9415,6 +10258,7 @@
         "support": "",
         "versions": [
             "2017.6.256-GCC-5.4.0",
+            "2018.1.163-GCC-7.1.0",
             "2018.1.163-GCC-7.4.0",
             "2020.0.166"
         ],
@@ -9452,6 +10296,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "IDBA": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.1.3-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.1.3-gimkl-2017a": "Warning: IDBA/1.1.3-gimkl-2017a is old and will soon be removed. Please let us know if you still need it, or use 'module spider IDBA-UD' (note the change of name) to find a newer version."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "IDBA-UD": {
         "description": " IDBA-UD is a iterative De Bruijn Graph De Novo Assembler for Short Reads\n Sequencing data with Highly Uneven Sequencing Depth.",
         "domains": [
@@ -9486,6 +10356,7 @@
         "support": "",
         "versions": [
             "2017.6.256-GCC-5.4.0",
+            "2018.1.163-GCC-7.1.0",
             "2018.1.163-GCC-7.4.0"
         ],
         "admin_list": [],
@@ -9665,6 +10536,8 @@
         "versions": [
             "2017.6.256-GCC-5.4.0",
             "2017.6.256-iccifort-2017.6.256-GCC-5.4.0",
+            "2018.1.163-GCC-7.4.0",
+            "2018.1.163-iccifort-2018.1.163-GCC-7.1.0",
             "2018.1.163-iccifort-2018.1.163-GCC-7.4.0",
             "2018.4.274-GCC-7.4.0",
             "2019.6.166-GCC-9.2.0",
@@ -9672,6 +10545,7 @@
             "2019.6.166-NVHPC-21.7-GCC-9.2.0-CUDA-11.4.1",
             "2019.6.166-PGI-19.10-GCC-9.2.0-2.32",
             "2019.6.166-iccifort-2020.0.166",
+            "2021.5.1-GCC-11.2.0",
             "2021.5.1-GCC-11.3.0",
             "2021.5.1-intel-compilers-2022.0.2"
         ],
@@ -9848,6 +10722,7 @@
         "support": "",
         "versions": [
             "5.51-85.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2",
+            "5.51-85.0-gimkl-2020aPerl-5.30.1-Python-3.8.2",
             "5.61-93.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
             "5.62-94.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
             "5.63-95.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
@@ -9861,6 +10736,26 @@
         "last_updated": 1707734947,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/InterProScan/5.62-94.0-gimkl-2022aPerl-5.34.1-Python-3.11.3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "intltool": {
+        "description": "",
+        "domains": [
+            "lang"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -10096,6 +10991,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "IVE": {
+        "description": "",
+        "domains": [
+            "vis"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "JAGS": {
         "description": "Just Another Gibbs Sampler - a program for the statistical analysis of Bayesian hierarchical models by Markov Chain Monte Carlo.",
         "domains": [
@@ -10106,6 +11021,7 @@
         "homepage": "http://mcmc-jags.sourceforge.net",
         "support": "",
         "versions": [
+            "4.2.0-gimkl-2017a",
             "4.3.0-gimkl-2018b",
             "4.3.0-gimkl-2018b-mt",
             "4.3.0-gimkl-2020a-mt",
@@ -10385,11 +11301,13 @@
             "1.2.0-gimkl-2018b-VTune",
             "1.4.1-GCC-9.2.0-VTune",
             "1.5.1-GCC-9.2.0-VTune",
+            "1.5.1-linux-x86_64",
             "1.6.0-GCC-9.2.0-VTune",
             "1.6.2-GCC-9.2.0-VTune",
             "1.7.1-GCC-9.2.0-VTune",
             "1.7.2-GCC-11.3.0-VTune",
             "1.8.0-GCC-11.3.0-VTune",
+            "1.8.0-beta3-GCC-11.3.0-VTune",
             "1.8.5-GCC-11.3.0-VTune",
             "1.9.1-GCC-11.3.0-VTune",
             "1.9.4-GCC-11.3.0-VTune"
@@ -10444,6 +11362,26 @@
         "last_updated": 1533595414,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/JUnit/4.12-Java-1.8.0_144.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "JupyterHub": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -10644,6 +11582,7 @@
         "homepage": "http://pachterlab.github.io/kallisto/",
         "support": "",
         "versions": [
+            "0.43.1-gimkl-2017a",
             "0.46.2-gimkl-2020a"
         ],
         "admin_list": [
@@ -10867,6 +11806,7 @@
         "homepage": "http://ccb.jhu.edu/software/kraken/MANUAL.html",
         "support": "",
         "versions": [
+            "2.0.7-beta-gimkl-2017a",
             "2.0.7-beta-gimkl-2017a.lua",
             "2.0.8-beta-GCC-9.2.0",
             "2.0.8-beta-gimkl-2018b",
@@ -10973,6 +11913,7 @@
         "homepage": "http://lammps.sandia.gov/",
         "support": "",
         "versions": [
+            "16Mar2018-gimkl-2017a",
             "20180316-gimkl-2017a",
             "23Jun2022-gimkl-2022a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos-EChemDID"
@@ -11168,6 +12109,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Libav": {
+        "description": "",
+        "domains": [
+            "vis"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "11.12-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "11.12-gimkl-2017a": "Warning: Libav/11.12-gimkl-2017a is old and will soon be removed. Please use FFmpeg instead."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "libcircle": {
         "description": "API for distributing embarrassingly parallel workloads using self-stabilization.",
         "domains": [
@@ -11187,6 +12154,32 @@
         "last_updated": 1635148776,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libcircle/0.3-iimpi-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "libconfig": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.5-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.5-gimkl-2017a": "Warning: libconfig/1.5-gimkl-2017a is old and will soon be removed. Please let us know if you need a new version on libconfig."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -11393,6 +12386,7 @@
             "2.2.4-gimkl-2017a",
             "2.2.5-GCCcore-7.4.0",
             "2.2.5-GCCcore-9.2.0",
+            "2.3.3-GCCcore-11.2.0",
             "2.3.3-GCCcore-11.3.0",
             "2.3.3-GCCcore-12.3.0"
         ],
@@ -11467,6 +12461,7 @@
         "homepage": "ftp://ftp.freedesktop.org/pub/mesa/glu/",
         "support": "",
         "versions": [
+            "9.0.0-GCC-5.4.0",
             "9.0.0-GCCcore-7.4.0",
             "9.0.1-GCCcore-9.2.0"
         ],
@@ -11540,6 +12535,7 @@
         "homepage": "http://deeplearning.net/software/libgpuarray",
         "support": "",
         "versions": [
+            "0.7.4-gimkl-2017a-CUDA-8.0.61",
             "0.7.6-GCCcore-9.2.0-CUDA-8.0.61"
         ],
         "admin_list": [
@@ -11617,6 +12613,7 @@
         "homepage": "https://github.com/evaleev/libint",
         "support": "",
         "versions": [
+            "1.1.6-gimkl-2017a",
             "2.6.0-iimpi-2020a-lmax-6-cp2k",
             "2.6.0-iimpi-2022a-lmax-6-cp2k"
         ],
@@ -11650,6 +12647,7 @@
             "1.5.1-gimkl-2017a",
             "2.0.2-GCCcore-7.4.0",
             "2.0.2-GCCcore-9.2.0",
+            "2.1.3-GCCcore-11.2.0",
             "2.1.3-GCCcore-11.3.0",
             "2.1.5.1-GCCcore-12.3.0"
         ],
@@ -11686,6 +12684,36 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "libmatheval": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.1.11-gimkl-2017a",
+            "1.1.11-intel-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.1.11-intel-2017a": "Warning: libmatheval/1.1.11-intel-2017a is very old and wil soon be removed. If you still need it then please let us know."
+            },
+            {
+                "1.1.11-gimkl-2017a": "Warning: libmatheval/1.1.11-gimkl-2017a is old and marked for deletion. If you still need it, then please let us know."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "libpciaccess": {
         "description": "Generic PCI access library.",
         "domains": [
@@ -11697,6 +12725,7 @@
         "support": "",
         "versions": [
             "0.16",
+            "0.16-GCCcore-11.2.0",
             "0.16-GCCcore-11.3.0",
             "0.16-GCCcore-9.2.0"
         ],
@@ -11744,7 +12773,9 @@
         "versions": [
             "1.2.58",
             "1.6.28-gimkl-2017a",
+            "1.6.28-intel-2017a",
             "1.6.36-GCCcore-7.4.0",
+            "1.6.37-GCCcore-11.2.0",
             "1.6.37-GCCcore-11.3.0",
             "1.6.37-GCCcore-9.2.0",
             "1.6.40-GCCcore-12.3.0"
@@ -11777,6 +12808,7 @@
             "6.3-gimkl-2017a",
             "8.0-GCCcore-7.4.0",
             "8.0-GCCcore-9.2.0",
+            "8.1-GCCcore-11.2.0",
             "8.1-GCCcore-11.3.0",
             "8.2-GCCcore-12.3.0"
         ],
@@ -11800,6 +12832,7 @@
         "homepage": "https://libsigcplusplus.github.io/libsigcplusplus/",
         "support": "",
         "versions": [
+            "2.10.2-GCCcore-7.4.0",
             "2.10.2-GCCcore-7.4.0.lua"
         ],
         "admin_list": [],
@@ -11824,6 +12857,7 @@
         "versions": [
             "4.3.0a-GCCcore-9.2.0",
             "4.3.0a-gimkl-2017a-GEOS-3.5.1",
+            "4.3.0a-gimkl-2017a-GEOS-3.6.1",
             "4.3.0a-gimkl-2018b",
             "5.0.1-GCCcore-11.3.0"
         ],
@@ -11875,6 +12909,7 @@
         "versions": [
             "4.0.10-GCCcore-7.4.0",
             "4.0.10-GCCcore-9.2.0",
+            "4.0.10-gimkl-2017a",
             "4.0.7-gimkl-2017a",
             "4.4.0-GCCcore-11.3.0",
             "4.4.0-GCCcore-12.3.0",
@@ -11992,6 +13027,7 @@
         "homepage": "https://www.tddft.org/programs/libxc",
         "support": "",
         "versions": [
+            "2.2.3-gimkl-2017a",
             "4.2.3-gimkl-2017a",
             "5.1.5-intel-2020a",
             "5.1.5-intel-2022a",
@@ -12025,6 +13061,7 @@
         "homepage": "http://libxmlplusplus.sourceforge.net",
         "support": "",
         "versions": [
+            "2.40.1-GCCcore-9.2.0",
             "2.40.1-GCCcore-9.2.0.lua"
         ],
         "admin_list": [],
@@ -12048,6 +13085,7 @@
         "support": "",
         "versions": [
             "2.11.4-GCCcore-12.3.0",
+            "2.9.10-GCCcore-11.2.0",
             "2.9.10-GCCcore-11.3.0",
             "2.9.10-GCCcore-9.2.0",
             "2.9.4-gimkl-2017a",
@@ -12105,6 +13143,7 @@
             "1.16.2-gimkl-2020a",
             "1.16.2-intel-2022a",
             "1.17-GCC-12.3.0",
+            "1.6.4-gimkl-2017a",
             "1.8.3-gimkl-2017a"
         ],
         "admin_list": [
@@ -12297,7 +13336,9 @@
             "11.1.0-GCC-11.3.0-static",
             "14.0.6-GCC-11.3.0-static",
             "14.0.6-GCC-12.3.0-static",
+            "3.8.1-gimkl-2017a",
             "4.0.0-gimkl-2017a",
+            "5.0.1-gimkl-2017a",
             "6.0.1-GCC-5.4.0",
             "6.0.1-GCCcore-7.4.0",
             "9.0.0-GCCcore-9.2.0"
@@ -12367,6 +13408,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Loki": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.1.7-gimkl-2017a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "LongStitch": {
         "description": "A genome assembly correction and scaffolding pipeline using long reads",
         "domains": [
@@ -12401,6 +13464,7 @@
         "versions": [
             "5.5.2.11-GCC-11.3.0",
             "5.5.2.11-GCC-9.2.0",
+            "5.5.2.5-gimkl-2017a",
             "5.5.2.5-gimkl-2018b",
             "5.5.2.5-gimkl-2020a"
         ],
@@ -12708,6 +13772,29 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "make": {
+        "description": "",
+        "domains": [
+            "devel"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.3",
+            "4.3-GCCcore-9.2.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "MAKER": {
         "description": "Genome annotation pipeline",
         "domains": [
@@ -12836,6 +13923,7 @@
         "homepage": "http://mash.readthedocs.org",
         "support": "",
         "versions": [
+            "2.1-gimkl-2017a",
             "2.1-gimkl-2018b",
             "2.2-GCC-9.2.0",
             "2.3-GCC-11.3.0",
@@ -12915,6 +14003,7 @@
         "homepage": "http://www.genome.umd.edu/masurca.html",
         "support": "",
         "versions": [
+            "3.2.8-gimkl-2017a",
             "3.3.1-gimkl-2018b",
             "3.3.4-gimkl-2018b",
             "3.4.1-gimkl-2020a",
@@ -13271,6 +14360,7 @@
         "homepage": "http://micans.org/mcl/",
         "support": "",
         "versions": [
+            "14.137-gimkl-2017a",
             "14.137-gimkl-2018b",
             "14.137-gimkl-2020a"
         ],
@@ -13357,6 +14447,7 @@
             "1.11.1-Miniconda3-22.11.1-1",
             "1.4.3-Miniconda3-4.10.3",
             "1.6.0-Miniconda3-4.12.0",
+            "1.6.1-Miniconda3-4.12.0",
             "1.7.2-Miniconda3-22.11.1-1",
             "1.8.0-Miniconda3-22.11.1-1"
         ],
@@ -13442,6 +14533,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Meraculous": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.2.6-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "2.2.6-gimkl-2017a": "Warning: Meraculous/2.2.6-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of Meraculous to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "meRanTK": {
         "description": "High performance toolkit for complete analysis of methylated RNA data.",
         "domains": [
@@ -13500,6 +14617,7 @@
         "homepage": "http://www.mesa3d.org/",
         "support": "",
         "versions": [
+            "18.1.8-GCC-5.4.0",
             "18.3.4-GCCcore-7.4.0",
             "19.2.1-GCCcore-9.2.0"
         ],
@@ -13738,6 +14856,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "MetaVelvet": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.2.01-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.2.01-gimkl-2017a": "Warning: MetaVelvet/1.2.01-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of MetaVelvet to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "metaWRAP": {
         "description": "Flexible pipeline for genome-resolved metagenomic data analysis.",
         "domains": [
@@ -13770,6 +14914,7 @@
         "homepage": "https://microbiology.se/software/metaxa2/",
         "support": "",
         "versions": [
+            "2.1.3-gimkl-2017a",
             "2.2-gimkl-2020a",
             "2.2.2-gimkl-2020a",
             "2.2.3-gimkl-2022a"
@@ -13808,6 +14953,8 @@
             "5.1.0-GCC-7.4.0",
             "5.1.0-GCCcore-9.2.0",
             "5.1.0-gimkl-2017a",
+            "5.1.0-gimkl-2017a-32bitIDX",
+            "5.1.0-intel-2017a",
             "5.1.0-intel-2018b",
             "5.1.0-intel-2020a",
             "5.1.0-intel-2022a"
@@ -13959,7 +15106,10 @@
             "22.11.1-1",
             "23.10.0-1",
             "4.10.3",
+            "4.11.0",
             "4.12.0",
+            "4.4.10",
+            "4.5.12",
             "4.7.10",
             "4.8.2",
             "4.8.3",
@@ -13982,6 +15132,28 @@
         "last_updated": 1700600068,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lang/Miniconda3/23.10.0-1.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "minieigen": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.5.4-gimkl-2017a-Python-2.7.14"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -14206,6 +15378,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "MOB-suite": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "3.0.3-Miniconda3"
+        ],
+        "admin_list": [
+            {
+                "3.0.3-Miniconda3": "Warning: MOB-suite/3.0.3-Miniconda3 is old and marked for deletion. If you still need it, then please let us know."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "modbam2bed": {
         "description": "A program to aggregate modified base counts stored in a modified-base BAM file to a bedMethyl file.",
         "domains": [
@@ -14366,6 +15564,7 @@
         "homepage": "https://molpro.net",
         "support": "",
         "versions": [
+            "2012.1.27-intel-2017a",
             "mpp-2015.1.25.linux_x86_64_openmp",
             "mpp-2019.2.2.linux_x86_64_openmp"
         ],
@@ -14494,6 +15693,7 @@
         "homepage": "http://www.mothur.org/",
         "support": "",
         "versions": [
+            "1.39.5-gimkl-2017a",
             "1.41.0-gimkl-2018b-Python-2.7.16"
         ],
         "admin_list": [
@@ -14507,6 +15707,52 @@
         "last_updated": 1565638628,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Mothur/1.41.0-gimkl-2018b-Python-2.7.16.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "motif": {
+        "description": "",
+        "domains": [
+            "vis"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "MotionCorr": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.1-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "2.1-gimkl-2017a": "Warning: MotionCorr/2.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of MotionCorr to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -14555,6 +15801,24 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "MPICH": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "mpifileutils": {
         "description": "MPI-Based File Utilities For Distributed Systems",
         "domains": [
@@ -14587,6 +15851,7 @@
         "homepage": "https://nbisweden.github.io/MrBayes/",
         "support": "",
         "versions": [
+            "3.2.6-gimkl-2017a",
             "3.2.7-gimpi-2022a"
         ],
         "admin_list": [
@@ -14661,6 +15926,7 @@
             "1.12-gimkl-2020a-Python-3.9.9",
             "1.13-gimkl-2022a-Python-3.10.5",
             "1.24.1-foss-2023a-Python-3.11.6",
+            "1.5-gimkl-2017a-Python-3.6.3",
             "1.5-gimkl-2018b-Python-3.7.3",
             "1.7-gimkl-2018b-Python-3.7.3",
             "1.9-gimkl-2020a-Python-3.8.2"
@@ -14690,6 +15956,7 @@
         "support": "",
         "versions": [
             "3.23-GCC-9.2.0",
+            "3.23-gimkl-2017a",
             "3.23-gimkl-2018b",
             "4.0.0rc1-GCCcore-11.3.0",
             "4.0.0rc1-GCCcore-9.2.0"
@@ -14718,8 +15985,10 @@
         "homepage": "http://graal.ens-lyon.fr/MUMPS/",
         "support": "",
         "versions": [
+            "4.10.0-gimkl-2017a-metis-4.0.3",
             "4.10.0-gimkl-2020a",
             "4.10.0-gimkl-2020a-metis-4.0.3",
+            "5.0.2-gimkl-2017a-parmetis",
             "5.3.1-gimkl-2020a-METIS-5.1.0",
             "5.5.0-gimkl-2022a",
             "5.6.1-foss-2023a",
@@ -14827,6 +16096,8 @@
         "support": "",
         "versions": [
             "2.12-gimkl-2017a-cuda",
+            "2.12-gimkl-2017a-mpi",
+            "2.12-gimkl-2017a-mpi-smp",
             "2.14-gimkl-2022a-cuda",
             "2.14-gimkl-2022a-mpi"
         ],
@@ -15130,6 +16401,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "NCARG": {
+        "description": "",
+        "domains": [
+            "vis"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "6.4.0-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "6.4.0-gimkl-2017a": "Warning: NCARG/6.4.0-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of NCARG to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "ncbi-vdb": {
         "description": "The SRA Toolkit and SDK from NCBI is a collection of tools and libraries for\n using data in the INSDC Sequence Read Archives.",
         "domains": [
@@ -15142,6 +16439,7 @@
         "versions": [
             "2.10.5-gimkl-2020a",
             "2.11.2-gimpi-2022a",
+            "2.7.0-gimkl-2017a",
             "2.9.3-gimkl-2018b"
         ],
         "admin_list": [
@@ -15173,6 +16471,9 @@
             "2.16.5-CUDA-11.8.0",
             "2.17.1-CUDA-12.0.0",
             "2.4.7-CUDA-10.1.243",
+            "2.4.8-cuda-10.0.130",
+            "2.4.8-cuda-10.1.243",
+            "2.6.4",
             "2.6.4-CUDA-10.2.89",
             "2.7.8-CUDA-11.0.2",
             "2.8.4-CUDA-11.2.0"
@@ -15201,7 +16502,8 @@
         "homepage": "https://www.ncl.ucar.edu",
         "support": "",
         "versions": [
-            "6.6.2-foss-2023a"
+            "6.6.2-foss-2023a",
+            "6.6.2-intel-2018b"
         ],
         "admin_list": [
             {
@@ -15260,6 +16562,7 @@
             "6.1",
             "6.1-GCCcore-7.4.0",
             "6.1-GCCcore-9.2.0",
+            "6.2-GCCcore-11.2.0",
             "6.2-GCCcore-11.3.0",
             "6.4-GCCcore-12.3.0"
         ],
@@ -15306,7 +16609,8 @@
         "homepage": "http://ne.di.unimi.it/",
         "support": "",
         "versions": [
-            "3.0.1"
+            "3.0.1",
+            "3.0.1-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -15380,6 +16684,8 @@
             "4.4.1-intel-2017a",
             "4.6.2-gimpi-2018b",
             "4.6.2-iimpi-2018b",
+            "4.7.2-gimpi-2020a",
+            "4.7.2-iimpi-2020a",
             "4.7.3-gimpi-2020a",
             "4.7.3-iimpi-2020a",
             "4.8.1-gimpi-2022a",
@@ -15406,6 +16712,7 @@
         "homepage": "http://www.unidata.ucar.edu/software/netcdf/",
         "support": "",
         "versions": [
+            "4.2-intel-2017a",
             "4.2-intel-2020a"
         ],
         "admin_list": [
@@ -15432,7 +16739,9 @@
         "homepage": "http://www.unidata.ucar.edu/software/netcdf/",
         "support": "",
         "versions": [
+            "4.3.0-gimkl-2017a",
             "4.3.0-iimpi-2018b",
+            "4.3.0-intel-2017a",
             "4.3.1-gimpi-2020a",
             "4.3.1-iimpi-2020a"
         ],
@@ -15490,6 +16799,54 @@
         "last_updated": 1712630083,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/netCDF-Fortran/4.6.0-iimpi-2022a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "nettle": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "3.3-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "3.3-gimkl-2017a": "Warning: nettle/3.3-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of nettle to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "networkx": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.11-gimkl-2017a-Python-2.7.14"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -15603,6 +16960,7 @@
         "homepage": "http://cibiv.github.io/NextGenMap/",
         "support": "",
         "versions": [
+            "0.5.5-GCC-11.2.0",
             "0.5.5-GCC-11.3.0"
         ],
         "admin_list": [
@@ -15748,7 +17106,8 @@
             "16.15.1-GCCcore-11.3.0",
             "17.8.0-GCCcore-9.2.0",
             "18.18.2-GCCcore-11.3.0",
-            "18.18.2-GCCcore-12.3.0"
+            "18.18.2-GCCcore-12.3.0",
+            "8.7.0-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -15800,6 +17159,7 @@
         "homepage": "http://www.google.com/?gws_rd=ssl#q=Wooton%2C+J.+C.+%26+Federhen%2C+S.+Comp.+Chem.+17%2C+149\u2212163+(1993)",
         "support": "",
         "versions": [
+            "1998-GCC-5.4.0",
             "1998-GCC-9.2.0"
         ],
         "admin_list": [
@@ -15970,6 +17330,7 @@
         "support": "",
         "versions": [
             "2.0.13",
+            "2.0.14-GCC-11.2.0",
             "2.0.14-GCC-11.3.0",
             "2.0.14-GCCcore-9.2.0",
             "2.0.14-intel-compilers-2022.0.2",
@@ -15997,6 +17358,7 @@
         "versions": [
             "21.1-GCC-9.2.0-CUDA-11.2.0",
             "21.7-GCC-9.2.0-CUDA-11.4.1",
+            "21.9-GCC-11.2.0-CUDA-11.4.1",
             "21.9-GCC-11.3.0-CUDA-11.4.1",
             "22.3-GCC-11.3.0-CUDA-11.6.2",
             "23.5-CUDA-12.1.1",
@@ -16022,7 +17384,8 @@
         "homepage": "http://www.nwchem-sw.org",
         "support": "",
         "versions": [
-            "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16"
+            "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16",
+            "6.8.revision47-gimkl-2017a-2017-12-14-Python-2.7.14"
         ],
         "admin_list": [
             {
@@ -16088,6 +17451,59 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Octave": {
+        "description": "",
+        "domains": [
+            "math"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.2.0-gimkl-2017a",
+            "6.3.0-gimkl-2020a"
+        ],
+        "admin_list": [
+            {
+                "4.2.0-gimkl-2017a": "Warning: Octave/4.2.0-gimkl-2017a is obsolete and will soon be removed, so please select a more recent version (try 'module spider Octave')."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Octopus": {
+        "description": "",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "7.3-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "7.3-gimkl-2017a": "Warning: Octopus/7.3-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of Octopus to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "OMA": {
         "description": "Orthologous MAtrix project is a method and database for the inference \n of orthologs among complete genomes",
         "domains": [
@@ -16120,6 +17536,10 @@
         "homepage": "https://nanoporetech.com/products/minit",
         "support": "",
         "versions": [
+            "3.4.4",
+            "3.6.0",
+            "4.2.2",
+            "4.5.3",
             "5.0.16",
             "5.0.7",
             "6.0.1",
@@ -16203,6 +17623,7 @@
         "homepage": "http://xianyi.github.com/OpenBLAS/",
         "support": "",
         "versions": [
+            "0.3.20-GCC-11.2.0",
             "0.3.20-GCC-11.3.0",
             "0.3.23-GCC-12.3.0",
             "0.3.23-intel-compilers-2023.2.1",
@@ -16227,6 +17648,35 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "OpenCMISS": {
+        "description": "",
+        "domains": [
+            "cae"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "develop-191015-gimkl-2017a-Python-3.6.3"
+        ],
+        "admin_list": [
+            {
+                "develop-191015-gimkl-2017a-Python-3.6.3": "Warning: OpenCMISS/develop-191015-gimkl-2017a-Python-3.6.3 is obsolete and will soon be removed, so please select a more recent version (try 'module spider OpenCMISS')."
+            },
+            {
+                "develop-intel-2020a-Python-3.8": "Warning: OpenCMISS/develop-intel-2020a-Python-3.8 is old and will soon be deleted. Please let us know if you still need it."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "OpenCV": {
         "description": "OpenCV (Open Source Computer Vision Library) is an open source computer vision\n and machine learning software library. OpenCV was built to provide\n a common infrastructure for computer vision applications and to accelerate\n the use of machine perception in the commercial products.",
         "domains": [
@@ -16237,7 +17687,9 @@
         "homepage": "https://opencv.org/",
         "support": "",
         "versions": [
+            "3.4.0-gimkl-2017a-Python-2.7.14",
             "3.4.1-GCC-7.4.0",
+            "3.4.1-gimkl-2017a",
             "3.4.1-gimkl-2020a",
             "3.4.7-gimkl-2020a"
         ],
@@ -16300,7 +17752,9 @@
             "5.0-gimkl-2018b",
             "6-gimkl-2018b",
             "8-gimkl-2020a",
+            "v1706-gimkl-2017a",
             "v1706-gimkl-2018b",
+            "v1712-gimkl-2017a",
             "v1812-gimkl-2018b",
             "v1812-gimkl-2018b-libAcoustics",
             "v1906-gimkl-2018b",
@@ -16365,6 +17819,7 @@
             "2.1.6-GCC-7.4.0-CUDA-10.0.130",
             "3.1.4-GCC-9.2.0",
             "4.1.1-GCC-9.2.0",
+            "4.1.3-GCC-11.2.0",
             "4.1.3-GCC-11.3.0",
             "4.1.3-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2",
             "4.1.5-GCC-12.3.0",
@@ -16390,6 +17845,9 @@
         "homepage": "http://opensees.berkeley.edu",
         "support": "",
         "versions": [
+            "2.5.0-r6536-gimkl-2017a",
+            "2.5.0-r6537-gimkl-2017a",
+            "2.5.0-r6635-Arman-gimkl-2017a",
             "20220411-gimkl-2020a",
             "3.0.0-gimkl-2017a",
             "3.2.0-gimkl-2020a",
@@ -16442,6 +17900,24 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "openseespy": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "OpenSlide": {
         "description": "OpenSlide is a C library that provides a simple interface to\nread whole-slide images (also known as virtual slides).",
         "domains": [
@@ -16476,6 +17952,7 @@
         "versions": [
             "1.1",
             "1.1.0e-gimkl-2017a",
+            "1.1.1k-GCCcore-11.2.0",
             "1.1.1k-GCCcore-11.3.0",
             "1.1.1k-GCCcore-12.3.0",
             "1.1.1k-GCCcore-9.2.0"
@@ -16627,6 +18104,7 @@
         "homepage": "https://www.ospray.org",
         "support": "",
         "versions": [
+            "1.6.1-GCC-5.4.0",
             "1.8.2-GCCcore-7.4.0"
         ],
         "admin_list": [],
@@ -16879,6 +18357,7 @@
         "homepage": "http://icl.cs.utk.edu/projects/papi/",
         "support": "",
         "versions": [
+            "5.4.3-intel-2017a",
             "5.7.0-intel-2020a",
             "6.0.0-GCCcore-9.2.0"
         ],
@@ -16893,6 +18372,28 @@
         "last_updated": 1612461579,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/perf/PAPI/6.0.0-GCCcore-9.2.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "parallel": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "20190622"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -17001,6 +18502,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Paraver": {
+        "description": "",
+        "domains": [
+            "perf"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.9.0-GCC-9.2.0"
+        ],
+        "admin_list": [
+            {
+                "4.9.0-GCC-9.2.0": "Warning: Paraver/4.9.0-GCC-9.2.0 is old and marked for deletion. If you still need it, then please let us know."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "ParaView": {
         "description": "\nParaView is a scientific parallel visualizer.\n\nThis version supports CPU-only rendering without\nX context using the OSMesa library, it does not\nsupport GPU rendering.\n\nUse the GALLIUM_DRIVER environment variable to choose\na software renderer, it is recommended to use\n\nGALLIUM_DRIVER=swr\n\nfor best performance.\n\nRay tracing using the OSPRay library is also supported.\n",
         "domains": [
@@ -17011,9 +18538,12 @@
         "homepage": "http://www.paraview.org",
         "support": "",
         "versions": [
+            "5.3.0-gimkl-2017a",
+            "5.4.1-gimkl-2017a-Python-2.7.14",
             "5.4.1-gimkl-2018b-Python-2.7.16",
             "5.4.1-gimpi-2018b",
             "5.6.0-gimkl-2018b-Python-3.7.3",
+            "5.6.0-gimpi-2017a-Server-OSMesa",
             "5.6.0-gimpi-2018b",
             "5.9.0-gimkl-2020a-Python-3.8.2"
         ],
@@ -17113,6 +18643,32 @@
         "last_updated": 1726442486,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/pauvre/0.2.3-gimkl-2020a-Python-3.8.2.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "PBJelly": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "15.8.24-gimkl-2017a-Python-2.7.14"
+        ],
+        "admin_list": [
+            {
+                "15.8.24-gimkl-2017a-Python-2.7.14": "Warning: PBJelly/15.8.24-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of PBJelly to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -17493,10 +19049,12 @@
         "support": "",
         "versions": [
             "5.24.1-gimkl-2017a",
+            "5.24.1-gimkl-2017a-mt",
             "5.28.1-gimkl-2018b",
             "5.28.1-gimkl-2018b-mt",
             "5.30.1-GCC-9.2.0",
             "5.30.1-GCC-9.2.0-mt",
+            "5.34.1-GCC-11.2.0",
             "5.34.1-GCC-11.3.0",
             "5.38.2-GCC-12.3.0"
         ],
@@ -17566,6 +19124,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "PFFT": {
+        "description": "",
+        "domains": [
+            "numlib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.0.8-alpha-gimkl-2017a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "pggb": {
         "description": "PanGenome Graph Builder(pggb)",
         "domains": [
@@ -17607,6 +19187,28 @@
         "last_updated": 1686875203,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/pgge/2021-Miniconda3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "PGI": {
+        "description": "",
+        "domains": [
+            "compiler"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "19.10-GCC-9.2.0-2.32"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -17703,6 +19305,7 @@
         "homepage": "https://github.com/stephaneguindon/phyml",
         "support": "",
         "versions": [
+            "3.3.20180214-gimkl-2017a",
             "3.3.20211231-gimpi-2022a"
         ],
         "admin_list": [
@@ -17823,6 +19426,7 @@
         "homepage": "http://www.pixman.org/",
         "support": "",
         "versions": [
+            "0.34.0-gimkl-2017a",
             "0.38.4-GCCcore-7.4.0",
             "0.38.4-GCCcore-9.2.0",
             "0.40.0",
@@ -17842,6 +19446,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "pkg-config": {
+        "description": "",
+        "domains": [
+            "devel"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "0.29.2-GCCcore-7.4.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "PLINK": {
         "description": " PLINK is a free, open-source whole genome association analysis toolset,\n designed to perform a range of basic, large-scale analyses in a computationally efficient manner.\n The focus of PLINK is purely on analysis of genotype/phenotype data, so there is no support for\n steps prior to this (e.g. study design and planning, generating genotype or CNV calls from raw data).\n Through integration with gPLINK and Haploview, there is some support for the subsequent visualization,\n annotation and storage of results. ",
         "domains": [
@@ -17852,6 +19478,7 @@
         "homepage": "https://www.cog-genomics.org/plink2",
         "support": "",
         "versions": [
+            "1.09b3.32",
             "1.09b6.16",
             "2.00a2.3"
         ],
@@ -17875,6 +19502,8 @@
         "homepage": "http://www.plumed-code.org",
         "support": "",
         "versions": [
+            "2.3.0-gimkl-2017a",
+            "2.3.5-intel-2017a",
             "2.6.2-gimkl-2020a",
             "2.6.2-intel-2020a",
             "2.7.2-intel-2022a",
@@ -18226,6 +19855,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "proovread": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.14.1-gimkl-2017a-mt"
+        ],
+        "admin_list": [
+            {
+                "2.14.1-gimkl-2017a-mt": "Warning: proovread/2.14.1-gimkl-2017a-mt is old and will soon be removed. Please let us know if you would like a new version of proovread to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "Proteinortho": {
         "description": "Proteinortho is a tool to detect orthologous genes within different species.",
         "domains": [
@@ -18293,7 +19948,8 @@
             "3.12.1-gimkl-2018b",
             "3.12.2-GCCcore-9.2.0",
             "3.14.0-GCCcore-9.2.0",
-            "3.17.3-GCCcore-9.2.0"
+            "3.17.3-GCCcore-9.2.0",
+            "3.6.0-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -18312,6 +19968,28 @@
         "last_updated": 1691798270,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/protobuf/23.0-GCC-11.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "protobuf-python": {
+        "description": "",
+        "domains": [
+            "devel"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "3.6.0-gimkl-2017a-Python-3.6.3"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -18608,6 +20286,8 @@
         "homepage": "https://www.riverbankcomputing.co.uk/software/pyqt",
         "support": "",
         "versions": [
+            "4.12-gimkl-2017a-Python-3.6.3",
+            "4.12.3-gimkl-2018b-Python-3.7.3",
             "5.10.1-gimkl-2018b-Python-3.7.3",
             "5.12.1-gimkl-2018b-Python-2.7.16",
             "5.12.1-gimkl-2020a-Python-3.8.2"
@@ -18626,6 +20306,28 @@
         "last_updated": 1594176040,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/vis/PyQt/5.12.1-gimkl-2020a-Python-3.8.2.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "pyseer": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.3.11-gimkl-2022a-Python-3.11.3"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -18759,6 +20461,7 @@
         "versions": [
             "2.7.14-gimkl-2017a",
             "2.7.16-gimkl-2018b",
+            "2.7.16-intel-2018b",
             "2.7.18-gimkl-2020a",
             "3.10.5-gimkl-2022a",
             "3.11.3-gimkl-2022a",
@@ -18768,6 +20471,7 @@
             "3.8.1-gimkl-2018b",
             "3.8.2-gimkl-2020",
             "3.8.2-gimkl-2020a",
+            "3.9.4-gimkl-2020a",
             "3.9.5-gimkl-2020a",
             "3.9.9-gimkl-2020a"
         ],
@@ -18812,9 +20516,11 @@
         "homepage": "http://www.python.org/",
         "support": "",
         "versions": [
+            "2.7.14-gimkl-2017a",
             "2.7.16-gimkl-2018b",
             "3.10.5-gimkl-2022a",
             "3.11.3-gimkl-2022a",
+            "3.6.3-gimkl-2017a",
             "3.7.3-gimkl-2018b",
             "3.8.2-gimkl-2020",
             "3.8.2-gimkl-2020a",
@@ -18835,6 +20541,32 @@
         "last_updated": 1683105477,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Python-Geo/3.8.2-gimkl-2020.bak_20210503142647_57357",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Python-GPU": {
+        "description": "",
+        "domains": [
+            "math"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "3.6.3-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "3.6.3-gimkl-2017a": "Warning: Python-GPU/3.6.3-gimkl-2017a is a deprecated environment module which will soon be removed. Please let us know if you still need it."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -18928,6 +20660,10 @@
         "homepage": "http://qiime2.org/",
         "support": "",
         "versions": [
+            "2018.2",
+            "2019.1",
+            "2019.10",
+            "2019.4",
             "2020.11",
             "2020.2",
             "2020.6",
@@ -18985,7 +20721,8 @@
             "5.11.2-GCCcore-7.4.0",
             "5.12.3-GCCcore-7.4.0",
             "5.12.3-GCCcore-9.2.0",
-            "5.13.2-GCCcore-9.2.0"
+            "5.13.2-GCCcore-9.2.0",
+            "5.9.3-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -19014,6 +20751,8 @@
         "homepage": "https://www.quantum-espresso.org",
         "support": "",
         "versions": [
+            "5.2.0-intel-2017a",
+            "5.2.0-intel-2017a-hybrid",
             "6.8-intel-2020a",
             "7.2-intel-2022a"
         ],
@@ -19047,6 +20786,8 @@
         "homepage": "http://quast.sourceforge.net/quast",
         "support": "",
         "versions": [
+            "4.4-gimkl-2017a",
+            "5.0.2-gimkl-2017a",
             "5.0.2-gimkl-2018b",
             "5.2.0-foss-2023a",
             "5.2.0-gimkl-2022a"
@@ -19461,6 +21202,8 @@
         "homepage": "http://www.r-project.org/",
         "support": "",
         "versions": [
+            "3.4.2-gimkl-2017a",
+            "3.5.0-gimkl-2017a",
             "3.5.3-gimkl-2018b",
             "3.6.1-gimkl-2018b",
             "3.6.2-gimkl-2020a",
@@ -19902,6 +21645,7 @@
             "1.4.13-GCC-9.2.0",
             "1.4.21-GCC-7.4.0-CUDA-11.2.0-hybrid",
             "1.4.21-GCC-9.2.0-CUDA-11.2.0-hybrid",
+            "1.5.0-GCC-11.2.0",
             "1.5.0-GCC-11.3.0"
         ],
         "admin_list": [
@@ -20312,6 +22056,7 @@
         "homepage": "http://eddylab.org/software/recon/",
         "support": "",
         "versions": [
+            "1.08-GCC-5.4.0",
             "1.08-GCC-9.2.0"
         ],
         "admin_list": [
@@ -20362,9 +22107,12 @@
         "homepage": "http://www2.mrc-lmb.cam.ac.uk/relion/index.php/Main_Page",
         "support": "",
         "versions": [
+            "2.0.3-gimkl-2017a",
             "2.0.3-gimkl-2017a.lua",
+            "2.1-gimkl-2017a",
             "2.1-gimkl-2017a.lua",
             "3.0beta-gimkl-2017a",
+            "3.0beta-gimkl-2017a-GPU",
             "4.0.1-gimkl-2020a"
         ],
         "admin_list": [
@@ -20400,6 +22148,7 @@
         "homepage": "http://www.repeatmasker.org",
         "support": "",
         "versions": [
+            "4.0.7-gimkl-2017a",
             "4.1.0-gimkl-2018b",
             "4.1.0-gimkl-2020a",
             "4.1.0-gimkl-2020a-Dfam-3.2"
@@ -20454,7 +22203,9 @@
         "homepage": "http://bix.ucsd.edu/repeatscout/",
         "support": "",
         "versions": [
-            "1.0.5-GCC-9.2.0-Perl-5.30.1-mt"
+            "1.0.5-GCC-9.2.0",
+            "1.0.5-GCC-9.2.0-Perl-5.30.1-mt",
+            "1.0.5-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -20625,6 +22376,7 @@
         "versions": [
             "2.10.0-GCC-9.2.0",
             "2.14.1-GCC-12.3.0",
+            "2.6.0-gimkl-2017a",
             "2.9.0-GCC-7.4.0"
         ],
         "admin_list": [
@@ -20766,6 +22518,7 @@
         "homepage": "http://root.cern.ch/drupal/",
         "support": "",
         "versions": [
+            "6.10.08-gimkl-2017a",
             "6.16.00-GCC-7.4.0"
         ],
         "admin_list": [
@@ -20779,6 +22532,26 @@
         "last_updated": 1554858249,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ROOT/6.16.00-GCC-7.4.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Rose": {
+        "description": "",
+        "domains": [
+            "geo"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -20814,6 +22587,7 @@
         "homepage": "http://deweylab.biostat.wisc.edu/rsem/",
         "support": "",
         "versions": [
+            "1.3.1-gimkl-2017a",
             "1.3.3-gimkl-2020a",
             "1.3.3-gimkl-2022a"
         ],
@@ -20863,6 +22637,54 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "rstudio": {
+        "description": "",
+        "domains": [
+            "lang"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.3.959"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Rstudio": {
+        "description": "",
+        "domains": [
+            "lang"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.1.456"
+        ],
+        "admin_list": [
+            {
+                "1.1.456": "Warning: Rstudio/1.1.456 is old and will soon be deleted. Instead please see https://support.nesi.org.nz/hc/en-gb/articles/360004337836-RStudio-via-Jupyter-on-NeSI"
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "RStudio-Server": {
         "description": "RStudio-Server for OpenOnDemand.",
         "domains": [
@@ -20882,6 +22704,24 @@
         "last_updated": 1722209369,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lang/RStudio-Server/2024.04.2-764.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "rstudio-server": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -20941,6 +22781,7 @@
         "homepage": "https://www.ruby-lang.org",
         "support": "",
         "versions": [
+            "2.5.1-gimkl-2017a",
             "2.6.1-gimkl-2018b",
             "3.0.1-GCC-11.3.0"
         ],
@@ -20968,6 +22809,9 @@
         "homepage": "https://www.rust-lang.org",
         "support": "",
         "versions": [
+            "1.46.0-gimkl-2020a",
+            "1.59.0-GCCcore-9.2.0",
+            "1.60.0-GCC-11.2.0",
             "1.60.0-GCC-11.3.0",
             "1.66.1-GCC-11.3.0",
             "1.73.0-GCC-12.3.0",
@@ -21002,6 +22846,7 @@
         "support": "",
         "versions": [
             "0.1.5-GCCcore-9.2.0",
+            "0.1.7-GCC-11.2.0",
             "0.1.7-GCC-11.3.0"
         ],
         "admin_list": [
@@ -21053,8 +22898,10 @@
         "homepage": "https://github.com/COMBINE-lab/salmon",
         "support": "",
         "versions": [
+            "0.11.3-gimkl-2017a",
             "0.13.1-gimkl-2018b",
             "0.14.0-gimkl-2018b",
+            "0.8.2-gimkl-2017a",
             "1.3.0-gimkl-2020a",
             "1.4.0-gimkl-2020a",
             "1.5.1-gimkl-2020a",
@@ -21087,6 +22934,7 @@
         "homepage": "https://lomereiter.github.io/sambamba/",
         "support": "",
         "versions": [
+            "0.6.5-gimkl-2017a",
             "0.7.1",
             "0.8.0"
         ],
@@ -21117,6 +22965,7 @@
         "homepage": "http://github.com/GregoryFaust/samblaster",
         "support": "",
         "versions": [
+            "0.1.24-gimkl-2017a",
             "0.1.26-GCC-11.3.0",
             "0.1.26-GCC-9.2.0"
         ],
@@ -21168,6 +23017,7 @@
         "versions": [
             "0.1.18-gimkl-2017a",
             "0.1.18-gimkl-2018b",
+            "0.1.19-GCCcore-11.2.0",
             "0.1.19-GCCcore-11.3.0",
             "0.1.19-GCCcore-12.3.0",
             "0.1.19-GCCcore-7.4.0",
@@ -21183,7 +23033,8 @@
             "1.3.1-gimkl-2017a",
             "1.8-gimkl-2017a",
             "1.8-gimkl-2018b",
-            "1.9-GCC-7.4.0"
+            "1.9-GCC-7.4.0",
+            "1.9-gimkl-2018b"
         ],
         "admin_list": [
             {
@@ -21390,6 +23241,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Scalasca": {
+        "description": "",
+        "domains": [
+            "perf"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.5-gimpi-2020a"
+        ],
+        "admin_list": [
+            {
+                "2.5-gimpi-2020a": "Warning: Scalasca/2.5-gimpi-2020a is old and marked for deletion. If you still need it, then please let us know."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "SCons": {
         "description": "SCons is a software construction tool.",
         "domains": [
@@ -21410,6 +23287,28 @@
         "last_updated": 1566880019,
         "modulefile_text": "",
         "module_path": "/opt/nesi/share/modules/all/SCons/3.0.1.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Score-P": {
+        "description": "",
+        "domains": [
+            "perf"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "6.0-gimpi-2020a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -21630,6 +23529,7 @@
         "homepage": "https://fhcrc.github.io/seqmagick/",
         "support": "",
         "versions": [
+            "0.7.0-gimkl-2017a-Python-3.6.3",
             "0.7.0-gimkl-2018b-Python-3.7.3",
             "0.8.4-gimkl-2020a-Python-3.8.2"
         ],
@@ -21647,6 +23547,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "SeqMonk": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.44.0-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.44.0-gimkl-2017a": "Warning: SeqMonk/1.44.0-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of SeqMonk to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "seqtk": {
         "description": "Seqtk is a fast and lightweight tool for processing sequences in the FASTA or FASTQ format. \n It seamlessly parses both FASTA and FASTQ files which can also be optionally compressed by gzip.",
         "domains": [
@@ -21658,6 +23584,7 @@
         "homepage": "https://github.com/lh3/seqtk/",
         "support": "",
         "versions": [
+            "1.2-gimkl-2017a",
             "1.3-GCC-11.3.0",
             "1.3-gimkl-2018b",
             "1.4-GCC-11.3.0"
@@ -21754,6 +23681,8 @@
         "versions": [
             "4.0.1-intel-2017a",
             "4.1-b4-intel-2020a",
+            "4.1-b4-intel-2020a-debug",
+            "4.1-b4-intel-2020a-debug-noopt",
             "4.1.5-intel-2022a",
             "5.0.0-beta1-foss-2023a",
             "5.0.0-foss-2023a"
@@ -21772,6 +23701,32 @@
         "last_updated": 1720483281,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/phys/Siesta/4.1-b4-intel-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Siesta-Optical": {
+        "description": "",
+        "domains": [
+            "phys"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.0.0-intel-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.0.0-intel-2017a": "Warning: Siesta-Optical/1.0.0-intel-2017a is old and will soon be removed. Please let us know if you would like a new version of Siesta-Optical to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -21835,6 +23790,10 @@
             "3.10.3",
             "3.11.0",
             "3.11.3",
+            "3.2.0",
+            "3.2.1",
+            "3.3.0",
+            "3.4.0",
             "3.5.2",
             "3.6.1",
             "3.6.4",
@@ -21934,6 +23893,7 @@
         "versions": [
             "4.19.15-gimkl-2018b-Python-3.7.3",
             "4.19.15-gimkl-2020a-Python-3.8.2",
+            "4.19.2-gimkl-2017a-Python-3.6.3",
             "4.19.8-gimkl-2018b-Python-3.7.3",
             "4.19.8-gimkl-2020a-Python-3.8.2"
         ],
@@ -21996,28 +23956,6 @@
         "last_updated": 1642405897,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/sismonr/2.0.0-gimkl-2020a-R-4.1.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
-    "skani": {
-        "description": "accurate, fast nucleotide identity calculation for MAGs, genomes, and databases",
-        "domains": [
-            "bio"
-        ],
-        "extensions": [],
-        "licence_type": "",
-        "homepage": "https://github.com/bluenote-1577/skani",
-        "support": "",
-        "versions": [
-            "0.2.2-GCC-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "0.2.2-GCC-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1729030725,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/skani/0.2.2-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -22328,6 +24266,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "SNVoter": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "SNVoter-NanoMethPhase": {
         "description": "SNVoter - A top up tool to enhance SNV calling from Nanopore sequencing data & \nNanoMethPhase - Phase long reads and CpG methylations from Oxford Nanopore Technologies.",
         "domains": [
@@ -22347,6 +24307,28 @@
         "last_updated": 1619223490,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/SNVoter-NanoMethPhase/1.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "SOAPdenovo2": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "r240-gimkl-2017a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -22485,6 +24467,7 @@
         "homepage": "http://cab.spbu.ru/software/spades",
         "support": "",
         "versions": [
+            "3.11.1-gimkl-2017a",
             "3.13.1-gimkl-2018b",
             "3.14.0-gimkl-2020a",
             "3.15.0-gimkl-2020a",
@@ -22597,6 +24580,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "spglib": {
+        "description": "",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.9.2-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.9.2-gimkl-2017a": "Warning: spglib/1.9.2-gimkl-2017a is very old and will soon be deleted. If you still need it, then please let us know."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "SPIDER": {
         "description": "System for Processing Image Data from Electron microscopy and Related fields",
         "domains": [
@@ -22687,6 +24696,7 @@
             "3.25.3",
             "3.27.2-GCCcore-7.4.0",
             "3.31.1-GCCcore-9.2.0",
+            "3.36.0-GCCcore-11.2.0",
             "3.36.0-GCCcore-11.3.0",
             "3.42.0-GCCcore-12.3.0"
         ],
@@ -22814,6 +24824,9 @@
         "homepage": "http://creskolab.uoregon.edu/stacks/",
         "support": "",
         "versions": [
+            "1.46-gimkl-2017a",
+            "2.0b-gimkl-2017a",
+            "2.2-gimkl-2017a",
             "2.4-gimkl-2018b",
             "2.41-gimkl-2018b",
             "2.52-gimkl-2020a",
@@ -22859,6 +24872,7 @@
         "homepage": "https://github.com/alexdobin/STAR",
         "support": "",
         "versions": [
+            "2.5.4b-gimkl-2017a",
             "2.7.0e-gimkl-2017a",
             "2.7.10b-GCC-11.3.0-alpha",
             "2.7.5c-GCC-9.2.0",
@@ -22995,6 +25009,7 @@
         "homepage": "http://subread.sourceforge.net/",
         "support": "",
         "versions": [
+            "1.5.3-gimkl-2017a",
             "2.0.0-GCC-9.2.0",
             "2.0.3-GCC-11.3.0",
             "2.0.6-GCC-12.3.0",
@@ -23076,6 +25091,7 @@
         "homepage": "http://computation.llnl.gov/projects/sundials",
         "support": "",
         "versions": [
+            "4.0.0-gimkl-2017a",
             "4.1.0-gimkl-2018b",
             "5.5.0-gimkl-2020a",
             "5.7.0-gimkl-2020a",
@@ -23114,6 +25130,7 @@
         "homepage": "http://crd-legacy.lbl.gov/~xiaoye/SuperLU/",
         "support": "",
         "versions": [
+            "5.2.1-gimkl-2017a",
             "5.2.1-gimkl-2020a"
         ],
         "admin_list": [
@@ -23185,6 +25202,7 @@
         "homepage": "https://github.com/torognes/swarm",
         "support": "",
         "versions": [
+            "2.1.9-gimkl-2017a",
             "2.2.2-GCC-9.2.0",
             "3.1.4-GCC-11.3.0"
         ],
@@ -23333,6 +25351,7 @@
         "homepage": "https://github.com/intel/tbb",
         "support": "",
         "versions": [
+            "2017_U6-gimkl-2017a",
             "2019_U1-gimkl-2017a",
             "2019_U4-GCCcore-7.4.0",
             "2019_U9-GCCcore-9.2.0",
@@ -23409,6 +25428,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "TensorBoard": {
+        "description": "",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "TensorFlow": {
         "description": "An open-source software library for Machine Intelligence",
         "domains": [
@@ -23447,6 +25486,8 @@
         "homepage": "https://www.tensorflow.org/",
         "support": "",
         "versions": [
+            "1.10.1-gimkl-2017a-Python-3.6.3",
+            "2.0.0-gimkl-2018b-Python-3.7.3",
             "2.0.1-gimkl-2018b-Python-3.8.1",
             "2.13.0-gimkl-2022a-Python-3.11.3",
             "2.2.0-gimkl-2018b-Python-3.8.1",
@@ -23480,6 +25521,8 @@
         "homepage": "https://developer.nvidia.com/tensorrt",
         "support": "",
         "versions": [
+            "7.0.0.11-gimkl-2017a-Python-2.7.14",
+            "7.0.0.11-gimkl-2018b-Python-2.7.16",
             "7.0.0.11-gimkl-2018b-Python-3.7.3",
             "8.6.1.6-gimkl-2022a-Python-3.11.3-CUDA-11.8.0"
         ],
@@ -23490,6 +25533,24 @@
         "last_updated": 1695166196,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/TensorRT/7.0.0.11-gimkl-2018b-Python-3.7.3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "test": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -23642,6 +25703,32 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "TopHat": {
+        "description": "",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.1.1-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "2.1.1-gimkl-2017a": "Warning: TopHat/2.1.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of TopHat to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "TransDecoder": {
         "description": "TransDecoder identifies candidate coding regions within transcript sequences.",
         "domains": [
@@ -23662,6 +25749,24 @@
         "last_updated": 1695266462,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/TransDecoder/5.5.0-GCC-9.2.0-Perl-5.30.1.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Transrate": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -23710,6 +25815,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Trilinos": {
+        "description": "",
+        "domains": [
+            "numlib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "12.12.1-gimkl-2018b-Python-3.7.3"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "trimAl": {
         "description": "Tool for automated alignment trimming in large-scale phylogenetic analyses",
         "domains": [
@@ -23743,6 +25870,7 @@
         "homepage": "http://www.bioinformatics.babraham.ac.uk/projects/trim_galore/",
         "support": "",
         "versions": [
+            "0.4.5-gimkl-2017a",
             "0.6.10-gimkl-2022a-Python-3.11.3-Perl-5.34.1",
             "0.6.4-gimkl-2018b",
             "0.6.7-gimkl-2020a-Python-3.8.2-Perl-5.30.1"
@@ -23797,6 +25925,8 @@
             "2.11.0-gimkl-2020a",
             "2.13.2-gimkl-2020a",
             "2.14.0-gimkl-2022a",
+            "2.5.1-gimkl-2017a",
+            "2.8.4-gimkl-2017a",
             "2.8.4-gimkl-2017a.lua",
             "2.8.4-gimkl-2018b",
             "2.8.5-gimkl-2018b",
@@ -23904,14 +26034,13 @@
         "support": "",
         "versions": [
             "1.1.0-gimkl-2022a-Python-3.10.5",
-            "1.1.1-gimkl-2022a-Python-3.11.3",
-            "1.1.2.5-gimkl-2022a-Python-3.11.3"
+            "1.1.1-gimkl-2022a-Python-3.11.3"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "1.1.0-gimkl-2022a-Python-3.10.5",
         "default_type": "latest",
-        "last_updated": 1728961945,
+        "last_updated": 1684824322,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/TSEBRA/1.1.0-gimkl-2022a-Python-3.10.5.lua",
         "force_hide": "False",
@@ -23927,7 +26056,9 @@
         "homepage": "https://tuiview.org/",
         "support": "",
         "versions": [
+            "1.1.12-gimkl-2017a-Python-3.6.3",
             "1.2.10-gimkl-2020a-Python-3.8.2",
+            "1.2.11-gimkl-2020a-Python-3.8.2",
             "1.2.4-gimkl-2018b-Python-3.7.3",
             "1.2.6-gimkl-2020a-Python-3.8.2"
         ],
@@ -24049,6 +26180,7 @@
         "support": "",
         "versions": [
             "1.10.0-GCCcore-9.2.0",
+            "1.12.1-GCC-11.2.0",
             "1.12.1-GCC-11.3.0",
             "1.12.1-GCC-11.3.0-CUDA-11.6.2",
             "1.12.1-intel-compilers-2022.0.2",
@@ -24230,6 +26362,7 @@
         "homepage": "http://valgrind.org",
         "support": "",
         "versions": [
+            "3.13.0-gimkl-2017a",
             "3.14.0-GCC-7.4.0",
             "3.16.1-GCC-9.2.0",
             "3.19.0-GCC-11.3.0"
@@ -24281,8 +26414,14 @@
         "homepage": "http://www.vasp.at",
         "support": "",
         "versions": [
+            "4.6-gimkl-2017a",
             "4.6-gimkl-2020a",
+            "5.3.5-intel-2017a",
+            "5.3.5-intel-2017a-VTST-BEEF",
             "5.4.4-gimkl-2022a",
+            "5.4.4-intel-2017a",
+            "5.4.4-intel-2018b",
+            "5.4.4-intel-2018b-VTST-sol",
             "5.4.4-intel-2020a",
             "6.2.1-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2",
             "6.2.1-intel-2022a-NOOMP",
@@ -24421,7 +26560,8 @@
         "homepage": "http://www.ebi.ac.uk/~zerbino/velvet/",
         "support": "",
         "versions": [
-            "1.2.10-GCC-9.2.0"
+            "1.2.10-GCC-9.2.0",
+            "1.2.10-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -24565,6 +26705,7 @@
         "homepage": "http://www.tbi.univie.ac.at/RNA/",
         "support": "",
         "versions": [
+            "2.4.11-gimkl-2017a",
             "2.4.17-gimkl-2020a"
         ],
         "admin_list": [
@@ -24742,6 +26883,7 @@
         "homepage": "http://www.vtk.org",
         "support": "",
         "versions": [
+            "6.3.0-gimkl-2017a-Python-2.7.14",
             "7.1.1-gimkl-2018b-Python-2.7.16"
         ],
         "admin_list": [
@@ -24872,6 +27014,7 @@
         "homepage": "https://pypi.python.org/pypi/wheel",
         "support": "",
         "versions": [
+            "0.31.1-gimkl-2017a-Python-3.6.3",
             "0.31.1-gimkl-2018b-Python-2.7.16",
             "0.31.1-gimkl-2020a-Python-2.7.18"
         ],
@@ -24921,7 +27064,8 @@
         "homepage": "http://www.ebi.ac.uk/~birney/wise2/",
         "support": "",
         "versions": [
-            "2.4.1-GCC-11.3.0"
+            "2.4.1-GCC-11.3.0",
+            "2.4.1-gimkl-2017a"
         ],
         "admin_list": [
             {
@@ -25030,6 +27174,54 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "XALT": {
+        "description": "",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "NeSI"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "xbitmaps": {
+        "description": "",
+        "domains": [
+            "devel"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.1.1-gimkl-2017a"
+        ],
+        "admin_list": [
+            {
+                "1.1.1-gimkl-2017a": "Warning: xbitmaps/1.1.1-gimkl-2017a is old and will soon be removed. Please let us know if you would like a new version of xbitmaps to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "Xerces-C++": {
         "description": "Xerces-C++ is a validating XML parser written in a portable\nsubset of C++. Xerces-C++ makes it easy to give your application the ability to\nread and write XML data. A shared library is provided for parsing, generating,\nmanipulating, and validating XML documents using the DOM, SAX, and SAX2\nAPIs.",
         "domains": [
@@ -25041,6 +27233,7 @@
         "support": "",
         "versions": [
             "3.1.1-GCCcore-9.2.0",
+            "3.1.4-gimkl-2017a",
             "3.2.2-GCCcore-7.4.0",
             "3.2.3-GCCcore-9.2.0"
         ],
@@ -25058,6 +27251,32 @@
         "last_updated": 1618223935,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Xerces-C++/3.1.1-GCCcore-9.2.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "XGKS": {
+        "description": "",
+        "domains": [
+            "vis"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2.6.1-gimkl-2017a-uw"
+        ],
+        "admin_list": [
+            {
+                "2.6.1-gimkl-2017a-uw": "Warning: XGKS/2.6.1-gimkl-2017a-uw is old and will soon be removed. Please let us know if you would like a new version of XGKS to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -25207,6 +27426,7 @@
             "5.2.4-GCCcore-7.4.0",
             "5.2.4-GCCcore-9.2.0",
             "5.2.4-intel-2018b",
+            "5.2.5-GCCcore-11.2.0",
             "5.2.5-GCCcore-11.3.0",
             "5.4.2-GCCcore-12.3.0"
         ],
@@ -25239,6 +27459,36 @@
         "last_updated": 1679448661,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/yacrd/1.0.0-GCC-11.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Yade": {
+        "description": "",
+        "domains": [
+            "devel"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "1.20.0-gimkl-2017a-Python-2.7.14",
+            "2018.02b-gimkl-2017a-Python-2.7.14"
+        ],
+        "admin_list": [
+            {
+                "1.20.0-gimkl-2017a-Python-2.7.14": "Warning: Yade/1.20.0-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of Yade to be installed."
+            },
+            {
+                "2018.02b-gimkl-2017a-Python-2.7.14": "Warning: Yade/2018.02b-gimkl-2017a-Python-2.7.14 is old and will soon be removed. Please let us know if you would like a new version of Yade to be installed."
+            }
+        ],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -25299,7 +27549,8 @@
         "versions": [
             "0.6.2-GCCcore-7.4.0",
             "0.6.3-GCCcore-9.2.0",
-            "0.8.0-GCC-12.3.0"
+            "0.8.0-GCC-12.3.0",
+            "0.8.0-foss-2023a"
         ],
         "admin_list": [
             {
@@ -25397,6 +27648,7 @@
         "homepage": "http://www.zeromq.org/",
         "support": "",
         "versions": [
+            "4.2.5-gimkl-2017a",
             "4.3.2-GCCcore-9.2.0",
             "4.3.2-gimkl-2018b",
             "4.3.4-GCCcore-11.3.0",
@@ -25452,10 +27704,12 @@
         "support": "",
         "versions": [
             "1.2.11",
+            "1.2.11-GCCcore-11.2.0",
             "1.2.11-GCCcore-11.3.0",
             "1.2.11-GCCcore-7.4.0",
             "1.2.11-GCCcore-9.2.0",
             "1.2.11-gimkl-2017a",
+            "1.2.11-gimkl-2018b",
             "1.2.11-intel-2017a",
             "1.2.11-intel-2018b",
             "1.2.13",
@@ -25468,6 +27722,28 @@
         "last_updated": 1697609800,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/zlib/1.2.11.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Zonation": {
+        "description": "",
+        "domains": [
+            "geo"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "4.0.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "latest",
+        "default_type": "latest",
+        "last_updated": "0",
+        "modulefile_text": "",
+        "module_path": "",
         "force_hide": "False",
         "force_show": "False"
     },
