@@ -4,7 +4,19 @@
   
   
   
-  <channel lastBuildDate="Thu, 17 Oct 2024 11:00:26 -0000">
+  
+  
+  
+  
+  
+  
+  <channel lastBuildDate="Thu, 24 Oct 2024 11:16:47 -0000">
+    
+    
+    
+    
+    
+    
     
     
     
@@ -14,7 +26,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <link>http://docs.nesi.org.nz</link>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -24,7 +48,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <docs>http://www.rssboard.org/rss-specification</docs>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -34,7 +70,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <language>en</language>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -44,7 +92,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <ns0:link href="http://docs.nesi.org.nz/software_updates.xml" rel="self" type="application/rss+xml"/>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -54,7 +114,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <title>Default version of QuickTree changed from 2.5-GCC-11.3.0 to 2.5-GCC-12.3.0.</title>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -64,12 +136,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">defaultChanged</category>
       
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -77,6 +167,12 @@
       <guid>A0</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -84,7 +180,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -94,7 +202,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">QuickTree</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -104,7 +224,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -112,6 +244,12 @@
       <guid>A1</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -119,7 +257,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -129,7 +279,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">QuickTree</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -139,7 +301,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -147,6 +321,12 @@
       <guid>A2</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -154,7 +334,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -164,12 +356,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Mashtree</category>
       
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">softwareAdded</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -179,9 +389,21 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <guid>A3</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -189,7 +411,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -199,7 +433,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">pauvre</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -209,7 +455,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -217,6 +475,12 @@
       <guid>A4</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -224,7 +488,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -234,7 +510,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">pauvre</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -244,7 +532,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -252,6 +552,12 @@
       <guid>A5</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -259,7 +565,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -269,7 +587,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BamTools</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -279,7 +609,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -287,6 +629,12 @@
       <guid>A6</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -294,7 +642,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -304,7 +664,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BamTools</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -314,7 +686,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -322,9 +706,21 @@
       <guid>A7</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -334,7 +730,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <title>Default version of QUAST changed from 5.0.2-gimkl-2018b to 5.2.0-foss-2023a.</title>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -344,12 +752,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">defaultChanged</category>
       
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -357,6 +783,12 @@
       <guid>A8</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -364,7 +796,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -374,7 +818,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">QUAST</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -384,7 +840,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -392,6 +860,12 @@
       <guid>A9</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -399,7 +873,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -409,7 +895,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">QUAST</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -419,7 +917,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -427,6 +937,12 @@
       <guid>A10</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -434,7 +950,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -444,7 +972,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BEDTools</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -454,7 +994,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -462,6 +1014,12 @@
       <guid>A11</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -469,7 +1027,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -479,7 +1049,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BEDTools</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -489,7 +1071,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -497,6 +1091,12 @@
       <guid>A11</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -504,7 +1104,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -514,7 +1126,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BEDTools</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -524,7 +1148,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -532,6 +1168,12 @@
       <guid>A12</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -539,7 +1181,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -549,7 +1203,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">MultiQC</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -559,7 +1225,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -567,6 +1245,12 @@
       <guid>A13</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -574,7 +1258,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -584,7 +1280,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">MultiQC</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -594,7 +1302,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -602,6 +1322,12 @@
       <guid>A14</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -609,7 +1335,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -619,7 +1357,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">NanoPlot</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -629,7 +1379,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -637,6 +1399,12 @@
       <guid>A15</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -644,7 +1412,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -654,12 +1434,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">NanoPlot</category>
       
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">versionAdded</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -669,12 +1467,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <guid>A16</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -684,7 +1500,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <title>Default version of TSEBRA changed from 1.1.0-gimkl-2022a-Python-3.10.5 to 1.1.0-gimkl-2022a-Python-3.10.5.</title>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -694,12 +1522,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">defaultChanged</category>
       
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Tue, 15 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -707,9 +1553,21 @@
       <guid>A17</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
+    
+    
+    
+    
+    
+    
     
     
     
@@ -719,7 +1577,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <title>1.1.2.5-gimkl-2022a-Python-3.11.3 added.</title>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -729,7 +1599,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">versionAdded</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -739,9 +1621,21 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <guid>A18</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -749,7 +1643,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -759,7 +1665,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">TSEBRA</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -769,7 +1687,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -777,6 +1707,12 @@
       <guid>A19</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -784,7 +1720,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -794,7 +1742,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">TSEBRA</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -804,7 +1764,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -812,6 +1784,12 @@
       <guid>A20</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -819,7 +1797,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -829,7 +1819,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">binutils</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -839,7 +1841,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -847,6 +1861,12 @@
       <guid>A21</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -854,7 +1874,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -864,7 +1896,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">make</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -874,7 +1918,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -882,6 +1938,12 @@
       <guid>A22</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -889,7 +1951,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -899,7 +1973,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Rose</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -909,7 +1995,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -917,6 +2015,12 @@
       <guid>A23</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -924,7 +2028,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -934,7 +2050,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Loki</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -944,7 +2072,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -952,6 +2092,12 @@
       <guid>A24</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -959,7 +2105,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -969,7 +2127,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">FPM</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -979,7 +2149,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -987,6 +2169,12 @@
       <guid>A25</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -994,7 +2182,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1004,7 +2204,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">ARCSI</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1014,7 +2226,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1022,6 +2246,12 @@
       <guid>A26</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1029,7 +2259,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1039,7 +2281,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Anaconda3-Geo2</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1049,7 +2303,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1057,6 +2323,12 @@
       <guid>A27</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1064,7 +2336,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1074,7 +2358,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Cannoli</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1084,7 +2380,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1092,6 +2400,12 @@
       <guid>A28</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1099,7 +2413,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1109,7 +2435,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Augustus</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1119,7 +2457,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1127,6 +2477,12 @@
       <guid>A29</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1134,7 +2490,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1144,7 +2512,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">OpenCMISS</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1154,7 +2534,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1162,6 +2554,12 @@
       <guid>A30</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1169,7 +2567,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1179,7 +2589,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Transrate</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1189,7 +2611,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1197,6 +2631,12 @@
       <guid>A31</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1204,7 +2644,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1214,7 +2666,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Amber</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1224,7 +2688,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1232,6 +2708,12 @@
       <guid>A32</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1239,7 +2721,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1249,7 +2743,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">blasr_libcpp</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1259,7 +2765,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1267,6 +2785,12 @@
       <guid>A33</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1274,7 +2798,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1284,7 +2820,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">branches</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1294,7 +2842,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1302,6 +2862,12 @@
       <guid>A34</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1309,7 +2875,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1319,7 +2897,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">PBJelly</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1329,7 +2919,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1337,6 +2939,12 @@
       <guid>A35</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1344,7 +2952,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1354,7 +2974,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">SOAPdenovo2</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1364,7 +2996,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1372,6 +3016,12 @@
       <guid>A36</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1379,7 +3029,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1389,7 +3051,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">TensorBoard</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1399,7 +3073,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1407,6 +3093,12 @@
       <guid>A37</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1414,7 +3106,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1424,7 +3128,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">XGKS</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1434,7 +3150,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1442,6 +3170,12 @@
       <guid>A38</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1449,7 +3183,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1459,7 +3205,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">pyseer</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1469,7 +3227,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1477,6 +3247,12 @@
       <guid>A39</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1484,7 +3260,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1494,7 +3282,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BLASR</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1504,7 +3304,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1512,6 +3324,12 @@
       <guid>A40</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1519,7 +3337,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1529,7 +3359,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Octopus</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1539,7 +3381,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1547,6 +3401,12 @@
       <guid>A41</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1554,7 +3414,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1564,7 +3436,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">BerkeleyGW</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1574,7 +3458,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1582,6 +3478,12 @@
       <guid>A42</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1589,7 +3491,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1599,7 +3513,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">networkx</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1609,7 +3535,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1617,6 +3555,12 @@
       <guid>A43</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1624,7 +3568,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1634,7 +3590,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">DendroPy</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1644,7 +3612,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1652,6 +3632,12 @@
       <guid>A44</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1659,7 +3645,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1669,7 +3667,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">motif</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1679,7 +3689,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1687,6 +3709,12 @@
       <guid>A45</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1694,7 +3722,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1704,12 +3744,30 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">skani</category>
       
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="type">softwareAdded</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1719,9 +3777,21 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <guid>A46</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1729,7 +3799,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1739,7 +3821,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Flye</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1749,7 +3843,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Thu, 10 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1757,6 +3863,12 @@
       <guid>A47</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1764,7 +3876,19 @@
     
     
     
+    
+    
+    
+    
+    
+    
     <item>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1774,7 +3898,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <category domain="software">Flye</category>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1784,7 +3920,19 @@
       
       
       
+      
+      
+      
+      
+      
+      
       <pubDate>Thu, 10 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
+      
+      
+      
+      
       
       
       
@@ -1792,6 +3940,12 @@
       <guid>A48</guid>
       
       
+      
+      
+      
+    
+    
+    
     
     
     </item>
@@ -1801,12 +3955,21 @@
       <title>FileSender has been added.</title>
       <category domain="type">softwareAdded</category>
       <category domain="software">FileSender</category>
-      <pubDate>Thu, 17 Oct 2024 11:00:26 -0000</pubDate>
+      <pubDate>Thu, 24 Oct 2024 11:16:47 -0000</pubDate>
+      <description>Send large files quickly and securely using REANNZ FileSender.
+https://www.reannz.co.nz/products-and-services/filesender/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load FileSender/2.49.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A59</guid>
     </item>
   </channel>
   
   
+  
+  
+  
+
+
+
 
 
 </rss>
