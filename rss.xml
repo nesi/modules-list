@@ -12,7 +12,11 @@
   
   
   
-  <channel lastBuildDate="Wed, 06 Nov 2024 15:23:08 -0000">
+  
+  
+  <channel lastBuildDate="Wed, 06 Nov 2024 11:00:27 -0000">
+    
+    
     
     
     
@@ -38,7 +42,11 @@
     
     
     
+    
+    
     <link>http://docs.nesi.org.nz</link>
+    
+    
     
     
     
@@ -64,7 +72,11 @@
     
     
     
+    
+    
     <docs>http://www.rssboard.org/rss-specification</docs>
+    
+    
     
     
     
@@ -90,7 +102,11 @@
     
     
     
+    
+    
     <language>en</language>
+    
+    
     
     
     
@@ -116,7 +132,11 @@
     
     
     
+    
+    
     <ns0:link href="http://docs.nesi.org.nz/software_updates.xml" rel="self" type="application/rss+xml"/>
+    
+    
     
     
     
@@ -142,7 +162,11 @@
       
       
       
+      
+      
       <title>Default version of QuickTree changed from 2.5-GCC-11.3.0 to 2.5-GCC-12.3.0.</title>
+      
+      
       
       
       
@@ -168,6 +192,8 @@
       
       
       
+      
+      
       <category domain="type">defaultChanged</category>
       
       
@@ -181,7 +207,11 @@
       
       
       
+      
+      
       <pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -201,6 +231,8 @@
       
       
       
+      
+    
     
     
     
@@ -220,7 +252,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -246,7 +282,11 @@
       
       
       
+      
+      
       <category domain="software">QuickTree</category>
+      
+      
       
       
       
@@ -272,7 +312,11 @@
       
       
       
+      
+      
       <pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -292,6 +336,8 @@
       
       
       
+      
+    
     
     
     
@@ -311,7 +357,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -337,7 +387,11 @@
       
       
       
+      
+      
       <category domain="software">QuickTree</category>
+      
+      
       
       
       
@@ -363,7 +417,11 @@
       
       
       
+      
+      
       <pubDate>Tue, 08 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -383,6 +441,8 @@
       
       
       
+      
+    
     
     
     
@@ -402,7 +462,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -428,6 +492,8 @@
       
       
       
+      
+      
       <category domain="software">Mashtree</category>
       
       
@@ -441,7 +507,11 @@
       
       
       
+      
+      
       <category domain="type">softwareAdded</category>
+      
+      
       
       
       
@@ -467,6 +537,8 @@
       
       
       
+      
+      
       <guid>A3</guid>
       
       
@@ -474,6 +546,8 @@
       
       
       
+      
+    
     
     
     
@@ -493,7 +567,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -519,7 +597,11 @@
       
       
       
+      
+      
       <category domain="software">pauvre</category>
+      
+      
       
       
       
@@ -545,7 +627,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -565,6 +651,8 @@
       
       
       
+      
+    
     
     
     
@@ -584,7 +672,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -610,7 +702,11 @@
       
       
       
+      
+      
       <category domain="software">pauvre</category>
+      
+      
       
       
       
@@ -636,7 +732,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -656,6 +756,8 @@
       
       
       
+      
+    
     
     
     
@@ -675,7 +777,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -701,7 +807,11 @@
       
       
       
+      
+      
       <category domain="software">BamTools</category>
+      
+      
       
       
       
@@ -727,7 +837,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -747,6 +861,8 @@
       
       
       
+      
+    
     
     
     
@@ -766,7 +882,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -792,7 +912,11 @@
       
       
       
+      
+      
       <category domain="software">BamTools</category>
+      
+      
       
       
       
@@ -818,7 +942,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -838,6 +966,8 @@
       
       
       
+      
+    
     
     
     
@@ -845,6 +975,8 @@
     
     
     </item>
+    
+    
     
     
     
@@ -870,7 +1002,11 @@
       
       
       
+      
+      
       <title>Default version of QUAST changed from 5.0.2-gimkl-2018b to 5.2.0-foss-2023a.</title>
+      
+      
       
       
       
@@ -896,6 +1032,8 @@
       
       
       
+      
+      
       <category domain="type">defaultChanged</category>
       
       
@@ -909,7 +1047,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -929,6 +1071,8 @@
       
       
       
+      
+    
     
     
     
@@ -948,7 +1092,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -974,7 +1122,11 @@
       
       
       
+      
+      
       <category domain="software">QUAST</category>
+      
+      
       
       
       
@@ -1000,7 +1152,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1020,6 +1176,8 @@
       
       
       
+      
+    
     
     
     
@@ -1039,7 +1197,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1065,7 +1227,11 @@
       
       
       
+      
+      
       <category domain="software">QUAST</category>
+      
+      
       
       
       
@@ -1091,7 +1257,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1111,6 +1281,8 @@
       
       
       
+      
+    
     
     
     
@@ -1130,7 +1302,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1156,7 +1332,11 @@
       
       
       
+      
+      
       <category domain="software">BEDTools</category>
+      
+      
       
       
       
@@ -1182,7 +1362,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1202,6 +1386,8 @@
       
       
       
+      
+    
     
     
     
@@ -1221,7 +1407,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1247,7 +1437,11 @@
       
       
       
+      
+      
       <category domain="software">BEDTools</category>
+      
+      
       
       
       
@@ -1273,7 +1467,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1293,6 +1491,8 @@
       
       
       
+      
+    
     
     
     
@@ -1312,7 +1512,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1338,7 +1542,11 @@
       
       
       
+      
+      
       <category domain="software">BEDTools</category>
+      
+      
       
       
       
@@ -1364,7 +1572,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1384,6 +1596,8 @@
       
       
       
+      
+    
     
     
     
@@ -1403,7 +1617,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1429,7 +1647,11 @@
       
       
       
+      
+      
       <category domain="software">MultiQC</category>
+      
+      
       
       
       
@@ -1455,7 +1677,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1475,6 +1701,8 @@
       
       
       
+      
+    
     
     
     
@@ -1494,7 +1722,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1520,7 +1752,11 @@
       
       
       
+      
+      
       <category domain="software">MultiQC</category>
+      
+      
       
       
       
@@ -1546,7 +1782,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1566,6 +1806,8 @@
       
       
       
+      
+    
     
     
     
@@ -1585,7 +1827,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1611,7 +1857,11 @@
       
       
       
+      
+      
       <category domain="software">NanoPlot</category>
+      
+      
       
       
       
@@ -1637,7 +1887,11 @@
       
       
       
+      
+      
       <pubDate>Mon, 16 Sep 2024 00:00:00 +1200</pubDate>
+      
+      
       
       
       
@@ -1657,6 +1911,8 @@
       
       
       
+      
+    
     
     
     
@@ -1676,7 +1932,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1702,6 +1962,8 @@
       
       
       
+      
+      
       <category domain="software">NanoPlot</category>
       
       
@@ -1715,7 +1977,11 @@
       
       
       
+      
+      
       <category domain="type">versionAdded</category>
+      
+      
       
       
       
@@ -1741,6 +2007,8 @@
       
       
       
+      
+      
       <guid>A16</guid>
       
       
@@ -1748,6 +2016,8 @@
       
       
       
+      
+    
     
     
     
@@ -1755,6 +2025,8 @@
     
     
     </item>
+    
+    
     
     
     
@@ -1780,7 +2052,11 @@
       
       
       
+      
+      
       <title>Default version of TSEBRA changed from 1.1.0-gimkl-2022a-Python-3.10.5 to 1.1.0-gimkl-2022a-Python-3.10.5.</title>
+      
+      
       
       
       
@@ -1806,6 +2082,8 @@
       
       
       
+      
+      
       <category domain="type">defaultChanged</category>
       
       
@@ -1819,7 +2097,11 @@
       
       
       
+      
+      
       <pubDate>Tue, 15 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -1839,6 +2121,8 @@
       
       
       
+      
+    
     
     
     
@@ -1846,6 +2130,8 @@
     
     
     </item>
+    
+    
     
     
     
@@ -1871,7 +2157,11 @@
       
       
       
+      
+      
       <title>1.1.2.5-gimkl-2022a-Python-3.11.3 added.</title>
+      
+      
       
       
       
@@ -1897,7 +2187,11 @@
       
       
       
+      
+      
       <category domain="type">versionAdded</category>
+      
+      
       
       
       
@@ -1923,6 +2217,8 @@
       
       
       
+      
+      
       <guid>A18</guid>
       
       
@@ -1930,6 +2226,8 @@
       
       
       
+      
+    
     
     
     
@@ -1949,7 +2247,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -1975,7 +2277,11 @@
       
       
       
+      
+      
       <category domain="software">TSEBRA</category>
+      
+      
       
       
       
@@ -2001,7 +2307,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2021,6 +2331,8 @@
       
       
       
+      
+    
     
     
     
@@ -2040,7 +2352,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2066,7 +2382,11 @@
       
       
       
+      
+      
       <category domain="software">TSEBRA</category>
+      
+      
       
       
       
@@ -2092,7 +2412,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2112,6 +2436,8 @@
       
       
       
+      
+    
     
     
     
@@ -2131,7 +2457,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2157,7 +2487,11 @@
       
       
       
+      
+      
       <category domain="software">binutils</category>
+      
+      
       
       
       
@@ -2183,7 +2517,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2203,6 +2541,8 @@
       
       
       
+      
+    
     
     
     
@@ -2222,7 +2562,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2248,7 +2592,11 @@
       
       
       
+      
+      
       <category domain="software">make</category>
+      
+      
       
       
       
@@ -2274,7 +2622,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2294,6 +2646,8 @@
       
       
       
+      
+    
     
     
     
@@ -2313,7 +2667,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2339,7 +2697,11 @@
       
       
       
+      
+      
       <category domain="software">Rose</category>
+      
+      
       
       
       
@@ -2365,7 +2727,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2385,6 +2751,8 @@
       
       
       
+      
+    
     
     
     
@@ -2404,7 +2772,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2430,7 +2802,11 @@
       
       
       
+      
+      
       <category domain="software">Loki</category>
+      
+      
       
       
       
@@ -2456,7 +2832,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2476,6 +2856,8 @@
       
       
       
+      
+    
     
     
     
@@ -2495,7 +2877,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2521,7 +2907,11 @@
       
       
       
+      
+      
       <category domain="software">FPM</category>
+      
+      
       
       
       
@@ -2547,7 +2937,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2567,6 +2961,8 @@
       
       
       
+      
+    
     
     
     
@@ -2586,7 +2982,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2612,7 +3012,11 @@
       
       
       
+      
+      
       <category domain="software">ARCSI</category>
+      
+      
       
       
       
@@ -2638,7 +3042,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2658,6 +3066,8 @@
       
       
       
+      
+    
     
     
     
@@ -2677,7 +3087,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2703,7 +3117,11 @@
       
       
       
+      
+      
       <category domain="software">Anaconda3-Geo2</category>
+      
+      
       
       
       
@@ -2729,7 +3147,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2749,6 +3171,8 @@
       
       
       
+      
+    
     
     
     
@@ -2768,7 +3192,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2794,7 +3222,11 @@
       
       
       
+      
+      
       <category domain="software">Cannoli</category>
+      
+      
       
       
       
@@ -2820,7 +3252,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2840,6 +3276,8 @@
       
       
       
+      
+    
     
     
     
@@ -2859,7 +3297,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2885,7 +3327,11 @@
       
       
       
+      
+      
       <category domain="software">Augustus</category>
+      
+      
       
       
       
@@ -2911,7 +3357,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -2931,6 +3381,8 @@
       
       
       
+      
+    
     
     
     
@@ -2950,7 +3402,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -2976,7 +3432,11 @@
       
       
       
+      
+      
       <category domain="software">OpenCMISS</category>
+      
+      
       
       
       
@@ -3002,7 +3462,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3022,6 +3486,8 @@
       
       
       
+      
+    
     
     
     
@@ -3041,7 +3507,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3067,7 +3537,11 @@
       
       
       
+      
+      
       <category domain="software">Transrate</category>
+      
+      
       
       
       
@@ -3093,7 +3567,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3113,6 +3591,8 @@
       
       
       
+      
+    
     
     
     
@@ -3132,7 +3612,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3158,7 +3642,11 @@
       
       
       
+      
+      
       <category domain="software">Amber</category>
+      
+      
       
       
       
@@ -3184,7 +3672,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3204,6 +3696,8 @@
       
       
       
+      
+    
     
     
     
@@ -3223,7 +3717,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3249,7 +3747,11 @@
       
       
       
+      
+      
       <category domain="software">blasr_libcpp</category>
+      
+      
       
       
       
@@ -3275,7 +3777,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3295,6 +3801,8 @@
       
       
       
+      
+    
     
     
     
@@ -3314,7 +3822,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3340,7 +3852,11 @@
       
       
       
+      
+      
       <category domain="software">branches</category>
+      
+      
       
       
       
@@ -3366,7 +3882,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3386,6 +3906,8 @@
       
       
       
+      
+    
     
     
     
@@ -3405,7 +3927,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3431,7 +3957,11 @@
       
       
       
+      
+      
       <category domain="software">PBJelly</category>
+      
+      
       
       
       
@@ -3457,7 +3987,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3477,6 +4011,8 @@
       
       
       
+      
+    
     
     
     
@@ -3496,7 +4032,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3522,7 +4062,11 @@
       
       
       
+      
+      
       <category domain="software">SOAPdenovo2</category>
+      
+      
       
       
       
@@ -3548,7 +4092,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3568,6 +4116,8 @@
       
       
       
+      
+    
     
     
     
@@ -3587,7 +4137,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3613,7 +4167,11 @@
       
       
       
+      
+      
       <category domain="software">TensorBoard</category>
+      
+      
       
       
       
@@ -3639,7 +4197,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3659,6 +4221,8 @@
       
       
       
+      
+    
     
     
     
@@ -3678,7 +4242,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3704,7 +4272,11 @@
       
       
       
+      
+      
       <category domain="software">XGKS</category>
+      
+      
       
       
       
@@ -3730,7 +4302,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3750,6 +4326,8 @@
       
       
       
+      
+    
     
     
     
@@ -3769,7 +4347,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3795,7 +4377,11 @@
       
       
       
+      
+      
       <category domain="software">pyseer</category>
+      
+      
       
       
       
@@ -3821,7 +4407,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3841,6 +4431,8 @@
       
       
       
+      
+    
     
     
     
@@ -3860,7 +4452,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3886,7 +4482,11 @@
       
       
       
+      
+      
       <category domain="software">BLASR</category>
+      
+      
       
       
       
@@ -3912,7 +4512,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -3932,6 +4536,8 @@
       
       
       
+      
+    
     
     
     
@@ -3951,7 +4557,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -3977,7 +4587,11 @@
       
       
       
+      
+      
       <category domain="software">Octopus</category>
+      
+      
       
       
       
@@ -4003,7 +4617,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -4023,6 +4641,8 @@
       
       
       
+      
+    
     
     
     
@@ -4042,7 +4662,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4068,7 +4692,11 @@
       
       
       
+      
+      
       <category domain="software">BerkeleyGW</category>
+      
+      
       
       
       
@@ -4094,7 +4722,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -4114,6 +4746,8 @@
       
       
       
+      
+    
     
     
     
@@ -4133,7 +4767,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4159,7 +4797,11 @@
       
       
       
+      
+      
       <category domain="software">networkx</category>
+      
+      
       
       
       
@@ -4185,7 +4827,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -4205,6 +4851,8 @@
       
       
       
+      
+    
     
     
     
@@ -4224,7 +4872,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4250,7 +4902,11 @@
       
       
       
+      
+      
       <category domain="software">DendroPy</category>
+      
+      
       
       
       
@@ -4276,7 +4932,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -4296,6 +4956,8 @@
       
       
       
+      
+    
     
     
     
@@ -4315,7 +4977,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4341,7 +5007,11 @@
       
       
       
+      
+      
       <category domain="software">motif</category>
+      
+      
       
       
       
@@ -4367,7 +5037,11 @@
       
       
       
+      
+      
       <pubDate>Wed, 16 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -4387,6 +5061,8 @@
       
       
       
+      
+    
     
     
     
@@ -4406,7 +5082,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4432,6 +5112,8 @@
       
       
       
+      
+      
       <category domain="software">skani</category>
       
       
@@ -4445,7 +5127,11 @@
       
       
       
+      
+      
       <category domain="type">softwareAdded</category>
+      
+      
       
       
       
@@ -4471,6 +5157,8 @@
       
       
       
+      
+      
       <guid>A46</guid>
       
       
@@ -4478,6 +5166,8 @@
       
       
       
+      
+    
     
     
     
@@ -4497,7 +5187,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4523,7 +5217,11 @@
       
       
       
+      
+      
       <category domain="software">Flye</category>
+      
+      
       
       
       
@@ -4549,7 +5247,11 @@
       
       
       
+      
+      
       <pubDate>Thu, 10 Oct 2024 00:00:00 +1300</pubDate>
+      
+      
       
       
       
@@ -4569,6 +5271,8 @@
       
       
       
+      
+    
     
     
     
@@ -4588,7 +5292,11 @@
     
     
     
+    
+    
     <item>
+      
+      
       
       
       
@@ -4614,6 +5322,8 @@
       
       
       
+      
+      
       <category domain="software">Flye</category>
       
       
@@ -4627,7 +5337,11 @@
       
       
       
+      
+      
       <category domain="type">versionAdded</category>
+      
+      
       
       
       
@@ -4653,6 +5367,8 @@
       
       
       
+      
+      
       <guid>A48</guid>
       
       
@@ -4660,6 +5376,8 @@
       
       
       
+      
+    
     
     
     
@@ -4669,21 +5387,33 @@
     </item>
     
     
+    
   
     
+    
     <item>
+      
+      
       
       
       <title>FileSender has been added.</title>
       
       
+      
+      
       <category domain="type">softwareAdded</category>
+      
+      
       
       
       <category domain="software">FileSender</category>
       
       
+      
+      
       <pubDate>Thu, 24 Oct 2024 11:16:47 -0000</pubDate>
+      
+      
       
       
       <description>Send large files quickly and securely using REANNZ FileSender.
@@ -4691,278 +5421,797 @@ https://www.reannz.co.nz/products-and-services/filesender/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load FileSender/2.49.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       
       
+      
+      
       <guid>A59</guid>
+      
+      
+    
+    
+    </item>
+    
+    
+  
+    
+    <item>
+      
+      
+      <title>libsodium has been added.</title>
+      
+      
+      <category domain="type">softwareAdded</category>
+      
+      
+      <category domain="software">libsodium</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>library for encryption, decryption, signatures, password hashing and more.
+https://doc.libsodium.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libsodium/1.0.18&lt;/code&gt;&lt;/pre&gt;</description>
+      
+      
+      <guid>A60</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>NextPolish2 has been added.</title>
+      
+      
+      <category domain="type">softwareAdded</category>
+      
+      
+      <category domain="software">NextPolish2</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>a fast and efficient genome polishing tool for long-read assembly
+https://github.com/Nextomics/NextPolish2
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load NextPolish2/0.2.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      
+      
+      <guid>A61</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>matlab-proxy has been added.</title>
+      
+      
+      <category domain="type">softwareAdded</category>
+      
+      
+      <category domain="software">matlab-proxy</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>Python package which enables you to launch MATLAB and access it from a web browser.
+https://github.com/mathworks/matlab-proxy
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load matlab-proxy/0.23.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      
+      
+      <guid>A62</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>BreakDancer has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">BreakDancer</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>BreakDancer has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load BreakDancer&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A63</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>libxml++ has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">libxml++</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>libxml++ has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load libxml++&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A64</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>srun-wrapper has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">srun-wrapper</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>srun-wrapper has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load srun-wrapper&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A65</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>NONMEM has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">NONMEM</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>NONMEM has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load NONMEM&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A66</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>splat has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">splat</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>splat has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load splat&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A67</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>libsigc++ has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">libsigc++</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>libsigc++ has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load libsigc++&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A68</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Gaussian has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">Gaussian</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>Gaussian has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Gaussian&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A69</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>geany has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">geany</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>geany has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load geany&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A70</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>nearline has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">nearline</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>nearline has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load nearline&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A71</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>hooks has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">hooks</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>hooks has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load hooks&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A72</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>GLibmm has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">GLibmm</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>GLibmm has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load GLibmm&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A73</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>nano has been removed.</title>
+      
+      
+      <category domain="type">softwareRemoved</category>
+      
+      
+      <category domain="software">nano</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>nano has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load nano&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A74</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of Basilisk has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">Basilisk</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of Basilisk has changed from 20200620-gimpi-2020 to 20180226-gimpi-2018b, this is the version that will be loaded when you run &lt;code&gt;module load Basilisk&lt;/code&gt;.
+If you wish to continue using 20200620-gimpi-2020 in any of your scripts, make sure to change them to &lt;code&gt;module load Basilisk/20200620-gimpi-2020&lt;/code&gt;</description>
+      
+      
+      <guid>A75</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>globus-compute-endpoint/2.30.1-foss-2023a-Python-3.11.6 added.</title>
+      
+      
+      <category domain="type">versionAdded</category>
+      
+      
+      <category domain="software">globus-compute-endpoint</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>globus-compute-endpoint has been updated with a new version, 2.30.1-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load globus-compute-endpoint/2.30.1-foss-2023a-Python-3.11.6&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A76</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of globus-compute-endpoint has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">globus-compute-endpoint</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of globus-compute-endpoint has changed from 2.24.0-gimkl-2022a-Python-3.10.5 to 2.24.0-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load globus-compute-endpoint&lt;/code&gt;.
+If you wish to continue using 2.24.0-gimkl-2022a-Python-3.10.5 in any of your scripts, make sure to change them to &lt;code&gt;module load globus-compute-endpoint/2.24.0-gimkl-2022a-Python-3.10.5&lt;/code&gt;</description>
+      
+      
+      <guid>A77</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of GDAL has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">GDAL</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of GDAL has changed from 3.0.4-gimkl-2020a.lua to 2.2.2-gimkl-2017a-GEOS-3.5.1, this is the version that will be loaded when you run &lt;code&gt;module load GDAL&lt;/code&gt;.
+If you wish to continue using 3.0.4-gimkl-2020a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load GDAL/3.0.4-gimkl-2020a.lua&lt;/code&gt;</description>
+      
+      
+      <guid>A78</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of Trinity has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">Trinity</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of Trinity has changed from 2.8.4-gimkl-2017a.lua to 2.13.2-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Trinity&lt;/code&gt;.
+If you wish to continue using 2.8.4-gimkl-2017a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load Trinity/2.8.4-gimkl-2017a.lua&lt;/code&gt;</description>
+      
+      
+      <guid>A79</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of EasyBuild has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">EasyBuild</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of EasyBuild has changed from 4.7 to 4.8.1, this is the version that will be loaded when you run &lt;code&gt;module load EasyBuild&lt;/code&gt;.
+If you wish to continue using 4.7 in any of your scripts, make sure to change them to &lt;code&gt;module load EasyBuild/4.7&lt;/code&gt;</description>
+      
+      
+      <guid>A80</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>modkit/0.4.1-GCC-12.3.0 added.</title>
+      
+      
+      <category domain="type">versionAdded</category>
+      
+      
+      <category domain="software">modkit</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>modkit has been updated with a new version, 0.4.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load modkit/0.4.1-GCC-12.3.0&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A81</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of modkit has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">modkit</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of modkit has changed from 0.2.5-GCC-12.3.0 to 0.2.5-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load modkit&lt;/code&gt;.
+If you wish to continue using 0.2.5-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load modkit/0.2.5-GCC-12.3.0&lt;/code&gt;</description>
+      
+      
+      <guid>A82</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of prokka has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">prokka</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of prokka has changed from 1.13.4-gimkl-2018b.lua to 1.14.5-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load prokka&lt;/code&gt;.
+If you wish to continue using 1.13.4-gimkl-2018b.lua in any of your scripts, make sure to change them to &lt;code&gt;module load prokka/1.13.4-gimkl-2018b.lua&lt;/code&gt;</description>
+      
+      
+      <guid>A83</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of Kraken2 has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">Kraken2</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of Kraken2 has changed from 2.0.7-beta-gimkl-2017a.lua to 2.0.8-beta-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load Kraken2&lt;/code&gt;.
+If you wish to continue using 2.0.7-beta-gimkl-2017a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load Kraken2/2.0.7-beta-gimkl-2017a.lua&lt;/code&gt;</description>
+      
+      
+      <guid>A84</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Nextflow/24.04.4 added.</title>
+      
+      
+      <category domain="type">versionAdded</category>
+      
+      
+      <category domain="software">Nextflow</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>Nextflow has been updated with a new version, 24.04.4. &lt;pre&gt;&lt;code&gt;module load Nextflow/24.04.4&lt;/code&gt;/&lt;pre&gt;</description>
+      
+      
+      <guid>A85</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of Nextflow has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">Nextflow</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of Nextflow has changed from 22.04.3 to 22.04.3, this is the version that will be loaded when you run &lt;code&gt;module load Nextflow&lt;/code&gt;.
+If you wish to continue using 22.04.3 in any of your scripts, make sure to change them to &lt;code&gt;module load Nextflow/22.04.3&lt;/code&gt;</description>
+      
+      
+      <guid>A86</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of forge has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">forge</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of forge has changed from 21.1.3.lua to 20.0.2, this is the version that will be loaded when you run &lt;code&gt;module load forge&lt;/code&gt;.
+If you wish to continue using 21.1.3.lua in any of your scripts, make sure to change them to &lt;code&gt;module load forge/21.1.3.lua&lt;/code&gt;</description>
+      
+      
+      <guid>A87</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of Relion has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">Relion</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of Relion has changed from 2.1-gimkl-2017a.lua to 4.0.1-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Relion&lt;/code&gt;.
+If you wish to continue using 2.1-gimkl-2017a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load Relion/2.1-gimkl-2017a.lua&lt;/code&gt;</description>
+      
+      
+      <guid>A88</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of Python-Geo has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">Python-Geo</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of Python-Geo has changed from 3.8.2-gimkl-2020 to 3.8.2-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Python-Geo&lt;/code&gt;.
+If you wish to continue using 3.8.2-gimkl-2020 in any of your scripts, make sure to change them to &lt;code&gt;module load Python-Geo/3.8.2-gimkl-2020&lt;/code&gt;</description>
+      
+      
+      <guid>A89</guid>
+      
+    
+    </item>
+    
+    
+    <item>
+      
+      
+      <title>Default version of imkl-FFTW has changed</title>
+      
+      
+      <category domain="type">defaultChanged</category>
+      
+      
+      <category domain="software">imkl-FFTW</category>
+      
+      
+      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
+      
+      
+      <description>The default version of imkl-FFTW has changed from 2022.0.2-iimpi-2022a to 2022.0.2-gimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load imkl-FFTW&lt;/code&gt;.
+If you wish to continue using 2022.0.2-iimpi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load imkl-FFTW/2022.0.2-iimpi-2022a&lt;/code&gt;</description>
+      
+      
+      <guid>A90</guid>
       
     
     </item>
     
   
     <item>
-      <title>libsodium has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">libsodium</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>library for encryption, decryption, signatures, password hashing and more.
-https://doc.libsodium.org/
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libsodium/1.0.18&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A60</guid>
-    </item>
-    <item>
-      <title>NextPolish2 has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">NextPolish2</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>a fast and efficient genome polishing tool for long-read assembly
-https://github.com/Nextomics/NextPolish2
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load NextPolish2/0.2.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A61</guid>
-    </item>
-    <item>
-      <title>matlab-proxy has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">matlab-proxy</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>Python package which enables you to launch MATLAB and access it from a web browser.
-https://github.com/mathworks/matlab-proxy
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load matlab-proxy/0.23.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A62</guid>
-    </item>
-    <item>
-      <title>BreakDancer has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">BreakDancer</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>BreakDancer has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load BreakDancer&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A63</guid>
-    </item>
-    <item>
-      <title>libxml++ has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">libxml++</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>libxml++ has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load libxml++&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A64</guid>
-    </item>
-    <item>
-      <title>srun-wrapper has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">srun-wrapper</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>srun-wrapper has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load srun-wrapper&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A65</guid>
-    </item>
-    <item>
-      <title>NONMEM has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">NONMEM</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>NONMEM has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load NONMEM&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A66</guid>
-    </item>
-    <item>
-      <title>splat has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">splat</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>splat has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load splat&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A67</guid>
-    </item>
-    <item>
-      <title>libsigc++ has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">libsigc++</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>libsigc++ has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load libsigc++&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A68</guid>
-    </item>
-    <item>
-      <title>Gaussian has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">Gaussian</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>Gaussian has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Gaussian&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A69</guid>
-    </item>
-    <item>
-      <title>geany has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">geany</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>geany has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load geany&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A70</guid>
-    </item>
-    <item>
-      <title>nearline has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">nearline</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>nearline has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load nearline&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A71</guid>
-    </item>
-    <item>
-      <title>hooks has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">hooks</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>hooks has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load hooks&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A72</guid>
-    </item>
-    <item>
-      <title>GLibmm has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">GLibmm</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>GLibmm has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load GLibmm&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A73</guid>
-    </item>
-    <item>
-      <title>nano has been removed.</title>
-      <category domain="type">softwareRemoved</category>
-      <category domain="software">nano</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>nano has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load nano&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A74</guid>
-    </item>
-    <item>
-      <title>Default version of Basilisk has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">Basilisk</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of Basilisk has changed from 20200620-gimpi-2020 to 20180226-gimpi-2018b, this is the version that will be loaded when you run &lt;code&gt;module load Basilisk&lt;/code&gt;.
-If you wish to continue using 20200620-gimpi-2020 in any of your scripts, make sure to change them to &lt;code&gt;module load Basilisk/20200620-gimpi-2020&lt;/code&gt;</description>
-      <guid>A75</guid>
-    </item>
-    <item>
-      <title>globus-compute-endpoint/2.30.1-foss-2023a-Python-3.11.6 added.</title>
+      <title>DIAMOND/2.1.10-GCC-12.3.0 added.</title>
       <category domain="type">versionAdded</category>
-      <category domain="software">globus-compute-endpoint</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>globus-compute-endpoint has been updated with a new version, 2.30.1-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load globus-compute-endpoint/2.30.1-foss-2023a-Python-3.11.6&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A76</guid>
+      <category domain="software">DIAMOND</category>
+      <pubDate>Wed, 06 Nov 2024 11:00:27 -0000</pubDate>
+      <description>DIAMOND has been updated with a new version, 2.1.10-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load DIAMOND/2.1.10-GCC-12.3.0&lt;/code&gt;/&lt;pre&gt;</description>
+      <guid>A91</guid>
     </item>
     <item>
-      <title>Default version of globus-compute-endpoint has changed</title>
+      <title>Default version of DIAMOND has changed</title>
       <category domain="type">defaultChanged</category>
-      <category domain="software">globus-compute-endpoint</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of globus-compute-endpoint has changed from 2.24.0-gimkl-2022a-Python-3.10.5 to 2.24.0-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load globus-compute-endpoint&lt;/code&gt;.
-If you wish to continue using 2.24.0-gimkl-2022a-Python-3.10.5 in any of your scripts, make sure to change them to &lt;code&gt;module load globus-compute-endpoint/2.24.0-gimkl-2022a-Python-3.10.5&lt;/code&gt;</description>
-      <guid>A77</guid>
-    </item>
-    <item>
-      <title>Default version of GDAL has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">GDAL</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of GDAL has changed from 3.0.4-gimkl-2020a.lua to 2.2.2-gimkl-2017a-GEOS-3.5.1, this is the version that will be loaded when you run &lt;code&gt;module load GDAL&lt;/code&gt;.
-If you wish to continue using 3.0.4-gimkl-2020a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load GDAL/3.0.4-gimkl-2020a.lua&lt;/code&gt;</description>
-      <guid>A78</guid>
-    </item>
-    <item>
-      <title>Default version of Trinity has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">Trinity</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of Trinity has changed from 2.8.4-gimkl-2017a.lua to 2.13.2-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Trinity&lt;/code&gt;.
-If you wish to continue using 2.8.4-gimkl-2017a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load Trinity/2.8.4-gimkl-2017a.lua&lt;/code&gt;</description>
-      <guid>A79</guid>
-    </item>
-    <item>
-      <title>Default version of EasyBuild has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">EasyBuild</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of EasyBuild has changed from 4.7 to 4.8.1, this is the version that will be loaded when you run &lt;code&gt;module load EasyBuild&lt;/code&gt;.
-If you wish to continue using 4.7 in any of your scripts, make sure to change them to &lt;code&gt;module load EasyBuild/4.7&lt;/code&gt;</description>
-      <guid>A80</guid>
-    </item>
-    <item>
-      <title>modkit/0.4.1-GCC-12.3.0 added.</title>
-      <category domain="type">versionAdded</category>
-      <category domain="software">modkit</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>modkit has been updated with a new version, 0.4.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load modkit/0.4.1-GCC-12.3.0&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A81</guid>
-    </item>
-    <item>
-      <title>Default version of modkit has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">modkit</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of modkit has changed from 0.2.5-GCC-12.3.0 to 0.2.5-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load modkit&lt;/code&gt;.
-If you wish to continue using 0.2.5-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load modkit/0.2.5-GCC-12.3.0&lt;/code&gt;</description>
-      <guid>A82</guid>
-    </item>
-    <item>
-      <title>Default version of prokka has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">prokka</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of prokka has changed from 1.13.4-gimkl-2018b.lua to 1.14.5-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load prokka&lt;/code&gt;.
-If you wish to continue using 1.13.4-gimkl-2018b.lua in any of your scripts, make sure to change them to &lt;code&gt;module load prokka/1.13.4-gimkl-2018b.lua&lt;/code&gt;</description>
-      <guid>A83</guid>
-    </item>
-    <item>
-      <title>Default version of Kraken2 has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">Kraken2</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of Kraken2 has changed from 2.0.7-beta-gimkl-2017a.lua to 2.0.8-beta-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load Kraken2&lt;/code&gt;.
-If you wish to continue using 2.0.7-beta-gimkl-2017a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load Kraken2/2.0.7-beta-gimkl-2017a.lua&lt;/code&gt;</description>
-      <guid>A84</guid>
-    </item>
-    <item>
-      <title>Nextflow/24.04.4 added.</title>
-      <category domain="type">versionAdded</category>
-      <category domain="software">Nextflow</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>Nextflow has been updated with a new version, 24.04.4. &lt;pre&gt;&lt;code&gt;module load Nextflow/24.04.4&lt;/code&gt;/&lt;pre&gt;</description>
-      <guid>A85</guid>
-    </item>
-    <item>
-      <title>Default version of Nextflow has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">Nextflow</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of Nextflow has changed from 22.04.3 to 22.04.3, this is the version that will be loaded when you run &lt;code&gt;module load Nextflow&lt;/code&gt;.
-If you wish to continue using 22.04.3 in any of your scripts, make sure to change them to &lt;code&gt;module load Nextflow/22.04.3&lt;/code&gt;</description>
-      <guid>A86</guid>
-    </item>
-    <item>
-      <title>Default version of forge has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">forge</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of forge has changed from 21.1.3.lua to 20.0.2, this is the version that will be loaded when you run &lt;code&gt;module load forge&lt;/code&gt;.
-If you wish to continue using 21.1.3.lua in any of your scripts, make sure to change them to &lt;code&gt;module load forge/21.1.3.lua&lt;/code&gt;</description>
-      <guid>A87</guid>
-    </item>
-    <item>
-      <title>Default version of Relion has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">Relion</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of Relion has changed from 2.1-gimkl-2017a.lua to 4.0.1-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Relion&lt;/code&gt;.
-If you wish to continue using 2.1-gimkl-2017a.lua in any of your scripts, make sure to change them to &lt;code&gt;module load Relion/2.1-gimkl-2017a.lua&lt;/code&gt;</description>
-      <guid>A88</guid>
-    </item>
-    <item>
-      <title>Default version of Python-Geo has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">Python-Geo</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of Python-Geo has changed from 3.8.2-gimkl-2020 to 3.8.2-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Python-Geo&lt;/code&gt;.
-If you wish to continue using 3.8.2-gimkl-2020 in any of your scripts, make sure to change them to &lt;code&gt;module load Python-Geo/3.8.2-gimkl-2020&lt;/code&gt;</description>
-      <guid>A89</guid>
-    </item>
-    <item>
-      <title>Default version of imkl-FFTW has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">imkl-FFTW</category>
-      <pubDate>Wed, 06 Nov 2024 15:23:08 -0000</pubDate>
-      <description>The default version of imkl-FFTW has changed from 2022.0.2-iimpi-2022a to 2022.0.2-gimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load imkl-FFTW&lt;/code&gt;.
-If you wish to continue using 2022.0.2-iimpi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load imkl-FFTW/2022.0.2-iimpi-2022a&lt;/code&gt;</description>
-      <guid>A90</guid>
+      <category domain="software">DIAMOND</category>
+      <pubDate>Wed, 06 Nov 2024 11:00:27 -0000</pubDate>
+      <description>The default version of DIAMOND has changed from 2.1.9-GCC-11.3.0 to 2.1.9-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load DIAMOND&lt;/code&gt;.
+If you wish to continue using 2.1.9-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load DIAMOND/2.1.9-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A92</guid>
     </item>
   </channel>
   
@@ -4971,6 +6220,8 @@ If you wish to continue using 2022.0.2-iimpi-2022a in any of your scripts, make 
   
   
   
+  
+
 
 
 
