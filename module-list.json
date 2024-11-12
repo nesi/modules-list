@@ -5133,13 +5133,14 @@
             "0.7.0",
             "0.7.2",
             "0.7.3",
-            "0.8.0"
+            "0.8.0",
+            "0.8.3"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "0.3.2",
         "default_type": "latest",
-        "last_updated": 1726550073,
+        "last_updated": 1731356577,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Dorado/0.3.2.lua",
         "force_hide": "False",
