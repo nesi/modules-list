@@ -4074,6 +4074,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "CRABS": {
+        "description": "Creating Reference databases for Amplicon-Based Sequencing.",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/gjeunen/reference_database_creator",
+        "support": "",
+        "versions": [
+            "1.0.6"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.0.6",
+        "default_type": "latest",
+        "last_updated": 1731533266,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/CRABS/1.0.6.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "CRAMINO": {
         "description": "A tool for quick quality assessment of cram and bam files, intended for long read sequencing",
         "domains": [
