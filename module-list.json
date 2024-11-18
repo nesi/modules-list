@@ -758,7 +758,7 @@
                 ]
             }
         ],
-        "default": "default",
+        "default": "19.2",
         "default_type": "static",
         "last_updated": 1697672937,
         "modulefile_text": "",
@@ -1005,7 +1005,7 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "default",
+        "default": "1.2.5",
         "default_type": "static",
         "last_updated": 1724110110,
         "modulefile_text": "",
@@ -3010,7 +3010,7 @@
             }
         ],
         "network_licences": [],
-        "default": "default",
+        "default": "4.8.1-GCC-11.3.0",
         "default_type": "static",
         "last_updated": 1706667666,
         "modulefile_text": "",
@@ -4933,7 +4933,7 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "default",
+        "default": "141732-intel-2022a",
         "default_type": "static",
         "last_updated": 1725168553,
         "modulefile_text": "",
@@ -5586,7 +5586,7 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "default",
+        "default": "3.3.9",
         "default_type": "static",
         "last_updated": 1651437684,
         "modulefile_text": "",
@@ -11085,7 +11085,7 @@
             }
         ],
         "network_licences": [],
-        "default": "default",
+        "default": "23Jun2022-gimkl-2022a-kokkos",
         "default_type": "static",
         "last_updated": 1691148152,
         "modulefile_text": "",
@@ -11830,7 +11830,7 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "default",
+        "default": "1",
         "default_type": "static",
         "last_updated": 1659053450,
         "modulefile_text": "",
@@ -13297,7 +13297,7 @@
                 "features": []
             }
         ],
-        "default": "default",
+        "default": "2021b",
         "default_type": "static",
         "last_updated": 1731286240,
         "modulefile_text": "",
@@ -20659,7 +20659,7 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "default",
+        "default": "2.0.2a-gimkl-2020a",
         "default_type": "static",
         "last_updated": 1663129423,
         "modulefile_text": "",
@@ -22123,7 +22123,7 @@
             }
         ],
         "network_licences": [],
-        "default": "default",
+        "default": "3.11.3",
         "default_type": "static",
         "last_updated": 1686602459,
         "modulefile_text": "",
@@ -22431,7 +22431,7 @@
             }
         ],
         "network_licences": [],
-        "default": "default",
+        "default": "7.32.3-gimkl-2022a-Python-3.11.3",
         "default_type": "static",
         "last_updated": 1704940352,
         "modulefile_text": "",
@@ -24572,7 +24572,7 @@
             }
         ],
         "network_licences": [],
-        "default": "default",
+        "default": "6.4.2-intel-2022a",
         "default_type": "static",
         "last_updated": 1714094138,
         "modulefile_text": "",
