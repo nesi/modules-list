@@ -7087,6 +7087,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "FreeFEM": {
+        "description": "FreeFEM offers a fast interpolation algorithm and a language for the manipulation\n of data on multiple meshes.",
+        "domains": [
+            "cae"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://freefem.org",
+        "support": "",
+        "versions": [
+            "4.15-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "4.15-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1736123493,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/cae/FreeFEM/4.15-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "FreeSurfer": {
         "description": "FreeSurfer is a set of tools for analysis and visualization of structural and functional brain imaging data.\nFreeSurfer contains a fully automatic structural imaging stream for processing cross sectional and longitudinal data.",
         "domains": [
