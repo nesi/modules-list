@@ -16305,7 +16305,7 @@
         ],
         "extensions": [],
         "licence_type": "",
-        "homepage": "http://www.nwchem-sw.org",
+        "homepage": "https://nwchemgit.github.io/ ",
         "support": "",
         "versions": [
             "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16"
@@ -16318,7 +16318,7 @@
         "network_licences": [],
         "default": "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16",
         "default_type": "latest",
-        "last_updated": 1580479323,
+        "last_updated": 1736459574,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/NWChem/6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16.lua",
         "force_hide": "False",
