@@ -3647,7 +3647,7 @@
         "network_licences": [],
         "default": "0.2.6-gimkl-2022a",
         "default_type": "latest",
-        "last_updated": 1725859162,
+        "last_updated": 1736737368,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/compleasm/0.2.6-gimkl-2022a.lua",
         "force_hide": "False",
@@ -24712,6 +24712,28 @@
         "last_updated": 1733257076,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/VASP/6.4.2-intel-2022a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "VBZ-Compression": {
+        "description": "VBZ compression HDF5 plugin for nanopolish",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/nanoporetech/vbz_compression",
+        "support": "",
+        "versions": [
+            "1.0.3-gompi-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.0.3-gompi-2023a",
+        "default_type": "latest",
+        "last_updated": 1736727635,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/VBZ-Compression/1.0.3-gompi-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
