@@ -7458,7 +7458,8 @@
             "4.2.6.1-gimkl-2020a",
             "4.3.0.0-gimkl-2022a",
             "4.4.0.0-gimkl-2022a",
-            "4.5.0.0-gimkl-2022a"
+            "4.5.0.0-gimkl-2022a",
+            "4.6.1.0-gimkl-2022a"
         ],
         "admin_list": [
             {
@@ -7474,7 +7475,7 @@
         "network_licences": [],
         "default": "3.8-1",
         "default_type": "latest",
-        "last_updated": 1706823139,
+        "last_updated": 1737092382,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/GATK/3.8-1.lua",
         "force_hide": "False",
