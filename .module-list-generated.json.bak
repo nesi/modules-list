@@ -2758,13 +2758,14 @@
             "5.2.2-gimkl-2020a",
             "5.3.2-gimkl-2020a",
             "5.4.7-gimkl-2022a",
-            "5.6.1-gimkl-2022a"
+            "5.6.1-gimkl-2022a",
+            "5.8.2-gimkl-2022a"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "4.0.5-gimkl-2020a",
         "default_type": "latest",
-        "last_updated": 1707790947,
+        "last_updated": 1736984634,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/BUSCO/4.0.5-gimkl-2020a.lua",
         "force_hide": "False",
@@ -20780,6 +20781,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "RJMCMC": {
+        "description": "This library provides routines for running Reversible Jump Monte-Carlo Markov chains for 1-D and 2-D spatial regression problems.",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://iearth.edu.au/codes/rj-MCMC/",
+        "support": "",
+        "versions": [
+            "1.0.12-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.0.12-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1736984149,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/RJMCMC/1.0.12-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "rkcommon": {
         "description": "\nA common set of C++ infrastructure and CMake utilities used by various components of Intel\u00ae oneAPI Rendering Toolkit.\n",
         "domains": [
@@ -23885,6 +23908,28 @@
         "last_updated": 1690169612,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/TOGA/1.1.4-gimkl-2022a-Python-3.11.3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "tomo": {
+        "description": "This code computes 2D Travel Time Tomography using the Reversible Jump\nalgorithm with a Voronoi cell parameterisation.",
+        "domains": [
+            "math"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://iearth.edu.au/codes/rj-TOMO/",
+        "support": "",
+        "versions": [
+            "0.9.16-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.9.16-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1736985363,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/math/tomo/0.9.16-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
