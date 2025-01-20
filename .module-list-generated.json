@@ -2514,7 +2514,8 @@
             "1.2.0-gimkl-2017a",
             "1.2.2-GCC-7.4.0",
             "1.2.3-GCC-9.2.0",
-            "1.3.1-GCC-11.3.0"
+            "1.3.1-GCC-11.3.0",
+            "1.3.1-GCC-12.3.0"
         ],
         "admin_list": [
             {
@@ -2527,7 +2528,7 @@
         "network_licences": [],
         "default": "0.12.8",
         "default_type": "latest",
-        "last_updated": 1658093331,
+        "last_updated": 1737334417,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Bowtie/0.12.8.lua",
         "force_hide": "False",
@@ -10375,6 +10376,7 @@
             "2.2.10-gimkl-2020a",
             "2.2.6-gimkl-2017a",
             "2.3.0-GCC-11.3.0",
+            "2.3.0-GCC-12.3.0",
             "2.3.0-gimkl-2020a"
         ],
         "admin_list": [
@@ -10388,7 +10390,7 @@
         "network_licences": [],
         "default": "2.2.10-gimkl-2020a",
         "default_type": "latest",
-        "last_updated": 1658101443,
+        "last_updated": 1737331097,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Jellyfish/2.2.10-gimkl-2020a.lua",
         "force_hide": "False",
@@ -21272,6 +21274,7 @@
         "versions": [
             "0.13.1-gimkl-2018b",
             "0.14.0-gimkl-2018b",
+            "1.10.1-GCC-12.3.0",
             "1.3.0-gimkl-2020a",
             "1.4.0-gimkl-2020a",
             "1.5.1-gimkl-2020a",
@@ -21288,7 +21291,7 @@
         "network_licences": [],
         "default": "1.4.0-gimkl-2020a",
         "default_type": "latest",
-        "last_updated": 1658103306,
+        "last_updated": 1737333958,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Salmon/1.4.0-gimkl-2020a.lua",
         "force_hide": "False",
