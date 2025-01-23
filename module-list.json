@@ -16834,13 +16834,24 @@
             "4.2.1-OpenMPI-3.1.4",
             "5.0.1-OpenMPI-4.1.1",
             "5.0.3-OpenMPI-4.1.1",
-            "5.0.4-OpenMPI-4.1.5"
+            "5.0.4-OpenMPI-4.1.5",
+            "6.0.1-OpenMPI-4.1.5"
         ],
-        "admin_list": [],
+        "admin_list": [
+            {
+                "4.0.1-OpenMPI-2.0.2": "Warning: ORCA/4.0.1-OpenMPI-2.0.2 is old and marked for deletion. Please select a more recent version (try 'module spider ORCA') or let us know that you still need it."
+            },
+            {
+                "4.2.1-OpenMPI-3.1.4": "Warning: ORCA/4.2.1-OpenMPI-3.1.4 is old and marked for deletion. Please select a more recent version (try 'module spider ORCA') or let us know that you still need it."
+            },
+            {
+                "5.0.1-OpenMPI-4.1.1": "Warning: ORCA/5.0.1-OpenMPI-4.1.1 is old and marked for deletion. Please select a more recent version (try 'module spider ORCA') or let us know that you still need it."
+            }
+        ],
         "network_licences": [],
         "default": "4.0.1-OpenMPI-2.0.2",
         "default_type": "latest",
-        "last_updated": 1698873692,
+        "last_updated": 1737584516,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ORCA/4.0.1-OpenMPI-2.0.2.lua",
         "force_hide": "False",
@@ -23226,7 +23237,11 @@
         "versions": [
             "1.0"
         ],
-        "admin_list": [],
+        "admin_list": [
+            {
+                "1.0": "Warning: srun-wrapper is marked for deletion. Please let us know if you still need it."
+            }
+        ],
         "network_licences": [],
         "default": "1.0",
         "default_type": "latest",
