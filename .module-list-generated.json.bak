@@ -6433,7 +6433,6 @@
         "homepage": "https://pages.nist.gov/fds-smv/",
         "support": "",
         "versions": [
-            "6.7.5-1526-intel-2020a",
             "6.7.5-intel-2020a",
             "6.7.7-intel-2020a",
             "6.7.9-intel-2022a"
@@ -6456,11 +6455,11 @@
             }
         ],
         "network_licences": [],
-        "default": "6.7.5-1526-intel-2020a",
+        "default": "6.7.7-intel-2020a",
         "default_type": "latest",
         "last_updated": 1674774986,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/FDS/6.7.5-1526-intel-2020a.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/phys/FDS/6.7.7-intel-2020a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -9797,7 +9796,6 @@
             "2019.6.166-GCC-9.2.0",
             "2019.6.166-NVHPC-21.1-GCC-9.2.0-CUDA-11.2.0",
             "2019.6.166-NVHPC-21.7-GCC-9.2.0-CUDA-11.4.1",
-            "2019.6.166-PGI-19.10-GCC-9.2.0-2.32",
             "2019.6.166-iccifort-2020.0.166",
             "2021.5.1-GCC-11.3.0",
             "2021.5.1-intel-compilers-2022.0.2"
@@ -15619,7 +15617,7 @@
         "network_licences": [],
         "default": "4.3.1-iimpi-2020a",
         "default_type": "latest",
-        "last_updated": 1586301728,
+        "last_updated": 1737674530,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/netCDF-C++4/4.3.1-iimpi-2020a.lua",
         "force_hide": "False",
