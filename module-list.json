@@ -13940,6 +13940,9 @@
         "admin_list": [
             {
                 "1.6": "Warning: Metashape/1.6 is old and marked for deletion. If you still need it, then please let us know."
+            },
+            {
+                "1.6": "Warning: Metashape has not been used for a long time and so is marked for deletion. If you still need it then please let us know."
             }
         ],
         "network_licences": [],
