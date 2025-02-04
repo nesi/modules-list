@@ -2236,7 +2236,7 @@
         ],
         "admin_list": [
             {
-                "3.5-gimkl-2018b": "Warning: BLAT/3.5-gimkl-2018b is old and marked for deletion. Please select a more recent version (try 'module spider BLAT') or let us know that you still need it."
+                "3.5-gimkl-2018b": "Warning: BLAT/3.5-gimkl-2018b is marked for deletion. Please select the equivalent BLAT/3.5-GCC-11.3.0 or a more recent version (try 'module spider BLAT')."
             }
         ],
         "network_licences": [],
@@ -7649,10 +7649,7 @@
         ],
         "admin_list": [
             {
-                "7.2.0-gimkl-2017a-Python-2.7.14": "Warning: GRASS/7.2.0-gimkl-2017a-Python-2.7.14 is old and marked for removal. Please use GRASS/7.6.1-gimkl-2018b-Python-2.7.16 (or newer) instead, or let us know if you still need this version."
-            },
-            {
-                "7.6.0-gimkl-2017a-Python-2.7.14": "Warning: our gimkl/2017a toolchain is very old and will soon be removed, so please use GRASS/7.6.1-gimkl-2018b-Python-2.7.16 (or newer) instead."
+                "7.6.1-gimkl-2018b-Python-2.7.16": "Warning: GRASS/7.6.1-gimkl-2018b-Python-2.7.16 is very old. Please select a more recent version (try 'module spider GRASS'), or let us know that you still need this version."
             }
         ],
         "network_licences": [],
@@ -14774,6 +14771,12 @@
             },
             {
                 "v1712-gimkl-2017a": "Warning: OpenFOAM/v1712-gimkl-2017a is very old and will soon be removed, so please select a more recent version (try 'module spider OpenFOAM')."
+            },
+            {
+                "5.0-gimkl-2018b": "Warning: OpenFOAM/5.0-gimkl-2018b is old and will soon be removed, so please select a more recent version (try 'module spider OpenFOAM') or let us know that you still need it."
+            },
+            {
+                "6-gimkl-2018b": "Warning: OpenFOAM/6-gimkl-2018b is old and will soon be removed, so please select a more recent version (try 'module spider OpenFOAM') or let us know that you still need it."
             }
         ],
         "network_licences": [],
