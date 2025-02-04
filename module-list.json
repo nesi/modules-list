@@ -14017,7 +14017,11 @@
             "4.8.1-iimpi-2022a",
             "4.9.2-gompi-2023a"
         ],
-        "admin_list": [],
+        "admin_list": [
+            {
+                "4.4.1-intel-2017a": "Warning: netCDF/4.4.1-intel-2017a is very old and will soon be removed. Please select a more recent version such as netCDF/4.8.1-iimpi-2022a."
+            }
+        ],
         "network_licences": [],
         "default": "4.6.2-gimpi-2018b",
         "default_type": "latest",
