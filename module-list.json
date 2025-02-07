@@ -3108,13 +3108,14 @@
         "support": "",
         "versions": [
             "0.2.0-GCC-11.3.0",
-            "0.5.0-GCC-11.3.0"
+            "0.5.0-GCC-11.3.0",
+            "0.9.0-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "0.5.0-GCC-11.3.0",
         "default_type": "latest",
-        "last_updated": 1681163621,
+        "last_updated": 1738887021,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/chopper/0.5.0-GCC-11.3.0.lua",
         "force_hide": "False",
