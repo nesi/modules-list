@@ -4751,7 +4751,8 @@
             "0.7.3",
             "0.8.0",
             "0.8.3",
-            "0.9.0"
+            "0.9.0",
+            "0.9.1"
         ],
         "admin_list": [
             {
@@ -4767,7 +4768,7 @@
         "network_licences": [],
         "default": "0.9.0",
         "default_type": "latest",
-        "last_updated": 1736196479,
+        "last_updated": 1739136364,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/Dorado/0.9.0.lua",
         "force_hide": "False",
@@ -14798,6 +14799,9 @@
         "admin_list": [
             {
                 "6.8.revision47-gimkl-2017a-2017-12-14-Python-2.7.14": "Warning: NWChem/6.8.revision47-gimkl-2017a-2017-12-14-Python-2.7.14 is old and will soon be removed. Please check for a newer version ('module spider NWChem') or let us know if you need a new version installed."
+            },
+            {
+                "6.8.1.revision133-gimkl-2018b-2018-06-14-Python-2.7.16": "Warning: this NWChem environment module is old and marked for deletion. If you would like us to install a newer NWChem then please let us know."
             }
         ],
         "network_licences": [],
