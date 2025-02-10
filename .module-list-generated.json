@@ -9402,6 +9402,7 @@
         "homepage": "https://julialang.org/",
         "support": "",
         "versions": [
+            "1.11.3-GCC-12.3.0-VTune",
             "1.2.0-gimkl-2018b-VTune",
             "1.5.1-GCC-9.2.0-VTune",
             "1.6.0-GCC-9.2.0-VTune",
@@ -9433,7 +9434,7 @@
         "network_licences": [],
         "default": "1.2.0-gimkl-2018b-VTune",
         "default_type": "latest",
-        "last_updated": 1701639957,
+        "last_updated": 1739153789,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lang/Julia/1.2.0-gimkl-2018b-VTune.lua",
         "force_hide": "False",
