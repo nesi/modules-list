@@ -12111,7 +12111,7 @@
         "default_type": "static",
         "last_updated": 1731286240,
         "modulefile_text": "",
-        "module_path": "/scale_wlg_persistent/filesets/opt_nesi/CS400_centos7_bdw/modules/all/MATLAB/2021b.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/MATLAB/2021b.lua",
         "force_hide": "False",
         "force_show": "False"
     },
