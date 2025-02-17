@@ -366,15 +366,16 @@
         "support": "",
         "versions": [
             "2.3.2",
-            "3.0.0"
+            "3.0.0",
+            "3.0.1"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.0.0",
+        "default": "3.0.1",
         "default_type": "latest",
-        "last_updated": 1733003523,
+        "last_updated": 1739762231,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/AlphaFold/3.0.0.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/AlphaFold/3.0.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -14432,15 +14433,16 @@
         "support": "",
         "versions": [
             "7.5.0-iimpi-2022a",
-            "7.5.1-iimpi-2022a"
+            "7.5.1-iimpi-2022a",
+            "7.6.0-iimpi-2022a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "7.5.1-iimpi-2022a",
+        "default": "7.6.0-iimpi-2022a",
         "default_type": "latest",
-        "last_updated": 1681340744,
+        "last_updated": 1739764412,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/NONMEM/7.5.1-iimpi-2022a",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/NONMEM/7.6.0-iimpi-2022a",
         "force_hide": "False",
         "force_show": "False"
     },
