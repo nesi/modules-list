@@ -16449,13 +16449,14 @@
         "versions": [
             "1.09b6.16",
             "2.00a2.3",
-            "2.00a5.14-GCC-12.3.0"
+            "2.00a5.14-GCC-12.3.0",
+            "2.00a6.9"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "2.00a5.14-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1738714911,
+        "last_updated": 1739826509,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/PLINK/2.00a5.14-GCC-12.3.0.lua",
         "force_hide": "False",
