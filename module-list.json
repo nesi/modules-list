@@ -19630,26 +19630,6 @@
         "force_hide": "False",
         "force_show": "False"
     },
-    "SAS": {
-        "description": "SAS is a statistical software suite developed by SAS Institute for data management, advanced analytics, multivariate analysis, business intelligence, criminal investigation, and predictive analytics. - Homepage: https://www.sas.com/en_nz/home.html/",
-        "domains": [],
-        "extensions": [],
-        "licence_type": "",
-        "homepage": "",
-        "support": "",
-        "versions": [
-            "9.4"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "9.4",
-        "default_type": "latest",
-        "last_updated": 1626409285,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/share/modules/all/SAS/9.4.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
     "sbt": {
         "description": "sbt is a build tool for Scala, Java, and more.",
         "domains": [
