@@ -8166,13 +8166,14 @@
         "versions": [
             "0.15.5-GCC-9.2.0",
             "0.19.5-GCC-11.3.0",
-            "0.19.7-GCC-11.3.0"
+            "0.19.7-GCC-11.3.0",
+            "0.24.0-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
         "default": "0.19.7-GCC-11.3.0",
         "default_type": "latest",
-        "last_updated": 1698878247,
+        "last_updated": 1740208923,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/hifiasm/0.19.7-GCC-11.3.0.lua",
         "force_hide": "False",
