@@ -22768,15 +22768,16 @@
         "versions": [
             "103.1-GCC-9.2.0-Perl-5.30.1",
             "104.3-GCC-9.2.0-Perl-5.30.1",
-            "107.0-GCC-11.3.0-Perl-5.34.1"
+            "107.0-GCC-11.3.0-Perl-5.34.1",
+            "113.3-GCC-11.3.0-Perl-5.34.1"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "107.0-GCC-11.3.0-Perl-5.34.1",
+        "default": "113.3-GCC-11.3.0-Perl-5.34.1",
         "default_type": "latest",
-        "last_updated": 1658191916,
+        "last_updated": 1741314808,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/VEP/107.0-GCC-11.3.0-Perl-5.34.1.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/VEP/113.3-GCC-11.3.0-Perl-5.34.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
