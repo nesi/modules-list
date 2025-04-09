@@ -2221,8 +2221,6 @@
         "homepage": "",
         "support": "",
         "versions": [
-            "2024-01",
-            "2024-04",
             "2024-07",
             "2024-10",
             "2025-01"
@@ -19469,6 +19467,32 @@
         "last_updated": 1723531168,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lang/Rust/1.80.1-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "s3cmd": {
+        "description": "Command line tool for managing S3 compatible storage services",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [
+            "python-dateutil-2.9.0.post0",
+            "python-magic-0.4.27",
+            "s3cmd-2.4.0"
+        ],
+        "licence_type": "",
+        "homepage": "https://github.com/s3tools/s3cmd",
+        "support": "",
+        "versions": [
+            "2.4.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2.4.0",
+        "default_type": "latest",
+        "last_updated": 1744170483,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/s3cmd/2.4.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
