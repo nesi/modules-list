@@ -14175,18 +14175,15 @@
         "homepage": "",
         "support": "",
         "versions": [
-            "1.1.0.21",
-            "1.1.0.21",
-            "1.1.0.22",
-            "1.1.0.22"
+            "1.1.0.23"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.1.0.22",
+        "default": "1.1.0.23",
         "default_type": "latest",
-        "last_updated": 1630017054,
+        "last_updated": 1744347812,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/share/modules/tools/nearline/1.1.0.22",
+        "module_path": "/opt/nesi/share/modules/all/nearline/1.1.0.23",
         "force_hide": "False",
         "force_show": "False"
     },
