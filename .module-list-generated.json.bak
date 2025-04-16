@@ -3364,15 +3364,16 @@
         "versions": [
             "0.2.2-gimkl-2022a",
             "0.2.5-gimkl-2022a",
-            "0.2.6-gimkl-2022a"
+            "0.2.6-gimkl-2022a",
+            "0.2.7-gimkl-2022a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "0.2.6-gimkl-2022a",
+        "default": "0.2.7-gimkl-2022a",
         "default_type": "latest",
-        "last_updated": 1736737368,
+        "last_updated": 1744759240,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/compleasm/0.2.6-gimkl-2022a.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/compleasm/0.2.7-gimkl-2022a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
