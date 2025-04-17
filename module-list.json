@@ -15407,7 +15407,8 @@
         "support": "",
         "versions": [
             "6.2-gimpi-2022a",
-            "6.2-gompi-2022a"
+            "6.2-gompi-2022a",
+            "6.2-gompi-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
