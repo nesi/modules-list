@@ -10079,7 +10079,8 @@
         "versions": [
             "20180316-gimkl-2017a",
             "23Jun2022-gimkl-2022a-kokkos",
-            "23Jun2022-gimkl-2022a-kokkos-EChemDID"
+            "23Jun2022-gimkl-2022a-kokkos-EChemDID",
+            "31Aug2021-gimkl-2022a-kokkos-EChemDID"
         ],
         "admin_list": [
             {
@@ -10089,7 +10090,7 @@
         "network_licences": [],
         "default": "23Jun2022-gimkl-2022a-kokkos",
         "default_type": "static",
-        "last_updated": 1691148152,
+        "last_updated": 1745876403,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/LAMMPS/23Jun2022-gimkl-2022a-kokkos.lua",
         "force_hide": "False",
