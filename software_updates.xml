@@ -32937,8 +32937,6 @@ If you wish to continue using 0.2.6-gimkl-2022a in any of your scripts, make sur
 If you wish to continue using 6.2-gompi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load OSU-Micro-Benchmarks/6.2-gompi-2022a&lt;/code&gt;</description>
       <guid>A1883</guid>
     </item>
-      <guid>A1862</guid>
-    </item>
     <item>
       <title>xtb/6.7.1-foss-2023a added.</title>
       <category domain="type">versionAdded</category>
