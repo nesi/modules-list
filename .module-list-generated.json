@@ -621,7 +621,7 @@
                 "server": "ANSYS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.03,
+                "server_uptime": 0.02,
                 "server_version": "",
                 "features": []
             },
@@ -640,7 +640,7 @@
                 "server": "ANSYS@orbis",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.03,
+                "server_uptime": 0.02,
                 "server_version": "",
                 "features": [
                     {
@@ -674,7 +674,7 @@
                 "server": "ANSYS@aut_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.03,
+                "server_uptime": 0.02,
                 "server_version": "",
                 "features": []
             },
@@ -693,7 +693,7 @@
                 "server": "ANSYS@uow",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.03,
+                "server_uptime": 0.02,
                 "server_version": "",
                 "features": []
             },
@@ -712,7 +712,7 @@
                 "server": "ANSYS@uc",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.03,
+                "server_uptime": 0.02,
                 "server_version": "",
                 "features": []
             },
@@ -731,7 +731,7 @@
                 "server": "ANSYS@uoo",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.03,
+                "server_uptime": 0.02,
                 "server_version": "",
                 "features": [
                     {
