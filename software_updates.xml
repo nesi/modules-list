@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 11 Jun 2025 10:38:57 -0000">
+  <channel lastBuildDate="Tue, 17 Jun 2025 15:02:31 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51105,6 +51105,14 @@ If you wish to continue using 2.40 in any of your scripts, make sure to change t
       <description>The default version of RNAmmer has changed from 1.2-GCC-11.3.0-Perl-5.34.1 to 1.2-GCC-9.2.0-Perl-5.30.1, this is the version that will be loaded when you run &lt;code&gt;module load RNAmmer&lt;/code&gt;.
 If you wish to continue using 1.2-GCC-11.3.0-Perl-5.34.1 in any of your scripts, make sure to change them to &lt;code&gt;module load RNAmmer/1.2-GCC-11.3.0-Perl-5.34.1&lt;/code&gt;</description>
       <guid>A4697</guid>
+    </item>
+    <item>
+      <title>ANSYS/2025R1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ANSYS</category>
+      <pubDate>Tue, 17 Jun 2025 15:02:31 -0000</pubDate>
+      <description>ANSYS has been updated with a new version, 2025R1. &lt;pre&gt;&lt;code&gt;module load ANSYS/2025R1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4698</guid>
     </item>
   </channel>
 </rss>
