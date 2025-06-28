@@ -38,7 +38,7 @@
                 "server": "ABAQUS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.2,
+                "server_uptime": 0.21,
                 "server_version": "11.13.1",
                 "features": [
                     {
@@ -3345,7 +3345,7 @@
                 "server": "COMSOL@uoa_foe_des_rc",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.2,
+                "server_uptime": 0.21,
                 "server_version": "11.15.1",
                 "features": [
                     {
