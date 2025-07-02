@@ -38,7 +38,7 @@
                 "server": "ABAQUS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.4,
+                "server_uptime": 0.41,
                 "server_version": "11.13.1",
                 "features": [
                     {
@@ -3277,7 +3277,7 @@
                 "server": "COMSOL@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.4,
+                "server_uptime": 0.41,
                 "server_version": "",
                 "features": [
                     {
@@ -3311,7 +3311,7 @@
                 "server": "COMSOL@uoa_foes",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.4,
+                "server_uptime": 0.41,
                 "server_version": "11.15.1",
                 "features": [
                     {
@@ -3345,7 +3345,7 @@
                 "server": "COMSOL@uoa_foe_des_rc",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.4,
+                "server_uptime": 0.41,
                 "server_version": "11.15.1",
                 "features": [
                     {
@@ -11116,7 +11116,7 @@
                 "server": "MATLAB@uoa",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.4,
+                "server_uptime": 0.41,
                 "server_version": "",
                 "features": []
             },
