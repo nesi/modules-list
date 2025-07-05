@@ -50,7 +50,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "gpgpu@uoa_foe",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -64,7 +64,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "parallel_teaching@uoa_foe",
                         "slurm_track": true,
-                        "total": 4,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -78,7 +78,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "abaqus@uoa_foe",
                         "slurm_track": true,
-                        "total": 40,
+                        "total": 0,
                         "usage_formula": "({cpu}**0.422)*5",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -3221,7 +3221,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_physics",
                         "slurm_track": true,
-                        "total": 2,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "By booking only. Version not greater than 6.2.",
                         "visible_on_docs": true
@@ -3255,7 +3255,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_idg",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 5.4",
                         "visible_on_docs": true
@@ -3289,7 +3289,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_foe",
                         "slurm_track": true,
-                        "total": 6,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 5.5",
                         "visible_on_docs": true
@@ -3323,7 +3323,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_foes",
                         "slurm_track": true,
-                        "total": 3,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 6.2",
                         "visible_on_docs": true
@@ -3357,7 +3357,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "Version not greater than 5.6",
                         "visible_on_docs": true
@@ -3371,7 +3371,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "comsoluser@uoa_foe_des_rc",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -3439,7 +3439,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
                         "slurm_track": true,
-                        "total": 5,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 6.2",
                         "visible_on_docs": true
