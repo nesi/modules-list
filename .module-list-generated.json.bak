@@ -3209,7 +3209,7 @@
                 "server": "COMSOL@uoa_physics",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.57,
+                "server_uptime": 0.58,
                 "server_version": "11.16.2",
                 "features": [
                     {
@@ -3243,7 +3243,7 @@
                 "server": "COMSOL@uoa_idg",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.57,
+                "server_uptime": 0.58,
                 "server_version": "11.15.1",
                 "features": [
                     {
