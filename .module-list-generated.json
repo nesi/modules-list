@@ -3277,7 +3277,7 @@
                 "server": "COMSOL@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.57,
+                "server_uptime": 0.58,
                 "server_version": "",
                 "features": [
                     {
@@ -11116,7 +11116,7 @@
                 "server": "MATLAB@uoa",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.57,
+                "server_uptime": 0.58,
                 "server_version": "",
                 "features": []
             },
