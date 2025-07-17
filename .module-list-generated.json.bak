@@ -15,6 +15,7 @@
             "2020",
             "2021",
             "2022",
+            "2024",
             "6.14.2"
         ],
         "admin_list": [
@@ -105,11 +106,11 @@
                 "features": []
             }
         ],
-        "default": "2022",
+        "default": "2024",
         "default_type": "latest",
         "last_updated": 1740092661,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ABAQUS/2022.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ABAQUS/2024.lua",
         "force_hide": "False",
         "force_show": "False"
     },
