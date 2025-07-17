@@ -11007,6 +11007,12 @@
             },
             {
                 "2021a": "MATLAB/2021a is deprecated and will be removed March 2024Please change your scripts to use MATLAB/2021b or newer."
+            },
+            {
+                "2019b": "MATLAB/2019b is deprecated and will be removed March 2025Please change your scripts to use MATLAB/2023b or newer."
+            },
+            {
+                "2020b": "MATLAB/2020b is deprecated and will be removed September 2025Please change your scripts to use MATLAB/2023b or newer."
             }
         ],
         "network_licences": [
@@ -11349,6 +11355,12 @@
         "admin_list": [
             {
                 "2021a": "MCR/2021a is deprecated and will be removed March 2024Please change your scripts to use MCR/2021b or newer."
+            },
+            {
+                "2019b": "MCR/2019b is deprecated and will be removed March 2025Please change your scripts to use MCR/2023b or newer."
+            },
+            {
+                "2020b": "MCR/2020b is deprecated and will be removed September 2025Please change your scripts to use MCR/2023b or newer."
             },
             {
                 "2016b": "Warning: MCR/2016b is old and marked for deletion. Please select a more recent version (try 'module spider MCR') or let us know that you still need it."
