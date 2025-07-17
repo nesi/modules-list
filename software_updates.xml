@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 17 Jun 2025 15:02:31 -0000">
+  <channel lastBuildDate="Thu, 17 Jul 2025 12:01:39 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51113,6 +51113,38 @@ If you wish to continue using 1.2-GCC-11.3.0-Perl-5.34.1 in any of your scripts,
       <pubDate>Tue, 17 Jun 2025 15:02:31 -0000</pubDate>
       <description>ANSYS has been updated with a new version, 2025R1. &lt;pre&gt;&lt;code&gt;module load ANSYS/2025R1&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4698</guid>
+    </item>
+    <item>
+      <title>Depricating version 2019b of MCR.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">MCR</category>
+      <pubDate>Thu, 17 Jul 2025 12:01:39 -0000</pubDate>
+      <description>MCR/2019b is deprecated and will be removed March 2025Please change your scripts to use MCR/2023b or newer.</description>
+      <guid>A4699</guid>
+    </item>
+    <item>
+      <title>Depricating version 2020b of MCR.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">MCR</category>
+      <pubDate>Thu, 17 Jul 2025 12:01:39 -0000</pubDate>
+      <description>MCR/2020b is deprecated and will be removed September 2025Please change your scripts to use MCR/2023b or newer.</description>
+      <guid>A4700</guid>
+    </item>
+    <item>
+      <title>Depricating version 2019b of MATLAB.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">MATLAB</category>
+      <pubDate>Thu, 17 Jul 2025 12:01:39 -0000</pubDate>
+      <description>MATLAB/2019b is deprecated and will be removed March 2025Please change your scripts to use MATLAB/2023b or newer.</description>
+      <guid>A4701</guid>
+    </item>
+    <item>
+      <title>Depricating version 2020b of MATLAB.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">MATLAB</category>
+      <pubDate>Thu, 17 Jul 2025 12:01:39 -0000</pubDate>
+      <description>MATLAB/2020b is deprecated and will be removed September 2025Please change your scripts to use MATLAB/2023b or newer.</description>
+      <guid>A4702</guid>
     </item>
   </channel>
 </rss>
