@@ -93,6 +93,25 @@
                     "maui",
                     "maui_ancil"
                 ],
+                "faculty_long": "Faculty of Engineering",
+                "faculty_short": "",
+                "institution_long": "Auckland University of Technology",
+                "institution_short": "",
+                "licence_contact": "",
+                "licence_owner": "aut",
+                "server": "ABAQUS@aut",
+                "server_polling": true,
+                "server_type": "FLEXlm",
+                "server_uptime": 0.0,
+                "server_version": "",
+                "features": []
+            },
+            {
+                "allowed_clusters": [
+                    "mahuika",
+                    "maui",
+                    "maui_ancil"
+                ],
                 "faculty_long": "",
                 "faculty_short": "",
                 "institution_long": "University of Waikato",
