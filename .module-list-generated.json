@@ -11142,7 +11142,7 @@
                 "server": "MATLAB@uoa",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.83,
+                "server_uptime": 0.84,
                 "server_version": "",
                 "features": []
             },
