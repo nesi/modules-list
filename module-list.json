@@ -10935,7 +10935,11 @@
         "versions": [
             "23.1.0-1"
         ],
-        "admin_list": [],
+        "admin_list": [
+            {
+                "23.1.0-1": "Mamba and Miniconda3 modules are deprecated.Please use Miniforge3 as per https://docs.nesi.org.nz/Scientific_Computing/Supported_Applications/Miniforge3/"
+            }
+        ],
         "network_licences": [],
         "default": "23.1.0-1",
         "default_type": "latest",
