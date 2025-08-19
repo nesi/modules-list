@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 18 Jul 2025 10:29:32 -0000">
+  <channel lastBuildDate="Tue, 19 Aug 2025 19:50:00 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51171,6 +51171,14 @@ If you wish to continue using 2022 in any of your scripts, make sure to change t
       <description>The default version of ABAQUS has changed from 2022 to 2024, this is the version that will be loaded when you run &lt;code&gt;module load ABAQUS&lt;/code&gt;.
 If you wish to continue using 2022 in any of your scripts, make sure to change them to &lt;code&gt;module load ABAQUS/2022&lt;/code&gt;</description>
       <guid>A4705</guid>
+    </item>
+    <item>
+      <title>Depricating version 23.1.0-1 of Mamba.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">Mamba</category>
+      <pubDate>Tue, 19 Aug 2025 19:50:00 -0000</pubDate>
+      <description>Mamba and Miniconda3 modules are deprecated.Please use Miniforge3 as per https://docs.nesi.org.nz/Scientific_Computing/Supported_Applications/Miniforge3/</description>
+      <guid>A4706</guid>
     </item>
   </channel>
 </rss>
