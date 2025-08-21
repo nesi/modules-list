@@ -11203,7 +11203,7 @@
                 "server": "MATLAB@aut",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.46,
+                "server_uptime": 0.47,
                 "server_version": "",
                 "features": []
             },
