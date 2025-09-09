@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 26 Aug 2025 15:45:48 -0000">
+  <channel lastBuildDate="Tue, 09 Sep 2025 15:33:09 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51203,6 +51203,32 @@ If you wish to continue using 2022 in any of your scripts, make sure to change t
       <pubDate>Tue, 26 Aug 2025 15:45:48 -0000</pubDate>
       <description>Warning: This Prokka environment module uses a copy of tbl2asn which is no longer working. If it is still of any use to you then please let support@nesi.org.nz know. An alternative is &quot;apptainer exec /opt/nesi/containers/prokka/prokka-1.14.6.aif prokka&quot;.</description>
       <guid>A4709</guid>
+    </item>
+    <item>
+      <title>mpcci/4.8.1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">mpcci</category>
+      <pubDate>Tue, 09 Sep 2025 15:33:09 -0000</pubDate>
+      <description>mpcci has been updated with a new version, 4.8.1. &lt;pre&gt;&lt;code&gt;module load mpcci/4.8.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4710</guid>
+    </item>
+    <item>
+      <title>Default version of mpcci has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">mpcci</category>
+      <pubDate>Tue, 09 Sep 2025 15:33:09 -0000</pubDate>
+      <description>The default version of mpcci has changed from 4.7.1 to 4.8.1, this is the version that will be loaded when you run &lt;code&gt;module load mpcci&lt;/code&gt;.
+If you wish to continue using 4.7.1 in any of your scripts, make sure to change them to &lt;code&gt;module load mpcci/4.7.1&lt;/code&gt;</description>
+      <guid>A4711</guid>
+    </item>
+    <item>
+      <title>Default version of mpcci has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">mpcci</category>
+      <pubDate>Tue, 09 Sep 2025 15:33:09 -0000</pubDate>
+      <description>The default version of mpcci has changed from 4.7.1 to 4.8.1, this is the version that will be loaded when you run &lt;code&gt;module load mpcci&lt;/code&gt;.
+If you wish to continue using 4.7.1 in any of your scripts, make sure to change them to &lt;code&gt;module load mpcci/4.7.1&lt;/code&gt;</description>
+      <guid>A4712</guid>
     </item>
   </channel>
 </rss>
