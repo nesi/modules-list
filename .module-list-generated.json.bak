@@ -12412,7 +12412,7 @@
         "network_licences": [],
         "default": "4.8.1",
         "default_type": "latest",
-        "last_updated": 1757388751,
+        "last_updated": 1757388797,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/mpcci/4.8.1.lua",
         "force_hide": "False",
