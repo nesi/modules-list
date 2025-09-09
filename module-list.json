@@ -12502,15 +12502,16 @@
         "homepage": "https://www.mpcci.de/",
         "support": "",
         "versions": [
-            "4.7.1"
+            "4.7.1",
+            "4.8.1"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.7.1",
+        "default": "4.8.1",
         "default_type": "latest",
-        "last_updated": 1756939922,
+        "last_updated": 1757388751,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/mpcci/4.7.1.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/mpcci/4.8.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
