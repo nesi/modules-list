@@ -3502,7 +3502,7 @@
         ],
         "default": "6.1",
         "default_type": "latest",
-        "last_updated": 1740138212,
+        "last_updated": 1758519355,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/COMSOL/6.1.lua",
         "force_hide": "False",
