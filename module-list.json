@@ -14463,7 +14463,7 @@
         ],
         "admin_list": [
             {
-                "1.3.0-gimkl-2022a-Python-3.10.5": "Warning: this environment module depends on a faulty prokka environment module and so is marked for deletion. If you need panaroo then please let us know."
+                "1.3.0-gimkl-2022a-Python-3.10.5": "Warning: this environment module now depends on a new prokka environment module. Please let us know if it works."
             }
         ],
         "network_licences": [],
