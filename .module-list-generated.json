@@ -11127,7 +11127,7 @@
                 "server": "MATLAB@massey",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0,
+                "server_uptime": 0.69,
                 "server_version": "",
                 "features": []
             },
