@@ -752,7 +752,7 @@
                 "server": "ANSYS@uoo",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0,
+                "server_uptime": 0.0,
                 "server_version": "",
                 "features": [
                     {
@@ -3263,7 +3263,7 @@
                 "server": "COMSOL@uoa_idg",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.92,
+                "server_uptime": 0,
                 "server_version": "11.15.1",
                 "features": [
                     {
@@ -3331,7 +3331,7 @@
                 "server": "COMSOL@uoa_foes",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.91,
+                "server_uptime": 0,
                 "server_version": "11.15.1",
                 "features": [
                     {
@@ -11127,7 +11127,7 @@
                 "server": "MATLAB@massey",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.69,
+                "server_uptime": 0,
                 "server_version": "",
                 "features": []
             },
@@ -11146,7 +11146,7 @@
                 "server": "MATLAB@uoa",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.91,
+                "server_uptime": 0,
                 "server_version": "",
                 "features": []
             },
