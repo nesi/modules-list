@@ -39,7 +39,7 @@
                 "server": "ABAQUS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.92,
+                "server_uptime": 0,
                 "server_version": "11.13.1",
                 "features": [
                     {
