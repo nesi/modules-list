@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 25 Sep 2025 12:36:54 -0000">
+  <channel lastBuildDate="Mon, 20 Oct 2025 16:54:29 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51237,6 +51237,14 @@ If you wish to continue using 4.7.1 in any of your scripts, make sure to change 
       <pubDate>Thu, 25 Sep 2025 12:36:54 -0000</pubDate>
       <description>Warning: this environment module now depends on a new prokka environment module. Please let us know if it works.</description>
       <guid>A4713</guid>
+    </item>
+    <item>
+      <title>Depricating version 2.4 of BOLT-LMM.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">BOLT-LMM</category>
+      <pubDate>Mon, 20 Oct 2025 16:54:29 -0000</pubDate>
+      <description>Warning: BOLT-LMM/2.4 hangs on our new AMD nodes and so is marked for deletion. Please use the newer BOLT-LMM/2.5-foss-2023a or if necessary ask us to install BOLT-LMM/2.4-foss-2023a.</description>
+      <guid>A4714</guid>
     </item>
   </channel>
 </rss>
