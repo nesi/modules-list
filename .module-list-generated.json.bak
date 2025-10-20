@@ -60,7 +60,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "parallel_teaching",
-                        "hourly_average": 0.8,
+                        "hourly_average": 0.74,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "parallel_teaching@uoa_foe",
@@ -74,7 +74,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "abaqus",
-                        "hourly_average": 0.71,
+                        "hourly_average": 0.67,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "abaqus@uoa_foe",
@@ -2233,7 +2233,11 @@
         "versions": [
             "2.4"
         ],
-        "admin_list": [],
+        "admin_list": [
+            {
+                "2.4": "Warning: BOLT-LMM/2.4 hangs on our new AMD nodes and so is marked for deletion. Please use the newer BOLT-LMM/2.5-foss-2023a or if necessary ask us to install BOLT-LMM/2.4-foss-2023a."
+            }
+        ],
         "network_licences": [],
         "default": "2.4",
         "default_type": "latest",
@@ -3270,7 +3274,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 0.8,
+                        "hourly_average": 0.73,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_idg",
@@ -3372,7 +3376,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 15.13,
+                        "hourly_average": 13.83,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
@@ -3386,7 +3390,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsoluser",
-                        "hourly_average": 11.35,
+                        "hourly_average": 10.39,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "comsoluser@uoa_foe_des_rc",
@@ -3454,7 +3458,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 176440181.77,
+                        "hourly_average": 161388412.77,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -11127,7 +11131,7 @@
                 "server": "MATLAB@massey",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.69,
+                "server_uptime": 0.64,
                 "server_version": "",
                 "features": []
             },
@@ -11165,7 +11169,7 @@
                 "server": "MATLAB@uoo",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.84,
+                "server_uptime": 0.85,
                 "server_version": "",
                 "features": []
             },
@@ -11184,7 +11188,7 @@
                 "server": "MATLAB@vuw",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.0,
+                "server_uptime": 0.05,
                 "server_version": "",
                 "features": []
             },
@@ -11203,7 +11207,7 @@
                 "server": "MATLAB@aut",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.7,
+                "server_uptime": 0.72,
                 "server_version": "",
                 "features": []
             },
