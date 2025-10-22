@@ -11188,7 +11188,7 @@
                 "server": "MATLAB@vuw",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.06,
+                "server_uptime": 0.07,
                 "server_version": "",
                 "features": []
             },
