@@ -21193,6 +21193,9 @@
         "admin_list": [
             {
                 "6.2.1-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2": "Warning: VASP/6.2.1-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2 is old and marked for deletion. Please select a more recent version (try 'module spider VASP') or let us know that you still need it."
+            },
+            {
+                "6.3.2-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2": "Warning: Our NVHPC builds of VASP are not currently working. Please let us know if you want us to try and fix them, or build a new one."
             }
         ],
         "network_licences": [],
