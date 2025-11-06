@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 06 Nov 2025 14:55:46 -0000">
+  <channel lastBuildDate="Thu, 06 Nov 2025 15:00:12 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51318,6 +51318,19 @@ If you wish to continue using 2.17.1-CUDA-12.0.0 in any of your scripts, make su
       <description>The default version of NCCL has changed from 2.17.1-CUDA-12.0.0 to 2.27.7-GCCcore-12.3.0-CUDA-12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load NCCL&lt;/code&gt;.
 If you wish to continue using 2.17.1-CUDA-12.0.0 in any of your scripts, make sure to change them to &lt;code&gt;module load NCCL/2.17.1-CUDA-12.0.0&lt;/code&gt;</description>
       <guid>A4722</guid>
+    </item>
+    <item>
+      <title>UCC-CUDA has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">UCC-CUDA</category>
+      <pubDate>Thu, 06 Nov 2025 15:00:11 -0000</pubDate>
+      <description>UCC (Unified Collective Communication) is a collective
+communication operations API and library that is flexible, complete, and
+feature-rich for current and emerging programming models and runtimes.
+This module adds the UCC CUDA support.
+https://www.openucx.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load UCC-CUDA/1.3.0-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4723</guid>
     </item>
   </channel>
 </rss>
