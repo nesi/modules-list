@@ -4750,13 +4750,13 @@
         "force_show": "False"
     },
     "EasyBuild": {
-        "description": "",
+        "description": "EasyBuild is a software build and installation framework\n written in Python that allows you to install software in a structured,\n repeatable and robust way.",
         "domains": [
             "tools"
         ],
         "extensions": [],
         "licence_type": "",
-        "homepage": "",
+        "homepage": "https://easybuilders.github.io/easybuild",
         "support": "",
         "versions": [
             "4.4.1",
@@ -4769,15 +4769,16 @@
             "4.9.0",
             "4.9.2",
             "4.9.2",
-            "4.9.2"
+            "4.9.2",
+            "5.1.2"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.9.2",
+        "default": "5.1.2",
         "default_type": "latest",
-        "last_updated": 1744964564,
+        "last_updated": 1762390280,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/EasyBuild/4.9.2",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/EasyBuild/5.1.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
