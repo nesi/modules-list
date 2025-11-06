@@ -3522,7 +3522,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 141834547.17,
+                        "hourly_average": 141823998.71,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -13981,6 +13981,7 @@
             "21.9-GCC-11.3.0-CUDA-11.4.1",
             "22.3-GCC-11.3.0-CUDA-11.6.2",
             "23.5-CUDA-12.1.1",
+            "23.9-CUDA-12.2.2",
             "24.3-CUDA-12.2.2"
         ],
         "admin_list": [],
