@@ -20965,6 +20965,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "UCC-CUDA": {
+        "description": "UCC (Unified Collective Communication) is a collective\ncommunication operations API and library that is flexible, complete, and\nfeature-rich for current and emerging programming models and runtimes.\n\nThis module adds the UCC CUDA support.\n",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.openucx.org/",
+        "support": "",
+        "versions": [
+            "1.3.0-GCCcore-12.3.0-CUDA-12.2.2"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.3.0-GCCcore-12.3.0-CUDA-12.2.2",
+        "default_type": "latest",
+        "last_updated": 1762394232,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/UCC-CUDA/1.3.0-GCCcore-12.3.0-CUDA-12.2.2.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "UCX": {
         "description": "Unified Communication X\nAn open-source production grade communication framework for data centric\nand high-performance applications\n",
         "domains": [
