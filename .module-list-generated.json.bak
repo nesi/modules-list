@@ -3407,7 +3407,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 11.76,
+                        "hourly_average": 11.75,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
@@ -3489,7 +3489,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 137073424.89,
+                        "hourly_average": 137053721.94,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -11181,7 +11181,7 @@
                 "server": "MATLAB@uow",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 1.0,
+                "server_uptime": 0,
                 "server_version": "",
                 "features": []
             },
@@ -11200,7 +11200,7 @@
                 "server": "MATLAB@niwa",
                 "server_polling": false,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.0,
+                "server_uptime": 0,
                 "server_version": "",
                 "features": []
             },
@@ -11219,7 +11219,7 @@
                 "server": "MATLAB@gns",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.0,
+                "server_uptime": 0,
                 "server_version": "11.16.2",
                 "features": [
                     {
