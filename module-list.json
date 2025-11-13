@@ -3522,7 +3522,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 135178669.26,
+                        "hourly_average": 135169087.56,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -11401,7 +11401,7 @@
                 "server": "MATLAB@vuw",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.2,
+                "server_uptime": 0.21,
                 "server_version": "",
                 "features": []
             },
