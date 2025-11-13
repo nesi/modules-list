@@ -21361,15 +21361,16 @@
         "versions": [
             "2.33-GCCcore-7.4.0",
             "2.33-GCCcore-9.2.0",
-            "2.38"
+            "2.38",
+            "2.41"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.38",
+        "default": "2.41",
         "default_type": "latest",
-        "last_updated": 1740132639,
+        "last_updated": 1762996118,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/util-linux/2.38.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/util-linux/2.41.lua",
         "force_hide": "False",
         "force_show": "False"
     },
