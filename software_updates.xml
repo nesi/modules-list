@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 13 Nov 2025 14:11:35 -0000">
+  <channel lastBuildDate="Mon, 17 Nov 2025 13:39:26 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51408,6 +51408,15 @@ If you wish to continue using 2.38 in any of your scripts, make sure to change t
       <description>The default version of util-linux has changed from 2.38 to 2.41, this is the version that will be loaded when you run &lt;code&gt;module load util-linux&lt;/code&gt;.
 If you wish to continue using 2.38 in any of your scripts, make sure to change them to &lt;code&gt;module load util-linux/2.38&lt;/code&gt;</description>
       <guid>A4732</guid>
+    </item>
+    <item>
+      <title>libcuda-stub has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">libcuda-stub</category>
+      <pubDate>Mon, 17 Nov 2025 13:39:26 -0000</pubDate>
+      <description>
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4733</guid>
     </item>
   </channel>
 </rss>

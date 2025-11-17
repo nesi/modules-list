@@ -3489,7 +3489,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 131651051.95,
+                        "hourly_average": 131641963.79,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -9613,6 +9613,26 @@
         "last_updated": 1740132637,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/lib/libcircle/0.3-iimpi-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "libcuda-stub": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "12.2.2"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "12.2.2",
+        "default_type": "latest",
+        "last_updated": 1763339944,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libcuda-stub/12.2.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
