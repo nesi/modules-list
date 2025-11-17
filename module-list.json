@@ -3544,7 +3544,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 131062920.11,
+                        "hourly_average": 131053912.97,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
