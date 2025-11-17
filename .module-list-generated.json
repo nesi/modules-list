@@ -9630,7 +9630,7 @@
         "network_licences": [],
         "default": "12.2.2",
         "default_type": "latest",
-        "last_updated": 1763339944,
+        "last_updated": 1763339971,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libcuda-stub/12.2.2.lua",
         "force_hide": "False",
