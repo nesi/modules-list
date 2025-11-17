@@ -9624,15 +9624,16 @@
         "homepage": "",
         "support": "",
         "versions": [
-            "12.2.2"
+            "12.2.2",
+            "12.5.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "12.2.2",
+        "default": "12.5.0",
         "default_type": "latest",
-        "last_updated": 1763339971,
+        "last_updated": 1763340197,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libcuda-stub/12.2.2.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/libcuda-stub/12.5.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },

@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 17 Nov 2025 13:39:26 -0000">
+  <channel lastBuildDate="Mon, 17 Nov 2025 13:46:40 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51417,6 +51417,32 @@ If you wish to continue using 2.38 in any of your scripts, make sure to change t
       <description>
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4733</guid>
+    </item>
+    <item>
+      <title>libcuda-stub/12.5.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libcuda-stub</category>
+      <pubDate>Mon, 17 Nov 2025 13:46:40 -0000</pubDate>
+      <description>libcuda-stub has been updated with a new version, 12.5.0. &lt;pre&gt;&lt;code&gt;module load libcuda-stub/12.5.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4734</guid>
+    </item>
+    <item>
+      <title>Default version of libcuda-stub has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libcuda-stub</category>
+      <pubDate>Mon, 17 Nov 2025 13:46:40 -0000</pubDate>
+      <description>The default version of libcuda-stub has changed from 12.2.2 to 12.5.0, this is the version that will be loaded when you run &lt;code&gt;module load libcuda-stub&lt;/code&gt;.
+If you wish to continue using 12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;</description>
+      <guid>A4735</guid>
+    </item>
+    <item>
+      <title>Default version of libcuda-stub has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libcuda-stub</category>
+      <pubDate>Mon, 17 Nov 2025 13:46:40 -0000</pubDate>
+      <description>The default version of libcuda-stub has changed from 12.2.2 to 12.5.0, this is the version that will be loaded when you run &lt;code&gt;module load libcuda-stub&lt;/code&gt;.
+If you wish to continue using 12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;</description>
+      <guid>A4736</guid>
     </item>
   </channel>
 </rss>
