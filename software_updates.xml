@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 17 Nov 2025 13:46:40 -0000">
+  <channel lastBuildDate="Mon, 17 Nov 2025 16:07:44 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51443,6 +51443,17 @@ If you wish to continue using 12.2.2 in any of your scripts, make sure to change
       <description>The default version of libcuda-stub has changed from 12.2.2 to 12.5.0, this is the version that will be loaded when you run &lt;code&gt;module load libcuda-stub&lt;/code&gt;.
 If you wish to continue using 12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;</description>
       <guid>A4736</guid>
+    </item>
+    <item>
+      <title>BCL-Convert has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">BCL-Convert</category>
+      <pubDate>Mon, 17 Nov 2025 16:07:44 -0000</pubDate>
+      <description>Converts per cycle binary data output by Illumina sequencers containing basecall
+files and quality scores to per read FASTQ files
+https://support.illumina.com/sequencing/sequencing_software/bcl-convert.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load BCL-Convert/4.2.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4737</guid>
     </item>
   </channel>
 </rss>
