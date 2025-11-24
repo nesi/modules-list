@@ -9686,6 +9686,7 @@
         "homepage": "http://lammps.sandia.gov/",
         "support": "",
         "versions": [
+            "22Jul2025-foss-2023a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos-EChemDID",
             "31Aug2021-gimkl-2022a-kokkos-EChemDID"
