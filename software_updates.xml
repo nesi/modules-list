@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 17 Nov 2025 16:07:44 -0000">
+  <channel lastBuildDate="Tue, 25 Nov 2025 10:09:39 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51454,6 +51454,20 @@ files and quality scores to per read FASTQ files
 https://support.illumina.com/sequencing/sequencing_software/bcl-convert.html
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load BCL-Convert/4.2.4&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4737</guid>
+    </item>
+    <item>
+      <title>Voro++ has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Voro++</category>
+      <pubDate>Tue, 25 Nov 2025 10:09:39 -0000</pubDate>
+      <description>Voro++ is a software library for carrying out three-dimensional computations of the Voronoi
+tessellation. A distinguishing feature of the Voro++ library is that it carries out cell-based calculations,
+computing the Voronoi cell for each particle individually. It is particularly well-suited for applications that
+rely on cell-based statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used
+to analyze a system of particles.
+http://math.lbl.gov/voro++/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Voro++/0.4.6-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4738</guid>
     </item>
   </channel>
 </rss>
