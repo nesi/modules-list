@@ -11893,6 +11893,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "MDI": {
+        "description": "The MolSSI Driver Interface (MDI) project provides a\nstandardized API for fast, on-the-fly communication between computational\nchemistry codes. This greatly simplifies the process of implementing\nmethods that require the cooperation of multiple software packages and\nenables developers to write a single implementation that works across\nmany different codes. The API is sufficiently general to support a wide\nvariety of techniques, including QM/MM, ab initio MD, machine learning,\nadvanced sampling, and path integral MD, while also being straightforwardly\nextensible. Communication between codes is handled by the MDI Library, which\nenables tight coupling between codes using either the MPI or TCP/IP methods.\n",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/MolSSI-MDI/MDI_Library",
+        "support": "",
+        "versions": [
+            "1.4.26-foss-2023a-Python-3.11.6"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.4.26-foss-2023a-Python-3.11.6",
+        "default_type": "latest",
+        "last_updated": 1764018673,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/MDI/1.4.26-foss-2023a-Python-3.11.6.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "medaka": {
         "description": "Medaka is a tool to create a consensus sequence from nanopore sequencing data.",
         "domains": [
