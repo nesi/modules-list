@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 25 Nov 2025 10:09:39 -0000">
+  <channel lastBuildDate="Tue, 25 Nov 2025 10:13:04 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51468,6 +51468,25 @@ to analyze a system of particles.
 http://math.lbl.gov/voro++/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Voro++/0.4.6-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4738</guid>
+    </item>
+    <item>
+      <title>MDI has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">MDI</category>
+      <pubDate>Tue, 25 Nov 2025 10:13:04 -0000</pubDate>
+      <description>The MolSSI Driver Interface (MDI) project provides a
+standardized API for fast, on-the-fly communication between computational
+chemistry codes. This greatly simplifies the process of implementing
+methods that require the cooperation of multiple software packages and
+enables developers to write a single implementation that works across
+many different codes. The API is sufficiently general to support a wide
+variety of techniques, including QM/MM, ab initio MD, machine learning,
+advanced sampling, and path integral MD, while also being straightforwardly
+extensible. Communication between codes is handled by the MDI Library, which
+enables tight coupling between codes using either the MPI or TCP/IP methods.
+https://github.com/MolSSI-MDI/MDI_Library
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load MDI/1.4.26-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4739</guid>
     </item>
   </channel>
 </rss>
