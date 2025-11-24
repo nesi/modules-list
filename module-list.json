@@ -3605,7 +3605,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 125161819.9,
+                        "hourly_average": 125153605.57,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -22256,6 +22256,28 @@
         "last_updated": 1740132635,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/chem/VMD/1.9.3-gimkl-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Voro++": {
+        "description": "Voro++ is a software library for carrying out three-dimensional computations of the Voronoi\ntessellation. A distinguishing feature of the Voro++ library is that it carries out cell-based calculations,\ncomputing the Voronoi cell for each particle individually. It is particularly well-suited for applications that\nrely on cell-based statistics, where features of Voronoi cells (eg. volume, centroid, number of faces) can be used\nto analyze a system of particles.",
+        "domains": [
+            "math"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "http://math.lbl.gov/voro++/",
+        "support": "",
+        "versions": [
+            "0.4.6-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.4.6-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1764018411,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/math/Voro++/0.4.6-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
