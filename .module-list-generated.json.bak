@@ -3511,7 +3511,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 124874958.29,
+                        "hourly_average": 124866781.57,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -4305,6 +4305,28 @@
         "last_updated": 1740132628,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/DeePMD-kit/2.1.1.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "DeePMD-plugin": {
+        "description": "Deep learning-based models of interatomic potential energy and force field, as a LAMMPS plugin.",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://docs.deepmodeling.com/projects/deepmd",
+        "support": "",
+        "versions": [
+            "3.1.1-foss-2023a-LAMMPS-22Jul2025-CUDA-12.2.2"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "3.1.1-foss-2023a-LAMMPS-22Jul2025-CUDA-12.2.2",
+        "default_type": "latest",
+        "last_updated": 1764050006,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/DeePMD-plugin/3.1.1-foss-2023a-LAMMPS-22Jul2025-CUDA-12.2.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -9685,6 +9707,28 @@
         "last_updated": 1763707869,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/libcuda-stub/12.5.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "libdeepmd": {
+        "description": "Deep learning-based models of interatomic potential energy and force field",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://docs.deepmodeling.com/projects/deepmd",
+        "support": "",
+        "versions": [
+            "3.1.1"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "3.1.1",
+        "default_type": "latest",
+        "last_updated": 1764049872,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/libdeepmd/3.1.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
