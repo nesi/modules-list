@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 25 Nov 2025 14:41:40 -0000">
+  <channel lastBuildDate="Tue, 25 Nov 2025 18:54:03 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51506,6 +51506,26 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load MDI/1.4.26
 https://docs.globus.org/cli/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Globus-CLI/3.16.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4741</guid>
+    </item>
+    <item>
+      <title>libdeepmd has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">libdeepmd</category>
+      <pubDate>Tue, 25 Nov 2025 18:54:03 -0000</pubDate>
+      <description>Deep learning-based models of interatomic potential energy and force field
+https://docs.deepmodeling.com/projects/deepmd
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libdeepmd/3.1.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4742</guid>
+    </item>
+    <item>
+      <title>DeePMD-plugin has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">DeePMD-plugin</category>
+      <pubDate>Tue, 25 Nov 2025 18:54:03 -0000</pubDate>
+      <description>Deep learning-based models of interatomic potential energy and force field, as a LAMMPS plugin.
+https://docs.deepmodeling.com/projects/deepmd
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load DeePMD-plugin/3.1.1-foss-2023a-LAMMPS-22Jul2025-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4743</guid>
     </item>
   </channel>
 </rss>
