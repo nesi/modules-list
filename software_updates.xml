@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 25 Nov 2025 10:45:29 -0000">
+  <channel lastBuildDate="Tue, 25 Nov 2025 14:41:40 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51495,6 +51495,17 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load MDI/1.4.26
       <pubDate>Tue, 25 Nov 2025 10:45:29 -0000</pubDate>
       <description>LAMMPS has been updated with a new version, 22Jul2025-foss-2023a-kokkos. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-foss-2023a-kokkos&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4740</guid>
+    </item>
+    <item>
+      <title>Globus-CLI has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Globus-CLI</category>
+      <pubDate>Tue, 25 Nov 2025 14:41:40 -0000</pubDate>
+      <description>A Command Line Wrapper over the Globus SDK for Python, which provides an interface to Globus services
+ from the shell, and is suited to both interactive and simple scripting use cases.
+https://docs.globus.org/cli/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Globus-CLI/3.16.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4741</guid>
     </item>
   </channel>
 </rss>
