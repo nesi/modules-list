@@ -13721,7 +13721,7 @@
         "force_show": "False"
     },
     "ncview": {
-        "description": "Visual browser for netCDF format files.",
+        "description": "Ncview is a visual browser for netCDF format files.\nTypically you would use ncview to get a quick and easy, push-button\nlook at your netCDF files. You can view simple movies of the data,\nview along various dimensions, take a look at the actual data values,\nchange color maps, invert the data, etc.",
         "domains": [
             "vis"
         ],
@@ -13730,16 +13730,17 @@
         "homepage": "http://meteora.ucsd.edu/~pierce/ncview_home_page.html",
         "support": "",
         "versions": [
+            "2.1.11-gompi-2023a",
             "2.1.7-gimkl-2018b",
             "2.1.7-gimpi-2020a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.1.7-gimpi-2020a",
+        "default": "2.1.11-gompi-2023a",
         "default_type": "latest",
-        "last_updated": 1740132638,
+        "last_updated": 1764190703,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/vis/ncview/2.1.7-gimpi-2020a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/ncview/2.1.11-gompi-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
