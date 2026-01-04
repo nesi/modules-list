@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 28 Nov 2025 09:46:59 -0000">
+  <channel lastBuildDate="Mon, 05 Jan 2026 10:54:56 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51578,6 +51578,234 @@ If you wish to continue using 2.1.1-gimpi-2022a in any of your scripts, make sur
       <description>The default version of CDO has changed from 2.1.1-gimpi-2022a to 2.5.3-gompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load CDO&lt;/code&gt;.
 If you wish to continue using 2.1.1-gimpi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load CDO/2.1.1-gimpi-2022a&lt;/code&gt;</description>
       <guid>A4749</guid>
+    </item>
+    <item>
+      <title>Amber has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Amber</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>Amber (originally Assisted Model Building with Energy Refinement) is software for performing
+ molecular dynamics and structure prediction.
+https://ambermd.org/amber.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Amber/24.0-foss-2023a-AmberTools-25.0-CUDA-12.5.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4750</guid>
+    </item>
+    <item>
+      <title>pixi has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">pixi</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>pixi is a cross-platform, multi-language package manager and workflow tool built on the foundation of the conda ecosystem
+https://github.com/prefix-dev/pixi
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load pixi/0.61.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4751</guid>
+    </item>
+    <item>
+      <title>uv has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">uv</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>An extremely fast Python package installer and resolver, written in Rust.
+https://github.com/astral-sh/uv
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load uv/0.9.17-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4752</guid>
+    </item>
+    <item>
+      <title>pybind11 has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">pybind11</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,
+ mainly to create Python bindings of existing C++ code.
+https://pybind11.readthedocs.io
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load pybind11/2.9.2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4753</guid>
+    </item>
+    <item>
+      <title>zellij has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">zellij</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>zellij is the terminal multiplexer and workspace with batteries included
+https://zellij.dev/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load zellij/0.43.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4754</guid>
+    </item>
+    <item>
+      <title>WFA2 has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">WFA2</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The wavefront alignment (WFA) algorithm is an exact
+ gap-affine algorithm that takes advantage of homologous regions
+ between the sequences to accelerate the alignment process.
+https://github.com/smarco/WFA2-lib
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load WFA2/2.3.4-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4755</guid>
+    </item>
+    <item>
+      <title>IGV/2.19.7 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">IGV</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>IGV has been updated with a new version, 2.19.7. &lt;pre&gt;&lt;code&gt;module load IGV/2.19.7&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4756</guid>
+    </item>
+    <item>
+      <title>Default version of IGV has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">IGV</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of IGV has changed from 2.19.4 to 2.19.7, this is the version that will be loaded when you run &lt;code&gt;module load IGV&lt;/code&gt;.
+If you wish to continue using 2.19.4 in any of your scripts, make sure to change them to &lt;code&gt;module load IGV/2.19.4&lt;/code&gt;</description>
+      <guid>A4757</guid>
+    </item>
+    <item>
+      <title>Default version of IGV has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">IGV</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of IGV has changed from 2.19.4 to 2.19.7, this is the version that will be loaded when you run &lt;code&gt;module load IGV&lt;/code&gt;.
+If you wish to continue using 2.19.4 in any of your scripts, make sure to change them to &lt;code&gt;module load IGV/2.19.4&lt;/code&gt;</description>
+      <guid>A4758</guid>
+    </item>
+    <item>
+      <title>vcflib/1.0.14-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">vcflib</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>vcflib has been updated with a new version, 1.0.14-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load vcflib/1.0.14-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4759</guid>
+    </item>
+    <item>
+      <title>Default version of vcflib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">vcflib</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of vcflib has changed from 1.0.1-GCC-9.2.0 to 1.0.14-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load vcflib&lt;/code&gt;.
+If you wish to continue using 1.0.1-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load vcflib/1.0.1-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A4760</guid>
+    </item>
+    <item>
+      <title>Default version of vcflib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">vcflib</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of vcflib has changed from 1.0.1-GCC-9.2.0 to 1.0.14-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load vcflib&lt;/code&gt;.
+If you wish to continue using 1.0.1-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load vcflib/1.0.1-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A4761</guid>
+    </item>
+    <item>
+      <title>LAMMPS/22Jul2025-foss-2023a-kokkos-CUDA-12.2.2 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 22Jul2025-foss-2023a-kokkos-CUDA-12.2.2. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-foss-2023a-kokkos-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4762</guid>
+    </item>
+    <item>
+      <title>Nextflow/25.10.2 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Nextflow</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>Nextflow has been updated with a new version, 25.10.2. &lt;pre&gt;&lt;code&gt;module load Nextflow/25.10.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4763</guid>
+    </item>
+    <item>
+      <title>Default version of Nextflow has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Nextflow</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of Nextflow has changed from 25.10.0 to 25.10.2, this is the version that will be loaded when you run &lt;code&gt;module load Nextflow&lt;/code&gt;.
+If you wish to continue using 25.10.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Nextflow/25.10.0&lt;/code&gt;</description>
+      <guid>A4764</guid>
+    </item>
+    <item>
+      <title>Default version of Nextflow has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Nextflow</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of Nextflow has changed from 25.10.0 to 25.10.2, this is the version that will be loaded when you run &lt;code&gt;module load Nextflow&lt;/code&gt;.
+If you wish to continue using 25.10.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Nextflow/25.10.0&lt;/code&gt;</description>
+      <guid>A4765</guid>
+    </item>
+    <item>
+      <title>FreeBayes/1.3.10-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FreeBayes</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>FreeBayes has been updated with a new version, 1.3.10-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load FreeBayes/1.3.10-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4766</guid>
+    </item>
+    <item>
+      <title>Default version of FreeBayes has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FreeBayes</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of FreeBayes has changed from 1.3.2-GCC-9.2.0 to 1.3.10-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FreeBayes&lt;/code&gt;.
+If you wish to continue using 1.3.2-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FreeBayes/1.3.2-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A4767</guid>
+    </item>
+    <item>
+      <title>Default version of FreeBayes has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FreeBayes</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of FreeBayes has changed from 1.3.2-GCC-9.2.0 to 1.3.10-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FreeBayes&lt;/code&gt;.
+If you wish to continue using 1.3.2-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FreeBayes/1.3.2-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A4768</guid>
+    </item>
+    <item>
+      <title>GATK/4.6.2.0-foss-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GATK</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>GATK has been updated with a new version, 4.6.2.0-foss-2023a. &lt;pre&gt;&lt;code&gt;module load GATK/4.6.2.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4769</guid>
+    </item>
+    <item>
+      <title>Default version of GATK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GATK</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of GATK has changed from 4.6.1.0-gimkl-2022a to 4.6.2.0-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load GATK&lt;/code&gt;.
+If you wish to continue using 4.6.1.0-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load GATK/4.6.1.0-gimkl-2022a&lt;/code&gt;</description>
+      <guid>A4770</guid>
+    </item>
+    <item>
+      <title>Default version of GATK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GATK</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of GATK has changed from 4.6.1.0-gimkl-2022a to 4.6.2.0-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load GATK&lt;/code&gt;.
+If you wish to continue using 4.6.1.0-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load GATK/4.6.1.0-gimkl-2022a&lt;/code&gt;</description>
+      <guid>A4771</guid>
+    </item>
+    <item>
+      <title>tabixpp/1.1.2-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">tabixpp</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>tabixpp has been updated with a new version, 1.1.2-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load tabixpp/1.1.2-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4772</guid>
+    </item>
+    <item>
+      <title>Default version of tabixpp has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">tabixpp</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of tabixpp has changed from 1.1.2-GCC-11.3.0 to 1.1.2-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load tabixpp&lt;/code&gt;.
+If you wish to continue using 1.1.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load tabixpp/1.1.2-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A4773</guid>
+    </item>
+    <item>
+      <title>Default version of tabixpp has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">tabixpp</category>
+      <pubDate>Mon, 05 Jan 2026 10:54:56 -0000</pubDate>
+      <description>The default version of tabixpp has changed from 1.1.2-GCC-11.3.0 to 1.1.2-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load tabixpp&lt;/code&gt;.
+If you wish to continue using 1.1.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load tabixpp/1.1.2-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A4774</guid>
     </item>
   </channel>
 </rss>
