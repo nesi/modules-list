@@ -52,7 +52,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "gpgpu@uoa_foe",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -66,7 +66,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "parallel_teaching@uoa_foe",
                         "slurm_track": true,
-                        "total": 4,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -80,7 +80,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "abaqus@uoa_foe",
                         "slurm_track": true,
-                        "total": 40,
+                        "total": 0,
                         "usage_formula": "({cpu}**0.422)*5",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -470,6 +470,28 @@
         "last_updated": 1740132626,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/numlib/AlwaysIntelMKL/1.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Amber": {
+        "description": "Amber (originally Assisted Model Building with Energy Refinement) is software for performing\n molecular dynamics and structure prediction.",
+        "domains": [
+            "chem"
+        ],
+        "extensions": [],
+        "licence_type": "proprietary",
+        "homepage": "https://ambermd.org/amber.html",
+        "support": "",
+        "versions": [
+            "24.0-foss-2023a-AmberTools-25.0-CUDA-12.5.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "24.0-foss-2023a-AmberTools-25.0-CUDA-12.5.0",
+        "default_type": "latest",
+        "last_updated": 1766122185,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/Amber/24.0-foss-2023a-AmberTools-25.0-CUDA-12.5.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -3393,7 +3415,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_physics",
                         "slurm_track": true,
-                        "total": 2,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "By booking only. Version not greater than 6.2.",
                         "visible_on_docs": true
@@ -3427,7 +3449,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_idg",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 5.4",
                         "visible_on_docs": true
@@ -3461,7 +3483,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_foe",
                         "slurm_track": true,
-                        "total": 6,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 5.5",
                         "visible_on_docs": true
@@ -3495,7 +3517,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_foes",
                         "slurm_track": true,
-                        "total": 3,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 6.2",
                         "visible_on_docs": true
@@ -3529,7 +3551,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "Version not greater than 5.6",
                         "visible_on_docs": true
@@ -3543,7 +3565,7 @@
                         "slurm_soak": true,
                         "slurm_token_name": "comsoluser@uoa_foe_des_rc",
                         "slurm_track": true,
-                        "total": 1,
+                        "total": 0,
                         "usage_formula": "1",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -3611,7 +3633,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
                         "slurm_track": true,
-                        "total": 5,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "Version not greater than 6.2",
                         "visible_on_docs": true
@@ -6354,6 +6376,7 @@
         "support": "",
         "versions": [
             "1.3.1-GCC-7.4.0",
+            "1.3.10-GCC-12.3.0",
             "1.3.2-GCC-9.2.0"
         ],
         "admin_list": [
@@ -6362,11 +6385,11 @@
             }
         ],
         "network_licences": [],
-        "default": "1.3.2-GCC-9.2.0",
+        "default": "1.3.10-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1765487499,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/FreeBayes/1.3.2-GCC-9.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/bio/FreeBayes/1.3.10-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -6585,15 +6608,16 @@
             "4.3.0.0-gimkl-2022a",
             "4.4.0.0-gimkl-2022a",
             "4.5.0.0-gimkl-2022a",
-            "4.6.1.0-gimkl-2022a"
+            "4.6.1.0-gimkl-2022a",
+            "4.6.2.0-foss-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.6.1.0-gimkl-2022a",
+        "default": "4.6.2.0-foss-2023a",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1765486479,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/GATK/4.6.1.0-gimkl-2022a.lua",
+        "module_path": "/opt/nesi/zen3/modules/bio/GATK/4.6.2.0-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -8478,16 +8502,17 @@
         "versions": [
             "2.16.1",
             "2.19.4",
+            "2.19.7",
             "2.5.0",
             "2.9.4"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.19.4",
+        "default": "2.19.7",
         "default_type": "latest",
-        "last_updated": 1754620103,
+        "last_updated": 1765492524,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/bio/IGV/2.19.4.lua",
+        "module_path": "/opt/nesi/zen3/modules/bio/IGV/2.19.7.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -9738,6 +9763,7 @@
         "support": "",
         "versions": [
             "22Jul2025-foss-2023a-kokkos",
+            "22Jul2025-foss-2023a-kokkos-CUDA-12.2.2",
             "23Jun2022-gimkl-2022a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos-EChemDID",
             "31Aug2021-gimkl-2022a-kokkos-EChemDID"
@@ -13987,15 +14013,16 @@
             "23.10.0",
             "24.04.4",
             "24.10.5",
-            "25.10.0"
+            "25.10.0",
+            "25.10.2"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "25.10.0",
+        "default": "25.10.2",
         "default_type": "latest",
-        "last_updated": 1761694703,
+        "last_updated": 1765486498,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/Nextflow/25.10.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Nextflow/25.10.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -14385,9 +14412,9 @@
         "network_licences": [],
         "default": "24.3-CUDA-12.2.2",
         "default_type": "latest",
-        "last_updated": 1740132632,
+        "last_updated": 1767556929,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/NVHPC/24.3-CUDA-12.2.2.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/NVHPC/24.3-CUDA-12.2.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -15948,6 +15975,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "pixi": {
+        "description": "pixi is a cross-platform, multi-language package manager and workflow tool built on the foundation of the conda ecosystem",
+        "domains": [
+            "base"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/prefix-dev/pixi",
+        "support": "",
+        "versions": [
+            "0.61.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.61.0",
+        "default_type": "latest",
+        "last_updated": 1765931321,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/base/pixi/0.61.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "pixman": {
         "description": "Pixman is a low-level software library for pixel manipulation, providing features such as image\ncompositing and trapezoid rasterization. Important users of pixman are the cairo graphics library and the X server.",
         "domains": [
@@ -16659,6 +16708,28 @@
         "last_updated": 1740132639,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/pyani/0.2.12-gimkl-2022a-Python-3.10.5.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "pybind11": {
+        "description": "pybind11 is a lightweight header-only library that exposes C++ types in Python and vice versa,\n mainly to create Python bindings of existing C++ code.",
+        "domains": [
+            "lib"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://pybind11.readthedocs.io",
+        "support": "",
+        "versions": [
+            "2.9.2-GCCcore-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2.9.2-GCCcore-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1765486779,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/pybind11/2.9.2-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -20936,18 +21007,19 @@
         ],
         "extensions": [],
         "licence_type": "",
-        "homepage": "https://github.com/ekg/tabixpp",
+        "homepage": "https://github.com/vcflib/tabixpp",
         "support": "",
         "versions": [
-            "1.1.2-GCC-11.3.0"
+            "1.1.2-GCC-11.3.0",
+            "1.1.2-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.1.2-GCC-11.3.0",
+        "default": "1.1.2-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132639,
+        "last_updated": 1765487462,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/tabixpp/1.1.2-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/bio/tabixpp/1.1.2-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -21886,6 +21958,28 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "uv": {
+        "description": "An extremely fast Python package installer and resolver, written in Rust.",
+        "domains": [
+            "tools"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/astral-sh/uv",
+        "support": "",
+        "versions": [
+            "0.9.17-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.9.17-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1765853285,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/uv/0.9.17-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "Valgrind": {
         "description": "Valgrind: Debugging and profiling tools",
         "domains": [
@@ -22037,25 +22131,26 @@
         "force_show": "False"
     },
     "vcflib": {
-        "description": "Genetic variant detector designed to find polymorphisms smaller than the length of a short-read sequencing alignment.",
+        "description": "vcflib provides methods to manipulate and interpret sequence variation as it can be\n described by VCF. The Variant Call Format (VCF) is a flat-file, tab-delimited textual format intended\n to concisely describe reference-indexed genetic variations between individuals.",
         "domains": [
             "bio",
             "biology"
         ],
         "extensions": [],
         "licence_type": "",
-        "homepage": "https://github.com/ekg/freebayes/blob/master/README.md",
+        "homepage": "https://github.com/vcflib/vcflib",
         "support": "",
         "versions": [
-            "1.0.1-GCC-9.2.0"
+            "1.0.1-GCC-9.2.0",
+            "1.0.14-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.0.1-GCC-9.2.0",
+        "default": "1.0.14-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132640,
+        "last_updated": 1765487205,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/bio/vcflib/1.0.1-GCC-9.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/bio/vcflib/1.0.14-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -22470,6 +22565,28 @@
         "last_updated": 1740132640,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/chem/wannier90/3.1.0-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "WFA2": {
+        "description": "The wavefront alignment (WFA) algorithm is an exact\n gap-affine algorithm that takes advantage of homologous regions\n between the sequences to accelerate the alignment process.",
+        "domains": [
+            "bio"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/smarco/WFA2-lib",
+        "support": "",
+        "versions": [
+            "2.3.4-GCCcore-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2.3.4-GCCcore-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1765487436,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/bio/WFA2/2.3.4-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -22939,6 +23056,28 @@
         "last_updated": 1740132635,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/tools/Z3/4.12.2-GCCcore-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "zellij": {
+        "description": "zellij is the terminal multiplexer and workspace with batteries included",
+        "domains": [
+            "base"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://zellij.dev/",
+        "support": "",
+        "versions": [
+            "0.43.1"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.43.1",
+        "default_type": "latest",
+        "last_updated": 1766450653,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/base/zellij/0.43.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
