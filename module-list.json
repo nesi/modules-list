@@ -4426,7 +4426,7 @@
         "force_show": "False"
     },
     "DeePMD-kit": {
-        "description": "",
+        "description": "credentials-1.3.2, devtools-2.4.4, downlit-0.4.2, gert-1.9.1, gh-1.3.1, gitcreds-0.1.2, ini-0.3.1, openssl-2.0.3, pkgdown-2.0.6, ragg-1.2.3, rcmdcheck-1.4.0, remotes-2.4.2, rmarkdown-2.16, roxygen2-7.2.1, rversions-2.1.2, sessioninfo-1.2.2, systemfonts-1.0.4, textshaping-0.3.6, tinytex-0.42, urlchecker-1.0.1, usethis-2.1.6, whisker-0.4, xopen-1.0.0",
         "domains": [
             "chemistry"
         ],
@@ -9978,7 +9978,7 @@
         "force_show": "False"
     },
     "libcuda-stub": {
-        "description": "",
+        "description": "http://www.plumed-code.org",
         "domains": [],
         "extensions": [],
         "licence_type": "",
