@@ -11584,7 +11584,8 @@
             "2022a",
             "2022b",
             "2023a",
-            "2023b"
+            "2023b",
+            "2025b"
         ],
         "admin_list": [
             {
@@ -11945,7 +11946,8 @@
             "2022a",
             "2022b",
             "2023a",
-            "2023b"
+            "2023b",
+            "2025b"
         ],
         "admin_list": [
             {
@@ -11962,11 +11964,11 @@
             }
         ],
         "network_licences": [],
-        "default": "2023b",
+        "default": "2025b",
         "default_type": "latest",
         "last_updated": 1740145797,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/MCR/2023b.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/MCR/2025b.lua",
         "force_hide": "False",
         "force_show": "False"
     },
