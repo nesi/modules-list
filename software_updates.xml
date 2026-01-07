@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 05 Jan 2026 10:54:56 -0000">
+  <channel lastBuildDate="Wed, 07 Jan 2026 13:22:05 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51806,6 +51806,40 @@ If you wish to continue using 1.1.2-GCC-11.3.0 in any of your scripts, make sure
       <description>The default version of tabixpp has changed from 1.1.2-GCC-11.3.0 to 1.1.2-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load tabixpp&lt;/code&gt;.
 If you wish to continue using 1.1.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load tabixpp/1.1.2-GCC-11.3.0&lt;/code&gt;</description>
       <guid>A4774</guid>
+    </item>
+    <item>
+      <title>MCR/2025b added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MCR</category>
+      <pubDate>Wed, 07 Jan 2026 13:22:05 -0000</pubDate>
+      <description>MCR has been updated with a new version, 2025b. &lt;pre&gt;&lt;code&gt;module load MCR/2025b&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4775</guid>
+    </item>
+    <item>
+      <title>Default version of MCR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MCR</category>
+      <pubDate>Wed, 07 Jan 2026 13:22:05 -0000</pubDate>
+      <description>The default version of MCR has changed from 2023b to 2025b, this is the version that will be loaded when you run &lt;code&gt;module load MCR&lt;/code&gt;.
+If you wish to continue using 2023b in any of your scripts, make sure to change them to &lt;code&gt;module load MCR/2023b&lt;/code&gt;</description>
+      <guid>A4776</guid>
+    </item>
+    <item>
+      <title>Default version of MCR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MCR</category>
+      <pubDate>Wed, 07 Jan 2026 13:22:05 -0000</pubDate>
+      <description>The default version of MCR has changed from 2023b to 2025b, this is the version that will be loaded when you run &lt;code&gt;module load MCR&lt;/code&gt;.
+If you wish to continue using 2023b in any of your scripts, make sure to change them to &lt;code&gt;module load MCR/2023b&lt;/code&gt;</description>
+      <guid>A4777</guid>
+    </item>
+    <item>
+      <title>MATLAB/2025b added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MATLAB</category>
+      <pubDate>Wed, 07 Jan 2026 13:22:05 -0000</pubDate>
+      <description>MATLAB has been updated with a new version, 2025b. &lt;pre&gt;&lt;code&gt;module load MATLAB/2025b&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4778</guid>
     </item>
   </channel>
 </rss>
