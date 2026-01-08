@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 07 Jan 2026 13:22:05 -0000">
+  <channel lastBuildDate="Fri, 09 Jan 2026 11:04:06 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51840,6 +51840,23 @@ If you wish to continue using 2023b in any of your scripts, make sure to change 
       <pubDate>Wed, 07 Jan 2026 13:22:05 -0000</pubDate>
       <description>MATLAB has been updated with a new version, 2025b. &lt;pre&gt;&lt;code&gt;module load MATLAB/2025b&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4778</guid>
+    </item>
+    <item>
+      <title>numactl/2.0.14-GCCcore-11.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">numactl</category>
+      <pubDate>Fri, 09 Jan 2026 11:04:06 -0000</pubDate>
+      <description>numactl has been updated with a new version, 2.0.14-GCCcore-11.3.0. &lt;pre&gt;&lt;code&gt;module load numactl/2.0.14-GCCcore-11.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4779</guid>
+    </item>
+    <item>
+      <title>Default version of numactl has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">numactl</category>
+      <pubDate>Fri, 09 Jan 2026 11:04:06 -0000</pubDate>
+      <description>The default version of numactl has changed from 2.0.16-GCCcore-12.3.0 to 2.0.14-GCCcore-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load numactl&lt;/code&gt;.
+If you wish to continue using 2.0.16-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load numactl/2.0.16-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A4780</guid>
     </item>
   </channel>
 </rss>
