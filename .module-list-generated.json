@@ -21246,6 +21246,7 @@
         "homepage": "http://www.openucx.org/",
         "support": "",
         "versions": [
+            "1.18.1-GCCcore-11.3.0-CUDA-11.8.0",
             "1.18.1-GCCcore-12.3.0-CUDA-12.2.2"
         ],
         "admin_list": [],
