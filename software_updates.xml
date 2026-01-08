@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 09 Jan 2026 11:38:47 -0000">
+  <channel lastBuildDate="Fri, 09 Jan 2026 11:50:19 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51942,6 +51942,32 @@ If you wish to continue using 2.27.7-GCCcore-12.3.0-CUDA-12.2.2 in any of your s
       <description>The default version of UCC has changed from 1.3.0-GCCcore-12.3.0 to 1.3.0-GCCcore-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load UCC&lt;/code&gt;.
 If you wish to continue using 1.3.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load UCC/1.3.0-GCCcore-12.3.0&lt;/code&gt;</description>
       <guid>A4790</guid>
+    </item>
+    <item>
+      <title>UCC-CUDA/1.3.0-GCCcore-11.3.0-CUDA-11.8.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">UCC-CUDA</category>
+      <pubDate>Fri, 09 Jan 2026 11:50:19 -0000</pubDate>
+      <description>UCC-CUDA has been updated with a new version, 1.3.0-GCCcore-11.3.0-CUDA-11.8.0. &lt;pre&gt;&lt;code&gt;module load UCC-CUDA/1.3.0-GCCcore-11.3.0-CUDA-11.8.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4791</guid>
+    </item>
+    <item>
+      <title>Default version of UCC-CUDA has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">UCC-CUDA</category>
+      <pubDate>Fri, 09 Jan 2026 11:50:19 -0000</pubDate>
+      <description>The default version of UCC-CUDA has changed from 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 to 1.3.0-GCCcore-11.3.0-CUDA-11.8.0, this is the version that will be loaded when you run &lt;code&gt;module load UCC-CUDA&lt;/code&gt;.
+If you wish to continue using 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load UCC-CUDA/1.3.0-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;</description>
+      <guid>A4792</guid>
+    </item>
+    <item>
+      <title>Default version of UCC-CUDA has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">UCC-CUDA</category>
+      <pubDate>Fri, 09 Jan 2026 11:50:19 -0000</pubDate>
+      <description>The default version of UCC-CUDA has changed from 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 to 1.3.0-GCCcore-11.3.0-CUDA-11.8.0, this is the version that will be loaded when you run &lt;code&gt;module load UCC-CUDA&lt;/code&gt;.
+If you wish to continue using 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load UCC-CUDA/1.3.0-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;</description>
+      <guid>A4793</guid>
     </item>
   </channel>
 </rss>
