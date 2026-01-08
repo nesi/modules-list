@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 09 Jan 2026 11:50:19 -0000">
+  <channel lastBuildDate="Fri, 09 Jan 2026 12:43:05 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51968,6 +51968,21 @@ If you wish to continue using 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 in any of your sc
       <description>The default version of UCC-CUDA has changed from 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 to 1.3.0-GCCcore-11.3.0-CUDA-11.8.0, this is the version that will be loaded when you run &lt;code&gt;module load UCC-CUDA&lt;/code&gt;.
 If you wish to continue using 1.3.0-GCCcore-12.3.0-CUDA-12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load UCC-CUDA/1.3.0-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;</description>
       <guid>A4793</guid>
+    </item>
+    <item>
+      <title>f90wrap has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">f90wrap</category>
+      <pubDate>Fri, 09 Jan 2026 12:43:05 -0000</pubDate>
+      <description>f90wrap is a tool to automatically generate Python extension modules which
+interface to Fortran code that makes use of derived types. It builds on the
+capabilities of the popular f2py utility by generating a simpler Fortran 90
+interface to the original Fortran code which is then suitable for wrapping with
+f2py, together with a higher-level Pythonic wrapper that makes the existance of
+an additional layer transparent to the final user.
+https://github.com/jameskermode/f90wrap
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load f90wrap/0.2.13-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4794</guid>
     </item>
   </channel>
 </rss>
