@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 09 Jan 2026 11:07:59 -0000">
+  <channel lastBuildDate="Fri, 09 Jan 2026 11:17:36 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51874,6 +51874,23 @@ If you wish to continue using 2.0.16-GCCcore-12.3.0 in any of your scripts, make
       <description>The default version of libcuda-stub has changed from 12.5.0 to 11.8.0, this is the version that will be loaded when you run &lt;code&gt;module load libcuda-stub&lt;/code&gt;.
 If you wish to continue using 12.5.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libcuda-stub/12.5.0&lt;/code&gt;</description>
       <guid>A4782</guid>
+    </item>
+    <item>
+      <title>UCX/1.18.1-GCCcore-11.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">UCX</category>
+      <pubDate>Fri, 09 Jan 2026 11:17:36 -0000</pubDate>
+      <description>UCX has been updated with a new version, 1.18.1-GCCcore-11.3.0. &lt;pre&gt;&lt;code&gt;module load UCX/1.18.1-GCCcore-11.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4783</guid>
+    </item>
+    <item>
+      <title>Default version of UCX has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">UCX</category>
+      <pubDate>Fri, 09 Jan 2026 11:17:36 -0000</pubDate>
+      <description>The default version of UCX has changed from 1.18.1-GCCcore-12.3.0 to 1.18.1-GCCcore-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load UCX&lt;/code&gt;.
+If you wish to continue using 1.18.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load UCX/1.18.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A4784</guid>
     </item>
   </channel>
 </rss>
