@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 09 Jan 2026 12:43:05 -0000">
+  <channel lastBuildDate="Fri, 09 Jan 2026 18:47:26 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51983,6 +51983,14 @@ an additional layer transparent to the final user.
 https://github.com/jameskermode/f90wrap
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load f90wrap/0.2.13-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4794</guid>
+    </item>
+    <item>
+      <title>LAMMPS/23Jun2022-gimkl-2022a-kokkos-CUDA-11.8.0-ECHEMDID added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Fri, 09 Jan 2026 18:47:26 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 23Jun2022-gimkl-2022a-kokkos-CUDA-11.8.0-ECHEMDID. &lt;pre&gt;&lt;code&gt;module load LAMMPS/23Jun2022-gimkl-2022a-kokkos-CUDA-11.8.0-ECHEMDID&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4795</guid>
     </item>
   </channel>
 </rss>
