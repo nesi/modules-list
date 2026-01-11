@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Sun, 11 Jan 2026 13:18:52 -0000">
+  <channel lastBuildDate="Mon, 12 Jan 2026 12:34:52 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -51999,6 +51999,18 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load f90wrap/0.
       <pubDate>Sun, 11 Jan 2026 13:18:52 -0000</pubDate>
       <description>LAMMPS has been updated with a new version, 23Jun2022-gimkl-2022a-kokkos-ECHEMDID-CUDA-11.8.0. &lt;pre&gt;&lt;code&gt;module load LAMMPS/23Jun2022-gimkl-2022a-kokkos-ECHEMDID-CUDA-11.8.0&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4796</guid>
+    </item>
+    <item>
+      <title>MetalWalls has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">MetalWalls</category>
+      <pubDate>Mon, 12 Jan 2026 12:34:52 -0000</pubDate>
+      <description>MetalWalls (MW) is a molecular dynamics code dedicated to the modelling of electrochemical systems.
+Its main originality is the inclusion of a series of methods allowing to apply a constant potential within the
+electrode materials.
+https://gitlab.com/ampere2/metalwalls
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load MetalWalls/21.06.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4797</guid>
     </item>
   </channel>
 </rss>
