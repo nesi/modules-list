@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 12 Jan 2026 12:34:52 -0000">
+  <channel lastBuildDate="Tue, 13 Jan 2026 09:20:22 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52011,6 +52011,26 @@ electrode materials.
 https://gitlab.com/ampere2/metalwalls
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load MetalWalls/21.06.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4797</guid>
+    </item>
+    <item>
+      <title>.Spack.old has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">.Spack.old</category>
+      <pubDate>Tue, 13 Jan 2026 09:20:22 -0000</pubDate>
+      <description>Spack is a package manager for supercomputers, Linux, and macOS. It makes installing scientific
+ software easy. With Spack, you can build a package with multiple versions, configurations, platforms, and compilers,
+ and all of these builds can coexist on the same machine.
+https://spack.io/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load .Spack.old/0.17.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4798</guid>
+    </item>
+    <item>
+      <title>Spack has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Spack</category>
+      <pubDate>Tue, 13 Jan 2026 09:20:22 -0000</pubDate>
+      <description>Spack has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Spack&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4799</guid>
     </item>
   </channel>
 </rss>
