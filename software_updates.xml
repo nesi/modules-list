@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 13 Jan 2026 21:43:09 -0000">
+  <channel lastBuildDate="Tue, 13 Jan 2026 21:45:06 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52088,6 +52088,17 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load GPUMD/4.7-
       <pubDate>Tue, 13 Jan 2026 21:43:09 -0000</pubDate>
       <description>GPUMD has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load GPUMD&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4805</guid>
+    </item>
+    <item>
+      <title>GPUMD has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">GPUMD</category>
+      <pubDate>Tue, 13 Jan 2026 21:45:06 -0000</pubDate>
+      <description>GPUMD stands for Graphics Processing Units Molecular Dynamics.
+It is a general-purpose molecular dynamics (MD) package fully implemented on graphics processing units.
+https://gpumd.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load GPUMD/4.7-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4806</guid>
     </item>
   </channel>
 </rss>
