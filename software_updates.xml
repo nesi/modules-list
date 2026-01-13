@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 13 Jan 2026 16:37:07 -0000">
+  <channel lastBuildDate="Tue, 13 Jan 2026 16:54:15 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52042,6 +52042,14 @@ It is a general-purpose molecular dynamics (MD) package fully implemented on gra
 https://gpumd.org/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load GPUMD/4.7-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4800</guid>
+    </item>
+    <item>
+      <title>GPUMD has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">GPUMD</category>
+      <pubDate>Tue, 13 Jan 2026 16:54:15 -0000</pubDate>
+      <description>GPUMD has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load GPUMD&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4801</guid>
     </item>
   </channel>
 </rss>
