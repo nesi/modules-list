@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 15 Jan 2026 12:15:59 -0000">
+  <channel lastBuildDate="Fri, 16 Jan 2026 08:56:02 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52136,6 +52136,14 @@ so other databases could be implemented in the future.
 https://github.com/ComparativeGenomicsToolkit/hal
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load HAL/2.3-gompi-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4809</guid>
+    </item>
+    <item>
+      <title>.Spack.old has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">.Spack.old</category>
+      <pubDate>Fri, 16 Jan 2026 08:56:02 -0000</pubDate>
+      <description>.Spack.old has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load .Spack.old&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4810</guid>
     </item>
   </channel>
 </rss>
