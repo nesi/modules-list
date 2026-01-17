@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 16 Jan 2026 08:56:02 -0000">
+  <channel lastBuildDate="Sat, 17 Jan 2026 15:47:25 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52144,6 +52144,30 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load HAL/2.3-go
       <pubDate>Fri, 16 Jan 2026 08:56:02 -0000</pubDate>
       <description>.Spack.old has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load .Spack.old&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A4810</guid>
+    </item>
+    <item>
+      <title>Depricating version 2024-07 of BLASTDB.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">BLASTDB</category>
+      <pubDate>Sat, 17 Jan 2026 15:47:24 -0000</pubDate>
+      <description>Warning: BLASTDB/2024-07 is old and so marked for deletion. Please switch to using a newer version or let us know that you still need 2024-07.</description>
+      <guid>A4811</guid>
+    </item>
+    <item>
+      <title>Depricating version 2024-10 of BLASTDB.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">BLASTDB</category>
+      <pubDate>Sat, 17 Jan 2026 15:47:24 -0000</pubDate>
+      <description>Warning: BLASTDB/2024-10 is old and so marked for deletion. Please switch to using a newer version or let us know that you still need 2024-10.</description>
+      <guid>A4812</guid>
+    </item>
+    <item>
+      <title>Depricating version 2025-01 of BLASTDB.</title>
+      <category domain="type">deprecation</category>
+      <category domain="software">BLASTDB</category>
+      <pubDate>Sat, 17 Jan 2026 15:47:24 -0000</pubDate>
+      <description>Warning: BLASTDB/2025-01 is now over a year old. Please switch to using a newer version or let us know that you still need 2025-01.</description>
+      <guid>A4813</guid>
     </item>
   </channel>
 </rss>
