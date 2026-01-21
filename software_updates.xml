@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Sat, 17 Jan 2026 15:47:25 -0000">
+  <channel lastBuildDate="Thu, 22 Jan 2026 10:26:36 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52168,6 +52168,32 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load HAL/2.3-go
       <pubDate>Sat, 17 Jan 2026 15:47:24 -0000</pubDate>
       <description>Warning: BLASTDB/2025-01 is now over a year old. Please switch to using a newer version or let us know that you still need 2025-01.</description>
       <guid>A4813</guid>
+    </item>
+    <item>
+      <title>ipyrad/0.9.102-gimkl-2022a-Python-3.10.5 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ipyrad</category>
+      <pubDate>Thu, 22 Jan 2026 10:26:35 -0000</pubDate>
+      <description>ipyrad has been updated with a new version, 0.9.102-gimkl-2022a-Python-3.10.5. &lt;pre&gt;&lt;code&gt;module load ipyrad/0.9.102-gimkl-2022a-Python-3.10.5&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4814</guid>
+    </item>
+    <item>
+      <title>Default version of ipyrad has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ipyrad</category>
+      <pubDate>Thu, 22 Jan 2026 10:26:35 -0000</pubDate>
+      <description>The default version of ipyrad has changed from 0.9.85-gimkl-2022a-Python-3.10.5 to 0.9.102-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load ipyrad&lt;/code&gt;.
+If you wish to continue using 0.9.85-gimkl-2022a-Python-3.10.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ipyrad/0.9.85-gimkl-2022a-Python-3.10.5&lt;/code&gt;</description>
+      <guid>A4815</guid>
+    </item>
+    <item>
+      <title>Default version of ipyrad has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ipyrad</category>
+      <pubDate>Thu, 22 Jan 2026 10:26:35 -0000</pubDate>
+      <description>The default version of ipyrad has changed from 0.9.85-gimkl-2022a-Python-3.10.5 to 0.9.102-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load ipyrad&lt;/code&gt;.
+If you wish to continue using 0.9.85-gimkl-2022a-Python-3.10.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ipyrad/0.9.85-gimkl-2022a-Python-3.10.5&lt;/code&gt;</description>
+      <guid>A4816</guid>
     </item>
   </channel>
 </rss>
