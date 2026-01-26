@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 22 Jan 2026 10:26:36 -0000">
+  <channel lastBuildDate="Tue, 27 Jan 2026 09:52:49 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52194,6 +52194,32 @@ If you wish to continue using 0.9.85-gimkl-2022a-Python-3.10.5 in any of your sc
       <description>The default version of ipyrad has changed from 0.9.85-gimkl-2022a-Python-3.10.5 to 0.9.102-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load ipyrad&lt;/code&gt;.
 If you wish to continue using 0.9.85-gimkl-2022a-Python-3.10.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ipyrad/0.9.85-gimkl-2022a-Python-3.10.5&lt;/code&gt;</description>
       <guid>A4816</guid>
+    </item>
+    <item>
+      <title>cutadapt/5.2-foss-2023a-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">cutadapt</category>
+      <pubDate>Tue, 27 Jan 2026 09:52:49 -0000</pubDate>
+      <description>cutadapt has been updated with a new version, 5.2-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load cutadapt/5.2-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4817</guid>
+    </item>
+    <item>
+      <title>Default version of cutadapt has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">cutadapt</category>
+      <pubDate>Tue, 27 Jan 2026 09:52:49 -0000</pubDate>
+      <description>The default version of cutadapt has changed from 4.4-gimkl-2022a-Python-3.11.3 to 5.2-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load cutadapt&lt;/code&gt;.
+If you wish to continue using 4.4-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load cutadapt/4.4-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A4818</guid>
+    </item>
+    <item>
+      <title>Default version of cutadapt has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">cutadapt</category>
+      <pubDate>Tue, 27 Jan 2026 09:52:49 -0000</pubDate>
+      <description>The default version of cutadapt has changed from 4.4-gimkl-2022a-Python-3.11.3 to 5.2-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load cutadapt&lt;/code&gt;.
+If you wish to continue using 4.4-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load cutadapt/4.4-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A4819</guid>
     </item>
   </channel>
 </rss>
