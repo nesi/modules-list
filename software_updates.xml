@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 27 Jan 2026 09:52:49 -0000">
+  <channel lastBuildDate="Wed, 28 Jan 2026 12:23:02 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -52220,6 +52220,846 @@ If you wish to continue using 4.4-gimkl-2022a-Python-3.11.3 in any of your scrip
       <description>The default version of cutadapt has changed from 4.4-gimkl-2022a-Python-3.11.3 to 5.2-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load cutadapt&lt;/code&gt;.
 If you wish to continue using 4.4-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load cutadapt/4.4-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
       <guid>A4819</guid>
+    </item>
+    <item>
+      <title>nearline has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">nearline</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>nearline has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load nearline&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4820</guid>
+    </item>
+    <item>
+      <title>gfatools has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">gfatools</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>gfatools has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load gfatools&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4821</guid>
+    </item>
+    <item>
+      <title>Fastsimcoal2 has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Fastsimcoal2</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>Fastsimcoal2 has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Fastsimcoal2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4822</guid>
+    </item>
+    <item>
+      <title>BCL-Convert has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">BCL-Convert</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>BCL-Convert has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load BCL-Convert&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4823</guid>
+    </item>
+    <item>
+      <title>UCX-CUDA has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">UCX-CUDA</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>UCX-CUDA has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load UCX-CUDA&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4824</guid>
+    </item>
+    <item>
+      <title>hooks has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">hooks</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>hooks has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load hooks&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4825</guid>
+    </item>
+    <item>
+      <title>pixi has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">pixi</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>pixi has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load pixi&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4826</guid>
+    </item>
+    <item>
+      <title>PDAL has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">PDAL</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>PDAL has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load PDAL&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4827</guid>
+    </item>
+    <item>
+      <title>logs has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">logs</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>logs has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load logs&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4828</guid>
+    </item>
+    <item>
+      <title>DeePMD-plugin has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">DeePMD-plugin</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>DeePMD-plugin has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load DeePMD-plugin&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4829</guid>
+    </item>
+    <item>
+      <title>RANGS-GSHHS has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">RANGS-GSHHS</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>RANGS-GSHHS has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load RANGS-GSHHS&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4830</guid>
+    </item>
+    <item>
+      <title>HAL has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">HAL</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>HAL has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load HAL&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4831</guid>
+    </item>
+    <item>
+      <title>sublime has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">sublime</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>sublime has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load sublime&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4832</guid>
+    </item>
+    <item>
+      <title>info has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">info</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>info has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load info&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4833</guid>
+    </item>
+    <item>
+      <title>GPUMD has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">GPUMD</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>GPUMD has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load GPUMD&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4834</guid>
+    </item>
+    <item>
+      <title>Voro++ has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Voro++</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>Voro++ has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Voro++&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4835</guid>
+    </item>
+    <item>
+      <title>MetalWalls has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">MetalWalls</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>MetalWalls has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load MetalWalls&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4836</guid>
+    </item>
+    <item>
+      <title>Amber has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Amber</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>Amber has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Amber&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4837</guid>
+    </item>
+    <item>
+      <title>refs has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">refs</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>refs has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load refs&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4838</guid>
+    </item>
+    <item>
+      <title>splat has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">splat</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>splat has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load splat&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4839</guid>
+    </item>
+    <item>
+      <title>f90wrap has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">f90wrap</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>f90wrap has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load f90wrap&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4840</guid>
+    </item>
+    <item>
+      <title>uv has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">uv</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>uv has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load uv&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4841</guid>
+    </item>
+    <item>
+      <title>WFA2 has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">WFA2</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>WFA2 has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load WFA2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4842</guid>
+    </item>
+    <item>
+      <title>minigraph has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">minigraph</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>minigraph has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load minigraph&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4843</guid>
+    </item>
+    <item>
+      <title>zellij has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">zellij</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>zellij has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load zellij&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4844</guid>
+    </item>
+    <item>
+      <title>cimfomfa has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">cimfomfa</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>cimfomfa has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load cimfomfa&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4845</guid>
+    </item>
+    <item>
+      <title>GMT has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">GMT</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>GMT has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load GMT&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4846</guid>
+    </item>
+    <item>
+      <title>geany has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">geany</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>geany has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load geany&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4847</guid>
+    </item>
+    <item>
+      <title>SCons has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">SCons</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>SCons has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load SCons&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4848</guid>
+    </item>
+    <item>
+      <title>objects has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">objects</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>objects has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load objects&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4849</guid>
+    </item>
+    <item>
+      <title>MDI has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">MDI</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>MDI has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load MDI&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4850</guid>
+    </item>
+    <item>
+      <title>json-fortran has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>json-fortran has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load json-fortran&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4851</guid>
+    </item>
+    <item>
+      <title>Foldseek has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Foldseek</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>Foldseek has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Foldseek&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4852</guid>
+    </item>
+    <item>
+      <title>srun-wrapper has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">srun-wrapper</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>srun-wrapper has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load srun-wrapper&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4853</guid>
+    </item>
+    <item>
+      <title>Globus-CLI has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Globus-CLI</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>Globus-CLI has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Globus-CLI&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4854</guid>
+    </item>
+    <item>
+      <title>mctc-lib has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">mctc-lib</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>mctc-lib has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load mctc-lib&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4855</guid>
+    </item>
+    <item>
+      <title>UCC-CUDA has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">UCC-CUDA</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>UCC-CUDA has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load UCC-CUDA&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4856</guid>
+    </item>
+    <item>
+      <title>pybind11 has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">pybind11</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>pybind11 has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load pybind11&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4857</guid>
+    </item>
+    <item>
+      <title>fineRADstructure has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">fineRADstructure</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>fineRADstructure has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load fineRADstructure&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4858</guid>
+    </item>
+    <item>
+      <title>xPore has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">xPore</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>xPore has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load xPore&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4859</guid>
+    </item>
+    <item>
+      <title>libdeepmd has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">libdeepmd</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>libdeepmd has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load libdeepmd&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4860</guid>
+    </item>
+    <item>
+      <title>forge has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">forge</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>forge has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load forge&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A4861</guid>
+    </item>
+    <item>
+      <title>Default version of SqueezeMeta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SqueezeMeta</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of SqueezeMeta has changed from 1.7.2 to 1.6.0-Miniconda3, this is the version that will be loaded when you run &lt;code&gt;module load SqueezeMeta&lt;/code&gt;.
+If you wish to continue using 1.7.2 in any of your scripts, make sure to change them to &lt;code&gt;module load SqueezeMeta/1.7.2&lt;/code&gt;</description>
+      <guid>A4862</guid>
+    </item>
+    <item>
+      <title>Default version of Basilisk has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Basilisk</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Basilisk has changed from 20250612-gompi-2023a to 20220324-gimpi-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Basilisk&lt;/code&gt;.
+If you wish to continue using 20250612-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Basilisk/20250612-gompi-2023a&lt;/code&gt;</description>
+      <guid>A4863</guid>
+    </item>
+    <item>
+      <title>Default version of matlab-proxy has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">matlab-proxy</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of matlab-proxy has changed from 0.27.1-foss-2023a to 0.23.1-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load matlab-proxy&lt;/code&gt;.
+If you wish to continue using 0.27.1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load matlab-proxy/0.27.1-foss-2023a&lt;/code&gt;</description>
+      <guid>A4864</guid>
+    </item>
+    <item>
+      <title>Default version of FreeBayes has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FreeBayes</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of FreeBayes has changed from 1.3.10-GCC-12.3.0 to 1.3.2-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FreeBayes&lt;/code&gt;.
+If you wish to continue using 1.3.10-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FreeBayes/1.3.10-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4865</guid>
+    </item>
+    <item>
+      <title>Default version of ecCodes has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ecCodes</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of ecCodes has changed from 2.42.0-gompi-2023a to 2.30.0-gimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load ecCodes&lt;/code&gt;.
+If you wish to continue using 2.42.0-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load ecCodes/2.42.0-gompi-2023a&lt;/code&gt;</description>
+      <guid>A4866</guid>
+    </item>
+    <item>
+      <title>Default version of HTSlib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HTSlib</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of HTSlib has changed from 1.22-GCC-12.3.0 to 1.21-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load HTSlib&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load HTSlib/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4867</guid>
+    </item>
+    <item>
+      <title>Default version of Python-Geo has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Python-Geo</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Python-Geo has changed from 3.11.6-foss-2023a to 3.11.3-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load Python-Geo&lt;/code&gt;.
+If you wish to continue using 3.11.6-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Python-Geo/3.11.6-foss-2023a&lt;/code&gt;</description>
+      <guid>A4868</guid>
+    </item>
+    <item>
+      <title>Default version of VTune has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">VTune</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of VTune has changed from 2025.6 to 2023.1.0, this is the version that will be loaded when you run &lt;code&gt;module load VTune&lt;/code&gt;.
+If you wish to continue using 2025.6 in any of your scripts, make sure to change them to &lt;code&gt;module load VTune/2025.6&lt;/code&gt;</description>
+      <guid>A4869</guid>
+    </item>
+    <item>
+      <title>Default version of tabixpp has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">tabixpp</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of tabixpp has changed from 1.1.2-GCC-12.3.0 to 1.1.2-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load tabixpp&lt;/code&gt;.
+If you wish to continue using 1.1.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load tabixpp/1.1.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4870</guid>
+    </item>
+    <item>
+      <title>Default version of CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CP2K</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of CP2K has changed from 2023.1-foss-2023a to 8.2-intel-2022a-cuda-11.4.1-hybrid-PLUMED-2.7.2, this is the version that will be loaded when you run &lt;code&gt;module load CP2K&lt;/code&gt;.
+If you wish to continue using 2023.1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load CP2K/2023.1-foss-2023a&lt;/code&gt;</description>
+      <guid>A4871</guid>
+    </item>
+    <item>
+      <title>Default version of SAMtools has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SAMtools</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of SAMtools has changed from 1.22-GCC-12.3.0 to 1.21-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load SAMtools&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load SAMtools/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4872</guid>
+    </item>
+    <item>
+      <title>Default version of Kraken2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Kraken2</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Kraken2 has changed from 2.1.6-GCC-12.3.0 to 2.1.3-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Kraken2&lt;/code&gt;.
+If you wish to continue using 2.1.6-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Kraken2/2.1.6-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4873</guid>
+    </item>
+    <item>
+      <title>Default version of QIIME2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">QIIME2</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of QIIME2 has changed from 2025.4-amplicon to 2024.2-shotgun, this is the version that will be loaded when you run &lt;code&gt;module load QIIME2&lt;/code&gt;.
+If you wish to continue using 2025.4-amplicon in any of your scripts, make sure to change them to &lt;code&gt;module load QIIME2/2025.4-amplicon&lt;/code&gt;</description>
+      <guid>A4874</guid>
+    </item>
+    <item>
+      <title>Default version of globus-compute-endpoint has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">globus-compute-endpoint</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of globus-compute-endpoint has changed from 3.12.0-foss-2023a-Python-3.11.6 to 3.4.0-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load globus-compute-endpoint&lt;/code&gt;.
+If you wish to continue using 3.12.0-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load globus-compute-endpoint/3.12.0-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A4875</guid>
+    </item>
+    <item>
+      <title>Default version of Dorado has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Dorado</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Dorado has changed from 1.1.1 to 0.9.1, this is the version that will be loaded when you run &lt;code&gt;module load Dorado&lt;/code&gt;.
+If you wish to continue using 1.1.1 in any of your scripts, make sure to change them to &lt;code&gt;module load Dorado/1.1.1&lt;/code&gt;</description>
+      <guid>A4876</guid>
+    </item>
+    <item>
+      <title>Default version of GRASS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GRASS</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of GRASS has changed from 8.4.1-foss-2023a to 8.2.1-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load GRASS&lt;/code&gt;.
+If you wish to continue using 8.4.1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load GRASS/8.4.1-foss-2023a&lt;/code&gt;</description>
+      <guid>A4877</guid>
+    </item>
+    <item>
+      <title>Default version of Rust has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Rust</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Rust has changed from 1.90.0 to 1.80.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Rust&lt;/code&gt;.
+If you wish to continue using 1.90.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Rust/1.90.0&lt;/code&gt;</description>
+      <guid>A4878</guid>
+    </item>
+    <item>
+      <title>Default version of prokka has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">prokka</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of prokka has changed from 1.14.6-apptainer to 1.14.5-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load prokka&lt;/code&gt;.
+If you wish to continue using 1.14.6-apptainer in any of your scripts, make sure to change them to &lt;code&gt;module load prokka/1.14.6-apptainer&lt;/code&gt;</description>
+      <guid>A4879</guid>
+    </item>
+    <item>
+      <title>Default version of BCFtools has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BCFtools</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of BCFtools has changed from 1.22-GCC-12.3.0 to 1.19-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load BCFtools&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load BCFtools/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4880</guid>
+    </item>
+    <item>
+      <title>Default version of DFT-D4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DFT-D4</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of DFT-D4 has changed from 3.7.0-foss-2023a to 3.5.0-intel-2022a, this is the version that will be loaded when you run &lt;code&gt;module load DFT-D4&lt;/code&gt;.
+If you wish to continue using 3.7.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load DFT-D4/3.7.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A4881</guid>
+    </item>
+    <item>
+      <title>Default version of GATK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GATK</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of GATK has changed from 4.6.2.0-foss-2023a to 4.6.1.0-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load GATK&lt;/code&gt;.
+If you wish to continue using 4.6.2.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load GATK/4.6.2.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A4882</guid>
+    </item>
+    <item>
+      <title>Default version of cutadapt has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">cutadapt</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of cutadapt has changed from 5.2-foss-2023a-Python-3.11.6 to 4.4-gimkl-2022a-Python-3.11.3, this is the version that will be loaded when you run &lt;code&gt;module load cutadapt&lt;/code&gt;.
+If you wish to continue using 5.2-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load cutadapt/5.2-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A4883</guid>
+    </item>
+    <item>
+      <title>Default version of ORCA has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ORCA</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of ORCA has changed from 6.1.0-f.0-OpenMPI-4.1.5 to 6.0.1-OpenMPI-4.1.5, this is the version that will be loaded when you run &lt;code&gt;module load ORCA&lt;/code&gt;.
+If you wish to continue using 6.1.0-f.0-OpenMPI-4.1.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ORCA/6.1.0-f.0-OpenMPI-4.1.5&lt;/code&gt;</description>
+      <guid>A4884</guid>
+    </item>
+    <item>
+      <title>Default version of util-linux has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">util-linux</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of util-linux has changed from 2.41 to 2.38, this is the version that will be loaded when you run &lt;code&gt;module load util-linux&lt;/code&gt;.
+If you wish to continue using 2.41 in any of your scripts, make sure to change them to &lt;code&gt;module load util-linux/2.41&lt;/code&gt;</description>
+      <guid>A4885</guid>
+    </item>
+    <item>
+      <title>Default version of code-server has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">code-server</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of code-server has changed from 4.100.2 to 4.92.2, this is the version that will be loaded when you run &lt;code&gt;module load code-server&lt;/code&gt;.
+If you wish to continue using 4.100.2 in any of your scripts, make sure to change them to &lt;code&gt;module load code-server/4.100.2&lt;/code&gt;</description>
+      <guid>A4886</guid>
+    </item>
+    <item>
+      <title>Default version of ncview has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ncview</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of ncview has changed from 2.1.11-gompi-2023a to 2.1.7-gimpi-2020a, this is the version that will be loaded when you run &lt;code&gt;module load ncview&lt;/code&gt;.
+If you wish to continue using 2.1.11-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load ncview/2.1.11-gompi-2023a&lt;/code&gt;</description>
+      <guid>A4887</guid>
+    </item>
+    <item>
+      <title>Default version of Miniforge3 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Miniforge3</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Miniforge3 has changed from 25.3.1-0 to 24.3.0-0, this is the version that will be loaded when you run &lt;code&gt;module load Miniforge3&lt;/code&gt;.
+If you wish to continue using 25.3.1-0 in any of your scripts, make sure to change them to &lt;code&gt;module load Miniforge3/25.3.1-0&lt;/code&gt;</description>
+      <guid>A4888</guid>
+    </item>
+    <item>
+      <title>Default version of UCX has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">UCX</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of UCX has changed from 1.18.1-GCCcore-12.3.0 to 1.14.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load UCX&lt;/code&gt;.
+If you wish to continue using 1.18.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load UCX/1.18.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A4889</guid>
+    </item>
+    <item>
+      <title>Default version of CDO has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CDO</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of CDO has changed from 2.5.3-gompi-2023a to 2.1.1-gimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load CDO&lt;/code&gt;.
+If you wish to continue using 2.5.3-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load CDO/2.5.3-gompi-2023a&lt;/code&gt;</description>
+      <guid>A4890</guid>
+    </item>
+    <item>
+      <title>Default version of NCCL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">NCCL</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of NCCL has changed from 2.27.7-GCCcore-12.3.0-CUDA-12.2.2 to 2.17.1-CUDA-12.0.0, this is the version that will be loaded when you run &lt;code&gt;module load NCCL&lt;/code&gt;.
+If you wish to continue using 2.27.7-GCCcore-12.3.0-CUDA-12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load NCCL/2.27.7-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;</description>
+      <guid>A4891</guid>
+    </item>
+    <item>
+      <title>Default version of OpenMPI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenMPI</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of OpenMPI has changed from 4.1.5-GCC-12.3.0 to 4.1.5-intel-compilers-2023.2.1, this is the version that will be loaded when you run &lt;code&gt;module load OpenMPI&lt;/code&gt;.
+If you wish to continue using 4.1.5-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenMPI/4.1.5-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4892</guid>
+    </item>
+    <item>
+      <title>Default version of IGV has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">IGV</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of IGV has changed from 2.19.7 to 2.16.1, this is the version that will be loaded when you run &lt;code&gt;module load IGV&lt;/code&gt;.
+If you wish to continue using 2.19.7 in any of your scripts, make sure to change them to &lt;code&gt;module load IGV/2.19.7&lt;/code&gt;</description>
+      <guid>A4893</guid>
+    </item>
+    <item>
+      <title>Default version of modkit has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">modkit</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of modkit has changed from 0.5.0-GCC-12.3.0 to 0.4.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load modkit&lt;/code&gt;.
+If you wish to continue using 0.5.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load modkit/0.5.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4894</guid>
+    </item>
+    <item>
+      <title>Default version of FastME has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FastME</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of FastME has changed from 2.1.6.3 to 2.1.6.2-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FastME&lt;/code&gt;.
+If you wish to continue using 2.1.6.3 in any of your scripts, make sure to change them to &lt;code&gt;module load FastME/2.1.6.3&lt;/code&gt;</description>
+      <guid>A4895</guid>
+    </item>
+    <item>
+      <title>Default version of GROMACS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GROMACS</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of GROMACS has changed from 2025.2-foss-2023a-cuda-12.5.0-hybrid to 2021.6-gimkl-2020a-cuda-11.6.2-hybrid-PLUMED-2.8.0, this is the version that will be loaded when you run &lt;code&gt;module load GROMACS&lt;/code&gt;.
+If you wish to continue using 2025.2-foss-2023a-cuda-12.5.0-hybrid in any of your scripts, make sure to change them to &lt;code&gt;module load GROMACS/2025.2-foss-2023a-cuda-12.5.0-hybrid&lt;/code&gt;</description>
+      <guid>A4896</guid>
+    </item>
+    <item>
+      <title>Default version of libcuda-stub has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libcuda-stub</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of libcuda-stub has changed from 12.5.0 to 12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load libcuda-stub&lt;/code&gt;.
+If you wish to continue using 12.5.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libcuda-stub/12.5.0&lt;/code&gt;</description>
+      <guid>A4897</guid>
+    </item>
+    <item>
+      <title>Default version of BOLT-LMM has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BOLT-LMM</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of BOLT-LMM has changed from 2.5-foss-2023a to 2.4, this is the version that will be loaded when you run &lt;code&gt;module load BOLT-LMM&lt;/code&gt;.
+If you wish to continue using 2.5-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load BOLT-LMM/2.5-foss-2023a&lt;/code&gt;</description>
+      <guid>A4898</guid>
+    </item>
+    <item>
+      <title>Default version of OrthoFinder has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OrthoFinder</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of OrthoFinder has changed from 2.5.5-gimkl-2022a-Python-3.11.3 to 2.5.2-gimkl-2020a-Python-3.8.2, this is the version that will be loaded when you run &lt;code&gt;module load OrthoFinder&lt;/code&gt;.
+If you wish to continue using 2.5.5-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load OrthoFinder/2.5.5-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A4899</guid>
+    </item>
+    <item>
+      <title>Default version of pstoedit has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">pstoedit</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of pstoedit has changed from 4.02-GCCcore-12.3.0 to 3.75-GCCcore-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load pstoedit&lt;/code&gt;.
+If you wish to continue using 4.02-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load pstoedit/4.02-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A4900</guid>
+    </item>
+    <item>
+      <title>Default version of Valgrind has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Valgrind</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Valgrind has changed from 3.25.0-GCC-12.3.0 to 3.19.0-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Valgrind&lt;/code&gt;.
+If you wish to continue using 3.25.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Valgrind/3.25.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4901</guid>
+    </item>
+    <item>
+      <title>Default version of cromwell has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">cromwell</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of cromwell has changed from 90-Java-17 to 84-Java-1.8.0_144, this is the version that will be loaded when you run &lt;code&gt;module load cromwell&lt;/code&gt;.
+If you wish to continue using 90-Java-17 in any of your scripts, make sure to change them to &lt;code&gt;module load cromwell/90-Java-17&lt;/code&gt;</description>
+      <guid>A4902</guid>
+    </item>
+    <item>
+      <title>Default version of vcflib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">vcflib</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of vcflib has changed from 1.0.14-GCC-12.3.0 to 1.0.1-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load vcflib&lt;/code&gt;.
+If you wish to continue using 1.0.14-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load vcflib/1.0.14-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4903</guid>
+    </item>
+    <item>
+      <title>Default version of OpenBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of OpenBLAS has changed from 0.3.23-GCC-12.3.0 to 0.3.23-intel-compilers-2023.2.1, this is the version that will be loaded when you run &lt;code&gt;module load OpenBLAS&lt;/code&gt;.
+If you wish to continue using 0.3.23-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenBLAS/0.3.23-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4904</guid>
+    </item>
+    <item>
+      <title>Default version of CMake has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CMake</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of CMake has changed from 3.31.8 to 3.27.7, this is the version that will be loaded when you run &lt;code&gt;module load CMake&lt;/code&gt;.
+If you wish to continue using 3.31.8 in any of your scripts, make sure to change them to &lt;code&gt;module load CMake/3.31.8&lt;/code&gt;</description>
+      <guid>A4905</guid>
+    </item>
+    <item>
+      <title>Default version of BiG-SCAPE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BiG-SCAPE</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of BiG-SCAPE has changed from 2.0.0-foss-2023a-Python-3.11.6 to 1.1.5-gimkl-2022a-Python-3.11.3, this is the version that will be loaded when you run &lt;code&gt;module load BiG-SCAPE&lt;/code&gt;.
+If you wish to continue using 2.0.0-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load BiG-SCAPE/2.0.0-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A4906</guid>
+    </item>
+    <item>
+      <title>Default version of BayPass has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BayPass</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of BayPass has changed from 3.0-GCC-12.3.0 to 2.31-intel-2022a, this is the version that will be loaded when you run &lt;code&gt;module load BayPass&lt;/code&gt;.
+If you wish to continue using 3.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load BayPass/3.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4907</guid>
+    </item>
+    <item>
+      <title>Default version of pod5 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">pod5</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of pod5 has changed from 0.3.28-foss-2023a to 0.3.2-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load pod5&lt;/code&gt;.
+If you wish to continue using 0.3.28-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load pod5/0.3.28-foss-2023a&lt;/code&gt;</description>
+      <guid>A4908</guid>
+    </item>
+    <item>
+      <title>Default version of slow5tools has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">slow5tools</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of slow5tools has changed from 1.3.0-gompi-2023a to 0.8.0-gimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load slow5tools&lt;/code&gt;.
+If you wish to continue using 1.3.0-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load slow5tools/1.3.0-gompi-2023a&lt;/code&gt;</description>
+      <guid>A4909</guid>
+    </item>
+    <item>
+      <title>Default version of Nextflow has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Nextflow</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Nextflow has changed from 25.10.2 to 24.10.5, this is the version that will be loaded when you run &lt;code&gt;module load Nextflow&lt;/code&gt;.
+If you wish to continue using 25.10.2 in any of your scripts, make sure to change them to &lt;code&gt;module load Nextflow/25.10.2&lt;/code&gt;</description>
+      <guid>A4910</guid>
+    </item>
+    <item>
+      <title>Default version of PLUMED has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PLUMED</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of PLUMED has changed from 2.10.0-foss-2023a to 2.8.0-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load PLUMED&lt;/code&gt;.
+If you wish to continue using 2.10.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load PLUMED/2.10.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A4911</guid>
+    </item>
+    <item>
+      <title>Default version of Sniffles has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Sniffles</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of Sniffles has changed from 2.6.3-foss-2023a-Python-3.11.6 to 2.3.3-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load Sniffles&lt;/code&gt;.
+If you wish to continue using 2.6.3-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load Sniffles/2.6.3-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A4912</guid>
+    </item>
+    <item>
+      <title>Default version of MCL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MCL</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of MCL has changed from 22.282 to 14.137-gimkl-2018b, this is the version that will be loaded when you run &lt;code&gt;module load MCL&lt;/code&gt;.
+If you wish to continue using 22.282 in any of your scripts, make sure to change them to &lt;code&gt;module load MCL/22.282&lt;/code&gt;</description>
+      <guid>A4913</guid>
+    </item>
+    <item>
+      <title>Default version of UCC has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">UCC</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of UCC has changed from 1.3.0-GCCcore-12.3.0 to 1.2.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load UCC&lt;/code&gt;.
+If you wish to continue using 1.3.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load UCC/1.3.0-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A4914</guid>
+    </item>
+    <item>
+      <title>Default version of JupyterLab has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">JupyterLab</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of JupyterLab has changed from 2025.5.0-foss-2023a-4.4.2 to 2025.3.0-foss-2023a-4.3.5, this is the version that will be loaded when you run &lt;code&gt;module load JupyterLab&lt;/code&gt;.
+If you wish to continue using 2025.5.0-foss-2023a-4.4.2 in any of your scripts, make sure to change them to &lt;code&gt;module load JupyterLab/2025.5.0-foss-2023a-4.4.2&lt;/code&gt;</description>
+      <guid>A4915</guid>
+    </item>
+    <item>
+      <title>Default version of ipyrad has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ipyrad</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of ipyrad has changed from 0.9.102-gimkl-2022a-Python-3.10.5 to 0.9.85-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load ipyrad&lt;/code&gt;.
+If you wish to continue using 0.9.102-gimkl-2022a-Python-3.10.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ipyrad/0.9.102-gimkl-2022a-Python-3.10.5&lt;/code&gt;</description>
+      <guid>A4916</guid>
+    </item>
+    <item>
+      <title>Default version of DIAMOND has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DIAMOND</category>
+      <pubDate>Wed, 28 Jan 2026 12:23:02 -0000</pubDate>
+      <description>The default version of DIAMOND has changed from 2.1.14-GCC-12.3.0 to 2.1.10-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load DIAMOND&lt;/code&gt;.
+If you wish to continue using 2.1.14-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load DIAMOND/2.1.14-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A4917</guid>
     </item>
   </channel>
 </rss>
