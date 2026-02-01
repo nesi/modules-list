@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 29 Jan 2026 09:51:18 -0000">
+  <channel lastBuildDate="Mon, 02 Feb 2026 12:00:49 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -68587,6 +68587,32 @@ If you wish to continue using 2026-01 in any of your scripts, make sure to chang
       <description>The default version of BLASTDB has changed from 2026-01 to 2025-01, this is the version that will be loaded when you run &lt;code&gt;module load BLASTDB&lt;/code&gt;.
 If you wish to continue using 2026-01 in any of your scripts, make sure to change them to &lt;code&gt;module load BLASTDB/2026-01&lt;/code&gt;</description>
       <guid>A6571</guid>
+    </item>
+    <item>
+      <title>medaka/2.2.0-Miniforge3-25.3.1-0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">medaka</category>
+      <pubDate>Mon, 02 Feb 2026 12:00:49 -0000</pubDate>
+      <description>medaka has been updated with a new version, 2.2.0-Miniforge3-25.3.1-0. &lt;pre&gt;&lt;code&gt;module load medaka/2.2.0-Miniforge3-25.3.1-0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6572</guid>
+    </item>
+    <item>
+      <title>Default version of medaka has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">medaka</category>
+      <pubDate>Mon, 02 Feb 2026 12:00:49 -0000</pubDate>
+      <description>The default version of medaka has changed from 1.11.1-Miniconda3-22.11.1-1 to 2.2.0-Miniforge3-25.3.1-0, this is the version that will be loaded when you run &lt;code&gt;module load medaka&lt;/code&gt;.
+If you wish to continue using 1.11.1-Miniconda3-22.11.1-1 in any of your scripts, make sure to change them to &lt;code&gt;module load medaka/1.11.1-Miniconda3-22.11.1-1&lt;/code&gt;</description>
+      <guid>A6573</guid>
+    </item>
+    <item>
+      <title>Default version of medaka has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">medaka</category>
+      <pubDate>Mon, 02 Feb 2026 12:00:49 -0000</pubDate>
+      <description>The default version of medaka has changed from 1.11.1-Miniconda3-22.11.1-1 to 2.2.0-Miniforge3-25.3.1-0, this is the version that will be loaded when you run &lt;code&gt;module load medaka&lt;/code&gt;.
+If you wish to continue using 1.11.1-Miniconda3-22.11.1-1 in any of your scripts, make sure to change them to &lt;code&gt;module load medaka/1.11.1-Miniconda3-22.11.1-1&lt;/code&gt;</description>
+      <guid>A6574</guid>
     </item>
   </channel>
 </rss>
