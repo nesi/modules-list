@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 04 Feb 2026 14:00:50 -0000">
+  <channel lastBuildDate="Thu, 05 Feb 2026 14:00:51 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -68665,6 +68665,136 @@ If you wish to continue using 0.1.15-GCC-9.2.0-Perl-5.30.1 in any of your script
       <description>The default version of VCFtools has changed from 0.1.15-GCC-9.2.0-Perl-5.30.1 to 0.1.17-GCC-12.3.0-Perl-5.38.2, this is the version that will be loaded when you run &lt;code&gt;module load VCFtools&lt;/code&gt;.
 If you wish to continue using 0.1.15-GCC-9.2.0-Perl-5.30.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VCFtools/0.1.15-GCC-9.2.0-Perl-5.30.1&lt;/code&gt;</description>
       <guid>A6580</guid>
+    </item>
+    <item>
+      <title>MUSCLE/5.1.0-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MUSCLE</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>MUSCLE has been updated with a new version, 5.1.0-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load MUSCLE/5.1.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6581</guid>
+    </item>
+    <item>
+      <title>Default version of MUSCLE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUSCLE</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of MUSCLE has changed from 3.8.1551 to 5.1.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MUSCLE&lt;/code&gt;.
+If you wish to continue using 3.8.1551 in any of your scripts, make sure to change them to &lt;code&gt;module load MUSCLE/3.8.1551&lt;/code&gt;</description>
+      <guid>A6582</guid>
+    </item>
+    <item>
+      <title>Default version of MUSCLE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUSCLE</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of MUSCLE has changed from 3.8.1551 to 5.1.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MUSCLE&lt;/code&gt;.
+If you wish to continue using 3.8.1551 in any of your scripts, make sure to change them to &lt;code&gt;module load MUSCLE/3.8.1551&lt;/code&gt;</description>
+      <guid>A6583</guid>
+    </item>
+    <item>
+      <title>picard/3.4.0-Java-21.0.5 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">picard</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>picard has been updated with a new version, 3.4.0-Java-21.0.5. &lt;pre&gt;&lt;code&gt;module load picard/3.4.0-Java-21.0.5&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6584</guid>
+    </item>
+    <item>
+      <title>Default version of picard has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">picard</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of picard has changed from 2.26.10-Java-11.0.4 to 3.4.0-Java-21.0.5, this is the version that will be loaded when you run &lt;code&gt;module load picard&lt;/code&gt;.
+If you wish to continue using 2.26.10-Java-11.0.4 in any of your scripts, make sure to change them to &lt;code&gt;module load picard/2.26.10-Java-11.0.4&lt;/code&gt;</description>
+      <guid>A6585</guid>
+    </item>
+    <item>
+      <title>Default version of picard has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">picard</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of picard has changed from 2.26.10-Java-11.0.4 to 3.4.0-Java-21.0.5, this is the version that will be loaded when you run &lt;code&gt;module load picard&lt;/code&gt;.
+If you wish to continue using 2.26.10-Java-11.0.4 in any of your scripts, make sure to change them to &lt;code&gt;module load picard/2.26.10-Java-11.0.4&lt;/code&gt;</description>
+      <guid>A6586</guid>
+    </item>
+    <item>
+      <title>seqtk/1.5-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">seqtk</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>seqtk has been updated with a new version, 1.5-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load seqtk/1.5-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6587</guid>
+    </item>
+    <item>
+      <title>Default version of seqtk has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">seqtk</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of seqtk has changed from 1.4-GCC-11.3.0 to 1.5-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load seqtk&lt;/code&gt;.
+If you wish to continue using 1.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load seqtk/1.4-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6588</guid>
+    </item>
+    <item>
+      <title>Default version of seqtk has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">seqtk</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of seqtk has changed from 1.4-GCC-11.3.0 to 1.5-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load seqtk&lt;/code&gt;.
+If you wish to continue using 1.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load seqtk/1.4-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6589</guid>
+    </item>
+    <item>
+      <title>SeqKit/2.12.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">SeqKit</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>SeqKit has been updated with a new version, 2.12.0. &lt;pre&gt;&lt;code&gt;module load SeqKit/2.12.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6590</guid>
+    </item>
+    <item>
+      <title>Default version of SeqKit has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SeqKit</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of SeqKit has changed from 2.4.0 to 2.12.0, this is the version that will be loaded when you run &lt;code&gt;module load SeqKit&lt;/code&gt;.
+If you wish to continue using 2.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load SeqKit/2.4.0&lt;/code&gt;</description>
+      <guid>A6591</guid>
+    </item>
+    <item>
+      <title>Default version of SeqKit has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SeqKit</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of SeqKit has changed from 2.4.0 to 2.12.0, this is the version that will be loaded when you run &lt;code&gt;module load SeqKit&lt;/code&gt;.
+If you wish to continue using 2.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load SeqKit/2.4.0&lt;/code&gt;</description>
+      <guid>A6592</guid>
+    </item>
+    <item>
+      <title>MUMmer/4.0.1-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MUMmer</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>MUMmer has been updated with a new version, 4.0.1-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load MUMmer/4.0.1-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6593</guid>
+    </item>
+    <item>
+      <title>Default version of MUMmer has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUMmer</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of MUMmer has changed from 4.0.0rc1-GCCcore-9.2.0 to 4.0.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MUMmer&lt;/code&gt;.
+If you wish to continue using 4.0.0rc1-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUMmer/4.0.0rc1-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A6594</guid>
+    </item>
+    <item>
+      <title>Default version of MUMmer has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUMmer</category>
+      <pubDate>Thu, 05 Feb 2026 14:00:51 -0000</pubDate>
+      <description>The default version of MUMmer has changed from 4.0.0rc1-GCCcore-9.2.0 to 4.0.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MUMmer&lt;/code&gt;.
+If you wish to continue using 4.0.0rc1-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUMmer/4.0.0rc1-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A6595</guid>
     </item>
   </channel>
 </rss>
