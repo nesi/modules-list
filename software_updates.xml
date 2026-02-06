@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 05 Feb 2026 14:00:51 -0000">
+  <channel lastBuildDate="Fri, 06 Feb 2026 17:00:48 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -68795,6 +68795,49 @@ If you wish to continue using 4.0.0rc1-GCCcore-9.2.0 in any of your scripts, mak
       <description>The default version of MUMmer has changed from 4.0.0rc1-GCCcore-9.2.0 to 4.0.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MUMmer&lt;/code&gt;.
 If you wish to continue using 4.0.0rc1-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUMmer/4.0.0rc1-GCCcore-9.2.0&lt;/code&gt;</description>
       <guid>A6595</guid>
+    </item>
+    <item>
+      <title>M4/1.4.19 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">M4</category>
+      <pubDate>Fri, 06 Feb 2026 17:00:48 -0000</pubDate>
+      <description>M4 has been updated with a new version, 1.4.19. &lt;pre&gt;&lt;code&gt;module load M4/1.4.19&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6596</guid>
+    </item>
+    <item>
+      <title>Default version of M4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">M4</category>
+      <pubDate>Fri, 06 Feb 2026 17:00:48 -0000</pubDate>
+      <description>The default version of M4 has changed from 1.4.18-GCCcore-7.4.0 to 1.4.19, this is the version that will be loaded when you run &lt;code&gt;module load M4&lt;/code&gt;.
+If you wish to continue using 1.4.18-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load M4/1.4.18-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6597</guid>
+    </item>
+    <item>
+      <title>M4/1.4.19-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">M4</category>
+      <pubDate>Fri, 06 Feb 2026 17:00:48 -0000</pubDate>
+      <description>M4 has been updated with a new version, 1.4.19-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load M4/1.4.19-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6598</guid>
+    </item>
+    <item>
+      <title>Default version of M4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">M4</category>
+      <pubDate>Fri, 06 Feb 2026 17:00:48 -0000</pubDate>
+      <description>The default version of M4 has changed from 1.4.18-GCCcore-7.4.0 to 1.4.19-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load M4&lt;/code&gt;.
+If you wish to continue using 1.4.18-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load M4/1.4.18-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6599</guid>
+    </item>
+    <item>
+      <title>Default version of M4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">M4</category>
+      <pubDate>Fri, 06 Feb 2026 17:00:48 -0000</pubDate>
+      <description>The default version of M4 has changed from 1.4.18-GCCcore-7.4.0 to 1.4.19, this is the version that will be loaded when you run &lt;code&gt;module load M4&lt;/code&gt;.
+If you wish to continue using 1.4.18-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load M4/1.4.18-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6600</guid>
     </item>
   </channel>
 </rss>
