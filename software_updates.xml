@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 06 Feb 2026 19:00:50 -0000">
+  <channel lastBuildDate="Fri, 06 Feb 2026 20:00:53 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69114,6 +69114,217 @@ If you wish to continue using 8.45-GCCcore-11.3.0 in any of your scripts, make s
       <description>The default version of PCRE has changed from 8.45-GCCcore-11.3.0 to 8.45-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PCRE&lt;/code&gt;.
 If you wish to continue using 8.45-GCCcore-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PCRE/8.45-GCCcore-11.3.0&lt;/code&gt;</description>
       <guid>A6629</guid>
+    </item>
+    <item>
+      <title>Check has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Check</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>Check is a unit testing framework for C. It features a simple interface for
+defining unit tests, putting little in the way of the developer. Tests are
+run in a separate address space, so both assertion failures and code errors
+that cause segmentation faults or other signals can be caught. Test results
+are reportable in the following: Subunit, TAP, XML, and a generic logging
+format.
+https://libcheck.github.io/check/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Check/0.15.2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6630</guid>
+    </item>
+    <item>
+      <title>snippy has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">snippy</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>Rapid haploid variant calling and core genome alignment
+https://github.com/tseemann/snippy
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load snippy/4.6.0-foss-2023a-R-4.3.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6631</guid>
+    </item>
+    <item>
+      <title>Autotools has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Autotools</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>This bundle collect the standard GNU build tools: Autoconf, Automake
+ and libtool
+https://autotools.io
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Autotools/20250626-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6632</guid>
+    </item>
+    <item>
+      <title>parallel has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">parallel</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>parallel: Build and execute shell commands in parallel
+https://savannah.gnu.org/projects/parallel/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load parallel/20250922-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6633</guid>
+    </item>
+    <item>
+      <title>Automake has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Automake</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>Automake: GNU Standards-compliant Makefile generator
+https://www.gnu.org/software/automake/automake.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Automake/1.18.1-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6634</guid>
+    </item>
+    <item>
+      <title>Autoconf has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Autoconf</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>Autoconf is an extensible package of M4 macros that produce shell scripts
+ to automatically configure software source code packages. These scripts can
+ adapt the packages to many kinds of UNIX-like systems without manual user
+ intervention. Autoconf creates a configuration script for a package from a
+ template file that lists the operating system features that the package can
+ use, in the form of M4 macro calls.
+https://www.gnu.org/software/autoconf/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Autoconf/2.72-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6635</guid>
+    </item>
+    <item>
+      <title>vt has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">vt</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>A tool set for short variant discovery in genetic sequence data.
+https://genome.sph.umich.edu/wiki/Vt
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load vt/0.57721-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6636</guid>
+    </item>
+    <item>
+      <title>snp-sites/2.5.1-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>snp-sites has been updated with a new version, 2.5.1-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load snp-sites/2.5.1-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6637</guid>
+    </item>
+    <item>
+      <title>Default version of snp-sites has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of snp-sites has changed from 2.5.1-GCC-11.3.0 to 2.5.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load snp-sites&lt;/code&gt;.
+If you wish to continue using 2.5.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load snp-sites/2.5.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6638</guid>
+    </item>
+    <item>
+      <title>Default version of snp-sites has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of snp-sites has changed from 2.5.1-GCC-11.3.0 to 2.5.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load snp-sites&lt;/code&gt;.
+If you wish to continue using 2.5.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load snp-sites/2.5.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6639</guid>
+    </item>
+    <item>
+      <title>wgsim/20111017-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">wgsim</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>wgsim has been updated with a new version, 20111017-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load wgsim/20111017-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6640</guid>
+    </item>
+    <item>
+      <title>Default version of wgsim has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">wgsim</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of wgsim has changed from 20111017-GCC-11.3.0 to 20111017-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load wgsim&lt;/code&gt;.
+If you wish to continue using 20111017-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load wgsim/20111017-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6641</guid>
+    </item>
+    <item>
+      <title>Default version of wgsim has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">wgsim</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of wgsim has changed from 20111017-GCC-11.3.0 to 20111017-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load wgsim&lt;/code&gt;.
+If you wish to continue using 20111017-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load wgsim/20111017-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6642</guid>
+    </item>
+    <item>
+      <title>libtool/2.5.4-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libtool</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>libtool has been updated with a new version, 2.5.4-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load libtool/2.5.4-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6643</guid>
+    </item>
+    <item>
+      <title>Default version of libtool has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libtool</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of libtool has changed from 2.4.6 to 2.5.4-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libtool&lt;/code&gt;.
+If you wish to continue using 2.4.6 in any of your scripts, make sure to change them to &lt;code&gt;module load libtool/2.4.6&lt;/code&gt;</description>
+      <guid>A6644</guid>
+    </item>
+    <item>
+      <title>Default version of libtool has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libtool</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of libtool has changed from 2.4.6 to 2.5.4-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libtool&lt;/code&gt;.
+If you wish to continue using 2.4.6 in any of your scripts, make sure to change them to &lt;code&gt;module load libtool/2.4.6&lt;/code&gt;</description>
+      <guid>A6645</guid>
+    </item>
+    <item>
+      <title>snpEff/5.2c-GCCcore-12.3.0-Java-21.0.5 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">snpEff</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>snpEff has been updated with a new version, 5.2c-GCCcore-12.3.0-Java-21.0.5. &lt;pre&gt;&lt;code&gt;module load snpEff/5.2c-GCCcore-12.3.0-Java-21.0.5&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6646</guid>
+    </item>
+    <item>
+      <title>Default version of snpEff has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snpEff</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of snpEff has changed from 5.0-Java-11.0.4 to 5.2c-GCCcore-12.3.0-Java-21.0.5, this is the version that will be loaded when you run &lt;code&gt;module load snpEff&lt;/code&gt;.
+If you wish to continue using 5.0-Java-11.0.4 in any of your scripts, make sure to change them to &lt;code&gt;module load snpEff/5.0-Java-11.0.4&lt;/code&gt;</description>
+      <guid>A6647</guid>
+    </item>
+    <item>
+      <title>Default version of snpEff has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snpEff</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of snpEff has changed from 5.0-Java-11.0.4 to 5.2c-GCCcore-12.3.0-Java-21.0.5, this is the version that will be loaded when you run &lt;code&gt;module load snpEff&lt;/code&gt;.
+If you wish to continue using 5.0-Java-11.0.4 in any of your scripts, make sure to change them to &lt;code&gt;module load snpEff/5.0-Java-11.0.4&lt;/code&gt;</description>
+      <guid>A6648</guid>
+    </item>
+    <item>
+      <title>any2fasta/0.4.2-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>any2fasta has been updated with a new version, 0.4.2-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load any2fasta/0.4.2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6649</guid>
+    </item>
+    <item>
+      <title>Default version of any2fasta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of any2fasta has changed from 0.4.2-GCC-11.3.0 to 0.4.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load any2fasta&lt;/code&gt;.
+If you wish to continue using 0.4.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load any2fasta/0.4.2-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6650</guid>
+    </item>
+    <item>
+      <title>Default version of any2fasta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Fri, 06 Feb 2026 20:00:52 -0000</pubDate>
+      <description>The default version of any2fasta has changed from 0.4.2-GCC-11.3.0 to 0.4.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load any2fasta&lt;/code&gt;.
+If you wish to continue using 0.4.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load any2fasta/0.4.2-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6651</guid>
     </item>
   </channel>
 </rss>
