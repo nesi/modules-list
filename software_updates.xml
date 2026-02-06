@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 06 Feb 2026 17:00:48 -0000">
+  <channel lastBuildDate="Fri, 06 Feb 2026 18:00:50 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -68838,6 +68838,69 @@ If you wish to continue using 1.4.18-GCCcore-7.4.0 in any of your scripts, make 
       <description>The default version of M4 has changed from 1.4.18-GCCcore-7.4.0 to 1.4.19, this is the version that will be loaded when you run &lt;code&gt;module load M4&lt;/code&gt;.
 If you wish to continue using 1.4.18-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load M4/1.4.18-GCCcore-7.4.0&lt;/code&gt;</description>
       <guid>A6600</guid>
+    </item>
+    <item>
+      <title>groff has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">groff</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>Groff (GNU troff) is a typesetting system that reads plain text mixed with formatting commands
+ and produces formatted output.
+https://www.gnu.org/software/groff
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load groff/1.23.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6601</guid>
+    </item>
+    <item>
+      <title>MUSCLE/5.3 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MUSCLE</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>MUSCLE has been updated with a new version, 5.3. &lt;pre&gt;&lt;code&gt;module load MUSCLE/5.3&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6602</guid>
+    </item>
+    <item>
+      <title>Default version of MUSCLE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUSCLE</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>The default version of MUSCLE has changed from 5.1.0-GCCcore-12.3.0 to 5.3, this is the version that will be loaded when you run &lt;code&gt;module load MUSCLE&lt;/code&gt;.
+If you wish to continue using 5.1.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUSCLE/5.1.0-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6603</guid>
+    </item>
+    <item>
+      <title>Default version of MUSCLE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUSCLE</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>The default version of MUSCLE has changed from 5.1.0-GCCcore-12.3.0 to 5.3, this is the version that will be loaded when you run &lt;code&gt;module load MUSCLE&lt;/code&gt;.
+If you wish to continue using 5.1.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUSCLE/5.1.0-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6604</guid>
+    </item>
+    <item>
+      <title>Perl/5.40.0-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Perl</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>Perl has been updated with a new version, 5.40.0-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load Perl/5.40.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6605</guid>
+    </item>
+    <item>
+      <title>Default version of Perl has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Perl</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>The default version of Perl has changed from 5.38.2-GCC-12.3.0 to 5.40.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Perl&lt;/code&gt;.
+If you wish to continue using 5.38.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Perl/5.38.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6606</guid>
+    </item>
+    <item>
+      <title>Default version of Perl has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Perl</category>
+      <pubDate>Fri, 06 Feb 2026 18:00:50 -0000</pubDate>
+      <description>The default version of Perl has changed from 5.38.2-GCC-12.3.0 to 5.40.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Perl&lt;/code&gt;.
+If you wish to continue using 5.38.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Perl/5.38.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6607</guid>
     </item>
   </channel>
 </rss>
