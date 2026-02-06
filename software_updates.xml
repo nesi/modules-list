@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 06 Feb 2026 18:00:50 -0000">
+  <channel lastBuildDate="Fri, 06 Feb 2026 19:00:50 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -68901,6 +68901,219 @@ If you wish to continue using 5.38.2-GCC-12.3.0 in any of your scripts, make sur
       <description>The default version of Perl has changed from 5.38.2-GCC-12.3.0 to 5.40.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Perl&lt;/code&gt;.
 If you wish to continue using 5.38.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Perl/5.38.2-GCC-12.3.0&lt;/code&gt;</description>
       <guid>A6607</guid>
+    </item>
+    <item>
+      <title>samclip has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">samclip</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>Filter SAM file for soft and hard clipped alignments.
+https://github.com/tseemann/samclip
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load samclip/0.4.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6608</guid>
+    </item>
+    <item>
+      <title>XML-LibXML has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">XML-LibXML</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>Perl binding for libxml2
+https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load XML-LibXML/2.0210-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6609</guid>
+    </item>
+    <item>
+      <title>pkg-config has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">pkg-config</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>pkg-config is a helper tool used when compiling applications and libraries.
+ It helps you insert the correct compiler options on the command line so an
+ application can use gcc -o test test.c `pkg-config --libs --cflags glib-2.0`
+ for instance, rather than hard-coding values on where to find glib (or other
+ libraries).
+https://www.freedesktop.org/wiki/Software/pkg-config/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load pkg-config/0.29.2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6610</guid>
+    </item>
+    <item>
+      <title>TCLAP has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">TCLAP</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>TCLAP is a small, flexible library that provides a simple interface for defining and accessing
+command line arguments. It was initially inspired by the user friendly CLAP library.
+http://tclap.sourceforge.net/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load TCLAP/1.4.0-rc2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6611</guid>
+    </item>
+    <item>
+      <title>Perl-bundle-CPAN has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Perl-bundle-CPAN</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>A set of common packages from CPAN
+https://www.perl.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Perl-bundle-CPAN/5.40.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6612</guid>
+    </item>
+    <item>
+      <title>pkgconf has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">pkgconf</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>pkgconf is a program which helps to configure compiler and linker flags for development libraries.
+ It is similar to pkg-config from freedesktop.org.
+https://github.com/pkgconf/pkgconf
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load pkgconf/2.4.3-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6613</guid>
+    </item>
+    <item>
+      <title>DB_File has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">DB_File</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>Perl5 access to Berkeley DB version 1.x.
+https://perldoc.perl.org/DB_File.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load DB_File/1.859-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6614</guid>
+    </item>
+    <item>
+      <title>BioPerl has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">BioPerl</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>Bioperl is the product of a community effort to produce Perl code which is useful in biology.
+ Examples include Sequence objects, Alignment objects and database searching objects.
+https://bioperl.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load BioPerl/1.7.8-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6615</guid>
+    </item>
+    <item>
+      <title>libRmath has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">libRmath</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The routines supporting the distribution and special functions in R and a few others are declared
+ in C header file Rmath.h. These can be compiled into a standalone library for linking to other applications.
+https://cran.r-project.org/doc/manuals/r-release/R-admin.html#The-standalone-Rmath-library
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libRmath/4.5.1-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6616</guid>
+    </item>
+    <item>
+      <title>LIBSVM has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">LIBSVM</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>LIBSVM is an integrated software for support vector classification, (C-SVC, nu-SVC), regression
+ (epsilon-SVR, nu-SVR) and distribution estimation (one-class SVM). It supports multi-class classification.
+https://www.csie.ntu.edu.tw/~cjlin/libsvm/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load LIBSVM/3.30-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6617</guid>
+    </item>
+    <item>
+      <title>libarchive/3.7.2-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libarchive</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>libarchive has been updated with a new version, 3.7.2-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load libarchive/3.7.2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6618</guid>
+    </item>
+    <item>
+      <title>Default version of libarchive has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libarchive</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of libarchive has changed from 3.7.2-GCC-12.3.0 to 3.7.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libarchive&lt;/code&gt;.
+If you wish to continue using 3.7.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libarchive/3.7.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6619</guid>
+    </item>
+    <item>
+      <title>Default version of libarchive has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libarchive</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of libarchive has changed from 3.7.2-GCC-12.3.0 to 3.7.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libarchive&lt;/code&gt;.
+If you wish to continue using 3.7.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libarchive/3.7.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6620</guid>
+    </item>
+    <item>
+      <title>DB/18.1.40-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">DB</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>DB has been updated with a new version, 18.1.40-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load DB/18.1.40-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6621</guid>
+    </item>
+    <item>
+      <title>Default version of DB has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DB</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of DB has changed from 6.2.23-GCCcore-7.4.0 to 18.1.40-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load DB&lt;/code&gt;.
+If you wish to continue using 6.2.23-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load DB/6.2.23-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6622</guid>
+    </item>
+    <item>
+      <title>Default version of DB has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DB</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of DB has changed from 6.2.23-GCCcore-7.4.0 to 18.1.40-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load DB&lt;/code&gt;.
+If you wish to continue using 6.2.23-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load DB/6.2.23-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6623</guid>
+    </item>
+    <item>
+      <title>libdeflate/1.24-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libdeflate</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>libdeflate has been updated with a new version, 1.24-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load libdeflate/1.24-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6624</guid>
+    </item>
+    <item>
+      <title>Default version of libdeflate has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libdeflate</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of libdeflate has changed from 1.10 to 1.24-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libdeflate&lt;/code&gt;.
+If you wish to continue using 1.10 in any of your scripts, make sure to change them to &lt;code&gt;module load libdeflate/1.10&lt;/code&gt;</description>
+      <guid>A6625</guid>
+    </item>
+    <item>
+      <title>Default version of libdeflate has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libdeflate</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of libdeflate has changed from 1.10 to 1.24-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libdeflate&lt;/code&gt;.
+If you wish to continue using 1.10 in any of your scripts, make sure to change them to &lt;code&gt;module load libdeflate/1.10&lt;/code&gt;</description>
+      <guid>A6626</guid>
+    </item>
+    <item>
+      <title>PCRE/8.45-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">PCRE</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>PCRE has been updated with a new version, 8.45-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load PCRE/8.45-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6627</guid>
+    </item>
+    <item>
+      <title>Default version of PCRE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PCRE</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of PCRE has changed from 8.45-GCCcore-11.3.0 to 8.45-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PCRE&lt;/code&gt;.
+If you wish to continue using 8.45-GCCcore-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PCRE/8.45-GCCcore-11.3.0&lt;/code&gt;</description>
+      <guid>A6628</guid>
+    </item>
+    <item>
+      <title>Default version of PCRE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PCRE</category>
+      <pubDate>Fri, 06 Feb 2026 19:00:50 -0000</pubDate>
+      <description>The default version of PCRE has changed from 8.45-GCCcore-11.3.0 to 8.45-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PCRE&lt;/code&gt;.
+If you wish to continue using 8.45-GCCcore-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PCRE/8.45-GCCcore-11.3.0&lt;/code&gt;</description>
+      <guid>A6629</guid>
     </item>
   </channel>
 </rss>
