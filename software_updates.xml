@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 09 Feb 2026 13:00:50 -0000">
+  <channel lastBuildDate="Wed, 18 Feb 2026 16:02:24 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69333,6 +69333,125 @@ If you wish to continue using 0.4.2-GCC-11.3.0 in any of your scripts, make sure
       <pubDate>Mon, 09 Feb 2026 13:00:50 -0000</pubDate>
       <description>Warning: BLASTDB/2025-01 is now over a year old and so marked for deletion. Please switch to using a newer version or let us know that you still need 2025-01.</description>
       <guid>A6652</guid>
+    </item>
+    <item>
+      <title>todelete_by_geoff has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">todelete_by_geoff</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load todelete_by_geoff/snp-sites&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6653</guid>
+    </item>
+    <item>
+      <title>Autoconf has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Autoconf</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>Autoconf has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Autoconf&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6654</guid>
+    </item>
+    <item>
+      <title>parallel has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">parallel</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>parallel has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load parallel&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6655</guid>
+    </item>
+    <item>
+      <title>Autotools has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Autotools</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>Autotools has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Autotools&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6656</guid>
+    </item>
+    <item>
+      <title>Perl-bundle-CPAN has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Perl-bundle-CPAN</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>Perl-bundle-CPAN has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Perl-bundle-CPAN&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6657</guid>
+    </item>
+    <item>
+      <title>pkgconf has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">pkgconf</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>pkgconf has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load pkgconf&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6658</guid>
+    </item>
+    <item>
+      <title>groff has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">groff</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>groff has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load groff&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6659</guid>
+    </item>
+    <item>
+      <title>Automake has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Automake</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>Automake has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Automake&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6660</guid>
+    </item>
+    <item>
+      <title>Default version of libtool has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libtool</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>The default version of libtool has changed from 2.5.4-GCCcore-12.3.0 to 2.4.6, this is the version that will be loaded when you run &lt;code&gt;module load libtool&lt;/code&gt;.
+If you wish to continue using 2.5.4-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libtool/2.5.4-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6661</guid>
+    </item>
+    <item>
+      <title>Default version of snp-sites has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>The default version of snp-sites has changed from 2.5.1-GCCcore-12.3.0 to 2.5.1-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load snp-sites&lt;/code&gt;.
+If you wish to continue using 2.5.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load snp-sites/2.5.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6662</guid>
+    </item>
+    <item>
+      <title>Default version of M4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">M4</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>The default version of M4 has changed from 1.4.19 to 1.4.18-GCCcore-7.4.0, this is the version that will be loaded when you run &lt;code&gt;module load M4&lt;/code&gt;.
+If you wish to continue using 1.4.19 in any of your scripts, make sure to change them to &lt;code&gt;module load M4/1.4.19&lt;/code&gt;</description>
+      <guid>A6663</guid>
+    </item>
+    <item>
+      <title>Default version of Perl has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Perl</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>The default version of Perl has changed from 5.40.0-GCCcore-12.3.0 to 5.38.2-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Perl&lt;/code&gt;.
+If you wish to continue using 5.40.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Perl/5.40.0-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6664</guid>
+    </item>
+    <item>
+      <title>Default version of libarchive has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libarchive</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>The default version of libarchive has changed from 3.7.2-GCCcore-12.3.0 to 3.7.2-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libarchive&lt;/code&gt;.
+If you wish to continue using 3.7.2-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libarchive/3.7.2-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6665</guid>
+    </item>
+    <item>
+      <title>Default version of any2fasta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Wed, 18 Feb 2026 16:02:24 -0000</pubDate>
+      <description>The default version of any2fasta has changed from 0.4.2-GCCcore-12.3.0 to 0.4.2-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load any2fasta&lt;/code&gt;.
+If you wish to continue using 0.4.2-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load any2fasta/0.4.2-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6666</guid>
     </item>
   </channel>
 </rss>
