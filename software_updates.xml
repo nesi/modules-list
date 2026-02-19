@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 19 Feb 2026 17:02:08 -0000">
+  <channel lastBuildDate="Fri, 20 Feb 2026 11:02:03 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69512,6 +69512,30 @@ If you wish to continue using 5.9.0-gimkl-2020a-Python-3.8.2 in any of your scri
       <description>The default version of ParaView has changed from 5.9.0-gimkl-2020a-Python-3.8.2 to 6.0.1-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load ParaView&lt;/code&gt;.
 If you wish to continue using 5.9.0-gimkl-2020a-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ParaView/5.9.0-gimkl-2020a-Python-3.8.2&lt;/code&gt;</description>
       <guid>A6673</guid>
+    </item>
+    <item>
+      <title>LISFLOOD-FP has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">LISFLOOD-FP</category>
+      <pubDate>Fri, 20 Feb 2026 11:02:03 -0000</pubDate>
+      <description>The LISFLOOD-FP is a raster-based hydrodynamic model originally developed by
+the University of Bristol. It has undergone extensive development since
+conception and includes a collection of numerical schemes implemented to solve
+a variety of mathematical approximations of the 2D shallow water equations of
+different complexity.
+The local inertia solver, known as the ACC solver, is widely used to simulate
+floods with gradually-varying, subcritical flow over sufficiently rough
+surfaces with Manning's coefficient of at least 0.03. It has a version with
+CPU-specific optimisations and enhanced with a subgrid channel model.
+LISFLOOD-FP also includes second-order discontinuous Galerkin (DG2) and
+first-order finite volume (FV1) solvers of the full shallow water equations for
+modelling a wide range of flows, including rapidly-propagating, supercritical
+flows, shock waves, or flows over very smooth surfaces. The DG2/FV1 solvers are
+parallelised for the multi-core CPU architecture, but do not integrate with the
+subgrid channel model nor with the CPU-specific optimisations.
+https://www.seamlesswave.com/LISFLOOD8.0.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load LISFLOOD-FP/8.1-gompi-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6674</guid>
     </item>
   </channel>
 </rss>
