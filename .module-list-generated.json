@@ -37,7 +37,7 @@
                 "server": "ABAQUS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.95,
+                "server_uptime": 0.96,
                 "server_version": "11.13.1",
                 "features": [
                     {
@@ -3353,7 +3353,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 94371529.19,
+                        "hourly_average": 94352851.93,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
