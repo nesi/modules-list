@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 20 Feb 2026 11:02:03 -0000">
+  <channel lastBuildDate="Thu, 26 Feb 2026 14:01:20 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69536,6 +69536,32 @@ subgrid channel model nor with the CPU-specific optimisations.
 https://www.seamlesswave.com/LISFLOOD8.0.html
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load LISFLOOD-FP/8.1-gompi-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6674</guid>
+    </item>
+    <item>
+      <title>Perl/5.40.3-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Perl</category>
+      <pubDate>Thu, 26 Feb 2026 14:01:20 -0000</pubDate>
+      <description>Perl has been updated with a new version, 5.40.3-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load Perl/5.40.3-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6675</guid>
+    </item>
+    <item>
+      <title>Default version of Perl has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Perl</category>
+      <pubDate>Thu, 26 Feb 2026 14:01:20 -0000</pubDate>
+      <description>The default version of Perl has changed from 5.38.2-GCC-12.3.0 to 5.40.3-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Perl&lt;/code&gt;.
+If you wish to continue using 5.38.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Perl/5.38.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6676</guid>
+    </item>
+    <item>
+      <title>Default version of Perl has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Perl</category>
+      <pubDate>Thu, 26 Feb 2026 14:01:20 -0000</pubDate>
+      <description>The default version of Perl has changed from 5.38.2-GCC-12.3.0 to 5.40.3-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Perl&lt;/code&gt;.
+If you wish to continue using 5.38.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Perl/5.38.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6677</guid>
     </item>
   </channel>
 </rss>
