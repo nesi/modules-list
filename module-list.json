@@ -507,15 +507,16 @@
         "homepage": "https://github.com/ncbi/amr/wiki",
         "support": "",
         "versions": [
-            "3.10.45-GCC-11.3.0"
+            "3.10.45-GCC-11.3.0",
+            "4.2.7-foss-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.10.45-GCC-11.3.0",
+        "default": "4.2.7-foss-2023a",
         "default_type": "latest",
-        "last_updated": 1740132625,
+        "last_updated": 1772079931,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/AMRFinderPlus/3.10.45-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/AMRFinderPlus/4.2.7-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -1418,6 +1419,37 @@
         "last_updated": 1740132636,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/azul-zulu/17.36.19-jdk-17.0.4.1.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "bakta": {
+        "description": "Bakta is a tool for the rapid & standardized annotation of bacterial genomes and plasmids\n from both isolates and MAGs. It provides dbxref-rich, sORF-including and taxon-independent annotations\n in machine-readable JSON & bioinformatics standard file formats for automated downstream analysis.",
+        "domains": [],
+        "extensions": [
+            "about_time-4.2.1",
+            "alive_progress-3.2.0",
+            "archspec-0.2.5",
+            "bakta-1.10.1",
+            "grapheme-0.6.0",
+            "isal-1.8.0",
+            "pyCirclize-1.7.1",
+            "pyrodigal-3.6.3",
+            "xopen-2.0.2",
+            "zlib_ng-1.0.0"
+        ],
+        "licence_type": "",
+        "homepage": "https://github.com/oschwengers/bakta",
+        "support": "",
+        "versions": [
+            "1.10.1-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.10.1-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1772080185,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/bakta/1.10.1-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -3522,7 +3554,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 92414126.02,
+                        "hourly_average": 92396215.44,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
