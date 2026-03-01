@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 26 Feb 2026 18:01:22 -0000">
+  <channel lastBuildDate="Mon, 02 Mar 2026 10:02:04 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69600,6 +69600,78 @@ If you wish to continue using 3.10.45-GCC-11.3.0 in any of your scripts, make su
       <description>The default version of AMRFinderPlus has changed from 3.10.45-GCC-11.3.0 to 4.2.7-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load AMRFinderPlus&lt;/code&gt;.
 If you wish to continue using 3.10.45-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load AMRFinderPlus/3.10.45-GCC-11.3.0&lt;/code&gt;</description>
       <guid>A6681</guid>
+    </item>
+    <item>
+      <title>ARAGORN has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">ARAGORN</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>a program to detect tRNA genes and tmRNA genes in nucleotide sequences
+https://www.trna.se/ARAGORN/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load ARAGORN/1.2.41-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6682</guid>
+    </item>
+    <item>
+      <title>PILERCR has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">PILERCR</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>PILER-CR is a program specifically designed for the identification and analysis of CRISPR repeats.
+https://www.drive5.com/pilercr/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load PILERCR/1.06-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6683</guid>
+    </item>
+    <item>
+      <title>tRNAscan-SE/2.0.12-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">tRNAscan-SE</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>tRNAscan-SE has been updated with a new version, 2.0.12-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load tRNAscan-SE/2.0.12-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6684</guid>
+    </item>
+    <item>
+      <title>Default version of tRNAscan-SE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">tRNAscan-SE</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>The default version of tRNAscan-SE has changed from 2.0.7-GCC-9.2.0 to 2.0.12-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load tRNAscan-SE&lt;/code&gt;.
+If you wish to continue using 2.0.7-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load tRNAscan-SE/2.0.7-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A6685</guid>
+    </item>
+    <item>
+      <title>Default version of tRNAscan-SE has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">tRNAscan-SE</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>The default version of tRNAscan-SE has changed from 2.0.7-GCC-9.2.0 to 2.0.12-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load tRNAscan-SE&lt;/code&gt;.
+If you wish to continue using 2.0.7-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load tRNAscan-SE/2.0.7-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A6686</guid>
+    </item>
+    <item>
+      <title>Infernal/1.1.5-gompi-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Infernal</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>Infernal has been updated with a new version, 1.1.5-gompi-2023a. &lt;pre&gt;&lt;code&gt;module load Infernal/1.1.5-gompi-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6687</guid>
+    </item>
+    <item>
+      <title>Default version of Infernal has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Infernal</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>The default version of Infernal has changed from 1.1.4-GCC-11.3.0 to 1.1.5-gompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Infernal&lt;/code&gt;.
+If you wish to continue using 1.1.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Infernal/1.1.4-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6688</guid>
+    </item>
+    <item>
+      <title>Default version of Infernal has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Infernal</category>
+      <pubDate>Mon, 02 Mar 2026 10:02:04 -0000</pubDate>
+      <description>The default version of Infernal has changed from 1.1.4-GCC-11.3.0 to 1.1.5-gompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Infernal&lt;/code&gt;.
+If you wish to continue using 1.1.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Infernal/1.1.4-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6689</guid>
     </item>
   </channel>
 </rss>
