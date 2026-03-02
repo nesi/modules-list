@@ -625,7 +625,7 @@
                 "server": "ANSYS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.15,
+                "server_uptime": 0.16,
                 "server_version": "",
                 "features": []
             },
@@ -644,7 +644,7 @@
                 "server": "ANSYS@orbis",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.15,
+                "server_uptime": 0.16,
                 "server_version": "",
                 "features": [
                     {
@@ -678,7 +678,7 @@
                 "server": "ANSYS@aut_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.15,
+                "server_uptime": 0.16,
                 "server_version": "",
                 "features": []
             },
@@ -1995,30 +1995,6 @@
         "force_hide": "False",
         "force_show": "False"
     },
-    "BioPerl": {
-        "description": "Bioperl is the product of a community effort to produce Perl code which is useful in biology.\n Examples include Sequence objects, Alignment objects and database searching objects.",
-        "domains": [],
-        "extensions": [
-            "Bio::Procedural-1.7.4",
-            "BioPerl-1.7.8",
-            "XML::Writer-0.900"
-        ],
-        "licence_type": "",
-        "homepage": "https://bioperl.org/",
-        "support": "",
-        "versions": [
-            "1.7.8-GCCcore-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "1.7.8-GCCcore-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1770356323,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/BioPerl/1.7.8-GCCcore-12.3.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
     "BioPP": {
         "description": "Bio++ is a set of C++ libraries for Bioinformatics, including sequence\nanalysis, phylogenetics, molecular evolution and population genetics. Bio++ is\nObject Oriented and is designed to be both easy to use and computer efficient.\nBio++ intends to help programmers to write computer expensive programs, by\nproviding them a set of re-usable tools.",
         "domains": [],
@@ -2737,26 +2713,6 @@
         "force_hide": "False",
         "force_show": "False"
     },
-    "Check": {
-        "description": "Check is a unit testing framework for C. It features a simple interface for\ndefining unit tests, putting little in the way of the developer. Tests are\nrun in a separate address space, so both assertion failures and code errors\nthat cause segmentation faults or other signals can be caught. Test results\nare reportable in the following: Subunit, TAP, XML, and a generic logging\nformat.",
-        "domains": [],
-        "extensions": [],
-        "licence_type": "",
-        "homepage": "https://libcheck.github.io/check/",
-        "support": "",
-        "versions": [
-            "0.15.2-GCCcore-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "0.15.2-GCCcore-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1770358049,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/Check/0.15.2-GCCcore-12.3.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
     "CheckM": {
         "description": "CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,\n single cells, or metagenomes.",
         "domains": [],
@@ -3402,7 +3358,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 90777621.3,
+                        "hourly_average": 90760339.37,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -9149,16 +9105,15 @@
         "homepage": "https://github.com/ebiggers/libdeflate",
         "support": "",
         "versions": [
-            "1.10",
-            "1.24-GCCcore-12.3.0"
+            "1.10"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.24-GCCcore-12.3.0",
+        "default": "1.10",
         "default_type": "latest",
-        "last_updated": 1770357607,
+        "last_updated": 1740132637,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/libdeflate/1.24-GCCcore-12.3.0.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libdeflate/1.10.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -14870,26 +14825,6 @@
         "force_hide": "False",
         "force_show": "False"
     },
-    "pkg-config": {
-        "description": "pkg-config is a helper tool used when compiling applications and libraries.\n It helps you insert the correct compiler options on the command line so an\n application can use gcc -o test test.c `pkg-config --libs --cflags glib-2.0`\n for instance, rather than hard-coding values on where to find glib (or other\n libraries).",
-        "domains": [],
-        "extensions": [],
-        "licence_type": "",
-        "homepage": "https://www.freedesktop.org/wiki/Software/pkg-config/",
-        "support": "",
-        "versions": [
-            "0.29.2-GCCcore-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "0.29.2-GCCcore-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1770356750,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/pkg-config/0.29.2-GCCcore-12.3.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
     "PLINK": {
         "description": "PLINK is a free, open-source whole genome association analysis toolset, \n designed to perform a range of basic, large-scale analyses in a computationally efficient manner.\n The focus of PLINK is purely on analysis of genotype/phenotype data, so there is no support for \n steps prior to this (e.g. study design and planning, generating genotype or CNV calls from raw data). \n Through integration with gPLINK and Haploview, there is some support for the subsequent visualization, \n annotation and storage of results.",
         "domains": [],
@@ -17781,26 +17716,6 @@
         "last_updated": 1740132639,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/samblaster/0.1.26-GCC-9.2.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
-    "samclip": {
-        "description": "Filter SAM file for soft and hard clipped alignments.",
-        "domains": [],
-        "extensions": [],
-        "licence_type": "",
-        "homepage": "https://github.com/tseemann/samclip",
-        "support": "",
-        "versions": [
-            "0.4.0-GCCcore-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "0.4.0-GCCcore-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1770357172,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/samclip/0.4.0-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -21026,33 +20941,6 @@
         "last_updated": 1740132640,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/xkbcommon/0.10.0-GCCcore-9.2.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
-    "XML-LibXML": {
-        "description": "Perl binding for libxml2",
-        "domains": [],
-        "extensions": [
-            "Alien::Base-2.83",
-            "Alien::Build::Plugin::Download::GitLab-0.01",
-            "Alien::Libxml2-0.19",
-            "FFI::CheckLib-0.31",
-            "File::chdir-0.1011",
-            "XML::LibXML-2.0210"
-        ],
-        "licence_type": "",
-        "homepage": "https://metacpan.org/pod/distribution/XML-LibXML/LibXML.pod",
-        "support": "",
-        "versions": [
-            "2.0210-GCCcore-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "2.0210-GCCcore-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1770356109,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/XML-LibXML/2.0210-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
