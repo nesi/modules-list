@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 02 Mar 2026 17:02:06 -0000">
+  <channel lastBuildDate="Mon, 02 Mar 2026 18:02:13 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69816,6 +69816,145 @@ If you wish to continue using 1.10 in any of your scripts, make sure to change t
       <description>The default version of snpEff has changed from 5.2c-GCCcore-12.3.0-Java-21.0.5 to 5.0-Java-11.0.4, this is the version that will be loaded when you run &lt;code&gt;module load snpEff&lt;/code&gt;.
 If you wish to continue using 5.2c-GCCcore-12.3.0-Java-21.0.5 in any of your scripts, make sure to change them to &lt;code&gt;module load snpEff/5.2c-GCCcore-12.3.0-Java-21.0.5&lt;/code&gt;</description>
       <guid>A6706</guid>
+    </item>
+    <item>
+      <title>vt has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">vt</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>A tool set for short variant discovery in genetic sequence data.
+https://genome.sph.umich.edu/wiki/Vt
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load vt/0.57721-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6707</guid>
+    </item>
+    <item>
+      <title>Check has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Check</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>Check is a unit testing framework for C. It features a simple interface for
+defining unit tests, putting little in the way of the developer. Tests are
+run in a separate address space, so both assertion failures and code errors
+that cause segmentation faults or other signals can be caught. Test results
+are reportable in the following: Subunit, TAP, XML, and a generic logging
+format.
+https://libcheck.github.io/check/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Check/0.15.2-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6708</guid>
+    </item>
+    <item>
+      <title>samclip has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">samclip</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>Filter SAM file for soft and hard clipped alignments.
+https://github.com/tseemann/samclip
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load samclip/0.4.0-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6709</guid>
+    </item>
+    <item>
+      <title>Parallel/20250922 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Parallel</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>Parallel has been updated with a new version, 20250922. &lt;pre&gt;&lt;code&gt;module load Parallel/20250922&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6710</guid>
+    </item>
+    <item>
+      <title>Default version of Parallel has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Parallel</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of Parallel has changed from 20220922 to 20250922, this is the version that will be loaded when you run &lt;code&gt;module load Parallel&lt;/code&gt;.
+If you wish to continue using 20220922 in any of your scripts, make sure to change them to &lt;code&gt;module load Parallel/20220922&lt;/code&gt;</description>
+      <guid>A6711</guid>
+    </item>
+    <item>
+      <title>Default version of Parallel has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Parallel</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of Parallel has changed from 20220922 to 20250922, this is the version that will be loaded when you run &lt;code&gt;module load Parallel&lt;/code&gt;.
+If you wish to continue using 20220922 in any of your scripts, make sure to change them to &lt;code&gt;module load Parallel/20220922&lt;/code&gt;</description>
+      <guid>A6712</guid>
+    </item>
+    <item>
+      <title>snpEff/5.4b-Java-21.0.5 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">snpEff</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>snpEff has been updated with a new version, 5.4b-Java-21.0.5. &lt;pre&gt;&lt;code&gt;module load snpEff/5.4b-Java-21.0.5&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6713</guid>
+    </item>
+    <item>
+      <title>Default version of snpEff has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snpEff</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of snpEff has changed from 5.0-Java-11.0.4 to 5.4b-Java-21.0.5, this is the version that will be loaded when you run &lt;code&gt;module load snpEff&lt;/code&gt;.
+If you wish to continue using 5.0-Java-11.0.4 in any of your scripts, make sure to change them to &lt;code&gt;module load snpEff/5.0-Java-11.0.4&lt;/code&gt;</description>
+      <guid>A6714</guid>
+    </item>
+    <item>
+      <title>Default version of snpEff has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snpEff</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of snpEff has changed from 5.0-Java-11.0.4 to 5.4b-Java-21.0.5, this is the version that will be loaded when you run &lt;code&gt;module load snpEff&lt;/code&gt;.
+If you wish to continue using 5.0-Java-11.0.4 in any of your scripts, make sure to change them to &lt;code&gt;module load snpEff/5.0-Java-11.0.4&lt;/code&gt;</description>
+      <guid>A6715</guid>
+    </item>
+    <item>
+      <title>snp-sites/2.5.1-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>snp-sites has been updated with a new version, 2.5.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load snp-sites/2.5.1-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6716</guid>
+    </item>
+    <item>
+      <title>Default version of snp-sites has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of snp-sites has changed from 2.5.1-GCC-11.3.0 to 2.5.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load snp-sites&lt;/code&gt;.
+If you wish to continue using 2.5.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load snp-sites/2.5.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6717</guid>
+    </item>
+    <item>
+      <title>Default version of snp-sites has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">snp-sites</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of snp-sites has changed from 2.5.1-GCC-11.3.0 to 2.5.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load snp-sites&lt;/code&gt;.
+If you wish to continue using 2.5.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load snp-sites/2.5.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6718</guid>
+    </item>
+    <item>
+      <title>any2fasta/0.8.1-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>any2fasta has been updated with a new version, 0.8.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load any2fasta/0.8.1-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6719</guid>
+    </item>
+    <item>
+      <title>Default version of any2fasta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of any2fasta has changed from 0.4.2-GCC-11.3.0 to 0.8.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load any2fasta&lt;/code&gt;.
+If you wish to continue using 0.4.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load any2fasta/0.4.2-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6720</guid>
+    </item>
+    <item>
+      <title>Default version of any2fasta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">any2fasta</category>
+      <pubDate>Mon, 02 Mar 2026 18:02:13 -0000</pubDate>
+      <description>The default version of any2fasta has changed from 0.4.2-GCC-11.3.0 to 0.8.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load any2fasta&lt;/code&gt;.
+If you wish to continue using 0.4.2-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load any2fasta/0.4.2-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6721</guid>
     </item>
   </channel>
 </rss>

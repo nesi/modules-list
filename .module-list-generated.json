@@ -860,15 +860,16 @@
         "support": "",
         "versions": [
             "0.4.2-GCC-11.3.0",
-            "0.4.2-GCC-9.2.0"
+            "0.4.2-GCC-9.2.0",
+            "0.8.1-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "0.4.2-GCC-11.3.0",
+        "default": "0.8.1-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132635,
+        "last_updated": 1772425433,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/any2fasta/0.4.2-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/any2fasta/0.8.1-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -2713,6 +2714,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "Check": {
+        "description": "Check is a unit testing framework for C. It features a simple interface for\ndefining unit tests, putting little in the way of the developer. Tests are\nrun in a separate address space, so both assertion failures and code errors\nthat cause segmentation faults or other signals can be caught. Test results\nare reportable in the following: Subunit, TAP, XML, and a generic logging\nformat.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://libcheck.github.io/check/",
+        "support": "",
+        "versions": [
+            "0.15.2-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.15.2-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1772425063,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/Check/0.15.2-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "CheckM": {
         "description": "CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,\n single cells, or metagenomes.",
         "domains": [],
@@ -3358,7 +3379,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 90725795.26,
+                        "hourly_average": 90708533.06,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -13811,15 +13832,16 @@
             "20200522",
             "20210422",
             "20220322",
-            "20220922"
+            "20220922",
+            "20250922"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "20220922",
+        "default": "20250922",
         "default_type": "latest",
-        "last_updated": 1740132632,
+        "last_updated": 1772425796,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Parallel/20220922.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Parallel/20250922.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -17721,6 +17743,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "samclip": {
+        "description": "Filter SAM file for soft and hard clipped alignments.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/tseemann/samclip",
+        "support": "",
+        "versions": [
+            "0.4.0-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.4.0-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1772424994,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/samclip/0.4.0-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "SAMtools": {
         "description": "Samtools is a suite of programs for interacting with high-throughput sequencing data.\n SAMtools - Reading/writing/editing/indexing/viewing SAM/BAM/CRAM format",
         "domains": [],
@@ -18554,7 +18596,7 @@
         "network_licences": [],
         "default": "4.6.0-foss-2023a-R-4.3.2",
         "default_type": "latest",
-        "last_updated": 1770358766,
+        "last_updated": 1772425875,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/snippy/4.6.0-foss-2023a-R-4.3.2.lua",
         "force_hide": "False",
@@ -18568,15 +18610,16 @@
         "homepage": "https://sanger-pathogens.github.io/snp-sites/",
         "support": "",
         "versions": [
-            "2.5.1-GCC-11.3.0"
+            "2.5.1-GCC-11.3.0",
+            "2.5.1-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.5.1-GCC-11.3.0",
+        "default": "2.5.1-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132639,
+        "last_updated": 1772425231,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/snp-sites/2.5.1-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/snp-sites/2.5.1-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -18589,15 +18632,16 @@
         "support": "",
         "versions": [
             "4.2",
-            "5.0-Java-11.0.4"
+            "5.0-Java-11.0.4",
+            "5.4b-Java-21.0.5"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "5.0-Java-11.0.4",
+        "default": "5.4b-Java-21.0.5",
         "default_type": "latest",
-        "last_updated": 1740132639,
+        "last_updated": 1772425771,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/snpEff/5.0-Java-11.0.4.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/snpEff/5.4b-Java-21.0.5.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -20613,6 +20657,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "vt": {
+        "description": "A tool set for short variant discovery in genetic sequence data.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://genome.sph.umich.edu/wiki/Vt",
+        "support": "",
+        "versions": [
+            "0.57721-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.57721-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1772424741,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/vt/0.57721-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "VTune": {
         "description": "Intel VTune Amplifier XE is the premier performance profiler for C, C++, C#, Fortran,\n Assembly and Java.",
         "domains": [],
@@ -20710,7 +20774,7 @@
         "network_licences": [],
         "default": "20111017-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1770358238,
+        "last_updated": 1772425737,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/wgsim/20111017-GCC-12.3.0.lua",
         "force_hide": "False",
