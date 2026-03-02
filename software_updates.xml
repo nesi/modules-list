@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 02 Mar 2026 10:02:04 -0000">
+  <channel lastBuildDate="Mon, 02 Mar 2026 15:02:21 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -69672,6 +69672,55 @@ If you wish to continue using 1.1.4-GCC-11.3.0 in any of your scripts, make sure
       <description>The default version of Infernal has changed from 1.1.4-GCC-11.3.0 to 1.1.5-gompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Infernal&lt;/code&gt;.
 If you wish to continue using 1.1.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Infernal/1.1.4-GCC-11.3.0&lt;/code&gt;</description>
       <guid>A6689</guid>
+    </item>
+    <item>
+      <title>XML-LibXML has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">XML-LibXML</category>
+      <pubDate>Mon, 02 Mar 2026 15:02:21 -0000</pubDate>
+      <description>XML-LibXML has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load XML-LibXML&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6690</guid>
+    </item>
+    <item>
+      <title>samclip has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">samclip</category>
+      <pubDate>Mon, 02 Mar 2026 15:02:21 -0000</pubDate>
+      <description>samclip has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load samclip&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6691</guid>
+    </item>
+    <item>
+      <title>BioPerl has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">BioPerl</category>
+      <pubDate>Mon, 02 Mar 2026 15:02:21 -0000</pubDate>
+      <description>BioPerl has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load BioPerl&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6692</guid>
+    </item>
+    <item>
+      <title>Check has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Check</category>
+      <pubDate>Mon, 02 Mar 2026 15:02:21 -0000</pubDate>
+      <description>Check has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Check&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6693</guid>
+    </item>
+    <item>
+      <title>pkg-config has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">pkg-config</category>
+      <pubDate>Mon, 02 Mar 2026 15:02:21 -0000</pubDate>
+      <description>pkg-config has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load pkg-config&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6694</guid>
+    </item>
+    <item>
+      <title>Default version of libdeflate has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libdeflate</category>
+      <pubDate>Mon, 02 Mar 2026 15:02:21 -0000</pubDate>
+      <description>The default version of libdeflate has changed from 1.24-GCCcore-12.3.0 to 1.10, this is the version that will be loaded when you run &lt;code&gt;module load libdeflate&lt;/code&gt;.
+If you wish to continue using 1.24-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libdeflate/1.24-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A6695</guid>
     </item>
   </channel>
 </rss>
