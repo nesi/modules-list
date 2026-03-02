@@ -3530,7 +3530,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 90743064.03,
+                        "hourly_average": 90725795.26,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -4240,15 +4240,16 @@
         "homepage": "https://perldoc.perl.org/DB_File.html",
         "support": "",
         "versions": [
-            "1.859-GCCcore-12.3.0"
+            "1.859-GCCcore-12.3.0",
+            "1.860-GCCcore-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.859-GCCcore-12.3.0",
+        "default": "1.860-GCCcore-12.3.0",
         "default_type": "latest",
-        "last_updated": 1770356279,
+        "last_updated": 1772421579,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/DB_File/1.859-GCCcore-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/DB_File/1.860-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -9596,15 +9597,16 @@
         "homepage": "https://github.com/ebiggers/libdeflate",
         "support": "",
         "versions": [
-            "1.10"
+            "1.10",
+            "1.25"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.10",
+        "default": "1.25",
         "default_type": "latest",
-        "last_updated": 1740132637,
+        "last_updated": 1772421742,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libdeflate/1.10.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/libdeflate/1.25.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -10120,15 +10122,15 @@
         "homepage": "https://cran.r-project.org/doc/manuals/r-release/R-admin.html#The-standalone-Rmath-library",
         "support": "",
         "versions": [
-            "4.5.1-GCCcore-12.3.0"
+            "4.5.2-GCCcore-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.5.1-GCCcore-12.3.0",
+        "default": "4.5.2-GCCcore-12.3.0",
         "default_type": "latest",
-        "last_updated": 1770357144,
+        "last_updated": 1772423732,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/libRmath/4.5.1-GCCcore-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/libRmath/4.5.2-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -19538,7 +19540,7 @@
         "force_show": "False"
     },
     "snpEff": {
-        "description": "SnpEff is a variant annotation and effect prediction tool.\n It annotates and predicts the effects of genetic variants (such as amino acid changes).",
+        "description": "SnpEff is a variant annotation and effect prediction tool. \n It annotates and predicts the effects of genetic variants (such as amino acid changes).",
         "domains": [
             "biology"
         ],
@@ -19548,16 +19550,15 @@
         "support": "",
         "versions": [
             "4.2",
-            "5.0-Java-11.0.4",
-            "5.2c-GCCcore-12.3.0-Java-21.0.5"
+            "5.0-Java-11.0.4"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "5.2c-GCCcore-12.3.0-Java-21.0.5",
+        "default": "5.0-Java-11.0.4",
         "default_type": "latest",
-        "last_updated": 1770358668,
+        "last_updated": 1740132639,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/snpEff/5.2c-GCCcore-12.3.0-Java-21.0.5.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/snpEff/5.0-Java-11.0.4.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -21698,26 +21699,6 @@
         "last_updated": 1740132635,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/VSEARCH/2.21.1-GCC-11.3.0.lua",
-        "force_hide": "False",
-        "force_show": "False"
-    },
-    "vt": {
-        "description": "A tool set for short variant discovery in genetic sequence data.",
-        "domains": [],
-        "extensions": [],
-        "licence_type": "",
-        "homepage": "https://genome.sph.umich.edu/wiki/Vt",
-        "support": "",
-        "versions": [
-            "0.57721-GCC-12.3.0"
-        ],
-        "admin_list": [],
-        "network_licences": [],
-        "default": "0.57721-GCC-12.3.0",
-        "default_type": "latest",
-        "last_updated": 1770357667,
-        "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/vt/0.57721-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
