@@ -3379,7 +3379,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 89938475.24,
+                        "hourly_average": 89921511.32,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -13433,6 +13433,7 @@
             "4.1.5-GCC-12.3.0",
             "4.1.5-GCC-12.3.0-CUDA-12.2.2",
             "4.1.5-NVHPC-23.9-CUDA-12.2.2-CUDA-12.2.2",
+            "4.1.5-NVHPC-23.9-GCC-12.3.0-CUDA-12.2.2",
             "4.1.5-intel-compilers-2023.2.1"
         ],
         "admin_list": [
