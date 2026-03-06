@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 05 Mar 2026 16:01:23 -0000">
+  <channel lastBuildDate="Fri, 06 Mar 2026 13:02:33 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70044,6 +70044,14 @@ If you wish to continue using 4.1.5-GCC-12.3.0-CUDA-12.2.2 in any of your script
       <pubDate>Thu, 05 Mar 2026 16:01:23 -0000</pubDate>
       <description>snakemake has been updated with a new version, 9.14.0-foss-2023a. &lt;pre&gt;&lt;code&gt;module load snakemake/9.14.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6731</guid>
+    </item>
+    <item>
+      <title>snakemake/9.16.3-foss-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">snakemake</category>
+      <pubDate>Fri, 06 Mar 2026 13:02:33 -0000</pubDate>
+      <description>snakemake has been updated with a new version, 9.16.3-foss-2023a. &lt;pre&gt;&lt;code&gt;module load snakemake/9.16.3-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6732</guid>
     </item>
   </channel>
 </rss>
