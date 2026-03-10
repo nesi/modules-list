@@ -44,7 +44,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "gpgpu",
-                        "hourly_average": 0.99,
+                        "hourly_average": 0.98,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "gpgpu@uoa_foe",
@@ -644,7 +644,7 @@
                 "server": "ANSYS@orbis",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.18,
+                "server_uptime": 0.19,
                 "server_version": "",
                 "features": [
                     {
@@ -678,7 +678,7 @@
                 "server": "ANSYS@aut_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.18,
+                "server_uptime": 0.19,
                 "server_version": "",
                 "features": []
             },
@@ -3379,7 +3379,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 87543749.28,
+                        "hourly_average": 87527676.63,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
