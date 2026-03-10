@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 09 Mar 2026 15:01:43 -0000">
+  <channel lastBuildDate="Tue, 10 Mar 2026 13:01:24 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70063,6 +70063,16 @@ If you wish to continue using 4.1.5-GCC-12.3.0-CUDA-12.2.2 in any of your script
 https://docs.rs/ska/latest/ska/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load SKA2/0.3.7-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6733</guid>
+    </item>
+    <item>
+      <title>Pluto has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Pluto</category>
+      <pubDate>Tue, 10 Mar 2026 13:01:24 -0000</pubDate>
+      <description>Simple, reactive programming environment for the Julia Language.
+https://plutojl.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Pluto/0.20.23-Julia-1.11.3-GCC-12.3.0-VTune&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6734</guid>
     </item>
   </channel>
 </rss>
