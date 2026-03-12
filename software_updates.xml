@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 13 Mar 2026 10:01:16 -0000">
+  <channel lastBuildDate="Fri, 13 Mar 2026 11:01:30 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70081,6 +70081,16 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Pluto/0.20
       <pubDate>Fri, 13 Mar 2026 10:01:16 -0000</pubDate>
       <description>Pluto has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Pluto&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6735</guid>
+    </item>
+    <item>
+      <title>Pluto has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Pluto</category>
+      <pubDate>Fri, 13 Mar 2026 11:01:30 -0000</pubDate>
+      <description>Simple, reactive programming environment for the Julia Language.
+https://plutojl.org/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Pluto/0.20.24-Julia-1.11.3-GCC-12.3.0-VTune&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6736</guid>
     </item>
   </channel>
 </rss>
