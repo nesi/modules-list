@@ -3551,7 +3551,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 86573999.67,
+                        "hourly_average": 86558281.09,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -7306,15 +7306,16 @@
         "homepage": "https://github.com/google/googletest",
         "support": "",
         "versions": [
-            "1.10.0-GCCcore-9.2.0"
+            "1.10.0-GCCcore-9.2.0",
+            "1.17.0-GCCcore-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.10.0-GCCcore-9.2.0",
+        "default": "1.17.0-GCCcore-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132637,
+        "last_updated": 1773374197,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/googletest/1.10.0-GCCcore-9.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/googletest/1.17.0-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -11977,15 +11978,16 @@
             "5.1.0-GCC-7.4.0",
             "5.1.0-GCCcore-9.2.0",
             "5.1.0-intel-2020a",
-            "5.1.0-intel-2022a"
+            "5.1.0-intel-2022a",
+            "5.1.0-iofbf-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "5.1.0-GCCcore-9.2.0",
+        "default": "5.1.0-iofbf-2023a",
         "default_type": "latest",
-        "last_updated": 1740132631,
+        "last_updated": 1773374477,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/METIS/5.1.0-GCCcore-9.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/METIS/5.1.0-iofbf-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
