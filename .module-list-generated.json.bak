@@ -644,7 +644,7 @@
                 "server": "ANSYS@orbis",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.19,
+                "server_uptime": 0.2,
                 "server_version": "",
                 "features": [
                     {
@@ -678,7 +678,7 @@
                 "server": "ANSYS@aut_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.19,
+                "server_uptime": 0.2,
                 "server_version": "",
                 "features": []
             },
@@ -3379,7 +3379,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 86636931.11,
+                        "hourly_average": 86621189.67,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -14973,7 +14973,7 @@
         "network_licences": [],
         "default": "0.20.24-Julia-1.11.3-GCC-12.3.0-VTune",
         "default_type": "latest",
-        "last_updated": 1773349297,
+        "last_updated": 1773358076,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/Pluto/0.20.24-Julia-1.11.3-GCC-12.3.0-VTune.lua",
         "force_hide": "False",
