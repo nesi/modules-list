@@ -3552,7 +3552,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 85273241.1,
+                        "hourly_average": 85257991.27,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -5217,6 +5217,29 @@
         "last_updated": 1740132636,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/entrez-direct/13.3.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "ESMF": {
+        "description": "The Earth System Modeling Framework (ESMF) is a suite of software tools for developing\n high-performance, multi-component Earth science modeling applications.",
+        "domains": [
+            "climate_science",
+            "earth_science"
+        ],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.earthsystemcog.org/projects/esmf/",
+        "support": "",
+        "versions": [
+            "8.4.2-iofbf-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "8.4.2-iofbf-2023a",
+        "default_type": "latest",
+        "last_updated": 1773676089,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/ESMF/8.4.2-iofbf-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
