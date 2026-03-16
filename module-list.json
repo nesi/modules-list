@@ -2997,6 +2997,7 @@
         "homepage": "https://github.com/wdecoster/chopper",
         "support": "",
         "versions": [
+            "0.12.0b-GCC-12.3.0",
             "0.2.0-GCC-11.3.0",
             "0.5.0-GCC-11.3.0",
             "0.9.0-GCC-12.3.0"
@@ -3552,7 +3553,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 85166606.71,
+                        "hourly_average": 85151394.99,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
