@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 17 Mar 2026 05:02:11 -0000">
+  <channel lastBuildDate="Tue, 17 Mar 2026 10:02:02 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70504,6 +70504,58 @@ If you wish to continue using 5.6.1-foss-2023a in any of your scripts, make sure
 https://www.earthsystemcog.org/projects/esmf/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load ESMF/8.4.2-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6783</guid>
+    </item>
+    <item>
+      <title>Mmg/5.7.2-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Mmg</category>
+      <pubDate>Tue, 17 Mar 2026 10:02:01 -0000</pubDate>
+      <description>Mmg has been updated with a new version, 5.7.2-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load Mmg/5.7.2-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6784</guid>
+    </item>
+    <item>
+      <title>Default version of Mmg has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Mmg</category>
+      <pubDate>Tue, 17 Mar 2026 10:02:01 -0000</pubDate>
+      <description>The default version of Mmg has changed from 5.7.2-foss-2023a to 5.7.2-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Mmg&lt;/code&gt;.
+If you wish to continue using 5.7.2-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Mmg/5.7.2-foss-2023a&lt;/code&gt;</description>
+      <guid>A6785</guid>
+    </item>
+    <item>
+      <title>Default version of Mmg has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Mmg</category>
+      <pubDate>Tue, 17 Mar 2026 10:02:01 -0000</pubDate>
+      <description>The default version of Mmg has changed from 5.7.2-foss-2023a to 5.7.2-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Mmg&lt;/code&gt;.
+If you wish to continue using 5.7.2-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Mmg/5.7.2-foss-2023a&lt;/code&gt;</description>
+      <guid>A6786</guid>
+    </item>
+    <item>
+      <title>hifiasm/0.25.0-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">hifiasm</category>
+      <pubDate>Tue, 17 Mar 2026 10:02:01 -0000</pubDate>
+      <description>hifiasm has been updated with a new version, 0.25.0-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load hifiasm/0.25.0-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6787</guid>
+    </item>
+    <item>
+      <title>Default version of hifiasm has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">hifiasm</category>
+      <pubDate>Tue, 17 Mar 2026 10:02:01 -0000</pubDate>
+      <description>The default version of hifiasm has changed from 0.24.0-GCC-12.3.0 to 0.25.0-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load hifiasm&lt;/code&gt;.
+If you wish to continue using 0.24.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load hifiasm/0.24.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6788</guid>
+    </item>
+    <item>
+      <title>Default version of hifiasm has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">hifiasm</category>
+      <pubDate>Tue, 17 Mar 2026 10:02:01 -0000</pubDate>
+      <description>The default version of hifiasm has changed from 0.24.0-GCC-12.3.0 to 0.25.0-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load hifiasm&lt;/code&gt;.
+If you wish to continue using 0.24.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load hifiasm/0.24.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6789</guid>
     </item>
   </channel>
 </rss>
