@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 16 Mar 2026 09:01:30 -0000">
+  <channel lastBuildDate="Mon, 16 Mar 2026 20:01:58 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70155,6 +70155,58 @@ Stored as pure Python and deployable via ASGI.
 https://pypi.org/project/marimo/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Marimo/0.20.3-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6743</guid>
+    </item>
+    <item>
+      <title>netCDF/4.9.2-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">netCDF</category>
+      <pubDate>Mon, 16 Mar 2026 20:01:57 -0000</pubDate>
+      <description>netCDF has been updated with a new version, 4.9.2-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load netCDF/4.9.2-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6744</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF</category>
+      <pubDate>Mon, 16 Mar 2026 20:01:57 -0000</pubDate>
+      <description>The default version of netCDF has changed from 4.9.2-gompi-2023a to 4.9.2-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load netCDF&lt;/code&gt;.
+If you wish to continue using 4.9.2-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF/4.9.2-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6745</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF</category>
+      <pubDate>Mon, 16 Mar 2026 20:01:57 -0000</pubDate>
+      <description>The default version of netCDF has changed from 4.9.2-gompi-2023a to 4.9.2-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load netCDF&lt;/code&gt;.
+If you wish to continue using 4.9.2-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF/4.9.2-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6746</guid>
+    </item>
+    <item>
+      <title>PROJ/9.3.0-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">PROJ</category>
+      <pubDate>Mon, 16 Mar 2026 20:01:57 -0000</pubDate>
+      <description>PROJ has been updated with a new version, 9.3.0-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load PROJ/9.3.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6747</guid>
+    </item>
+    <item>
+      <title>Default version of PROJ has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PROJ</category>
+      <pubDate>Mon, 16 Mar 2026 20:01:57 -0000</pubDate>
+      <description>The default version of PROJ has changed from 9.3.0-GCC-12.3.0 to 9.3.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PROJ&lt;/code&gt;.
+If you wish to continue using 9.3.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PROJ/9.3.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6748</guid>
+    </item>
+    <item>
+      <title>Default version of PROJ has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PROJ</category>
+      <pubDate>Mon, 16 Mar 2026 20:01:57 -0000</pubDate>
+      <description>The default version of PROJ has changed from 9.3.0-GCC-12.3.0 to 9.3.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PROJ&lt;/code&gt;.
+If you wish to continue using 9.3.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PROJ/9.3.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6749</guid>
     </item>
   </channel>
 </rss>
