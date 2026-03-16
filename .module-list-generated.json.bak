@@ -3380,7 +3380,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 85334295.02,
+                        "hourly_average": 85319023.34,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -12150,7 +12150,7 @@
         "domains": [],
         "extensions": [],
         "licence_type": "",
-        "homepage": "https://mumps-solver.org/",
+        "homepage": "https://graal.ens-lyon.fr/MUMPS/",
         "support": "",
         "versions": [
             "4.10.0-gimkl-2020a",
@@ -12159,15 +12159,16 @@
             "5.5.0-gimkl-2022a",
             "5.6.1-foss-2023a",
             "5.6.1-foss-2023a-plain",
-            "5.6.1-intel-2022a"
+            "5.6.1-intel-2022a",
+            "5.6.1-iofbf-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "5.6.1-foss-2023a",
+        "default": "5.6.1-iofbf-2023a",
         "default_type": "latest",
-        "last_updated": 1740132631,
+        "last_updated": 1773659678,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/MUMPS/5.6.1-foss-2023a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/MUMPS/5.6.1-iofbf-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
