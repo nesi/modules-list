@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 16 Mar 2026 20:01:58 -0000">
+  <channel lastBuildDate="Mon, 16 Mar 2026 22:02:03 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70207,6 +70207,240 @@ If you wish to continue using 9.3.0-GCC-12.3.0 in any of your scripts, make sure
       <description>The default version of PROJ has changed from 9.3.0-GCC-12.3.0 to 9.3.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PROJ&lt;/code&gt;.
 If you wish to continue using 9.3.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PROJ/9.3.0-GCC-12.3.0&lt;/code&gt;</description>
       <guid>A6749</guid>
+    </item>
+    <item>
+      <title>netCDF-Fortran/4.6.1-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">netCDF-Fortran</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>netCDF-Fortran has been updated with a new version, 4.6.1-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load netCDF-Fortran/4.6.1-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6750</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF-Fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF-Fortran</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of netCDF-Fortran has changed from 4.6.1-gompi-2023a to 4.6.1-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load netCDF-Fortran&lt;/code&gt;.
+If you wish to continue using 4.6.1-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF-Fortran/4.6.1-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6751</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF-Fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF-Fortran</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of netCDF-Fortran has changed from 4.6.1-gompi-2023a to 4.6.1-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load netCDF-Fortran&lt;/code&gt;.
+If you wish to continue using 4.6.1-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF-Fortran/4.6.1-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6752</guid>
+    </item>
+    <item>
+      <title>Hypre/2.28.0-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Hypre</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>Hypre has been updated with a new version, 2.28.0-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load Hypre/2.28.0-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6753</guid>
+    </item>
+    <item>
+      <title>Default version of Hypre has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Hypre</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of Hypre has changed from 2.28.0-foss-2023a to 2.28.0-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Hypre&lt;/code&gt;.
+If you wish to continue using 2.28.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Hypre/2.28.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A6754</guid>
+    </item>
+    <item>
+      <title>Default version of Hypre has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Hypre</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of Hypre has changed from 2.28.0-foss-2023a to 2.28.0-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Hypre&lt;/code&gt;.
+If you wish to continue using 2.28.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Hypre/2.28.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A6755</guid>
+    </item>
+    <item>
+      <title>MPFR/4.2.1-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MPFR</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>MPFR has been updated with a new version, 4.2.1-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load MPFR/4.2.1-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6756</guid>
+    </item>
+    <item>
+      <title>Default version of MPFR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MPFR</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of MPFR has changed from 4.2.1-GCC-12.3.0 to 4.2.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MPFR&lt;/code&gt;.
+If you wish to continue using 4.2.1-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MPFR/4.2.1-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6757</guid>
+    </item>
+    <item>
+      <title>Default version of MPFR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MPFR</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of MPFR has changed from 4.2.1-GCC-12.3.0 to 4.2.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load MPFR&lt;/code&gt;.
+If you wish to continue using 4.2.1-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MPFR/4.2.1-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6758</guid>
+    </item>
+    <item>
+      <title>KEALib/1.5.2-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">KEALib</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>KEALib has been updated with a new version, 1.5.2-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load KEALib/1.5.2-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6759</guid>
+    </item>
+    <item>
+      <title>Default version of KEALib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">KEALib</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of KEALib has changed from 1.5.2-gompi-2023a to 1.5.2-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load KEALib&lt;/code&gt;.
+If you wish to continue using 1.5.2-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load KEALib/1.5.2-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6760</guid>
+    </item>
+    <item>
+      <title>Default version of KEALib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">KEALib</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of KEALib has changed from 1.5.2-gompi-2023a to 1.5.2-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load KEALib&lt;/code&gt;.
+If you wish to continue using 1.5.2-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load KEALib/1.5.2-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6761</guid>
+    </item>
+    <item>
+      <title>Boost/1.83.0-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Boost</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>Boost has been updated with a new version, 1.83.0-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load Boost/1.83.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6762</guid>
+    </item>
+    <item>
+      <title>Default version of Boost has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Boost</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of Boost has changed from 1.83.0-GCC-12.3.0 to 1.83.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Boost&lt;/code&gt;.
+If you wish to continue using 1.83.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Boost/1.83.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6763</guid>
+    </item>
+    <item>
+      <title>Default version of Boost has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Boost</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of Boost has changed from 1.83.0-GCC-12.3.0 to 1.83.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Boost&lt;/code&gt;.
+If you wish to continue using 1.83.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Boost/1.83.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6764</guid>
+    </item>
+    <item>
+      <title>netCDF-C++4/4.3.1-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">netCDF-C++4</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>netCDF-C++4 has been updated with a new version, 4.3.1-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load netCDF-C++4/4.3.1-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6765</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF-C++4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF-C++4</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of netCDF-C++4 has changed from 4.3.1-gimpi-2020a to 4.3.1-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load netCDF-C++4&lt;/code&gt;.
+If you wish to continue using 4.3.1-gimpi-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF-C++4/4.3.1-gimpi-2020a&lt;/code&gt;</description>
+      <guid>A6766</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF-C++4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF-C++4</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of netCDF-C++4 has changed from 4.3.1-gimpi-2020a to 4.3.1-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load netCDF-C++4&lt;/code&gt;.
+If you wish to continue using 4.3.1-gimpi-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF-C++4/4.3.1-gimpi-2020a&lt;/code&gt;</description>
+      <guid>A6767</guid>
+    </item>
+    <item>
+      <title>SCOTCH/7.0.4-iompi-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">SCOTCH</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>SCOTCH has been updated with a new version, 7.0.4-iompi-2023a. &lt;pre&gt;&lt;code&gt;module load SCOTCH/7.0.4-iompi-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6768</guid>
+    </item>
+    <item>
+      <title>Default version of SCOTCH has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SCOTCH</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of SCOTCH has changed from 7.0.4-foss-2023a to 7.0.4-iompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load SCOTCH&lt;/code&gt;.
+If you wish to continue using 7.0.4-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load SCOTCH/7.0.4-foss-2023a&lt;/code&gt;</description>
+      <guid>A6769</guid>
+    </item>
+    <item>
+      <title>Default version of SCOTCH has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SCOTCH</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of SCOTCH has changed from 7.0.4-foss-2023a to 7.0.4-iompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load SCOTCH&lt;/code&gt;.
+If you wish to continue using 7.0.4-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load SCOTCH/7.0.4-foss-2023a&lt;/code&gt;</description>
+      <guid>A6770</guid>
+    </item>
+    <item>
+      <title>libgeotiff/1.7.1-GCCcore-12.3.0-PROJ-9.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libgeotiff</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>libgeotiff has been updated with a new version, 1.7.1-GCCcore-12.3.0-PROJ-9.3.0. &lt;pre&gt;&lt;code&gt;module load libgeotiff/1.7.1-GCCcore-12.3.0-PROJ-9.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6771</guid>
+    </item>
+    <item>
+      <title>Default version of libgeotiff has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libgeotiff</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of libgeotiff has changed from 1.7.1-GCC-11.3.0-PROJ-9.2.0 to 1.7.1-GCCcore-12.3.0-PROJ-9.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libgeotiff&lt;/code&gt;.
+If you wish to continue using 1.7.1-GCC-11.3.0-PROJ-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libgeotiff/1.7.1-GCC-11.3.0-PROJ-9.2.0&lt;/code&gt;</description>
+      <guid>A6772</guid>
+    </item>
+    <item>
+      <title>Default version of libgeotiff has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libgeotiff</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of libgeotiff has changed from 1.7.1-GCC-11.3.0-PROJ-9.2.0 to 1.7.1-GCCcore-12.3.0-PROJ-9.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libgeotiff&lt;/code&gt;.
+If you wish to continue using 1.7.1-GCC-11.3.0-PROJ-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libgeotiff/1.7.1-GCC-11.3.0-PROJ-9.2.0&lt;/code&gt;</description>
+      <guid>A6773</guid>
+    </item>
+    <item>
+      <title>Xerces-C++/3.3.0-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Xerces-C++</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>Xerces-C++ has been updated with a new version, 3.3.0-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load Xerces-C++/3.3.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6774</guid>
+    </item>
+    <item>
+      <title>Default version of Xerces-C++ has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Xerces-C++</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of Xerces-C++ has changed from 3.2.2-GCCcore-7.4.0 to 3.3.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Xerces-C++&lt;/code&gt;.
+If you wish to continue using 3.2.2-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Xerces-C++/3.2.2-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6775</guid>
+    </item>
+    <item>
+      <title>Default version of Xerces-C++ has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Xerces-C++</category>
+      <pubDate>Mon, 16 Mar 2026 22:02:03 -0000</pubDate>
+      <description>The default version of Xerces-C++ has changed from 3.2.2-GCCcore-7.4.0 to 3.3.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Xerces-C++&lt;/code&gt;.
+If you wish to continue using 3.2.2-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Xerces-C++/3.2.2-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A6776</guid>
     </item>
   </channel>
 </rss>
