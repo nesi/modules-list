@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 17 Mar 2026 18:02:06 -0000">
+  <channel lastBuildDate="Wed, 18 Mar 2026 10:01:27 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70616,6 +70616,32 @@ If you wish to continue using 8.1-gompi-2023a in any of your scripts, make sure 
       <description>The default version of SuiteSparse has changed from 7.8.3-foss-2023a to 5.13.0-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load SuiteSparse&lt;/code&gt;.
 If you wish to continue using 7.8.3-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load SuiteSparse/7.8.3-foss-2023a&lt;/code&gt;</description>
       <guid>A6796</guid>
+    </item>
+    <item>
+      <title>PETSc/3.19-iofbf-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">PETSc</category>
+      <pubDate>Wed, 18 Mar 2026 10:01:27 -0000</pubDate>
+      <description>PETSc has been updated with a new version, 3.19-iofbf-2023a. &lt;pre&gt;&lt;code&gt;module load PETSc/3.19-iofbf-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6797</guid>
+    </item>
+    <item>
+      <title>Default version of PETSc has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PETSc</category>
+      <pubDate>Wed, 18 Mar 2026 10:01:27 -0000</pubDate>
+      <description>The default version of PETSc has changed from 3.19-foss-2023a to 3.19-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load PETSc&lt;/code&gt;.
+If you wish to continue using 3.19-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load PETSc/3.19-foss-2023a&lt;/code&gt;</description>
+      <guid>A6798</guid>
+    </item>
+    <item>
+      <title>Default version of PETSc has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PETSc</category>
+      <pubDate>Wed, 18 Mar 2026 10:01:27 -0000</pubDate>
+      <description>The default version of PETSc has changed from 3.19-foss-2023a to 3.19-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load PETSc&lt;/code&gt;.
+If you wish to continue using 3.19-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load PETSc/3.19-foss-2023a&lt;/code&gt;</description>
+      <guid>A6799</guid>
     </item>
   </channel>
 </rss>
