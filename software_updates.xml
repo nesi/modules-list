@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 18 Mar 2026 15:01:25 -0000">
+  <channel lastBuildDate="Thu, 19 Mar 2026 15:01:31 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70659,6 +70659,32 @@ If you wish to continue using 3.19-foss-2023a in any of your scripts, make sure 
       <description>The default version of Delft3D_FM has changed from 142431-intel-2022a to 2026.01-iofbf-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Delft3D_FM&lt;/code&gt;.
 If you wish to continue using 142431-intel-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load Delft3D_FM/142431-intel-2022a&lt;/code&gt;</description>
       <guid>A6801</guid>
+    </item>
+    <item>
+      <title>FFmpeg/7.1.2-GCCcore-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FFmpeg</category>
+      <pubDate>Thu, 19 Mar 2026 15:01:31 -0000</pubDate>
+      <description>FFmpeg has been updated with a new version, 7.1.2-GCCcore-12.3.0. &lt;pre&gt;&lt;code&gt;module load FFmpeg/7.1.2-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6802</guid>
+    </item>
+    <item>
+      <title>Default version of FFmpeg has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFmpeg</category>
+      <pubDate>Thu, 19 Mar 2026 15:01:31 -0000</pubDate>
+      <description>The default version of FFmpeg has changed from 5.1.1-GCC-11.3.0 to 7.1.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FFmpeg&lt;/code&gt;.
+If you wish to continue using 5.1.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FFmpeg/5.1.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6803</guid>
+    </item>
+    <item>
+      <title>Default version of FFmpeg has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFmpeg</category>
+      <pubDate>Thu, 19 Mar 2026 15:01:31 -0000</pubDate>
+      <description>The default version of FFmpeg has changed from 5.1.1-GCC-11.3.0 to 7.1.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FFmpeg&lt;/code&gt;.
+If you wish to continue using 5.1.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FFmpeg/5.1.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6804</guid>
     </item>
   </channel>
 </rss>
