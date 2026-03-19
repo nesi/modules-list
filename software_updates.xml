@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 19 Mar 2026 16:01:25 -0000">
+  <channel lastBuildDate="Thu, 19 Mar 2026 19:01:20 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70706,6 +70706,32 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Avogadro2/
       <description>The default version of ParaView has changed from 6.0.1-foss-2023a-Python-3.11.6 to 5.9.0-gimkl-2020a-Python-3.8.2, this is the version that will be loaded when you run &lt;code&gt;module load ParaView&lt;/code&gt;.
 If you wish to continue using 6.0.1-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load ParaView/6.0.1-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
       <guid>A6806</guid>
+    </item>
+    <item>
+      <title>ParaView/6.0.1-foss-2023a-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ParaView</category>
+      <pubDate>Thu, 19 Mar 2026 19:01:20 -0000</pubDate>
+      <description>ParaView has been updated with a new version, 6.0.1-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load ParaView/6.0.1-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6807</guid>
+    </item>
+    <item>
+      <title>Default version of ParaView has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ParaView</category>
+      <pubDate>Thu, 19 Mar 2026 19:01:20 -0000</pubDate>
+      <description>The default version of ParaView has changed from 5.9.0-gimkl-2020a-Python-3.8.2 to 6.0.1-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load ParaView&lt;/code&gt;.
+If you wish to continue using 5.9.0-gimkl-2020a-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ParaView/5.9.0-gimkl-2020a-Python-3.8.2&lt;/code&gt;</description>
+      <guid>A6808</guid>
+    </item>
+    <item>
+      <title>Default version of ParaView has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ParaView</category>
+      <pubDate>Thu, 19 Mar 2026 19:01:20 -0000</pubDate>
+      <description>The default version of ParaView has changed from 5.9.0-gimkl-2020a-Python-3.8.2 to 6.0.1-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load ParaView&lt;/code&gt;.
+If you wish to continue using 5.9.0-gimkl-2020a-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ParaView/5.9.0-gimkl-2020a-Python-3.8.2&lt;/code&gt;</description>
+      <guid>A6809</guid>
     </item>
   </channel>
 </rss>
