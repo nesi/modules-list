@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 19 Mar 2026 15:01:31 -0000">
+  <channel lastBuildDate="Thu, 19 Mar 2026 16:01:25 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70685,6 +70685,27 @@ If you wish to continue using 5.1.1-GCC-11.3.0 in any of your scripts, make sure
       <description>The default version of FFmpeg has changed from 5.1.1-GCC-11.3.0 to 7.1.2-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FFmpeg&lt;/code&gt;.
 If you wish to continue using 5.1.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FFmpeg/5.1.1-GCC-11.3.0&lt;/code&gt;</description>
       <guid>A6804</guid>
+    </item>
+    <item>
+      <title>Avogadro2 has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Avogadro2</category>
+      <pubDate>Thu, 19 Mar 2026 16:01:25 -0000</pubDate>
+      <description>Avogadro is an advanced molecule editor and visualizer designed for cross-platform
+    use in computational chemistry, molecular modeling, bioinformatics, materials science,
+    and related areas.
+https://two.avogadro.cc/index.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Avogadro2/1.97.0-linux-x86_64&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6805</guid>
+    </item>
+    <item>
+      <title>Default version of ParaView has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ParaView</category>
+      <pubDate>Thu, 19 Mar 2026 16:01:25 -0000</pubDate>
+      <description>The default version of ParaView has changed from 6.0.1-foss-2023a-Python-3.11.6 to 5.9.0-gimkl-2020a-Python-3.8.2, this is the version that will be loaded when you run &lt;code&gt;module load ParaView&lt;/code&gt;.
+If you wish to continue using 6.0.1-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load ParaView/6.0.1-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A6806</guid>
     </item>
   </channel>
 </rss>
