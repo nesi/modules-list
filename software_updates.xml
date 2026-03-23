@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 23 Mar 2026 10:01:24 -0000">
+  <channel lastBuildDate="Mon, 23 Mar 2026 14:01:26 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -70761,6 +70761,68 @@ use-case, dataset and the running machine.
 https://github.com/bwa-mem2/bwa-mem2
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load bwa-mem2/2.3-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6811</guid>
+    </item>
+    <item>
+      <title>GeneMark-ET has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">GeneMark-ET</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>Eukaryotic gene prediction suite with automatic training
+http://exon.gatech.edu/GeneMark
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load GeneMark-ET/4.72-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6812</guid>
+    </item>
+    <item>
+      <title>GLib/2.77.1-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GLib</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>GLib has been updated with a new version, 2.77.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load GLib/2.77.1-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6813</guid>
+    </item>
+    <item>
+      <title>Default version of GLib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GLib</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>The default version of GLib has changed from 2.72.1-GCC-11.3.0 to 2.77.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load GLib&lt;/code&gt;.
+If you wish to continue using 2.72.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GLib/2.72.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6814</guid>
+    </item>
+    <item>
+      <title>Default version of GLib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GLib</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>The default version of GLib has changed from 2.72.1-GCC-11.3.0 to 2.77.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load GLib&lt;/code&gt;.
+If you wish to continue using 2.72.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GLib/2.72.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6815</guid>
+    </item>
+    <item>
+      <title>spaln/3.0.6b-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">spaln</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>spaln has been updated with a new version, 3.0.6b-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load spaln/3.0.6b-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6816</guid>
+    </item>
+    <item>
+      <title>Default version of spaln has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">spaln</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>The default version of spaln has changed from 2.4.5-GCC-9.2.0 to 3.0.6b-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load spaln&lt;/code&gt;.
+If you wish to continue using 2.4.5-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load spaln/2.4.5-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A6817</guid>
+    </item>
+    <item>
+      <title>Default version of spaln has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">spaln</category>
+      <pubDate>Mon, 23 Mar 2026 14:01:25 -0000</pubDate>
+      <description>The default version of spaln has changed from 2.4.5-GCC-9.2.0 to 3.0.6b-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load spaln&lt;/code&gt;.
+If you wish to continue using 2.4.5-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load spaln/2.4.5-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A6818</guid>
     </item>
   </channel>
 </rss>
