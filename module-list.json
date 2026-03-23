@@ -3593,7 +3593,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 83001762.39,
+                        "hourly_average": 82987314.11,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -6731,6 +6731,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "GeneMark-ET": {
+        "description": "Eukaryotic gene prediction suite with automatic training",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "http://exon.gatech.edu/GeneMark",
+        "support": "",
+        "versions": [
+            "4.72-GCC-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "4.72-GCC-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1774226128,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/GeneMark-ET/4.72-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "GenomeThreader": {
         "description": "GenomeThreader is a software tool to compute gene structure predictions.",
         "domains": [
@@ -7025,20 +7045,21 @@
         "domains": [],
         "extensions": [],
         "licence_type": "",
-        "homepage": "http://www.gtk.org/",
+        "homepage": "https://www.gtk.org/",
         "support": "",
         "versions": [
             "2.53.7-GCCcore-7.4.0",
             "2.64.0-GCCcore-9.2.0",
-            "2.72.1-GCC-11.3.0"
+            "2.72.1-GCC-11.3.0",
+            "2.77.1-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.72.1-GCC-11.3.0",
+        "default": "2.77.1-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1774226945,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/GLib/2.72.1-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/GLib/2.77.1-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -19969,7 +19990,7 @@
         "force_show": "False"
     },
     "spaln": {
-        "description": "Stand-alone program that maps and aligns a set of cDNA or protein sequences onto a whole genomic sequence in a single job.",
+        "description": "Spaln (space-efficient spliced alignment) is a stand-alone program that maps\n and aligns a set of cDNA or protein sequences onto a whole genomic sequence in a single job.",
         "domains": [
             "biology"
         ],
@@ -19979,15 +20000,16 @@
         "support": "",
         "versions": [
             "2.4.13f-GCC-11.3.0",
-            "2.4.5-GCC-9.2.0"
+            "2.4.5-GCC-9.2.0",
+            "3.0.6b-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.4.5-GCC-9.2.0",
+        "default": "3.0.6b-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132639,
+        "last_updated": 1774226167,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/spaln/2.4.5-GCC-9.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/spaln/3.0.6b-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
