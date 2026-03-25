@@ -3423,7 +3423,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 82257062.98,
+                        "hourly_average": 82242872.78,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -10708,15 +10708,16 @@
         "support": "",
         "versions": [
             "4.0.9-gimkl-2020a",
-            "4.1.0-GCC-11.3.0"
+            "4.1.0-GCC-11.3.0",
+            "4.1.4-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.1.0-GCC-11.3.0",
+        "default": "4.1.4-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132631,
+        "last_updated": 1774413197,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/MaSuRCA/4.1.0-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/MaSuRCA/4.1.4-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
