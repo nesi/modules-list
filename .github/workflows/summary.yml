@@ -1,0 +1,36 @@
+name: Compare module list over time
+
+on:
+  workflow_dispatch:
+    inputs:
+      from_date:
+        description: "Start date (2024-01-01)"
+        required: true
+      to_date:
+        description: "End date (2025-06-01)"
+        required: true
+
+jobs:
+  compare:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repo (full history)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Extract module-list.json at both points
+        run: |
+          git show $(git rev-list -1 --before="${{ inputs.from_date }}" HEAD):module-list.json > old.json
+          git show $(git rev-list -1 --before="${{ inputs.to_date }}" HEAD):module-list.json > new.json
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.x"
+
+      - name: Run diff script
+        run: |
+          echo "Between ${{ inputs.from_date }} and ${{ inputs.to_date }}"
+          python summary.py old.json new.json
