@@ -1,13 +1,324 @@
-astronomy: []
+---
+astronomy:
+  - temet
+  - ELPA
 biology:
+  - ABRicate
+  - abritamr
+  - AdapterRemoval
+  - AGAT
+  - AGE
+  - AlphaFold
+  - AlphaFold2DB
+  - AlphaFold3DB
+  - AMOS
+  - AMRFinderPlus
+  - ANIcalculator
+  - ANNOVAR
+  - antiSMASH
+  - any2fasta
+  - ARIBA
+  - bamUtil
+  - Bandage
+  - barrnap
+  - BayesAss
+  - BayeScan
+  - BayPass
+  - BCL-Convert
+  - Beagle
+  - beagle-lib
+  - best
+  - BGC-Bayesian-genomic-clines
+  - Bifrost
+  - BiG-SCAPE
+  - Bio-DB-BigFile
+  - Bio-DB-HTS
+  - bioawk
+  - BioPP
+  - BLASTDB
+  - BOLT-LMM
+  - Bracken
+  - BRAKER
+  - breseq
+  - cdbfasta
+  - CellRanger
+  - Centrifuge
+  - CheckM
+  - CheckM2
+  - CheckV
+  - chewBBACA
+  - chopper
+  - Circlator
+  - Clair3
+  - ClustalW2
+  - CNVpytor
+  - compleasm
+  - CONCOCT
+  - CoverM
+  - CRABS
+  - CRAMINO
+  - cuteSV
+  - cyvcf2
+  - D-Genies
+  - dadi
+  - DAS_Tool
+  - datasets
+  - DeconSeq
+  - DeepLabCut
+  - deepTools
+  - Delly
+  - Dorado
+  - DRAM
+  - drep
+  - Dsuite
+  - duphold
+  - duplex-tools
+  - edlib
+  - eDNA
+  - EDTA
+  - eggnog-mapper
+  - EIGENSOFT
+  - EMAN2
+  - emmtyper
+  - Emu
+  - entrez-direct
+  - ETE
+  - EukRep-EukCC
+  - ExpansionHunter
+  - FastANI
+  - FastME
+  - fastp
+  - FastQ_Screen
+  - Fastsimcoal2
+  - fgbio
+  - FIGARO
+  - Filtlong
+  - FimTyper
+  - fineRADstructure
+  - fineSTRUCTURE
   - Flye
+  - Foldseek
+  - FragGeneScan
+  - FreeSurfer
+  - GEMMA
+  - GeneMark-ES
+  - GenomeThreader
+  - genometools
+  - GenoVi
+  - GetOrganelle
+  - gfastats
+  - gfatools
+  - gffread
+  - GlimmerHMM
+  - GOLD
+  - GRIDSS
+  - GTDB-Tk
+  - GUSHR
+  - haplocheck
+  - hifiasm
+  - HMMER2
+  - HTSeq
+  - Humann
+  - HybPiper
+  - IDBA-UD
+  - InterProScan
+  - ipyrad
+  - IQ-TREE
+  - jcvi
+  - jvarkit
+  - Kaiju
+  - kalign2
+  - KAT
+  - Kent_tools
+  - kma
+  - KMC
+  - KmerGenie
+  - KorfSNAP
+  - KronaTools
   - LAMMPS
+  - LAST
+  - LEfSe
+  - libStatGen
+  - Liftoff
+  - LINKS
+  - LongStitch
+  - LSD2
+  - LTR_retriever
+  - LUMPY
+  - maf_stream
+  - MAKER
+  - manta
+  - mapDamage
+  - Mash
+  - MashMap
+  - Mashtree
+  - MaxBin
+  - MCL
+  - mctc-lib
+  - medaka
+  - MEGAHIT
+  - megalodon
+  - Merqury
+  - MetaBAT
+  - METABOLIC
+  - MetaEuk
+  - MetaGeneAnnotator
+  - MetaPhlAn
+  - MetaPhlAn2
+  - MetaSV
+  - metaWRAP
+  - miniasm
+  - miniBUSCO
+  - minigraph
+  - Minimac3
+  - Minimac4
+  - minimap2
+  - miniprot
+  - miRDeep2
+  - MitoZ
+  - MMseqs2
+  - modbam2bed
+  - ModDotPlot
+  - ModelTest-NG
+  - modkit
+  - Monocle3
+  - mosdepth
   - NAMD
+  - NanoComp
+  - nanofilt
+  - nanoget
+  - NanoLyse
+  - nanomath
+  - NanoPlot
+  - nanopolish
+  - nanoQC
+  - NanoStat
+  - NECAT
+  - NewHybrids
+  - NextPolish2
+  - nullarbor
   - NWChem
+  - ont-guppy-gpu
   - OpenBabel
+  - OpenSlide
+  - OrthoFinder
+  - padloc
+  - pairtools
+  - PALEOMIX
+  - PAML
+  - panaroo
+  - parallel-fastq-dump
+  - pauvre
+  - PEAR
+  - pggb
+  - pgge
+  - PhyloPhlAn
+  - phyx
   - PLUMED
+  - pod5
+  - Porechop_ABI
+  - PRANK
+  - preseq
+  - Prodigal
+  - prodigal
+  - prodigal-gv
+  - prokka
   - proovread
+  - ProtHint
+  - psmc
+  - pullseq
+  - purge_dups
+  - purge_haplotigs
+  - pyani
+  - pycoQC
+  - qcat
+  - QuickTree
+  - R-bundle-Bioconductor
+  - Racon
+  - Ragout
+  - randfold
+  - RapidNJ
+  - rasusa
+  - Ratatosk
+  - Raven
+  - RAxML-NG
+  - Rcorrector
+  - RDP-Classifier
+  - RepeatModeler
+  - REViewer
+  - RFdiffusion
+  - RFPlasmid
+  - RNAmmer
+  - rnaQUAST
+  - Roary
+  - Rosetta
+  - SAGE
+  - sc-RNA
+  - screen_assembly
+  - SEPP
+  - SeqAn
+  - SeqAn3
+  - SeqKit
   - seqmagick
+  - SHAPEIT4
+  - SiBELia
+  - SignalP
+  - simuG
+  - sismonr
+  - skani
+  - SKESA
+  - smoove
+  - SMRT-Link
+  - Sniffles
+  - snp-sites
+  - SNVoter-NanoMethPhase
+  - somalier
+  - spaln
+  - spoa
+  - SqueezeMeta
+  - SSAHA2
+  - StringTie
+  - Structure
+  - SURVIVOR
+  - tabix
+  - tabixpp
+  - tbl2asn
+  - TEtranscripts
+  - TMHMM
+  - TOGA
+  - TransDecoder
+  - TreeMix
+  - trimAl
+  - Trimmomatic
+  - Trinotate
+  - tRNAscan-SE
+  - Trycycler
+  - TSEBRA
+  - TWL-NINJA
+  - Unicycler
+  - unimap
+  - USEARCH
+  - VarScan
+  - VBZ-Compression
+  - VCF-kit
+  - vcflib
+  - VelvetOptimiser
+  - VEP
+  - verkko
+  - vg
+  - VIBRANT
+  - VirHostMatcher
+  - VirSorter
+  - VMD
+  - WAAFLE
+  - wannier90
+  - wgsim
+  - WhatsHap
+  - Winnowmap
+  - wtdbg
+  - xPore
+  - yacrd
+  - yak
   - LASTZ
   - Pilon
   - Porechop
@@ -123,7 +434,35 @@ biology:
   - VSEARCH
   - Wise2
 chemistry:
+  - AlphaFold
+  - AlphaFold2DB
+  - AlphaFold3DB
+  - AutoDock Vina
+  - CPMD
+  - CREST
+  - DeePMD-kit
+  - DFT-D4
+  - EMAN2
+  - Foldseek
+  - GOLD
+  - GPAW
+  - HMMER
+  - HMMER2
+  - InterProScan
+  - libvdwxc
+  - MiMiC
+  - MiMiC-CommLib
+  - Newton-X
+  - phonopy
+  - pymol-open-source
+  - randfold
   - rDock
+  - RFdiffusion
+  - Rosetta
+  - TMHMM
+  - TURBOMOLE
+  - VMD
+  - xtb
   - COMSOL
   - OpenFOAM
   - CP2K
@@ -145,13 +484,27 @@ chemistry:
   - PLUMED
   - QuantumESPRESSO
   - VASP
+climate_science:
+  - ESMF
+  - CDO
+  - PDAL
 data_analytics:
   - Python
   - R
 earth_science:
   - ARCSI
+  - ASAGI
+  - Delft3D
+  - Delft3D_FM
+  - libgeotiff
+  - PDAL
+  - PROJ
   - RegCM
+  - R-Geo
+  - Riskscape
+  - SeisSol
   - SPECFEM3D
+  - tomo
   - ESMF
   - ARCSC
   - GDAL
@@ -161,22 +514,32 @@ earth_science:
   - TuiView
   - Zonation
   - OpenSees
+  - OpenSeesPy
 engineering:
   - OpenFAST
   - ANSYS
   - COMSOL
+  - Embree
+  - gmsh
   - OpenFOAM
   - MATLAB
+  - matlab-proxy
+  - MCR
   - ABAQUS
   - OpenSees
+  - OpenSeesPy
   - Elmer
   - FDS
   - Octave
   - ParaView
 language:
+  - Go
+  - Julia
+  - Nim
   - Yasm
   - Tcl
   - Ruby
+  - Rust
   - Rstudio
   - R
   - Python
@@ -195,10 +558,23 @@ machine_learning:
   - Anaconda2
   - Anaconda3
 mathematics:
+  - Armadillo
+  - Basilisk
+  - BLIS
+  - easi
+  - ensmallen
+  - Faiss
+  - FFTW
+  - FFTW.MPI
+  - FreeFEM
   - libmatheval
   - imkl
   - GSL
+  - magma
   - MATLAB
+  - matlab-proxy
+  - MCL
+  - MCR
   - datamash
   - Eigen
   - GEOS
@@ -218,6 +594,7 @@ mathematics:
   - SUNDIALS
 medical_science: []
 physics:
+  - mpcci
   - RegCM
   - OpenFAST
   - COMSOL
@@ -229,8 +606,27 @@ social_science:
   - ANTLR
   - Bison
   - flex
+  - fribidi
   - ErlangOTP
 visualisation:
+  - cairo
+  - FFmpeg
+  - freetype
+  - GD
+  - Gdx-Pixbuf
+  - giflib
+  - GMT
+  - gnuplot
+  - Graphviz
+  - GST-plugins-base
+  - GStreamer
+  - ImageMagick
+  - libjpeg-turbo
+  - libpng
+  - LibTIFF
+  - LittleCMS
+  - pixman
+  - pymol-open-source
   - Python
   - R
   - NCL
@@ -248,9 +644,6 @@ visualisation:
   - NCARG
   - OSPRay
   - ANSYS
-climate_science: 
-  - ESMF  
-  - CDO
 workflow_management:
   - snakemake
   - Nextflow

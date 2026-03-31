@@ -54,7 +54,7 @@ def main():
                     print(f"Tag {module} does not correspond to a application on the platform.", file=sys.stderr)
 
         print(f"{tag_count} tags added from {file}.")
-    open(modified_modules_path, "w+").write(json.dumps(generated_modules, indent=4, sort_keys=True))
+    open(modified_modules_path, "w+").write(json.dumps(dict(sorted(generated_modules.items(),  key=lambda i: i[0].lower())), indent=4))
     print(f"Output written to {modified_modules_path}")
 
 if __name__ == "__main__":
