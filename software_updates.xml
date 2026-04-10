@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 01 Apr 2026 15:02:24 -0000">
+  <channel lastBuildDate="Fri, 10 Apr 2026 16:01:16 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71055,6 +71055,33 @@ If you wish to continue using 0.23.4-GCC-11.3.0 in any of your scripts, make sur
       <description>The default version of fastp has changed from 0.23.4-GCC-11.3.0 to 1.1.0-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load fastp&lt;/code&gt;.
 If you wish to continue using 0.23.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load fastp/0.23.4-GCC-11.3.0&lt;/code&gt;</description>
       <guid>A6844</guid>
+    </item>
+    <item>
+      <title>DBD-mysql has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">DBD-mysql</category>
+      <pubDate>Fri, 10 Apr 2026 16:01:16 -0000</pubDate>
+      <description>Perl binding for MySQL
+https://metacpan.org/pod/distribution/DBD-mysql/lib/DBD/mysql.pm
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load DBD-mysql/4.050-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6845</guid>
+    </item>
+    <item>
+      <title>Bio-DB-HTS/3.01-GCC-12.3.0-Perl-5.40.3 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Bio-DB-HTS</category>
+      <pubDate>Fri, 10 Apr 2026 16:01:16 -0000</pubDate>
+      <description>Bio-DB-HTS has been updated with a new version, 3.01-GCC-12.3.0-Perl-5.40.3. &lt;pre&gt;&lt;code&gt;module load Bio-DB-HTS/3.01-GCC-12.3.0-Perl-5.40.3&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6846</guid>
+    </item>
+    <item>
+      <title>Default version of Bio-DB-HTS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Bio-DB-HTS</category>
+      <pubDate>Fri, 10 Apr 2026 16:01:16 -0000</pubDate>
+      <description>The default version of Bio-DB-HTS has changed from 3.01-GCC-9.2.0-Perl-5.30.1-mt to 3.01-GCC-12.3.0-Perl-5.40.3, this is the version that will be loaded when you run &lt;code&gt;module load Bio-DB-HTS&lt;/code&gt;.
+If you wish to continue using 3.01-GCC-9.2.0-Perl-5.30.1-mt in any of your scripts, make sure to change them to &lt;code&gt;module load Bio-DB-HTS/3.01-GCC-9.2.0-Perl-5.30.1-mt&lt;/code&gt;</description>
+      <guid>A6847</guid>
     </item>
   </channel>
 </rss>
