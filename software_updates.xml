@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 13 Apr 2026 13:02:09 -0000">
+  <channel lastBuildDate="Mon, 13 Apr 2026 15:02:21 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71125,6 +71125,213 @@ If you wish to continue using 113.3-GCC-11.3.0-Perl-5.34.1 in any of your script
       <description>The default version of VEP has changed from 113.3-GCC-11.3.0-Perl-5.34.1 to 115.2-GCC-12.3.0-Perl-5.40.3, this is the version that will be loaded when you run &lt;code&gt;module load VEP&lt;/code&gt;.
 If you wish to continue using 113.3-GCC-11.3.0-Perl-5.34.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VEP/113.3-GCC-11.3.0-Perl-5.34.1&lt;/code&gt;</description>
       <guid>A6852</guid>
+    </item>
+    <item>
+      <title>TSEBRA/1.1.2.5-foss-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">TSEBRA</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>TSEBRA has been updated with a new version, 1.1.2.5-foss-2023a. &lt;pre&gt;&lt;code&gt;module load TSEBRA/1.1.2.5-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6853</guid>
+    </item>
+    <item>
+      <title>Default version of TSEBRA has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">TSEBRA</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of TSEBRA has changed from 1.1.2.5-gimkl-2022a-Python-3.11.3 to 1.1.2.5-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load TSEBRA&lt;/code&gt;.
+If you wish to continue using 1.1.2.5-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load TSEBRA/1.1.2.5-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A6854</guid>
+    </item>
+    <item>
+      <title>compleasm/0.2.7-foss-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">compleasm</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>compleasm has been updated with a new version, 0.2.7-foss-2023a. &lt;pre&gt;&lt;code&gt;module load compleasm/0.2.7-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6855</guid>
+    </item>
+    <item>
+      <title>Default version of compleasm has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">compleasm</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of compleasm has changed from 0.2.7-gimkl-2022a to 0.2.7-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load compleasm&lt;/code&gt;.
+If you wish to continue using 0.2.7-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load compleasm/0.2.7-gimkl-2022a&lt;/code&gt;</description>
+      <guid>A6856</guid>
+    </item>
+    <item>
+      <title>AUGUSTUS/3.5.0-foss-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">AUGUSTUS</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>AUGUSTUS has been updated with a new version, 3.5.0-foss-2023a. &lt;pre&gt;&lt;code&gt;module load AUGUSTUS/3.5.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6857</guid>
+    </item>
+    <item>
+      <title>Default version of AUGUSTUS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">AUGUSTUS</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of AUGUSTUS has changed from 3.5.0-gimkl-2022a-patch1 to 3.5.0-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load AUGUSTUS&lt;/code&gt;.
+If you wish to continue using 3.5.0-gimkl-2022a-patch1 in any of your scripts, make sure to change them to &lt;code&gt;module load AUGUSTUS/3.5.0-gimkl-2022a-patch1&lt;/code&gt;</description>
+      <guid>A6858</guid>
+    </item>
+    <item>
+      <title>Default version of AUGUSTUS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">AUGUSTUS</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of AUGUSTUS has changed from 3.5.0-gimkl-2022a-patch1 to 3.5.0-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load AUGUSTUS&lt;/code&gt;.
+If you wish to continue using 3.5.0-gimkl-2022a-patch1 in any of your scripts, make sure to change them to &lt;code&gt;module load AUGUSTUS/3.5.0-gimkl-2022a-patch1&lt;/code&gt;</description>
+      <guid>A6859</guid>
+    </item>
+    <item>
+      <title>miniprot/0.11-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">miniprot</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>miniprot has been updated with a new version, 0.11-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load miniprot/0.11-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6860</guid>
+    </item>
+    <item>
+      <title>Default version of miniprot has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">miniprot</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of miniprot has changed from 0.11-GCC-11.3.0 to 0.11-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load miniprot&lt;/code&gt;.
+If you wish to continue using 0.11-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load miniprot/0.11-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6861</guid>
+    </item>
+    <item>
+      <title>Default version of miniprot has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">miniprot</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of miniprot has changed from 0.11-GCC-11.3.0 to 0.11-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load miniprot&lt;/code&gt;.
+If you wish to continue using 0.11-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load miniprot/0.11-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A6862</guid>
+    </item>
+    <item>
+      <title>lp_solve/5.5.2.11-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">lp_solve</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>lp_solve has been updated with a new version, 5.5.2.11-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load lp_solve/5.5.2.11-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6863</guid>
+    </item>
+    <item>
+      <title>Default version of lp_solve has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">lp_solve</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of lp_solve has changed from 5.5.2.5-gimkl-2020a to 5.5.2.11-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load lp_solve&lt;/code&gt;.
+If you wish to continue using 5.5.2.5-gimkl-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load lp_solve/5.5.2.5-gimkl-2020a&lt;/code&gt;</description>
+      <guid>A6864</guid>
+    </item>
+    <item>
+      <title>ProtHint/2.6.0-gompi-2023a-Perl-5.40.3-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ProtHint</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>ProtHint has been updated with a new version, 2.6.0-gompi-2023a-Perl-5.40.3-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load ProtHint/2.6.0-gompi-2023a-Perl-5.40.3-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6865</guid>
+    </item>
+    <item>
+      <title>Default version of ProtHint has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ProtHint</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of ProtHint has changed from 2.6.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2 to 2.6.0-gompi-2023a-Perl-5.40.3-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load ProtHint&lt;/code&gt;.
+If you wish to continue using 2.6.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ProtHint/2.6.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2&lt;/code&gt;</description>
+      <guid>A6866</guid>
+    </item>
+    <item>
+      <title>Default version of ProtHint has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ProtHint</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of ProtHint has changed from 2.6.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2 to 2.6.0-gompi-2023a-Perl-5.40.3-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load ProtHint&lt;/code&gt;.
+If you wish to continue using 2.6.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ProtHint/2.6.0-gimkl-2020a-Perl-5.30.1-Python-3.8.2&lt;/code&gt;</description>
+      <guid>A6867</guid>
+    </item>
+    <item>
+      <title>GUSHR/2020-09-28-foss-2023a-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GUSHR</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>GUSHR has been updated with a new version, 2020-09-28-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load GUSHR/2020-09-28-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6868</guid>
+    </item>
+    <item>
+      <title>Default version of GUSHR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GUSHR</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of GUSHR has changed from 2020-09-28-gimkl-2022a to 2020-09-28-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load GUSHR&lt;/code&gt;.
+If you wish to continue using 2020-09-28-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load GUSHR/2020-09-28-gimkl-2022a&lt;/code&gt;</description>
+      <guid>A6869</guid>
+    </item>
+    <item>
+      <title>Default version of GUSHR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GUSHR</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of GUSHR has changed from 2020-09-28-gimkl-2022a to 2020-09-28-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load GUSHR&lt;/code&gt;.
+If you wish to continue using 2020-09-28-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load GUSHR/2020-09-28-gimkl-2022a&lt;/code&gt;</description>
+      <guid>A6870</guid>
+    </item>
+    <item>
+      <title>SEPP/4.5.5-foss-2023a-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">SEPP</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>SEPP has been updated with a new version, 4.5.5-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load SEPP/4.5.5-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6871</guid>
+    </item>
+    <item>
+      <title>Default version of SEPP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SEPP</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of SEPP has changed from 4.5.1-gimkl-2022a-Python-3.11.3 to 4.5.5-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load SEPP&lt;/code&gt;.
+If you wish to continue using 4.5.1-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load SEPP/4.5.1-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A6872</guid>
+    </item>
+    <item>
+      <title>Default version of SEPP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SEPP</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of SEPP has changed from 4.5.1-gimkl-2022a-Python-3.11.3 to 4.5.5-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load SEPP&lt;/code&gt;.
+If you wish to continue using 4.5.1-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load SEPP/4.5.1-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A6873</guid>
+    </item>
+    <item>
+      <title>StringTie/2.2.3-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">StringTie</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>StringTie has been updated with a new version, 2.2.3-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load StringTie/2.2.3-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6874</guid>
+    </item>
+    <item>
+      <title>Default version of StringTie has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">StringTie</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of StringTie has changed from 2.2.3-gimkl-2022a-Python-3.11.3 to 2.2.3-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load StringTie&lt;/code&gt;.
+If you wish to continue using 2.2.3-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load StringTie/2.2.3-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A6875</guid>
+    </item>
+    <item>
+      <title>Default version of StringTie has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">StringTie</category>
+      <pubDate>Mon, 13 Apr 2026 15:02:21 -0000</pubDate>
+      <description>The default version of StringTie has changed from 2.2.3-gimkl-2022a-Python-3.11.3 to 2.2.3-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load StringTie&lt;/code&gt;.
+If you wish to continue using 2.2.3-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load StringTie/2.2.3-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A6876</guid>
     </item>
   </channel>
 </rss>
