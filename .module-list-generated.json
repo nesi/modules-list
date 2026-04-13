@@ -3426,7 +3426,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 76044402.91,
+                        "hourly_average": 76032275.1,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -20529,16 +20529,15 @@
         "homepage": "https://github.com/astral-sh/uv",
         "support": "",
         "versions": [
-            "0.10.3-GCC-12.3.0",
             "0.9.17-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "0.10.3-GCC-12.3.0",
+        "default": "0.9.17-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1776113423,
+        "last_updated": 1765853285,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/uv/0.10.3-GCC-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/uv/0.9.17-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
