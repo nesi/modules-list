@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 13 Apr 2026 11:02:14 -0000">
+  <channel lastBuildDate="Mon, 13 Apr 2026 13:02:09 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71099,6 +71099,32 @@ If you wish to continue using 3.01-GCC-9.2.0-Perl-5.30.1-mt in any of your scrip
       <description>The default version of GMT has changed from 6.6.0-foss-2023a to 6.3.0-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load GMT&lt;/code&gt;.
 If you wish to continue using 6.6.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load GMT/6.6.0-foss-2023a&lt;/code&gt;</description>
       <guid>A6849</guid>
+    </item>
+    <item>
+      <title>VEP/115.2-GCC-12.3.0-Perl-5.40.3 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">VEP</category>
+      <pubDate>Mon, 13 Apr 2026 13:02:08 -0000</pubDate>
+      <description>VEP has been updated with a new version, 115.2-GCC-12.3.0-Perl-5.40.3. &lt;pre&gt;&lt;code&gt;module load VEP/115.2-GCC-12.3.0-Perl-5.40.3&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6850</guid>
+    </item>
+    <item>
+      <title>Default version of VEP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">VEP</category>
+      <pubDate>Mon, 13 Apr 2026 13:02:08 -0000</pubDate>
+      <description>The default version of VEP has changed from 113.3-GCC-11.3.0-Perl-5.34.1 to 115.2-GCC-12.3.0-Perl-5.40.3, this is the version that will be loaded when you run &lt;code&gt;module load VEP&lt;/code&gt;.
+If you wish to continue using 113.3-GCC-11.3.0-Perl-5.34.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VEP/113.3-GCC-11.3.0-Perl-5.34.1&lt;/code&gt;</description>
+      <guid>A6851</guid>
+    </item>
+    <item>
+      <title>Default version of VEP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">VEP</category>
+      <pubDate>Mon, 13 Apr 2026 13:02:08 -0000</pubDate>
+      <description>The default version of VEP has changed from 113.3-GCC-11.3.0-Perl-5.34.1 to 115.2-GCC-12.3.0-Perl-5.40.3, this is the version that will be loaded when you run &lt;code&gt;module load VEP&lt;/code&gt;.
+If you wish to continue using 113.3-GCC-11.3.0-Perl-5.34.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VEP/113.3-GCC-11.3.0-Perl-5.34.1&lt;/code&gt;</description>
+      <guid>A6852</guid>
     </item>
   </channel>
 </rss>
