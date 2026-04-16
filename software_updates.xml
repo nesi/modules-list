@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 14 Apr 2026 12:01:22 -0000">
+  <channel lastBuildDate="Thu, 16 Apr 2026 12:01:17 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71393,6 +71393,127 @@ If you wish to continue using 0.9.17-GCC-12.3.0 in any of your scripts, make sur
       <description>The default version of uv has changed from 0.9.17-GCC-12.3.0 to 0.10.3-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load uv&lt;/code&gt;.
 If you wish to continue using 0.9.17-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load uv/0.9.17-GCC-12.3.0&lt;/code&gt;</description>
       <guid>A6883</guid>
+    </item>
+    <item>
+      <title>HTSlib/1.23.1-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">HTSlib</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>HTSlib has been updated with a new version, 1.23.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load HTSlib/1.23.1-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6884</guid>
+    </item>
+    <item>
+      <title>Default version of HTSlib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HTSlib</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of HTSlib has changed from 1.22-GCC-12.3.0 to 1.23.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load HTSlib&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load HTSlib/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6885</guid>
+    </item>
+    <item>
+      <title>Default version of HTSlib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HTSlib</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of HTSlib has changed from 1.22-GCC-12.3.0 to 1.23.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load HTSlib&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load HTSlib/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6886</guid>
+    </item>
+    <item>
+      <title>minimap2/2.30-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">minimap2</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>minimap2 has been updated with a new version, 2.30-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load minimap2/2.30-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6887</guid>
+    </item>
+    <item>
+      <title>Default version of minimap2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">minimap2</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of minimap2 has changed from 2.28-GCC-12.3.0 to 2.30-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load minimap2&lt;/code&gt;.
+If you wish to continue using 2.28-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load minimap2/2.28-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6888</guid>
+    </item>
+    <item>
+      <title>Default version of minimap2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">minimap2</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of minimap2 has changed from 2.28-GCC-12.3.0 to 2.30-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load minimap2&lt;/code&gt;.
+If you wish to continue using 2.28-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load minimap2/2.28-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6889</guid>
+    </item>
+    <item>
+      <title>Dorado/0.9.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Dorado</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>Dorado has been updated with a new version, 0.9.6. &lt;pre&gt;&lt;code&gt;module load Dorado/0.9.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6890</guid>
+    </item>
+    <item>
+      <title>Default version of Dorado has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Dorado</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of Dorado has changed from 1.1.1 to 0.9.6, this is the version that will be loaded when you run &lt;code&gt;module load Dorado&lt;/code&gt;.
+If you wish to continue using 1.1.1 in any of your scripts, make sure to change them to &lt;code&gt;module load Dorado/1.1.1&lt;/code&gt;</description>
+      <guid>A6891</guid>
+    </item>
+    <item>
+      <title>Dorado/1.4.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Dorado</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>Dorado has been updated with a new version, 1.4.0. &lt;pre&gt;&lt;code&gt;module load Dorado/1.4.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6892</guid>
+    </item>
+    <item>
+      <title>Default version of Dorado has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Dorado</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of Dorado has changed from 1.1.1 to 1.4.0, this is the version that will be loaded when you run &lt;code&gt;module load Dorado&lt;/code&gt;.
+If you wish to continue using 1.1.1 in any of your scripts, make sure to change them to &lt;code&gt;module load Dorado/1.1.1&lt;/code&gt;</description>
+      <guid>A6893</guid>
+    </item>
+    <item>
+      <title>Default version of Dorado has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Dorado</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of Dorado has changed from 1.1.1 to 1.4.0, this is the version that will be loaded when you run &lt;code&gt;module load Dorado&lt;/code&gt;.
+If you wish to continue using 1.1.1 in any of your scripts, make sure to change them to &lt;code&gt;module load Dorado/1.1.1&lt;/code&gt;</description>
+      <guid>A6894</guid>
+    </item>
+    <item>
+      <title>SAMtools/1.23.1-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">SAMtools</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>SAMtools has been updated with a new version, 1.23.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load SAMtools/1.23.1-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6895</guid>
+    </item>
+    <item>
+      <title>Default version of SAMtools has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SAMtools</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of SAMtools has changed from 1.22-GCC-12.3.0 to 1.23.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load SAMtools&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load SAMtools/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6896</guid>
+    </item>
+    <item>
+      <title>Default version of SAMtools has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SAMtools</category>
+      <pubDate>Thu, 16 Apr 2026 12:01:17 -0000</pubDate>
+      <description>The default version of SAMtools has changed from 1.22-GCC-12.3.0 to 1.23.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load SAMtools&lt;/code&gt;.
+If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load SAMtools/1.22-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6897</guid>
     </item>
   </channel>
 </rss>
