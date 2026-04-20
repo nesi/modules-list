@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 16 Apr 2026 12:01:17 -0000">
+  <channel lastBuildDate="Mon, 20 Apr 2026 17:01:15 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71514,6 +71514,32 @@ If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure 
       <description>The default version of SAMtools has changed from 1.22-GCC-12.3.0 to 1.23.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load SAMtools&lt;/code&gt;.
 If you wish to continue using 1.22-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load SAMtools/1.22-GCC-12.3.0&lt;/code&gt;</description>
       <guid>A6897</guid>
+    </item>
+    <item>
+      <title>GTDB-Tk/2.7.1-foss-2023a-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GTDB-Tk</category>
+      <pubDate>Mon, 20 Apr 2026 17:01:15 -0000</pubDate>
+      <description>GTDB-Tk has been updated with a new version, 2.7.1-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load GTDB-Tk/2.7.1-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6898</guid>
+    </item>
+    <item>
+      <title>Default version of GTDB-Tk has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GTDB-Tk</category>
+      <pubDate>Mon, 20 Apr 2026 17:01:15 -0000</pubDate>
+      <description>The default version of GTDB-Tk has changed from 2.4.0-foss-2023a-Python-3.11.6 to 2.7.1-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load GTDB-Tk&lt;/code&gt;.
+If you wish to continue using 2.4.0-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load GTDB-Tk/2.4.0-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A6899</guid>
+    </item>
+    <item>
+      <title>Default version of GTDB-Tk has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GTDB-Tk</category>
+      <pubDate>Mon, 20 Apr 2026 17:01:15 -0000</pubDate>
+      <description>The default version of GTDB-Tk has changed from 2.4.0-foss-2023a-Python-3.11.6 to 2.7.1-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load GTDB-Tk&lt;/code&gt;.
+If you wish to continue using 2.4.0-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load GTDB-Tk/2.4.0-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A6900</guid>
     </item>
   </channel>
 </rss>
