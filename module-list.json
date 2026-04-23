@@ -663,7 +663,7 @@
                 "server": "ANSYS@uoa_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.96,
+                "server_uptime": 0.97,
                 "server_version": "",
                 "features": []
             },
@@ -682,7 +682,7 @@
                 "server": "ANSYS@orbis",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.96,
+                "server_uptime": 0.97,
                 "server_version": "",
                 "features": [
                     {
@@ -716,7 +716,7 @@
                 "server": "ANSYS@aut_foe",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.96,
+                "server_uptime": 0.97,
                 "server_version": "",
                 "features": []
             },
@@ -3516,7 +3516,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 6.24,
+                        "hourly_average": 6.23,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
@@ -3598,7 +3598,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 73240599.62,
+                        "hourly_average": 73229349.58,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
