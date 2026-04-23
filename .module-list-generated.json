@@ -3426,7 +3426,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 73466328.63,
+                        "hourly_average": 73455009.14,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -4063,15 +4063,16 @@
         "homepage": "https://www.ncbi.nlm.nih.gov/datasets/docs/v2/download-and-install/",
         "support": "",
         "versions": [
-            "15.29.0"
+            "15.29.0",
+            "18.23.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "15.29.0",
+        "default": "18.23.0",
         "default_type": "latest",
-        "last_updated": 1740132636,
+        "last_updated": 1776909917,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/datasets/15.29.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/datasets/18.23.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -8217,15 +8218,16 @@
             "1.6.12-gimpi-2020a",
             "2.1.3-gimpi-2020a",
             "2.2.0.5-gimpi-2022a",
-            "2.2.2.2-gimpi-2022a"
+            "2.2.2.2-gimpi-2022a",
+            "3.1.1-foss-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.2.2.2-gimpi-2022a",
+        "default": "3.1.1-foss-2023a",
         "default_type": "latest",
-        "last_updated": 1740132630,
+        "last_updated": 1776911833,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/IQ-TREE/2.2.2.2-gimpi-2022a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/IQ-TREE/3.1.1-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -10340,15 +10342,16 @@
         "support": "",
         "versions": [
             "2.2-GCCcore-9.2.0",
-            "2.3-GCC-11.3.0"
+            "2.3-GCC-11.3.0",
+            "2.4.1-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.3-GCC-11.3.0",
+        "default": "2.4.1-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132631,
+        "last_updated": 1776911229,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/LSD2/2.3-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/LSD2/2.4.1-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
