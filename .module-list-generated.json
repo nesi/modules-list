@@ -2122,7 +2122,8 @@
         "support": "",
         "versions": [
             "2025-08",
-            "2026-01"
+            "2026-01",
+            "2026-04"
         ],
         "admin_list": [
             {
@@ -3426,7 +3427,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 72938056.7,
+                        "hourly_average": 72926899.4,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
