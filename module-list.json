@@ -3599,7 +3599,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 72143362.18,
+                        "hourly_average": 72132446.67,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -7854,6 +7854,26 @@
         "last_updated": 1740132637,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/h5pp/1.9.0-gimpi-2020a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "h5py": {
+        "description": "HDF5 for Python (h5py) is a general-purpose Python interface to the Hierarchical Data Format library,\n version 5. HDF5 is a versatile, mature scientific software library designed for the fast, flexible storage of enormous\n amounts of data.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.h5py.org/",
+        "support": "",
+        "versions": [
+            "3.12.1-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "3.12.1-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1777338845,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/h5py/3.12.1-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -18316,26 +18336,27 @@
         "force_show": "False"
     },
     "RepeatMasker": {
-        "description": "Screens DNA sequences for interspersed repeats and low complexity DNA sequences.  \nFor licensing reasons RepBase is not included, so if you wish to use it you must set LIBDIR to \npoint at a directory which contains your copy of it.",
+        "description": "RepeatMasker is a program that screens DNA sequences for interspersed repeats\n and low complexity DNA sequences.",
         "domains": [
             "biology"
         ],
         "extensions": [],
         "licence_type": "",
-        "homepage": "http://www.repeatmasker.org",
+        "homepage": "https://www.repeatmasker.org/",
         "support": "",
         "versions": [
             "4.1.0-gimkl-2018b",
             "4.1.0-gimkl-2020a",
-            "4.1.0-gimkl-2020a-Dfam-3.2"
+            "4.1.0-gimkl-2020a-Dfam-3.2",
+            "4.2.1-foss-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.1.0-gimkl-2020a-Dfam-3.2",
+        "default": "4.2.1-foss-2023a",
         "default_type": "latest",
-        "last_updated": 1740132633,
+        "last_updated": 1777338901,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/RepeatMasker/4.1.0-gimkl-2020a-Dfam-3.2.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/RepeatMasker/4.2.1-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
