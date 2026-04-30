@@ -3182,7 +3182,10 @@
             "5.5",
             "5.6",
             "6.0",
-            "6.1"
+            "6.1",
+            "6.2",
+            "6.3",
+            "6.4"
         ],
         "admin_list": [],
         "network_licences": [
@@ -3215,7 +3218,7 @@
                         "slurm_track": true,
                         "total": 2,
                         "usage_formula": "{node}",
-                        "use_conditions": "By booking only. Version not greater than 5.4",
+                        "use_conditions": "By booking only. Version not greater than 6.2",
                         "visible_on_docs": true
                     }
                 ]
@@ -3318,7 +3321,7 @@
                         "slurm_track": true,
                         "total": 3,
                         "usage_formula": "{node}",
-                        "use_conditions": "Version not greater than 6.2",
+                        "use_conditions": "Version not greater than 6.4",
                         "visible_on_docs": true
                     }
                 ]
@@ -3345,7 +3348,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 6.12,
+                        "hourly_average": 6.11,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
@@ -3353,20 +3356,6 @@
                         "total": 1,
                         "usage_formula": "1",
                         "use_conditions": "Version not greater than 5.6",
-                        "visible_on_docs": true
-                    },
-                    {
-                        "buffer_constant": 1,
-                        "buffer_constant_other": 0,
-                        "feature_name": "comsoluser",
-                        "hourly_average": 4.66,
-                        "slurm_block": false,
-                        "slurm_soak": true,
-                        "slurm_token_name": "comsoluser@uoa_foe_des_rc",
-                        "slurm_track": true,
-                        "total": 1,
-                        "usage_formula": "1",
-                        "use_conditions": "",
                         "visible_on_docs": true
                     }
                 ]
@@ -3427,7 +3416,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 71612358.43,
+                        "hourly_average": 71601603.0,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -3440,11 +3429,11 @@
                 ]
             }
         ],
-        "default": "6.1",
+        "default": "6.4",
         "default_type": "latest",
         "last_updated": 1758519355,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/COMSOL/6.1.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/COMSOL/6.4.lua",
         "force_hide": "False",
         "force_show": "False"
     },

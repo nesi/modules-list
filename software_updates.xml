@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 30 Apr 2026 14:01:20 -0000">
+  <channel lastBuildDate="Thu, 30 Apr 2026 15:01:25 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71761,6 +71761,66 @@ If you wish to continue using 4.1.0-gimkl-2020a-Dfam-3.2 in any of your scripts,
 https://github.com/hiruna72/slow5-dorado
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load slow5-dorado/1.1.1&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6925</guid>
+    </item>
+    <item>
+      <title>COMSOL/6.2 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>COMSOL has been updated with a new version, 6.2. &lt;pre&gt;&lt;code&gt;module load COMSOL/6.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6926</guid>
+    </item>
+    <item>
+      <title>Default version of COMSOL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>The default version of COMSOL has changed from 6.1 to 6.2, this is the version that will be loaded when you run &lt;code&gt;module load COMSOL&lt;/code&gt;.
+If you wish to continue using 6.1 in any of your scripts, make sure to change them to &lt;code&gt;module load COMSOL/6.1&lt;/code&gt;</description>
+      <guid>A6927</guid>
+    </item>
+    <item>
+      <title>COMSOL/6.3 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>COMSOL has been updated with a new version, 6.3. &lt;pre&gt;&lt;code&gt;module load COMSOL/6.3&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6928</guid>
+    </item>
+    <item>
+      <title>Default version of COMSOL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>The default version of COMSOL has changed from 6.1 to 6.3, this is the version that will be loaded when you run &lt;code&gt;module load COMSOL&lt;/code&gt;.
+If you wish to continue using 6.1 in any of your scripts, make sure to change them to &lt;code&gt;module load COMSOL/6.1&lt;/code&gt;</description>
+      <guid>A6929</guid>
+    </item>
+    <item>
+      <title>COMSOL/6.4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>COMSOL has been updated with a new version, 6.4. &lt;pre&gt;&lt;code&gt;module load COMSOL/6.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6930</guid>
+    </item>
+    <item>
+      <title>Default version of COMSOL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>The default version of COMSOL has changed from 6.1 to 6.4, this is the version that will be loaded when you run &lt;code&gt;module load COMSOL&lt;/code&gt;.
+If you wish to continue using 6.1 in any of your scripts, make sure to change them to &lt;code&gt;module load COMSOL/6.1&lt;/code&gt;</description>
+      <guid>A6931</guid>
+    </item>
+    <item>
+      <title>Default version of COMSOL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">COMSOL</category>
+      <pubDate>Thu, 30 Apr 2026 15:01:25 -0000</pubDate>
+      <description>The default version of COMSOL has changed from 6.1 to 6.4, this is the version that will be loaded when you run &lt;code&gt;module load COMSOL&lt;/code&gt;.
+If you wish to continue using 6.1 in any of your scripts, make sure to change them to &lt;code&gt;module load COMSOL/6.1&lt;/code&gt;</description>
+      <guid>A6932</guid>
     </item>
   </channel>
 </rss>

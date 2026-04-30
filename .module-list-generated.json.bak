@@ -3427,7 +3427,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 71623117.1,
+                        "hourly_average": 71612358.43,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -18796,6 +18796,26 @@
         "last_updated": 1740132634,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/SLEPc/3.19.0-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "slow5-dorado": {
+        "description": "Fork of nanopore's Dorado which supports S/BLOW5.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/hiruna72/slow5-dorado",
+        "support": "",
+        "versions": [
+            "1.1.1"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.1.1",
+        "default_type": "latest",
+        "last_updated": 1777512888,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/slow5-dorado/1.1.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
