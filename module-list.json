@@ -3588,7 +3588,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 71408556.18,
+                        "hourly_average": 71397861.87,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -8347,6 +8347,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "igraph": {
+        "description": "igraph is a collection of network analysis tools with the emphasis on\nefficiency, portability and ease of use. igraph is open source and free. igraph can be\nprogrammed in R, Python and C/C++.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://igraph.org",
+        "support": "",
+        "versions": [
+            "1.0.1-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.0.1-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1777583594,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/igraph/1.0.1-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "IGV": {
         "description": "The Integrative Genomics Viewer (IGV) is a high-performance visualization \n tool for interactive exploration of large, integrated genomic datasets. It supports a wide \n variety of data types, including array-based and next-generation sequence data",
         "domains": [
@@ -9687,6 +9707,29 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "leidenalg": {
+        "description": "Implementation of the Leiden algorithm for various quality\nfunctions to be used with igraph in Python.",
+        "domains": [],
+        "extensions": [
+            "ddt-1.7.2",
+            "leidenalg-0.11.0"
+        ],
+        "licence_type": "",
+        "homepage": "https://github.com/vtraag/leidenalg",
+        "support": "",
+        "versions": [
+            "0.11.0-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.11.0-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1777584420,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/leidenalg/0.11.0-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "libaec": {
         "description": "Libaec provides fast lossless compression of 1 up to 32 bit wide signed or unsigned integers (samples)",
         "domains": [],
@@ -10226,6 +10269,26 @@
         "last_updated": 1740132637,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libKML/1.3.0.2017-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "libleidenalg": {
+        "description": "Implements the Leiden algorithm in C++",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/vtraag/libleidenalg",
+        "support": "",
+        "versions": [
+            "0.12.0-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "0.12.0-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1777584273,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/libleidenalg/0.12.0-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -16894,6 +16957,30 @@
         "last_updated": 1756898515,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/Python-Geo/3.11.6-foss-2023a.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "python-igraph": {
+        "description": "Python interface to the igraph high performance graph library, primarily aimed at complex network\n research and analysis.",
+        "domains": [],
+        "extensions": [
+            "cairocffi-1.7.1",
+            "igraph-1.0.0",
+            "texttable-1.7.0"
+        ],
+        "licence_type": "",
+        "homepage": "https://igraph.org/python",
+        "support": "",
+        "versions": [
+            "1.0.0-foss-2023a"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.0.0-foss-2023a",
+        "default_type": "latest",
+        "last_updated": 1777583981,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/python-igraph/1.0.0-foss-2023a.lua",
         "force_hide": "False",
         "force_show": "False"
     },
