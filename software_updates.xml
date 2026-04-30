@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 30 Apr 2026 15:01:25 -0000">
+  <channel lastBuildDate="Thu, 30 Apr 2026 16:01:26 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71821,6 +71821,16 @@ If you wish to continue using 6.1 in any of your scripts, make sure to change th
       <description>The default version of COMSOL has changed from 6.1 to 6.4, this is the version that will be loaded when you run &lt;code&gt;module load COMSOL&lt;/code&gt;.
 If you wish to continue using 6.1 in any of your scripts, make sure to change them to &lt;code&gt;module load COMSOL/6.1&lt;/code&gt;</description>
       <guid>A6932</guid>
+    </item>
+    <item>
+      <title>Vulkan has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Vulkan</category>
+      <pubDate>Thu, 30 Apr 2026 16:01:26 -0000</pubDate>
+      <description>Vulkan headers, ICDs, and tools
+https://github.com/KhronosGroup
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Vulkan/1.4.328-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6933</guid>
     </item>
   </channel>
 </rss>
