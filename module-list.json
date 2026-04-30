@@ -3588,7 +3588,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 71419253.69,
+                        "hourly_average": 71408556.18,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -6273,15 +6273,16 @@
         "support": "",
         "versions": [
             "1.31-GCC-11.3.0",
-            "1.31-gimkl-2018b"
+            "1.31-gimkl-2018b",
+            "1.32-GCC-12.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.31-gimkl-2018b",
+        "default": "1.32-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1777582134,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/FragGeneScan/1.31-gimkl-2018b.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/FragGeneScan/1.32-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -7223,6 +7224,26 @@
         "last_updated": 1770158135,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/globus-compute-endpoint/4.5.0-foss-2023a-Python-3.11.6.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "GLPK": {
+        "description": "The GLPK (GNU Linear Programming Kit) package is intended for\n solving large-scale linear programming (LP),\n mixed integer programming (MIP), and other related problems.\n It is a set of routines written in ANSI C\n and organized in the form of a callable library.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.gnu.org/software/glpk/",
+        "support": "",
+        "versions": [
+            "5.0-GCCcore-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "5.0-GCCcore-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1777582257,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/GLPK/5.0-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
