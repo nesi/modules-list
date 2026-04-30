@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 30 Apr 2026 16:01:26 -0000">
+  <channel lastBuildDate="Fri, 01 May 2026 09:01:23 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71831,6 +71831,46 @@ If you wish to continue using 6.1 in any of your scripts, make sure to change th
 https://github.com/KhronosGroup
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Vulkan/1.4.328-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6933</guid>
+    </item>
+    <item>
+      <title>GLPK has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">GLPK</category>
+      <pubDate>Fri, 01 May 2026 09:01:23 -0000</pubDate>
+      <description>The GLPK (GNU Linear Programming Kit) package is intended for
+ solving large-scale linear programming (LP),
+ mixed integer programming (MIP), and other related problems.
+ It is a set of routines written in ANSI C
+ and organized in the form of a callable library.
+https://www.gnu.org/software/glpk/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load GLPK/5.0-GCCcore-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6934</guid>
+    </item>
+    <item>
+      <title>FragGeneScan/1.32-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FragGeneScan</category>
+      <pubDate>Fri, 01 May 2026 09:01:23 -0000</pubDate>
+      <description>FragGeneScan has been updated with a new version, 1.32-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load FragGeneScan/1.32-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6935</guid>
+    </item>
+    <item>
+      <title>Default version of FragGeneScan has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FragGeneScan</category>
+      <pubDate>Fri, 01 May 2026 09:01:23 -0000</pubDate>
+      <description>The default version of FragGeneScan has changed from 1.31-gimkl-2018b to 1.32-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FragGeneScan&lt;/code&gt;.
+If you wish to continue using 1.31-gimkl-2018b in any of your scripts, make sure to change them to &lt;code&gt;module load FragGeneScan/1.31-gimkl-2018b&lt;/code&gt;</description>
+      <guid>A6936</guid>
+    </item>
+    <item>
+      <title>Default version of FragGeneScan has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FragGeneScan</category>
+      <pubDate>Fri, 01 May 2026 09:01:23 -0000</pubDate>
+      <description>The default version of FragGeneScan has changed from 1.31-gimkl-2018b to 1.32-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FragGeneScan&lt;/code&gt;.
+If you wish to continue using 1.31-gimkl-2018b in any of your scripts, make sure to change them to &lt;code&gt;module load FragGeneScan/1.31-gimkl-2018b&lt;/code&gt;</description>
+      <guid>A6937</guid>
     </item>
   </channel>
 </rss>
