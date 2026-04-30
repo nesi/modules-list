@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 01 May 2026 09:01:23 -0000">
+  <channel lastBuildDate="Fri, 01 May 2026 10:01:19 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71871,6 +71871,50 @@ If you wish to continue using 1.31-gimkl-2018b in any of your scripts, make sure
       <description>The default version of FragGeneScan has changed from 1.31-gimkl-2018b to 1.32-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FragGeneScan&lt;/code&gt;.
 If you wish to continue using 1.31-gimkl-2018b in any of your scripts, make sure to change them to &lt;code&gt;module load FragGeneScan/1.31-gimkl-2018b&lt;/code&gt;</description>
       <guid>A6937</guid>
+    </item>
+    <item>
+      <title>python-igraph has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">python-igraph</category>
+      <pubDate>Fri, 01 May 2026 10:01:19 -0000</pubDate>
+      <description>Python interface to the igraph high performance graph library, primarily aimed at complex network
+ research and analysis.
+https://igraph.org/python
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load python-igraph/1.0.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6938</guid>
+    </item>
+    <item>
+      <title>libleidenalg has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">libleidenalg</category>
+      <pubDate>Fri, 01 May 2026 10:01:19 -0000</pubDate>
+      <description>Implements the Leiden algorithm in C++
+https://github.com/vtraag/libleidenalg
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libleidenalg/0.12.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6939</guid>
+    </item>
+    <item>
+      <title>leidenalg has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">leidenalg</category>
+      <pubDate>Fri, 01 May 2026 10:01:19 -0000</pubDate>
+      <description>Implementation of the Leiden algorithm for various quality
+functions to be used with igraph in Python.
+https://github.com/vtraag/leidenalg
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load leidenalg/0.11.0-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6940</guid>
+    </item>
+    <item>
+      <title>igraph has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">igraph</category>
+      <pubDate>Fri, 01 May 2026 10:01:19 -0000</pubDate>
+      <description>igraph is a collection of network analysis tools with the emphasis on
+efficiency, portability and ease of use. igraph is open source and free. igraph can be
+programmed in R, Python and C/C++.
+https://igraph.org
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load igraph/1.0.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6941</guid>
     </item>
   </channel>
 </rss>
