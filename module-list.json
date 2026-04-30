@@ -3588,7 +3588,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 71601603.0,
+                        "hourly_average": 71590850.8,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -22178,6 +22178,26 @@
         "last_updated": 1760479609,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/VTune/2025.6.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "Vulkan": {
+        "description": "Vulkan headers, ICDs, and tools",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/KhronosGroup",
+        "support": "",
+        "versions": [
+            "1.4.328-GCCcore-12.3.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.4.328-GCCcore-12.3.0",
+        "default_type": "latest",
+        "last_updated": 1777519410,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/Vulkan/1.4.328-GCCcore-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
