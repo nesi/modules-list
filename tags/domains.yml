@@ -532,7 +532,7 @@ engineering:
   - FDS
   - Octave
   - ParaView
-GPU Support:
+GPU:
   - AdaptiveCpp
   - AlphaFold
   - Amber
