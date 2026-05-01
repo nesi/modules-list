@@ -532,6 +532,52 @@ engineering:
   - FDS
   - Octave
   - ParaView
+GPU Support:
+  - AdaptiveCpp
+  - AlphaFold
+  - Amber
+  - AutoDock-GPU
+  - beagle-lib
+  - BEAST
+  - Clang
+  - CP2K
+  - CUDA
+  - cuDNN
+  - dadi
+  - DeepLabCut
+  - DeePMD-plugin
+  - Dorado
+  - EMAN2
+  - GPUMD
+  - GROMACS
+  - impi
+  - LAMMPS
+  - libcuda-stub
+  - libgpuarray
+  - LISFLOOD-FP
+  - magma
+  - medaka
+  - megalodon
+  - MiMiC
+  - MrBayes
+  - NAMD
+  - NCCL
+  - NVHPC
+  - ont-guppy-gpu
+  - OpenMPI
+  - PyTorch
+  - Racon
+  - Relion
+  - RFdiffusion
+  - SeisSol
+  - slow5-dorado
+  - TensorFlow
+  - TensorRT
+  - UCC-CUDA
+  - UCX
+  - UCX-CUDA
+  - Unicycler
+  - VASP
 language:
   - Go
   - Julia
