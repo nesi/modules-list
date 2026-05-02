@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 01 May 2026 10:01:19 -0000">
+  <channel lastBuildDate="Sat, 02 May 2026 15:01:24 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71915,6 +71915,16 @@ programmed in R, Python and C/C++.
 https://igraph.org
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load igraph/1.0.1-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6941</guid>
+    </item>
+    <item>
+      <title>ollama has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">ollama</category>
+      <pubDate>Sat, 02 May 2026 15:01:24 -0000</pubDate>
+      <description>Get up and running with large language models.
+https://ollama.com/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load ollama/0.21.1-GCCcore-12.3.0-CUDA-12.6.3&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6942</guid>
     </item>
   </channel>
 </rss>
