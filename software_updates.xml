@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 04 May 2026 13:01:23 -0000">
+  <channel lastBuildDate="Thu, 07 May 2026 10:01:09 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71943,6 +71943,32 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load ollama/0.2
 https://ollama.com/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load ollama/0.21.1-GCCcore-12.3.0-CUDA-12.6.3&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A6944</guid>
+    </item>
+    <item>
+      <title>binutils/2.45 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">binutils</category>
+      <pubDate>Thu, 07 May 2026 10:01:09 -0000</pubDate>
+      <description>binutils has been updated with a new version, 2.45. &lt;pre&gt;&lt;code&gt;module load binutils/2.45&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6945</guid>
+    </item>
+    <item>
+      <title>Default version of binutils has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">binutils</category>
+      <pubDate>Thu, 07 May 2026 10:01:09 -0000</pubDate>
+      <description>The default version of binutils has changed from 2.40 to 2.45, this is the version that will be loaded when you run &lt;code&gt;module load binutils&lt;/code&gt;.
+If you wish to continue using 2.40 in any of your scripts, make sure to change them to &lt;code&gt;module load binutils/2.40&lt;/code&gt;</description>
+      <guid>A6946</guid>
+    </item>
+    <item>
+      <title>Default version of binutils has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">binutils</category>
+      <pubDate>Thu, 07 May 2026 10:01:09 -0000</pubDate>
+      <description>The default version of binutils has changed from 2.40 to 2.45, this is the version that will be loaded when you run &lt;code&gt;module load binutils&lt;/code&gt;.
+If you wish to continue using 2.40 in any of your scripts, make sure to change them to &lt;code&gt;module load binutils/2.40&lt;/code&gt;</description>
+      <guid>A6947</guid>
     </item>
   </channel>
 </rss>
