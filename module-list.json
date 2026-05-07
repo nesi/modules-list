@@ -3623,7 +3623,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 69808745.22,
+                        "hourly_average": 69798524.7,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -5905,15 +5905,16 @@
         "support": "",
         "versions": [
             "3.3.10-gompi-2023a",
+            "3.3.10-gompi-2026",
             "3.3.10-iompi-2023a"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.3.10-gompi-2023a",
+        "default": "3.3.10-gompi-2026",
         "default_type": "latest",
-        "last_updated": 1740132628,
+        "last_updated": 1778133959,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/FFTW.MPI/3.3.10-gompi-2023a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/FFTW.MPI/3.3.10-gompi-2026.lua",
         "force_hide": "False",
         "force_show": "False"
     },
