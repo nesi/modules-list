@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 08 May 2026 01:01:07 -0000">
+  <channel lastBuildDate="Fri, 08 May 2026 11:01:11 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72447,6 +72447,32 @@ If you wish to continue using 2023a in any of your scripts, make sure to change 
       <description>The default version of foss has changed from 2023a to 2026, this is the version that will be loaded when you run &lt;code&gt;module load foss&lt;/code&gt;.
 If you wish to continue using 2023a in any of your scripts, make sure to change them to &lt;code&gt;module load foss/2023a&lt;/code&gt;</description>
       <guid>A7002</guid>
+    </item>
+    <item>
+      <title>OrthoFinder/3.1.4-foss-2023a-Python-3.11.6 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OrthoFinder</category>
+      <pubDate>Fri, 08 May 2026 11:01:11 -0000</pubDate>
+      <description>OrthoFinder has been updated with a new version, 3.1.4-foss-2023a-Python-3.11.6. &lt;pre&gt;&lt;code&gt;module load OrthoFinder/3.1.4-foss-2023a-Python-3.11.6&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7003</guid>
+    </item>
+    <item>
+      <title>Default version of OrthoFinder has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OrthoFinder</category>
+      <pubDate>Fri, 08 May 2026 11:01:11 -0000</pubDate>
+      <description>The default version of OrthoFinder has changed from 2.5.5-gimkl-2022a-Python-3.11.3 to 3.1.4-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load OrthoFinder&lt;/code&gt;.
+If you wish to continue using 2.5.5-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load OrthoFinder/2.5.5-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A7004</guid>
+    </item>
+    <item>
+      <title>Default version of OrthoFinder has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OrthoFinder</category>
+      <pubDate>Fri, 08 May 2026 11:01:11 -0000</pubDate>
+      <description>The default version of OrthoFinder has changed from 2.5.5-gimkl-2022a-Python-3.11.3 to 3.1.4-foss-2023a-Python-3.11.6, this is the version that will be loaded when you run &lt;code&gt;module load OrthoFinder&lt;/code&gt;.
+If you wish to continue using 2.5.5-gimkl-2022a-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load OrthoFinder/2.5.5-gimkl-2022a-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A7005</guid>
     </item>
   </channel>
 </rss>
