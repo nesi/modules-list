@@ -1944,7 +1944,8 @@
             "2.38-GCCcore-11.3.0",
             "2.40",
             "2.40-GCCcore-12.3.0",
-            "2.45"
+            "2.45",
+            "2.45-GCCcore-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -3417,7 +3418,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 69870131.29,
+                        "hourly_average": 69859892.78,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -6218,6 +6219,7 @@
         "versions": [
             "11.3.0",
             "12.3.0",
+            "15.2.0",
             "5.4.0",
             "6.3.0",
             "7.1.0",
@@ -6226,11 +6228,11 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "12.3.0",
+        "default": "15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1778113691,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/GCC/12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/GCC/15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -6245,6 +6247,7 @@
             "11.2.0",
             "11.3.0",
             "12.3.0",
+            "15.2.0",
             "5.4.0",
             "6.3.0",
             "7.1.0",
@@ -6253,11 +6256,11 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "12.3.0",
+        "default": "15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1778113410,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/GCCcore/12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/GCCcore/15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -8135,7 +8138,7 @@
         "force_show": "False"
     },
     "intel-compilers": {
-        "description": "Intel C, C++ & Fortran compilers (classic and oneAPI)",
+        "description": "Intel C, C++ & Fortran compilers",
         "domains": [],
         "extensions": [],
         "licence_type": "",
@@ -8143,15 +8146,16 @@
         "support": "",
         "versions": [
             "2022.0.2",
-            "2023.2.1"
+            "2023.2.1",
+            "2025.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2023.2.1",
+        "default": "2025.3.0",
         "default_type": "latest",
-        "last_updated": 1740132637,
+        "last_updated": 1778113814,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/intel-compilers/2023.2.1.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/intel-compilers/2025.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
