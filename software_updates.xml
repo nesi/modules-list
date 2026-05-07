@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 07 May 2026 15:01:07 -0000">
+  <channel lastBuildDate="Thu, 07 May 2026 18:01:07 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72263,6 +72263,138 @@ If you wish to continue using 6.2-gompi-2022a in any of your scripts, make sure 
       <description>The default version of OSU-Micro-Benchmarks has changed from 6.2-gompi-2022a to 7.5.2-iompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load OSU-Micro-Benchmarks&lt;/code&gt;.
 If you wish to continue using 6.2-gompi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load OSU-Micro-Benchmarks/6.2-gompi-2022a&lt;/code&gt;</description>
       <guid>A6981</guid>
+    </item>
+    <item>
+      <title>AOCL-BLAS has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">AOCL-BLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>AOCL-BLAS is AMD's optimized version of
+                 BLAS targeted for AMD EPYC and Ryzen CPUs.
+https://github.com/amd/blis
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load AOCL-BLAS/5.2.2-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6982</guid>
+    </item>
+    <item>
+      <title>FFTW/3.3.10-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FFTW</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>FFTW has been updated with a new version, 3.3.10-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load FFTW/3.3.10-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6983</guid>
+    </item>
+    <item>
+      <title>Default version of FFTW has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFTW</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of FFTW has changed from 3.3.10-GCC-12.3.0 to 3.3.10-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FFTW&lt;/code&gt;.
+If you wish to continue using 3.3.10-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FFTW/3.3.10-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6984</guid>
+    </item>
+    <item>
+      <title>Default version of FFTW has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFTW</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of FFTW has changed from 3.3.10-GCC-12.3.0 to 3.3.10-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FFTW&lt;/code&gt;.
+If you wish to continue using 3.3.10-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FFTW/3.3.10-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6985</guid>
+    </item>
+    <item>
+      <title>OpenBLAS/0.3.32-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>OpenBLAS has been updated with a new version, 0.3.32-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load OpenBLAS/0.3.32-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6986</guid>
+    </item>
+    <item>
+      <title>Default version of OpenBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of OpenBLAS has changed from 0.3.23-GCC-12.3.0 to 0.3.32-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenBLAS&lt;/code&gt;.
+If you wish to continue using 0.3.23-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenBLAS/0.3.23-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6987</guid>
+    </item>
+    <item>
+      <title>Default version of OpenBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of OpenBLAS has changed from 0.3.23-GCC-12.3.0 to 0.3.32-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenBLAS&lt;/code&gt;.
+If you wish to continue using 0.3.23-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenBLAS/0.3.23-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A6988</guid>
+    </item>
+    <item>
+      <title>BLIS/2.0-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">BLIS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>BLIS has been updated with a new version, 2.0-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load BLIS/2.0-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6989</guid>
+    </item>
+    <item>
+      <title>Default version of BLIS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BLIS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of BLIS has changed from 4.0-GCC-11.3.0-amd to 2.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load BLIS&lt;/code&gt;.
+If you wish to continue using 4.0-GCC-11.3.0-amd in any of your scripts, make sure to change them to &lt;code&gt;module load BLIS/4.0-GCC-11.3.0-amd&lt;/code&gt;</description>
+      <guid>A6990</guid>
+    </item>
+    <item>
+      <title>ScaLAPACK/2.2.2-gompi-2026-fb added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ScaLAPACK</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>ScaLAPACK has been updated with a new version, 2.2.2-gompi-2026-fb. &lt;pre&gt;&lt;code&gt;module load ScaLAPACK/2.2.2-gompi-2026-fb&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6991</guid>
+    </item>
+    <item>
+      <title>Default version of ScaLAPACK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ScaLAPACK</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of ScaLAPACK has changed from 2.2.0-iompi-2023a-fb to 2.2.2-gompi-2026-fb, this is the version that will be loaded when you run &lt;code&gt;module load ScaLAPACK&lt;/code&gt;.
+If you wish to continue using 2.2.0-iompi-2023a-fb in any of your scripts, make sure to change them to &lt;code&gt;module load ScaLAPACK/2.2.0-iompi-2023a-fb&lt;/code&gt;</description>
+      <guid>A6992</guid>
+    </item>
+    <item>
+      <title>Default version of ScaLAPACK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ScaLAPACK</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of ScaLAPACK has changed from 2.2.0-iompi-2023a-fb to 2.2.2-gompi-2026-fb, this is the version that will be loaded when you run &lt;code&gt;module load ScaLAPACK&lt;/code&gt;.
+If you wish to continue using 2.2.0-iompi-2023a-fb in any of your scripts, make sure to change them to &lt;code&gt;module load ScaLAPACK/2.2.0-iompi-2023a-fb&lt;/code&gt;</description>
+      <guid>A6993</guid>
+    </item>
+    <item>
+      <title>FlexiBLAS/3.5.0-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FlexiBLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>FlexiBLAS has been updated with a new version, 3.5.0-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load FlexiBLAS/3.5.0-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6994</guid>
+    </item>
+    <item>
+      <title>Default version of FlexiBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FlexiBLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of FlexiBLAS has changed from 3.4.4-intel-compilers-2023.2.1 to 3.5.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FlexiBLAS&lt;/code&gt;.
+If you wish to continue using 3.4.4-intel-compilers-2023.2.1 in any of your scripts, make sure to change them to &lt;code&gt;module load FlexiBLAS/3.4.4-intel-compilers-2023.2.1&lt;/code&gt;</description>
+      <guid>A6995</guid>
+    </item>
+    <item>
+      <title>Default version of FlexiBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FlexiBLAS</category>
+      <pubDate>Thu, 07 May 2026 18:01:07 -0000</pubDate>
+      <description>The default version of FlexiBLAS has changed from 3.4.4-intel-compilers-2023.2.1 to 3.5.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FlexiBLAS&lt;/code&gt;.
+If you wish to continue using 3.4.4-intel-compilers-2023.2.1 in any of your scripts, make sure to change them to &lt;code&gt;module load FlexiBLAS/3.4.4-intel-compilers-2023.2.1&lt;/code&gt;</description>
+      <guid>A6996</guid>
     </item>
   </channel>
 </rss>
