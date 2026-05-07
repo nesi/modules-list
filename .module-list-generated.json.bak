@@ -3418,7 +3418,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 69859892.78,
+                        "hourly_average": 69849657.27,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -7034,15 +7034,16 @@
         "support": "",
         "versions": [
             "2022a",
-            "2023a"
+            "2023a",
+            "2026"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2023a",
+        "default": "2026",
         "default_type": "latest",
-        "last_updated": 1740132637,
+        "last_updated": 1778118642,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/gompi/2023a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/gompi/2026.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -13736,7 +13737,7 @@
         "force_show": "False"
     },
     "OpenMPI": {
-        "description": "The Open MPI Project is an open source MPI-3 implementation. This version is built with CUDA support enabled.",
+        "description": "The Open MPI Project is an open source MPI-3 implementation.",
         "domains": [],
         "extensions": [],
         "licence_type": "",
@@ -13755,7 +13756,8 @@
             "4.1.5-GCC-12.3.0-CUDA-12.2.2",
             "4.1.5-NVHPC-23.9-CUDA-12.2.2-CUDA-12.2.2",
             "4.1.5-NVHPC-23.9-GCC-12.3.0-CUDA-12.2.2",
-            "4.1.5-intel-compilers-2023.2.1"
+            "4.1.5-intel-compilers-2023.2.1",
+            "5.0.10-GCC-15.2.0"
         ],
         "admin_list": [
             {
@@ -13766,11 +13768,11 @@
             }
         ],
         "network_licences": [],
-        "default": "4.1.5-GCC-12.3.0-CUDA-12.2.2",
+        "default": "5.0.10-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1762396944,
+        "last_updated": 1778118633,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/OpenMPI/4.1.5-GCC-12.3.0-CUDA-12.2.2.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/OpenMPI/5.0.10-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -20481,15 +20483,16 @@
         "versions": [
             "1.2.0-GCCcore-12.3.0",
             "1.3.0-GCCcore-11.3.0",
-            "1.3.0-GCCcore-12.3.0"
+            "1.3.0-GCCcore-12.3.0",
+            "1.7.0-GCCcore-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.3.0-GCCcore-12.3.0",
+        "default": "1.7.0-GCCcore-15.2.0",
         "default_type": "latest",
-        "last_updated": 1746704327,
+        "last_updated": 1778117547,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/UCC/1.3.0-GCCcore-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/UCC/1.7.0-GCCcore-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -20529,15 +20532,16 @@
             "1.14.1-GCCcore-12.3.0",
             "1.18.1-GCC-11.3.0",
             "1.18.1-GCCcore-11.3.0",
-            "1.18.1-GCCcore-12.3.0"
+            "1.18.1-GCCcore-12.3.0",
+            "1.20.0-GCCcore-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.18.1-GCCcore-12.3.0",
+        "default": "1.20.0-GCCcore-15.2.0",
         "default_type": "latest",
-        "last_updated": 1746660024,
+        "last_updated": 1778117387,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/UCX/1.18.1-GCCcore-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/UCX/1.20.0-GCCcore-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },

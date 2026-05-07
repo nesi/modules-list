@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 07 May 2026 14:01:08 -0000">
+  <channel lastBuildDate="Thu, 07 May 2026 15:01:07 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72168,6 +72168,101 @@ If you wish to continue using 4.1.5-GCC-12.3.0-CUDA-12.2.2 in any of your script
       <description>The default version of OpenMPI has changed from 4.1.5-GCC-12.3.0-CUDA-12.2.2 to 5.0.10-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenMPI&lt;/code&gt;.
 If you wish to continue using 4.1.5-GCC-12.3.0-CUDA-12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenMPI/4.1.5-GCC-12.3.0-CUDA-12.2.2&lt;/code&gt;</description>
       <guid>A6970</guid>
+    </item>
+    <item>
+      <title>OpenMPI/5.0.10-intel-compilers-2025.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OpenMPI</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>OpenMPI has been updated with a new version, 5.0.10-intel-compilers-2025.3.0. &lt;pre&gt;&lt;code&gt;module load OpenMPI/5.0.10-intel-compilers-2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6971</guid>
+    </item>
+    <item>
+      <title>Default version of OpenMPI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenMPI</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of OpenMPI has changed from 5.0.10-GCC-15.2.0 to 5.0.10-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenMPI&lt;/code&gt;.
+If you wish to continue using 5.0.10-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenMPI/5.0.10-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A6972</guid>
+    </item>
+    <item>
+      <title>Default version of OpenMPI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenMPI</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of OpenMPI has changed from 5.0.10-GCC-15.2.0 to 5.0.10-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenMPI&lt;/code&gt;.
+If you wish to continue using 5.0.10-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenMPI/5.0.10-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A6973</guid>
+    </item>
+    <item>
+      <title>iompi/2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">iompi</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>iompi has been updated with a new version, 2026. &lt;pre&gt;&lt;code&gt;module load iompi/2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6974</guid>
+    </item>
+    <item>
+      <title>Default version of iompi has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">iompi</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of iompi has changed from 2023a to 2026, this is the version that will be loaded when you run &lt;code&gt;module load iompi&lt;/code&gt;.
+If you wish to continue using 2023a in any of your scripts, make sure to change them to &lt;code&gt;module load iompi/2023a&lt;/code&gt;</description>
+      <guid>A6975</guid>
+    </item>
+    <item>
+      <title>Default version of iompi has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">iompi</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of iompi has changed from 2023a to 2026, this is the version that will be loaded when you run &lt;code&gt;module load iompi&lt;/code&gt;.
+If you wish to continue using 2023a in any of your scripts, make sure to change them to &lt;code&gt;module load iompi/2023a&lt;/code&gt;</description>
+      <guid>A6976</guid>
+    </item>
+    <item>
+      <title>OSU-Micro-Benchmarks/7.5.2-gompi-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OSU-Micro-Benchmarks</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>OSU-Micro-Benchmarks has been updated with a new version, 7.5.2-gompi-2026. &lt;pre&gt;&lt;code&gt;module load OSU-Micro-Benchmarks/7.5.2-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6977</guid>
+    </item>
+    <item>
+      <title>Default version of OSU-Micro-Benchmarks has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OSU-Micro-Benchmarks</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of OSU-Micro-Benchmarks has changed from 6.2-gompi-2022a to 7.5.2-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load OSU-Micro-Benchmarks&lt;/code&gt;.
+If you wish to continue using 6.2-gompi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load OSU-Micro-Benchmarks/6.2-gompi-2022a&lt;/code&gt;</description>
+      <guid>A6978</guid>
+    </item>
+    <item>
+      <title>OSU-Micro-Benchmarks/7.5.2-iompi-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OSU-Micro-Benchmarks</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>OSU-Micro-Benchmarks has been updated with a new version, 7.5.2-iompi-2026. &lt;pre&gt;&lt;code&gt;module load OSU-Micro-Benchmarks/7.5.2-iompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6979</guid>
+    </item>
+    <item>
+      <title>Default version of OSU-Micro-Benchmarks has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OSU-Micro-Benchmarks</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of OSU-Micro-Benchmarks has changed from 6.2-gompi-2022a to 7.5.2-iompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load OSU-Micro-Benchmarks&lt;/code&gt;.
+If you wish to continue using 6.2-gompi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load OSU-Micro-Benchmarks/6.2-gompi-2022a&lt;/code&gt;</description>
+      <guid>A6980</guid>
+    </item>
+    <item>
+      <title>Default version of OSU-Micro-Benchmarks has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OSU-Micro-Benchmarks</category>
+      <pubDate>Thu, 07 May 2026 15:01:07 -0000</pubDate>
+      <description>The default version of OSU-Micro-Benchmarks has changed from 6.2-gompi-2022a to 7.5.2-iompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load OSU-Micro-Benchmarks&lt;/code&gt;.
+If you wish to continue using 6.2-gompi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load OSU-Micro-Benchmarks/6.2-gompi-2022a&lt;/code&gt;</description>
+      <guid>A6981</guid>
     </item>
   </channel>
 </rss>
