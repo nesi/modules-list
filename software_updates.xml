@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 07 May 2026 18:01:07 -0000">
+  <channel lastBuildDate="Thu, 07 May 2026 19:01:12 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72395,6 +72395,32 @@ If you wish to continue using 3.4.4-intel-compilers-2023.2.1 in any of your scri
       <description>The default version of FlexiBLAS has changed from 3.4.4-intel-compilers-2023.2.1 to 3.5.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FlexiBLAS&lt;/code&gt;.
 If you wish to continue using 3.4.4-intel-compilers-2023.2.1 in any of your scripts, make sure to change them to &lt;code&gt;module load FlexiBLAS/3.4.4-intel-compilers-2023.2.1&lt;/code&gt;</description>
       <guid>A6996</guid>
+    </item>
+    <item>
+      <title>FFTW.MPI/3.3.10-gompi-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FFTW.MPI</category>
+      <pubDate>Thu, 07 May 2026 19:01:12 -0000</pubDate>
+      <description>FFTW.MPI has been updated with a new version, 3.3.10-gompi-2026. &lt;pre&gt;&lt;code&gt;module load FFTW.MPI/3.3.10-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6997</guid>
+    </item>
+    <item>
+      <title>Default version of FFTW.MPI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFTW.MPI</category>
+      <pubDate>Thu, 07 May 2026 19:01:12 -0000</pubDate>
+      <description>The default version of FFTW.MPI has changed from 3.3.10-gompi-2023a to 3.3.10-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load FFTW.MPI&lt;/code&gt;.
+If you wish to continue using 3.3.10-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load FFTW.MPI/3.3.10-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6998</guid>
+    </item>
+    <item>
+      <title>Default version of FFTW.MPI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFTW.MPI</category>
+      <pubDate>Thu, 07 May 2026 19:01:12 -0000</pubDate>
+      <description>The default version of FFTW.MPI has changed from 3.3.10-gompi-2023a to 3.3.10-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load FFTW.MPI&lt;/code&gt;.
+If you wish to continue using 3.3.10-gompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load FFTW.MPI/3.3.10-gompi-2023a&lt;/code&gt;</description>
+      <guid>A6999</guid>
     </item>
   </channel>
 </rss>
