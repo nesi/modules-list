@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 07 May 2026 10:01:09 -0000">
+  <channel lastBuildDate="Thu, 07 May 2026 13:01:05 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -71969,6 +71969,101 @@ If you wish to continue using 2.40 in any of your scripts, make sure to change t
       <description>The default version of binutils has changed from 2.40 to 2.45, this is the version that will be loaded when you run &lt;code&gt;module load binutils&lt;/code&gt;.
 If you wish to continue using 2.40 in any of your scripts, make sure to change them to &lt;code&gt;module load binutils/2.40&lt;/code&gt;</description>
       <guid>A6947</guid>
+    </item>
+    <item>
+      <title>GCCcore/15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GCCcore</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>GCCcore has been updated with a new version, 15.2.0. &lt;pre&gt;&lt;code&gt;module load GCCcore/15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6948</guid>
+    </item>
+    <item>
+      <title>Default version of GCCcore has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GCCcore</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of GCCcore has changed from 12.3.0 to 15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GCCcore&lt;/code&gt;.
+If you wish to continue using 12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GCCcore/12.3.0&lt;/code&gt;</description>
+      <guid>A6949</guid>
+    </item>
+    <item>
+      <title>Default version of GCCcore has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GCCcore</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of GCCcore has changed from 12.3.0 to 15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GCCcore&lt;/code&gt;.
+If you wish to continue using 12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GCCcore/12.3.0&lt;/code&gt;</description>
+      <guid>A6950</guid>
+    </item>
+    <item>
+      <title>intel-compilers/2025.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">intel-compilers</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>intel-compilers has been updated with a new version, 2025.3.0. &lt;pre&gt;&lt;code&gt;module load intel-compilers/2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6951</guid>
+    </item>
+    <item>
+      <title>Default version of intel-compilers has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">intel-compilers</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of intel-compilers has changed from 2023.2.1 to 2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load intel-compilers&lt;/code&gt;.
+If you wish to continue using 2023.2.1 in any of your scripts, make sure to change them to &lt;code&gt;module load intel-compilers/2023.2.1&lt;/code&gt;</description>
+      <guid>A6952</guid>
+    </item>
+    <item>
+      <title>Default version of intel-compilers has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">intel-compilers</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of intel-compilers has changed from 2023.2.1 to 2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load intel-compilers&lt;/code&gt;.
+If you wish to continue using 2023.2.1 in any of your scripts, make sure to change them to &lt;code&gt;module load intel-compilers/2023.2.1&lt;/code&gt;</description>
+      <guid>A6953</guid>
+    </item>
+    <item>
+      <title>binutils/2.45-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">binutils</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>binutils has been updated with a new version, 2.45-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load binutils/2.45-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6954</guid>
+    </item>
+    <item>
+      <title>Default version of binutils has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">binutils</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of binutils has changed from 2.45 to 2.45-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load binutils&lt;/code&gt;.
+If you wish to continue using 2.45 in any of your scripts, make sure to change them to &lt;code&gt;module load binutils/2.45&lt;/code&gt;</description>
+      <guid>A6955</guid>
+    </item>
+    <item>
+      <title>GCC/15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GCC</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>GCC has been updated with a new version, 15.2.0. &lt;pre&gt;&lt;code&gt;module load GCC/15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A6956</guid>
+    </item>
+    <item>
+      <title>Default version of GCC has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GCC</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of GCC has changed from 12.3.0 to 15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GCC&lt;/code&gt;.
+If you wish to continue using 12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GCC/12.3.0&lt;/code&gt;</description>
+      <guid>A6957</guid>
+    </item>
+    <item>
+      <title>Default version of GCC has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GCC</category>
+      <pubDate>Thu, 07 May 2026 13:01:05 -0000</pubDate>
+      <description>The default version of GCC has changed from 12.3.0 to 15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GCC&lt;/code&gt;.
+If you wish to continue using 12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GCC/12.3.0&lt;/code&gt;</description>
+      <guid>A6958</guid>
     </item>
   </channel>
 </rss>
