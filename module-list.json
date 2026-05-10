@@ -3624,7 +3624,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 68920651.03,
+                        "hourly_average": 68910688.88,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -5270,15 +5270,16 @@
         "homepage": "https://gitlab.com/treangenlab/emu",
         "support": "",
         "versions": [
-            "3.5.0"
+            "3.5.0",
+            "3.6.2"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.5.0",
+        "default": "3.6.2",
         "default_type": "latest",
-        "last_updated": 1740132628,
+        "last_updated": 1778451339,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Emu/3.5.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Emu/3.6.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
