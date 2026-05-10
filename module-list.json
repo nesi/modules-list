@@ -380,15 +380,16 @@
         "versions": [
             "2.3.2",
             "3.0.0",
-            "3.0.1"
+            "3.0.1",
+            "3.0.2"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.0.1",
+        "default": "3.0.2",
         "default_type": "latest",
-        "last_updated": 1740132626,
+        "last_updated": 1778446579,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/AlphaFold/3.0.1.lua",
+        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/AlphaFold/3.0.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -3623,7 +3624,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 68940583.98,
+                        "hourly_average": 68930616.07,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
