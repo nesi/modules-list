@@ -2401,6 +2401,29 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "buildenv": {
+        "description": "This module sets a group of environment variables for compilers, linkers, maths libraries, etc., that\n you can use to easily transition between toolchains when building your software. To query the variables being set\n please use: module show <this module name>",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "None",
+        "support": "",
+        "versions": [
+            "default-GCC-15.2.0",
+            "default-foss-2026",
+            "default-gfbf-2026",
+            "default-gompi-2026"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "default-gompi-2026",
+        "default_type": "latest",
+        "last_updated": 1778460392,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/buildenv/default-gompi-2026.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "BUSCO": {
         "description": "Assessing genome assembly and annotation completeness with Benchmarking Universal Single-Copy Orthologs",
         "domains": [],
@@ -3372,7 +3395,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 5.92,
+                        "hourly_average": 5.91,
                         "slurm_block": false,
                         "slurm_soak": true,
                         "slurm_token_name": "comsol@uoa_foe_des_rc",
@@ -3440,7 +3463,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 68900729.61,
+                        "hourly_average": 68890773.22,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -6636,6 +6659,26 @@
         "last_updated": 1751226468,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/gfatools/0.5.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "gfbf": {
+        "description": "GNU Compiler Collection (GCC) based compiler toolchain, including\n FlexiBLAS (BLAS and LAPACK support) and (serial) FFTW.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "(none)",
+        "support": "",
+        "versions": [
+            "2026"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2026",
+        "default_type": "latest",
+        "last_updated": 1778460094,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/gfbf/2026.lua",
         "force_hide": "False",
         "force_show": "False"
     },
