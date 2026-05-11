@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 11 May 2026 16:01:26 -0000">
+  <channel lastBuildDate="Mon, 11 May 2026 19:01:17 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72704,6 +72704,32 @@ If you wish to continue using 1.14.3-iompi-2023a in any of your scripts, make su
       <description>The default version of HDF5 has changed from 1.14.3-iompi-2023a to 1.14.6-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load HDF5&lt;/code&gt;.
 If you wish to continue using 1.14.3-iompi-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load HDF5/1.14.3-iompi-2023a&lt;/code&gt;</description>
       <guid>A7031</guid>
+    </item>
+    <item>
+      <title>netCDF/4.9.3-gompi-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">netCDF</category>
+      <pubDate>Mon, 11 May 2026 19:01:17 -0000</pubDate>
+      <description>netCDF has been updated with a new version, 4.9.3-gompi-2026. &lt;pre&gt;&lt;code&gt;module load netCDF/4.9.3-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7032</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF</category>
+      <pubDate>Mon, 11 May 2026 19:01:17 -0000</pubDate>
+      <description>The default version of netCDF has changed from 4.9.2-iofbf-2023a to 4.9.3-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load netCDF&lt;/code&gt;.
+If you wish to continue using 4.9.2-iofbf-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF/4.9.2-iofbf-2023a&lt;/code&gt;</description>
+      <guid>A7033</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF</category>
+      <pubDate>Mon, 11 May 2026 19:01:17 -0000</pubDate>
+      <description>The default version of netCDF has changed from 4.9.2-iofbf-2023a to 4.9.3-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load netCDF&lt;/code&gt;.
+If you wish to continue using 4.9.2-iofbf-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF/4.9.2-iofbf-2023a&lt;/code&gt;</description>
+      <guid>A7034</guid>
     </item>
   </channel>
 </rss>
