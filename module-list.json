@@ -3647,7 +3647,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 68811225.54,
+                        "hourly_average": 68801295.0,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -10969,7 +10969,7 @@
         "force_show": "False"
     },
     "LLVM": {
-        "description": "The LLVM Core libraries provide a modern source- and target-independent\n optimizer, along with code generation support for many popular CPUs\n (as well as some less common ones!) These libraries are built around a well\n specified code representation known as the LLVM intermediate representation\n (\"LLVM IR\"). The LLVM Core libraries are well documented, and it is\n particularly easy to invent your own language (or port an existing compiler)\n to use LLVM as an optimizer and code generator.",
+        "description": "The LLVM Core libraries provide a modern source- and target-independent\noptimizer, along with code generation support.",
         "domains": [],
         "extensions": [],
         "licence_type": "",
@@ -10980,16 +10980,17 @@
             "11.1.0-GCC-11.3.0-static",
             "14.0.6-GCC-11.3.0-static",
             "14.0.6-GCC-12.3.0-static",
+            "20.1.8-GCCcore-15.2.0-static",
             "6.0.1-GCCcore-7.4.0",
             "9.0.0-GCCcore-9.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "14.0.6-GCC-11.3.0-static",
+        "default": "20.1.8-GCCcore-15.2.0-static",
         "default_type": "latest",
-        "last_updated": 1740132631,
+        "last_updated": 1778491438,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/LLVM/14.0.6-GCC-11.3.0-static.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/LLVM/20.1.8-GCCcore-15.2.0-static.lua",
         "force_hide": "False",
         "force_show": "False"
     },
