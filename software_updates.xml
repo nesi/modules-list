@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 11 May 2026 22:01:12 -0000">
+  <channel lastBuildDate="Tue, 12 May 2026 15:02:18 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72756,6 +72756,49 @@ If you wish to continue using 14.0.6-GCC-11.3.0-static in any of your scripts, m
       <description>The default version of LLVM has changed from 14.0.6-GCC-11.3.0-static to 20.1.8-GCCcore-15.2.0-static, this is the version that will be loaded when you run &lt;code&gt;module load LLVM&lt;/code&gt;.
 If you wish to continue using 14.0.6-GCC-11.3.0-static in any of your scripts, make sure to change them to &lt;code&gt;module load LLVM/14.0.6-GCC-11.3.0-static&lt;/code&gt;</description>
       <guid>A7037</guid>
+    </item>
+    <item>
+      <title>METIS/5.1.0-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">METIS</category>
+      <pubDate>Tue, 12 May 2026 15:02:18 -0000</pubDate>
+      <description>METIS has been updated with a new version, 5.1.0-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load METIS/5.1.0-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7038</guid>
+    </item>
+    <item>
+      <title>Default version of METIS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">METIS</category>
+      <pubDate>Tue, 12 May 2026 15:02:18 -0000</pubDate>
+      <description>The default version of METIS has changed from 5.1.0-iofbf-2023a to 5.1.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load METIS&lt;/code&gt;.
+If you wish to continue using 5.1.0-iofbf-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load METIS/5.1.0-iofbf-2023a&lt;/code&gt;</description>
+      <guid>A7039</guid>
+    </item>
+    <item>
+      <title>GMP/6.3.0-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GMP</category>
+      <pubDate>Tue, 12 May 2026 15:02:18 -0000</pubDate>
+      <description>GMP has been updated with a new version, 6.3.0-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load GMP/6.3.0-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7040</guid>
+    </item>
+    <item>
+      <title>Default version of GMP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GMP</category>
+      <pubDate>Tue, 12 May 2026 15:02:18 -0000</pubDate>
+      <description>The default version of GMP has changed from 6.2.1-GCCcore-12.3.0 to 6.3.0-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GMP&lt;/code&gt;.
+If you wish to continue using 6.2.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GMP/6.2.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7041</guid>
+    </item>
+    <item>
+      <title>Default version of GMP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GMP</category>
+      <pubDate>Tue, 12 May 2026 15:02:18 -0000</pubDate>
+      <description>The default version of GMP has changed from 6.2.1-GCCcore-12.3.0 to 6.3.0-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GMP&lt;/code&gt;.
+If you wish to continue using 6.2.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GMP/6.2.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7042</guid>
     </item>
   </channel>
 </rss>
