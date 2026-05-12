@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 12 May 2026 15:02:18 -0000">
+  <channel lastBuildDate="Tue, 12 May 2026 16:01:45 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72799,6 +72799,58 @@ If you wish to continue using 6.2.1-GCCcore-12.3.0 in any of your scripts, make 
       <description>The default version of GMP has changed from 6.2.1-GCCcore-12.3.0 to 6.3.0-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GMP&lt;/code&gt;.
 If you wish to continue using 6.2.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GMP/6.2.1-GCCcore-12.3.0&lt;/code&gt;</description>
       <guid>A7042</guid>
+    </item>
+    <item>
+      <title>SuiteSparse/7.12.2-gfbf-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">SuiteSparse</category>
+      <pubDate>Tue, 12 May 2026 16:01:45 -0000</pubDate>
+      <description>SuiteSparse has been updated with a new version, 7.12.2-gfbf-2026. &lt;pre&gt;&lt;code&gt;module load SuiteSparse/7.12.2-gfbf-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7043</guid>
+    </item>
+    <item>
+      <title>Default version of SuiteSparse has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SuiteSparse</category>
+      <pubDate>Tue, 12 May 2026 16:01:45 -0000</pubDate>
+      <description>The default version of SuiteSparse has changed from 7.8.3-foss-2023a to 7.12.2-gfbf-2026, this is the version that will be loaded when you run &lt;code&gt;module load SuiteSparse&lt;/code&gt;.
+If you wish to continue using 7.8.3-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load SuiteSparse/7.8.3-foss-2023a&lt;/code&gt;</description>
+      <guid>A7044</guid>
+    </item>
+    <item>
+      <title>Default version of SuiteSparse has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SuiteSparse</category>
+      <pubDate>Tue, 12 May 2026 16:01:45 -0000</pubDate>
+      <description>The default version of SuiteSparse has changed from 7.8.3-foss-2023a to 7.12.2-gfbf-2026, this is the version that will be loaded when you run &lt;code&gt;module load SuiteSparse&lt;/code&gt;.
+If you wish to continue using 7.8.3-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load SuiteSparse/7.8.3-foss-2023a&lt;/code&gt;</description>
+      <guid>A7045</guid>
+    </item>
+    <item>
+      <title>MPFR/4.2.2-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MPFR</category>
+      <pubDate>Tue, 12 May 2026 16:01:45 -0000</pubDate>
+      <description>MPFR has been updated with a new version, 4.2.2-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load MPFR/4.2.2-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7046</guid>
+    </item>
+    <item>
+      <title>Default version of MPFR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MPFR</category>
+      <pubDate>Tue, 12 May 2026 16:01:45 -0000</pubDate>
+      <description>The default version of MPFR has changed from 4.2.1-GCCcore-12.3.0 to 4.2.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load MPFR&lt;/code&gt;.
+If you wish to continue using 4.2.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MPFR/4.2.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7047</guid>
+    </item>
+    <item>
+      <title>Default version of MPFR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MPFR</category>
+      <pubDate>Tue, 12 May 2026 16:01:45 -0000</pubDate>
+      <description>The default version of MPFR has changed from 4.2.1-GCCcore-12.3.0 to 4.2.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load MPFR&lt;/code&gt;.
+If you wish to continue using 4.2.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MPFR/4.2.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7048</guid>
     </item>
   </channel>
 </rss>
