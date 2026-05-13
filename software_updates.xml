@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 13 May 2026 17:01:17 -0000">
+  <channel lastBuildDate="Wed, 13 May 2026 18:01:20 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72915,6 +72915,83 @@ If you wish to continue using 3.11.6-foss-2023a in any of your scripts, make sur
       <description>The default version of Python has changed from 3.11.6-foss-2023a to 3.14.4-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load Python&lt;/code&gt;.
 If you wish to continue using 3.11.6-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Python/3.11.6-foss-2023a&lt;/code&gt;</description>
       <guid>A7055</guid>
+    </item>
+    <item>
+      <title>OpenBLAS/0.3.32-intel-compilers-2025.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>OpenBLAS has been updated with a new version, 0.3.32-intel-compilers-2025.3.0. &lt;pre&gt;&lt;code&gt;module load OpenBLAS/0.3.32-intel-compilers-2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7056</guid>
+    </item>
+    <item>
+      <title>Default version of OpenBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>The default version of OpenBLAS has changed from 0.3.32-GCC-15.2.0 to 0.3.32-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenBLAS&lt;/code&gt;.
+If you wish to continue using 0.3.32-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenBLAS/0.3.32-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7057</guid>
+    </item>
+    <item>
+      <title>BLIS/2.0-intel-compilers-2025.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">BLIS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>BLIS has been updated with a new version, 2.0-intel-compilers-2025.3.0. &lt;pre&gt;&lt;code&gt;module load BLIS/2.0-intel-compilers-2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7058</guid>
+    </item>
+    <item>
+      <title>Default version of BLIS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BLIS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>The default version of BLIS has changed from 4.0-GCC-11.3.0-amd to 2.0-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load BLIS&lt;/code&gt;.
+If you wish to continue using 4.0-GCC-11.3.0-amd in any of your scripts, make sure to change them to &lt;code&gt;module load BLIS/4.0-GCC-11.3.0-amd&lt;/code&gt;</description>
+      <guid>A7059</guid>
+    </item>
+    <item>
+      <title>AOCL-BLAS/5.2.2-intel-compilers-2025.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">AOCL-BLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>AOCL-BLAS has been updated with a new version, 5.2.2-intel-compilers-2025.3.0. &lt;pre&gt;&lt;code&gt;module load AOCL-BLAS/5.2.2-intel-compilers-2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7060</guid>
+    </item>
+    <item>
+      <title>Default version of AOCL-BLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">AOCL-BLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>The default version of AOCL-BLAS has changed from 5.2.2-GCC-15.2.0 to 5.2.2-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load AOCL-BLAS&lt;/code&gt;.
+If you wish to continue using 5.2.2-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load AOCL-BLAS/5.2.2-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7061</guid>
+    </item>
+    <item>
+      <title>FlexiBLAS/3.5.0-intel-compilers-2025.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FlexiBLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>FlexiBLAS has been updated with a new version, 3.5.0-intel-compilers-2025.3.0. &lt;pre&gt;&lt;code&gt;module load FlexiBLAS/3.5.0-intel-compilers-2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7062</guid>
+    </item>
+    <item>
+      <title>Default version of FlexiBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FlexiBLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>The default version of FlexiBLAS has changed from 3.5.0-GCC-15.2.0 to 3.5.0-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FlexiBLAS&lt;/code&gt;.
+If you wish to continue using 3.5.0-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FlexiBLAS/3.5.0-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7063</guid>
+    </item>
+    <item>
+      <title>Default version of FlexiBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FlexiBLAS</category>
+      <pubDate>Wed, 13 May 2026 18:01:20 -0000</pubDate>
+      <description>The default version of FlexiBLAS has changed from 3.5.0-GCC-15.2.0 to 3.5.0-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FlexiBLAS&lt;/code&gt;.
+If you wish to continue using 3.5.0-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FlexiBLAS/3.5.0-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7064</guid>
     </item>
   </channel>
 </rss>
