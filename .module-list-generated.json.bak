@@ -1192,15 +1192,16 @@
         "versions": [
             "11.0.0-GCC-11.3.0",
             "14.0.1-GCC-12.3.0",
+            "24.0.0-GCC-15.2.0",
             "8.0.0-GCCcore-11.3.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "14.0.1-GCC-12.3.0",
+        "default": "24.0.0-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132626,
+        "last_updated": 1778637991,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Arrow/14.0.1-GCC-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Arrow/24.0.0-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -3463,7 +3464,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 68406410.07,
+                        "hourly_average": 68396596.02,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
