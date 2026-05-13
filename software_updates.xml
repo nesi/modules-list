@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 13 May 2026 15:01:13 -0000">
+  <channel lastBuildDate="Wed, 13 May 2026 17:01:17 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -72877,6 +72877,44 @@ If you wish to continue using 14.0.1-GCC-12.3.0 in any of your scripts, make sur
       <description>The default version of Arrow has changed from 14.0.1-GCC-12.3.0 to 24.0.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load Arrow&lt;/code&gt;.
 If you wish to continue using 14.0.1-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Arrow/14.0.1-GCC-12.3.0&lt;/code&gt;</description>
       <guid>A7051</guid>
+    </item>
+    <item>
+      <title>OpenMC has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">OpenMC</category>
+      <pubDate>Wed, 13 May 2026 17:01:17 -0000</pubDate>
+      <description>OpenMC is a community-developed Monte Carlo neutron and photon transport simulation code.
+ It is capable of performing fixed source, k-eigenvalue, and subcritical multiplication calculations on
+ models built using either a constructive solid geometry or CAD representation.
+https://openmc.org
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load OpenMC/0.15.2-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7052</guid>
+    </item>
+    <item>
+      <title>Python/3.14.4-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Python</category>
+      <pubDate>Wed, 13 May 2026 17:01:17 -0000</pubDate>
+      <description>Python has been updated with a new version, 3.14.4-foss-2026. &lt;pre&gt;&lt;code&gt;module load Python/3.14.4-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7053</guid>
+    </item>
+    <item>
+      <title>Default version of Python has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Python</category>
+      <pubDate>Wed, 13 May 2026 17:01:17 -0000</pubDate>
+      <description>The default version of Python has changed from 3.11.6-foss-2023a to 3.14.4-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load Python&lt;/code&gt;.
+If you wish to continue using 3.11.6-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Python/3.11.6-foss-2023a&lt;/code&gt;</description>
+      <guid>A7054</guid>
+    </item>
+    <item>
+      <title>Default version of Python has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Python</category>
+      <pubDate>Wed, 13 May 2026 17:01:17 -0000</pubDate>
+      <description>The default version of Python has changed from 3.11.6-foss-2023a to 3.14.4-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load Python&lt;/code&gt;.
+If you wish to continue using 3.11.6-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Python/3.11.6-foss-2023a&lt;/code&gt;</description>
+      <guid>A7055</guid>
     </item>
   </channel>
 </rss>
