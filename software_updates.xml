@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 13 May 2026 19:01:16 -0000">
+  <channel lastBuildDate="Thu, 14 May 2026 10:01:11 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -73158,6 +73158,32 @@ If you wish to continue using default-gompi-2026 in any of your scripts, make su
       <description>The default version of buildenv has changed from default-gompi-2026 to default-iompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load buildenv&lt;/code&gt;.
 If you wish to continue using default-gompi-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load buildenv/default-gompi-2026&lt;/code&gt;</description>
       <guid>A7083</guid>
+    </item>
+    <item>
+      <title>pod5/0.3.39-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">pod5</category>
+      <pubDate>Thu, 14 May 2026 10:01:11 -0000</pubDate>
+      <description>pod5 has been updated with a new version, 0.3.39-foss-2026. &lt;pre&gt;&lt;code&gt;module load pod5/0.3.39-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7084</guid>
+    </item>
+    <item>
+      <title>Default version of pod5 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">pod5</category>
+      <pubDate>Thu, 14 May 2026 10:01:11 -0000</pubDate>
+      <description>The default version of pod5 has changed from 0.3.28-foss-2023a to 0.3.39-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load pod5&lt;/code&gt;.
+If you wish to continue using 0.3.28-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load pod5/0.3.28-foss-2023a&lt;/code&gt;</description>
+      <guid>A7085</guid>
+    </item>
+    <item>
+      <title>Default version of pod5 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">pod5</category>
+      <pubDate>Thu, 14 May 2026 10:01:11 -0000</pubDate>
+      <description>The default version of pod5 has changed from 0.3.28-foss-2023a to 0.3.39-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load pod5&lt;/code&gt;.
+If you wish to continue using 0.3.28-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load pod5/0.3.28-foss-2023a&lt;/code&gt;</description>
+      <guid>A7086</guid>
     </item>
   </channel>
 </rss>
