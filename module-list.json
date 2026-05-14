@@ -3653,7 +3653,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 68181397.03,
+                        "hourly_average": 68171647.43,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -14408,15 +14408,15 @@
         "homepage": "https://ollama.com/",
         "support": "",
         "versions": [
-            "0.21.1-GCCcore-12.3.0-CUDA-12.6.3"
+            "0.21.1"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "0.21.1-GCCcore-12.3.0-CUDA-12.6.3",
+        "default": "0.21.1",
         "default_type": "latest",
-        "last_updated": 1777856381,
+        "last_updated": 1778722083,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/ollama/0.21.1-GCCcore-12.3.0-CUDA-12.6.3.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/ollama/0.21.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
