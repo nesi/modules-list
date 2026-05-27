@@ -3656,7 +3656,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 65251171.75,
+                        "hourly_average": 65242242.1,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -17473,15 +17473,16 @@
         "support": "",
         "versions": [
             "6.8-intel-2020a",
-            "7.2-intel-2022a"
+            "7.2-intel-2022a",
+            "7.5-foss-2026"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "7.2-intel-2022a",
+        "default": "7.5-foss-2026",
         "default_type": "latest",
-        "last_updated": 1740132633,
+        "last_updated": 1779853022,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/QuantumESPRESSO/7.2-intel-2022a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/QuantumESPRESSO/7.5-foss-2026.lua",
         "force_hide": "False",
         "force_show": "False"
     },
