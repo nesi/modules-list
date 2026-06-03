@@ -3664,7 +3664,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63724828.56,
+                        "hourly_average": 63716311.76,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -22653,7 +22653,9 @@
     },
     "vt": {
         "description": "A tool set for short variant discovery in genetic sequence data.",
-        "domains": [],
+        "domains": [
+            "biology"
+        ],
         "extensions": [],
         "licence_type": "",
         "homepage": "https://genome.sph.umich.edu/wiki/Vt",
