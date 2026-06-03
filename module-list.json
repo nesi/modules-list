@@ -3664,7 +3664,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63733347.64,
+                        "hourly_average": 63724828.56,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -20148,7 +20148,9 @@
     },
     "SKA2": {
         "description": "Split k-mer analysis (version 2) uses exact matching of split k-mer sequences to align closely\n related sequences, typically small haploid genomes such as bacteria and viruses.",
-        "domains": [],
+        "domains": [
+            "biology"
+        ],
         "extensions": [],
         "licence_type": "",
         "homepage": "https://docs.rs/ska/latest/ska/",
@@ -20233,6 +20235,7 @@
     "slow5-dorado": {
         "description": "Fork of nanopore's Dorado which supports S/BLOW5.",
         "domains": [
+            "biology",
             "gpu"
         ],
         "extensions": [],
