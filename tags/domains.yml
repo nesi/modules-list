@@ -434,6 +434,7 @@ biology:
   - VSEARCH
   - Wise2
   - SKA2
+  - slow5-dorado
 chemistry:
   - AlphaFold
   - AlphaFold2DB
