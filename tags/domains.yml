@@ -433,6 +433,7 @@ biology:
   - Velvet
   - VSEARCH
   - Wise2
+  - SKA2
 chemistry:
   - AlphaFold
   - AlphaFold2DB
