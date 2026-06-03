@@ -490,6 +490,7 @@ climate_science:
   - ESMF
   - CDO
   - PDAL
+  - PISM
 data_analytics:
   - Python
   - R
