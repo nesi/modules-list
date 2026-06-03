@@ -198,7 +198,6 @@ biology:
   - NewHybrids
   - NextPolish2
   - nullarbor
-  - NWChem
   - ont-guppy-gpu
   - OpenBabel
   - OpenSlide
@@ -455,6 +454,7 @@ chemistry:
   - MiMiC
   - MiMiC-CommLib
   - Newton-X
+  - NWChem
   - phonopy
   - pymol-open-source
   - randfold
