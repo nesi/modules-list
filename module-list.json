@@ -3664,7 +3664,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63741869.0,
+                        "hourly_average": 63733347.64,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -14500,7 +14500,6 @@
     "NWChem": {
         "description": "NWChem aims to provide its users with computational chemistry tools that are scalable both in\n their ability to treat large scientific computational chemistry problems efficiently, and in their use of available\n parallel computing resources from high-performance parallel supercomputers to conventional workstation clusters.\n NWChem software can handle: biomolecules, nanostructures, and solid-state; from quantum to classical, and all\n combinations; Gaussian basis functions or plane-waves; scaling from one to thousands of processors; properties\n and relativity.",
         "domains": [
-            "biology",
             "chemistry"
         ],
         "extensions": [],
@@ -16219,7 +16218,9 @@
     },
     "PILERCR": {
         "description": "PILER-CR is a program specifically designed for the identification and analysis of CRISPR repeats.",
-        "domains": [],
+        "domains": [
+            "biology"
+        ],
         "extensions": [],
         "licence_type": "",
         "homepage": "https://www.drive5.com/pilercr/",
@@ -16262,7 +16263,9 @@
     },
     "PISM": {
         "description": "The Parallel Ice Sheet Model (PISM) is a computer program used in climate \nscience to simulate the past and future of glaciers and ice sheets, including the Earth\u2019s \ntwo large ice sheets in Greenland and Antarctica.",
-        "domains": [],
+        "domains": [
+            "climate_science"
+        ],
         "extensions": [],
         "licence_type": "",
         "homepage": "https://www.pism.io/",
@@ -16353,7 +16356,6 @@
     "PLUMED": {
         "description": "PLUMED is an open source library for free energy calculations in molecular systems which\n works together with some of the most popular molecular dynamics engines. Free energy calculations can be\n performed as a function of many order parameters with a particular  focus on biological problems, using\n state of the art methods such as metadynamics, umbrella sampling and Jarzynski-equation based steered MD.\n The software, written in C++, can be easily interfaced with both fortran and C/C++ codes.",
         "domains": [
-            "biology",
             "chemistry"
         ],
         "extensions": [],
