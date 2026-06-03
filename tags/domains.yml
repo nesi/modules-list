@@ -446,6 +446,7 @@ chemistry:
   - Foldseek
   - GOLD
   - GPAW
+  - GPUMD
   - HMMER
   - HMMER2
   - InterProScan
