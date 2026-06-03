@@ -3664,7 +3664,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63758918.54,
+                        "hourly_average": 63750392.63,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -7643,6 +7643,7 @@
     "GPUMD": {
         "description": "GPUMD stands for Graphics Processing Units Molecular Dynamics.\nIt is a general-purpose molecular dynamics (MD) package fully implemented on graphics processing units.",
         "domains": [
+            "chemistry",
             "gpu"
         ],
         "extensions": [],
@@ -8016,7 +8017,9 @@
     },
     "HAL": {
         "description": "HAL is a structure to efficiently store and index multiple genome alignments\nand ancestral reconstructions. HAL is a graph-based representation which\nprovides several advantages over matrix/block-based formats such as MAF, such as\nimproved scalability and the ability to perform queries with respect to an\narbitrary reference or subtree.\n\nThis package includes the HAL API and several analysis and conversion tools\nwhich are described below. HAL files are presently stored in either HDF5 or mmap\nformat, but we note that the tools and most of the API are format-independent,\nso other databases could be implemented in the future.",
-        "domains": [],
+        "domains": [
+            "biology"
+        ],
         "extensions": [],
         "licence_type": "",
         "homepage": "https://github.com/ComparativeGenomicsToolkit/hal",
