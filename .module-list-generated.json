@@ -3480,7 +3480,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63369072.37,
+                        "hourly_average": 63360650.39,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -15500,6 +15500,26 @@
         "last_updated": 1740132639,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/pixman/0.42.2-GCC-12.3.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "PlasMAAG": {
+        "description": "PlasMAAG is a tool to recover plasmids and organisms from metagenomic samples.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/RasmussenLab/PlasMAAG",
+        "support": "",
+        "versions": [
+            "1.0.1"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.0.1",
+        "default_type": "latest",
+        "last_updated": 1780632302,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/PlasMAAG/1.0.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },

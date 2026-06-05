@@ -3480,7 +3480,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63377496.59,
+                        "hourly_average": 63369072.37,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -7875,15 +7875,16 @@
         "homepage": "https://huttenhower.sph.harvard.edu/humann",
         "support": "",
         "versions": [
-            "3.0.0.alpha.3"
+            "3.0.0.alpha.3",
+            "4.0.0.alpha.1-final"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.0.0.alpha.3",
+        "default": "4.0.0.alpha.1-final",
         "default_type": "latest",
-        "last_updated": 1740132630,
+        "last_updated": 1780631623,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Humann/3.0.0.alpha.3.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Humann/4.0.0.alpha.1-final.lua",
         "force_hide": "False",
         "force_show": "False"
     },
