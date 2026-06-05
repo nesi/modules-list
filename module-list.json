@@ -701,7 +701,7 @@
                         "slurm_soak": false,
                         "slurm_token_name": "",
                         "slurm_track": true,
-                        "total": 2,
+                        "total": 0,
                         "usage_formula": "{node}",
                         "use_conditions": "",
                         "visible_on_docs": true
@@ -3664,7 +3664,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 63411215.87,
+                        "hourly_average": 63402782.69,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
