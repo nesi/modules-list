@@ -3563,7 +3563,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 0.93,
+                        "hourly_average": 0.92,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uoa_foes",
@@ -14162,7 +14162,8 @@
         "homepage": "https://github.com/nf-core/tools",
         "support": "",
         "versions": [
-            "4.0.2-foss-2026"
+            "4.0.2-foss-2026",
+            "4.0.2-foss-2026-Nextflow-26.04.0"
         ],
         "admin_list": [],
         "network_licences": [],
