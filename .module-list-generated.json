@@ -21302,15 +21302,16 @@
             "107.0-GCC-11.3.0-Perl-5.34.1",
             "113.3-GCC-11.3.0-Perl-5.34.1",
             "115.2-GCC-12.3.0-Perl-5.40.3",
-            "115.2-GCC-15.2.0-Perl-5.42.1"
+            "115.2-GCC-15.2.0-Perl-5.42.1",
+            "116.0-GCC-15.2.0-Perl-5.42.1"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "115.2-GCC-15.2.0-Perl-5.42.1",
+        "default": "116.0-GCC-15.2.0-Perl-5.42.1",
         "default_type": "latest",
-        "last_updated": 1781029393,
+        "last_updated": 1781633481,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/VEP/115.2-GCC-15.2.0-Perl-5.42.1.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/VEP/116.0-GCC-15.2.0-Perl-5.42.1.lua",
         "force_hide": "False",
         "force_show": "False"
     },
