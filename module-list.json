@@ -8954,15 +8954,16 @@
         "support": "",
         "versions": [
             "4.3.0-gimkl-2020a-mt",
-            "4.3.1-gimkl-2022a-mt"
+            "4.3.1-gimkl-2022a-mt",
+            "4.3.2-foss-2026"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "4.3.1-gimkl-2022a-mt",
+        "default": "4.3.2-foss-2026",
         "default_type": "latest",
-        "last_updated": 1740132630,
+        "last_updated": 1781711356,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/JAGS/4.3.1-gimkl-2022a-mt.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/JAGS/4.3.2-foss-2026.lua",
         "force_hide": "False",
         "force_show": "False"
     },
