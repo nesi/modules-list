@@ -7788,7 +7788,7 @@
         "network_licences": [],
         "default": "2025.2",
         "default_type": "latest",
-        "last_updated": 1782166429,
+        "last_updated": 1782185254,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/GROMACS_CP2K/2025.2.lua",
         "force_hide": "False",
@@ -10271,15 +10271,16 @@
         "support": "",
         "versions": [
             "1.6.4-GCC-11.3.0",
-            "1.6.4-GCC-12.3.0"
+            "1.6.4-GCC-12.3.0",
+            "1.9.3-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.6.4-GCC-11.3.0",
+        "default": "1.9.3-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132637,
+        "last_updated": 1782183729,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/libgit2/1.6.4-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/libgit2/1.9.3-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
