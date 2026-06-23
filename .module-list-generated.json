@@ -7362,7 +7362,7 @@
         "network_licences": [],
         "default": "2025.2",
         "default_type": "latest",
-        "last_updated": 1782185254,
+        "last_updated": 1782191477,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/GROMACS_CP2K/2025.2.lua",
         "force_hide": "False",
