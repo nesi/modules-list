@@ -188,15 +188,16 @@
         "homepage": "https://abseil.io/",
         "support": "",
         "versions": [
-            "20230125.3-GCC-11.3.0"
+            "20230125.3-GCC-11.3.0",
+            "20260107.1-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "20230125.3-GCC-11.3.0",
+        "default": "20260107.1-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132626,
+        "last_updated": 1782252141,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Abseil/20230125.3-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Abseil/20260107.1-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
