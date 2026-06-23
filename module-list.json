@@ -14274,6 +14274,7 @@
         "homepage": "http://ab-initio.mit.edu/wiki/index.php/NLopt",
         "support": "",
         "versions": [
+            "2.10.1-GCC-15.2.0",
             "2.5.0-gimkl-2018b",
             "2.6.1-GCCcore-9.2.0",
             "2.7.0-GCC-11.3.0",
@@ -14281,11 +14282,11 @@
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.7.1-GCC-12.3.0",
+        "default": "2.10.1-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132632,
+        "last_updated": 1782183566,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/NLopt/2.7.1-GCC-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/NLopt/2.10.1-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
