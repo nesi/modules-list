@@ -12778,6 +12778,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "MiniZinc": {
+        "description": "MiniZinc is a free and open-source constraint modeling language.\nYou can use MiniZinc to model constraint satisfaction and optimization problems\nin a high-level, solver-independent way.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.minizinc.org/",
+        "support": "",
+        "versions": [
+            "2.9.2-GCCcore-15.2.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2.9.2-GCCcore-15.2.0",
+        "default_type": "latest",
+        "last_updated": 1782429053,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/MiniZinc/2.9.2-GCCcore-15.2.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "miRDeep2": {
         "description": "Completely overhauled tool which discovers microRNA genes by analyzing sequenced RNAs",
         "domains": [
