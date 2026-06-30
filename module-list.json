@@ -5113,6 +5113,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "EESSI": {
+        "description": "",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "",
+        "support": "",
+        "versions": [
+            "2025.06"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2025.06",
+        "default_type": "latest",
+        "last_updated": 1779521581,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/lmod/generic/EESSI/2025.06.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "eggnog-mapper": {
         "description": "Tool for fast functional annotation of novel sequences (genes or proteins)\n using precomputed eggNOG-based orthology assignments",
         "domains": [
