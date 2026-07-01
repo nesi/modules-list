@@ -17726,11 +17726,7 @@
             "3.17-gimkl-2022a-R-4.3.1",
             "3.23-foss-2026-R-4.6.0"
         ],
-        "admin_list": [
-            {
-                "3.22-foss-2026-R-4.6.0": "Warning: 3.22 was a misnamed install of 3.23, so please load R-bundle-Bioconductor/3.23-foss-2026-R-4.6.0 instead."
-            }
-        ],
+        "admin_list": [],
         "network_licences": [],
         "default": "3.23-foss-2026-R-4.6.0",
         "default_type": "latest",
