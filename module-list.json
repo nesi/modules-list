@@ -22067,6 +22067,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "TUFLOW": {
+        "description": "Hydraulic modelling software for flood, urban drainage, estuarine and coastal assessments.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.tuflow.com/",
+        "support": "",
+        "versions": [
+            "2026.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2026.0",
+        "default_type": "latest",
+        "last_updated": 1783478214,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/TUFLOW/2026.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "TuiView": {
         "description": "TuiView is a lightweight raster GIS with powerful raster attribute table manipulation\n abilities.",
         "domains": [
