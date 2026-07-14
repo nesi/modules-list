@@ -587,14 +587,8 @@
         "homepage": "https://www.ansys.com",
         "support": "",
         "versions": [
-            "19.1",
             "19.2",
-            "2019R3",
-            "2020R1",
-            "2020R2",
             "2021R2",
-            "2022R1",
-            "2022R2",
             "2023R1",
             "2023R2",
             "2024R2",
@@ -602,13 +596,13 @@
         ],
         "admin_list": [
             {
-                "19.1": "ANSYS/19.1 is deprecated and will be removed Jan 2023.Please change your scripts to use ANSYS/19.2 for long term support."
+                "2022R1": "ANSYS/2023R1 is deprecated and will be removed Jan 2026.Please change your scripts to use ANSYS/2024R2 for long term support."
             },
             {
-                "2020R1": "ANSYS/2020R1 is deprecated and will be removed Jan 2023.Please change your scripts to use ANSYS/2020R2 for long term support."
+                "2021R1": "ANSYS/2021R1 is deprecated and will be removed Jan 2025.Please change your scripts to use ANSYS/2024R2 for long term support."
             },
             {
-                "2022R1": "ANSYS/2022R1 is deprecated and will be removed Jan 2025.Please change your scripts to use ANSYS/2022R2 for longer term support."
+                "2022R2": "ANSYS/2022R2 is deprecated and will be removed Jan 2025.Please change your scripts to use ANSYS/2024R2 for longer term support."
             }
         ],
         "network_licences": [
@@ -11053,7 +11047,6 @@
         "homepage": "http://www.mathworks.com/products/matlab",
         "support": "",
         "versions": [
-            "2017b",
             "2018b",
             "2019b",
             "2020b",
@@ -11402,7 +11395,6 @@
         "homepage": "http://www.mathworks.com/products/compiler/mcr.html",
         "support": "",
         "versions": [
-            "2016b",
             "2020b",
             "2021a",
             "2021b",
