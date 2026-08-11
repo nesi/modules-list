@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 27 Jul 2026 15:01:47 -0000">
+  <channel lastBuildDate="Tue, 11 Aug 2026 15:49:12 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -74740,6 +74740,296 @@ If you wish to continue using 12.6.3 in any of your scripts, make sure to change
       <description>The default version of CUDA has changed from 12.6.3 to 13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load CUDA&lt;/code&gt;.
 If you wish to continue using 12.6.3 in any of your scripts, make sure to change them to &lt;code&gt;module load CUDA/12.6.3&lt;/code&gt;</description>
       <guid>A7265</guid>
+    </item>
+    <item>
+      <title>Catch2 has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Catch2</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>A modern, C++-native, header-only,
+ test framework for unit-tests, TDD and BDD
+ - using C++11, C++14, C++17 and later
+https://github.com/catchorg/Catch2
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Catch2/3.15.3-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7266</guid>
+    </item>
+    <item>
+      <title>Hydra has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Hydra</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Hydra is an open-source Python framework that simplifies the development of
+research and other complex applications. The key feature is the ability to
+dynamically create a hierarchical configuration by composition and override it
+through config files and the command line. The name Hydra comes from its
+ability to run multiple similar jobs - much like a Hydra with multiple heads.
+https://hydra.cc/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Hydra/1.3.4-foss-2026-with-plugins&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7267</guid>
+    </item>
+    <item>
+      <title>RDKit has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">RDKit</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>RDKit is a collection of cheminformatics and machine-learning software written in C++ and Python.
+https://www.rdkit.org
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load RDKit/2025.09.6-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7268</guid>
+    </item>
+    <item>
+      <title>PyTorch-Lightning has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">PyTorch-Lightning</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>PyTorch Lightning is the lightweight PyTorch wrapper for ML researchers.
+https://pytorchlightning.ai
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load PyTorch-Lightning/2.6.5-foss-2026-Python-3.14.4-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7269</guid>
+    </item>
+    <item>
+      <title>awscli has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">awscli</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Universal Command Line Environment for AWS
+https://github.com/aws/aws-cli/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load awscli/2.36.14-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7270</guid>
+    </item>
+    <item>
+      <title>maeparser has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">maeparser</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>maeparser is a parser for Schrodinger Maestro files.
+https://github.com/schrodinger/maeparser
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load maeparser/1.3.3-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7271</guid>
+    </item>
+    <item>
+      <title>OpenFold3 has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">OpenFold3</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>A fully open source biomolecular structure prediction model based on AlphaFold3
+https://github.com/aqlaboratory/openfold-3
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load OpenFold3/0.4.4-foss-2026-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7272</guid>
+    </item>
+    <item>
+      <title>Boost.Python-NumPy has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Boost.Python-NumPy</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Boost.Python is a C++ library which enables seamless interoperability between C++
+ and the Python programming language.
+https://boostorg.github.io/python
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Boost.Python-NumPy/1.91.0-gfbf-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7273</guid>
+    </item>
+    <item>
+      <title>bitsandbytes has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">bitsandbytes</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>bitsandbytes enables accessible large language models via k-bit quantization for PyTorch.
+This build ships both the CUDA and the CPU native library, so the module works on GPU nodes
+and on nodes without a usable GPU. Note that it still depends on a CUDA-enabled PyTorch; if
+you need a genuinely CUDA-free stack, build a separate easyconfig with COMPUTE_BACKEND=cpu,
+no CUDA dependency and no versionsuffix.
+https://huggingface.co/docs/bitsandbytes/main/en/index
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load bitsandbytes/0.50.0-foss-2026-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7274</guid>
+    </item>
+    <item>
+      <title>CoordgenLibs has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">CoordgenLibs</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Schrodinger-developed 2D Coordinate Generation
+https://github.com/schrodinger/coordgenlibs
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load CoordgenLibs/3.0.2-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7275</guid>
+    </item>
+    <item>
+      <title>Kalign has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Kalign</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Kalign is a fast multiple sequence alignment program for biological sequences.
+https://github.com/TimoLassmann/kalign
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Kalign/3.5.1-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7276</guid>
+    </item>
+    <item>
+      <title>tensorboardX has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">tensorboardX</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Tensorboard for PyTorch.
+https://github.com/lanpa/tensorboardX
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load tensorboardX/2.6.5-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7277</guid>
+    </item>
+    <item>
+      <title>boto3 has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">boto3</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>Boto3 is the Amazon Web Services (AWS) Software Development Kit
+(SDK) for Python, which allows Python developers to write software that makes
+use of services like Amazon S3 and Amazon EC2.
+https://github.com/boto/boto3
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load boto3/1.43.62-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7278</guid>
+    </item>
+    <item>
+      <title>vg/1.76.1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">vg</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>vg has been updated with a new version, 1.76.1. &lt;pre&gt;&lt;code&gt;module load vg/1.76.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7279</guid>
+    </item>
+    <item>
+      <title>Default version of vg has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">vg</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of vg has changed from 1.46.0 to 1.76.1, this is the version that will be loaded when you run &lt;code&gt;module load vg&lt;/code&gt;.
+If you wish to continue using 1.46.0 in any of your scripts, make sure to change them to &lt;code&gt;module load vg/1.46.0&lt;/code&gt;</description>
+      <guid>A7280</guid>
+    </item>
+    <item>
+      <title>Default version of vg has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">vg</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of vg has changed from 1.46.0 to 1.76.1, this is the version that will be loaded when you run &lt;code&gt;module load vg&lt;/code&gt;.
+If you wish to continue using 1.46.0 in any of your scripts, make sure to change them to &lt;code&gt;module load vg/1.46.0&lt;/code&gt;</description>
+      <guid>A7281</guid>
+    </item>
+    <item>
+      <title>BLASTDB/2026-08 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">BLASTDB</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>BLASTDB has been updated with a new version, 2026-08. &lt;pre&gt;&lt;code&gt;module load BLASTDB/2026-08&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7282</guid>
+    </item>
+    <item>
+      <title>Default version of BLASTDB has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BLASTDB</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of BLASTDB has changed from 2026-01 to 2026-08, this is the version that will be loaded when you run &lt;code&gt;module load BLASTDB&lt;/code&gt;.
+If you wish to continue using 2026-01 in any of your scripts, make sure to change them to &lt;code&gt;module load BLASTDB/2026-01&lt;/code&gt;</description>
+      <guid>A7283</guid>
+    </item>
+    <item>
+      <title>Default version of BLASTDB has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BLASTDB</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of BLASTDB has changed from 2026-01 to 2026-08, this is the version that will be loaded when you run &lt;code&gt;module load BLASTDB&lt;/code&gt;.
+If you wish to continue using 2026-01 in any of your scripts, make sure to change them to &lt;code&gt;module load BLASTDB/2026-01&lt;/code&gt;</description>
+      <guid>A7284</guid>
+    </item>
+    <item>
+      <title>PyTorch/2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">PyTorch</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>PyTorch has been updated with a new version, 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1. &lt;pre&gt;&lt;code&gt;module load PyTorch/2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7285</guid>
+    </item>
+    <item>
+      <title>Default version of PyTorch has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PyTorch</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of PyTorch has changed from 1.12.1-gimkl-2022a-Python-3.10.5-CUDA-11.6.2 to 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load PyTorch&lt;/code&gt;.
+If you wish to continue using 1.12.1-gimkl-2022a-Python-3.10.5-CUDA-11.6.2 in any of your scripts, make sure to change them to &lt;code&gt;module load PyTorch/1.12.1-gimkl-2022a-Python-3.10.5-CUDA-11.6.2&lt;/code&gt;</description>
+      <guid>A7286</guid>
+    </item>
+    <item>
+      <title>Default version of PyTorch has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PyTorch</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of PyTorch has changed from 1.12.1-gimkl-2022a-Python-3.10.5-CUDA-11.6.2 to 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load PyTorch&lt;/code&gt;.
+If you wish to continue using 1.12.1-gimkl-2022a-Python-3.10.5-CUDA-11.6.2 in any of your scripts, make sure to change them to &lt;code&gt;module load PyTorch/1.12.1-gimkl-2022a-Python-3.10.5-CUDA-11.6.2&lt;/code&gt;</description>
+      <guid>A7287</guid>
+    </item>
+    <item>
+      <title>magma/2.10.0-foss-2026-CUDA-13.2.1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">magma</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>magma has been updated with a new version, 2.10.0-foss-2026-CUDA-13.2.1. &lt;pre&gt;&lt;code&gt;module load magma/2.10.0-foss-2026-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7288</guid>
+    </item>
+    <item>
+      <title>Default version of magma has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">magma</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of magma has changed from 2.7.1-gimkl-2022a-CUDA-11.6.2 to 2.10.0-foss-2026-CUDA-13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load magma&lt;/code&gt;.
+If you wish to continue using 2.7.1-gimkl-2022a-CUDA-11.6.2 in any of your scripts, make sure to change them to &lt;code&gt;module load magma/2.7.1-gimkl-2022a-CUDA-11.6.2&lt;/code&gt;</description>
+      <guid>A7289</guid>
+    </item>
+    <item>
+      <title>Default version of magma has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">magma</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of magma has changed from 2.7.1-gimkl-2022a-CUDA-11.6.2 to 2.10.0-foss-2026-CUDA-13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load magma&lt;/code&gt;.
+If you wish to continue using 2.7.1-gimkl-2022a-CUDA-11.6.2 in any of your scripts, make sure to change them to &lt;code&gt;module load magma/2.7.1-gimkl-2022a-CUDA-11.6.2&lt;/code&gt;</description>
+      <guid>A7290</guid>
+    </item>
+    <item>
+      <title>cuDNN/9.24.0.43-CUDA-13.2.1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">cuDNN</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>cuDNN has been updated with a new version, 9.24.0.43-CUDA-13.2.1. &lt;pre&gt;&lt;code&gt;module load cuDNN/9.24.0.43-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7291</guid>
+    </item>
+    <item>
+      <title>Default version of cuDNN has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">cuDNN</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of cuDNN has changed from 9.5.1.17-CUDA-12.6.3 to 9.24.0.43-CUDA-13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load cuDNN&lt;/code&gt;.
+If you wish to continue using 9.5.1.17-CUDA-12.6.3 in any of your scripts, make sure to change them to &lt;code&gt;module load cuDNN/9.5.1.17-CUDA-12.6.3&lt;/code&gt;</description>
+      <guid>A7292</guid>
+    </item>
+    <item>
+      <title>VEP/116.1-GCC-15.2.0-Perl-5.42.1 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">VEP</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>VEP has been updated with a new version, 116.1-GCC-15.2.0-Perl-5.42.1. &lt;pre&gt;&lt;code&gt;module load VEP/116.1-GCC-15.2.0-Perl-5.42.1&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7293</guid>
+    </item>
+    <item>
+      <title>Default version of VEP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">VEP</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of VEP has changed from 116.0-GCC-15.2.0-Perl-5.42.1 to 116.1-GCC-15.2.0-Perl-5.42.1, this is the version that will be loaded when you run &lt;code&gt;module load VEP&lt;/code&gt;.
+If you wish to continue using 116.0-GCC-15.2.0-Perl-5.42.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VEP/116.0-GCC-15.2.0-Perl-5.42.1&lt;/code&gt;</description>
+      <guid>A7294</guid>
+    </item>
+    <item>
+      <title>Default version of VEP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">VEP</category>
+      <pubDate>Tue, 11 Aug 2026 15:49:12 -0000</pubDate>
+      <description>The default version of VEP has changed from 116.0-GCC-15.2.0-Perl-5.42.1 to 116.1-GCC-15.2.0-Perl-5.42.1, this is the version that will be loaded when you run &lt;code&gt;module load VEP&lt;/code&gt;.
+If you wish to continue using 116.0-GCC-15.2.0-Perl-5.42.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VEP/116.0-GCC-15.2.0-Perl-5.42.1&lt;/code&gt;</description>
+      <guid>A7295</guid>
     </item>
   </channel>
 </rss>
