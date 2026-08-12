@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 12 Aug 2026 12:20:43 -0000">
+  <channel lastBuildDate="Thu, 13 Aug 2026 09:20:48 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75056,6 +75056,110 @@ If you wish to continue using 2024.12.1-563 in any of your scripts, make sure to
       <description>The default version of RStudio-Server has changed from 2024.12.1-563 to 2026.07.1-147, this is the version that will be loaded when you run &lt;code&gt;module load RStudio-Server&lt;/code&gt;.
 If you wish to continue using 2024.12.1-563 in any of your scripts, make sure to change them to &lt;code&gt;module load RStudio-Server/2024.12.1-563&lt;/code&gt;</description>
       <guid>A7298</guid>
+    </item>
+    <item>
+      <title>BEEF/0.1.1-r16-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">BEEF</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>BEEF has been updated with a new version, 0.1.1-r16-foss-2026. &lt;pre&gt;&lt;code&gt;module load BEEF/0.1.1-r16-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7299</guid>
+    </item>
+    <item>
+      <title>Default version of BEEF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BEEF</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of BEEF has changed from 0.1.1-r16-iofbf-2026 to 0.1.1-r16-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load BEEF&lt;/code&gt;.
+If you wish to continue using 0.1.1-r16-iofbf-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load BEEF/0.1.1-r16-iofbf-2026&lt;/code&gt;</description>
+      <guid>A7300</guid>
+    </item>
+    <item>
+      <title>Default version of BEEF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BEEF</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of BEEF has changed from 0.1.1-r16-iofbf-2026 to 0.1.1-r16-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load BEEF&lt;/code&gt;.
+If you wish to continue using 0.1.1-r16-iofbf-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load BEEF/0.1.1-r16-iofbf-2026&lt;/code&gt;</description>
+      <guid>A7301</guid>
+    </item>
+    <item>
+      <title>DFT-D4/3.7.0-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">DFT-D4</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>DFT-D4 has been updated with a new version, 3.7.0-foss-2026. &lt;pre&gt;&lt;code&gt;module load DFT-D4/3.7.0-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7302</guid>
+    </item>
+    <item>
+      <title>Default version of DFT-D4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DFT-D4</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of DFT-D4 has changed from 3.7.0-foss-2023a to 3.7.0-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load DFT-D4&lt;/code&gt;.
+If you wish to continue using 3.7.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load DFT-D4/3.7.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A7303</guid>
+    </item>
+    <item>
+      <title>Default version of DFT-D4 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DFT-D4</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of DFT-D4 has changed from 3.7.0-foss-2023a to 3.7.0-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load DFT-D4&lt;/code&gt;.
+If you wish to continue using 3.7.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load DFT-D4/3.7.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A7304</guid>
+    </item>
+    <item>
+      <title>json-fortran/9.3.1-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>json-fortran has been updated with a new version, 9.3.1-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load json-fortran/9.3.1-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7305</guid>
+    </item>
+    <item>
+      <title>Default version of json-fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of json-fortran has changed from 9.0.2-GCC-12.3.0 to 9.3.1-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load json-fortran&lt;/code&gt;.
+If you wish to continue using 9.0.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load json-fortran/9.0.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7306</guid>
+    </item>
+    <item>
+      <title>Default version of json-fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of json-fortran has changed from 9.0.2-GCC-12.3.0 to 9.3.1-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load json-fortran&lt;/code&gt;.
+If you wish to continue using 9.0.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load json-fortran/9.0.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7307</guid>
+    </item>
+    <item>
+      <title>wannier90/3.1.0-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">wannier90</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>wannier90 has been updated with a new version, 3.1.0-foss-2026. &lt;pre&gt;&lt;code&gt;module load wannier90/3.1.0-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7308</guid>
+    </item>
+    <item>
+      <title>Default version of wannier90 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">wannier90</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of wannier90 has changed from 3.1.0-foss-2023a to 3.1.0-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load wannier90&lt;/code&gt;.
+If you wish to continue using 3.1.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load wannier90/3.1.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A7309</guid>
+    </item>
+    <item>
+      <title>Default version of wannier90 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">wannier90</category>
+      <pubDate>Thu, 13 Aug 2026 09:20:47 -0000</pubDate>
+      <description>The default version of wannier90 has changed from 3.1.0-foss-2023a to 3.1.0-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load wannier90&lt;/code&gt;.
+If you wish to continue using 3.1.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load wannier90/3.1.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A7310</guid>
     </item>
   </channel>
 </rss>
