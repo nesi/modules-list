@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 11 Aug 2026 15:49:12 -0000">
+  <channel lastBuildDate="Wed, 12 Aug 2026 12:20:43 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75030,6 +75030,32 @@ If you wish to continue using 116.0-GCC-15.2.0-Perl-5.42.1 in any of your script
       <description>The default version of VEP has changed from 116.0-GCC-15.2.0-Perl-5.42.1 to 116.1-GCC-15.2.0-Perl-5.42.1, this is the version that will be loaded when you run &lt;code&gt;module load VEP&lt;/code&gt;.
 If you wish to continue using 116.0-GCC-15.2.0-Perl-5.42.1 in any of your scripts, make sure to change them to &lt;code&gt;module load VEP/116.0-GCC-15.2.0-Perl-5.42.1&lt;/code&gt;</description>
       <guid>A7295</guid>
+    </item>
+    <item>
+      <title>RStudio-Server/2026.07.1-147 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">RStudio-Server</category>
+      <pubDate>Wed, 12 Aug 2026 12:20:43 -0000</pubDate>
+      <description>RStudio-Server has been updated with a new version, 2026.07.1-147. &lt;pre&gt;&lt;code&gt;module load RStudio-Server/2026.07.1-147&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7296</guid>
+    </item>
+    <item>
+      <title>Default version of RStudio-Server has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">RStudio-Server</category>
+      <pubDate>Wed, 12 Aug 2026 12:20:43 -0000</pubDate>
+      <description>The default version of RStudio-Server has changed from 2024.12.1-563 to 2026.07.1-147, this is the version that will be loaded when you run &lt;code&gt;module load RStudio-Server&lt;/code&gt;.
+If you wish to continue using 2024.12.1-563 in any of your scripts, make sure to change them to &lt;code&gt;module load RStudio-Server/2024.12.1-563&lt;/code&gt;</description>
+      <guid>A7297</guid>
+    </item>
+    <item>
+      <title>Default version of RStudio-Server has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">RStudio-Server</category>
+      <pubDate>Wed, 12 Aug 2026 12:20:43 -0000</pubDate>
+      <description>The default version of RStudio-Server has changed from 2024.12.1-563 to 2026.07.1-147, this is the version that will be loaded when you run &lt;code&gt;module load RStudio-Server&lt;/code&gt;.
+If you wish to continue using 2024.12.1-563 in any of your scripts, make sure to change them to &lt;code&gt;module load RStudio-Server/2024.12.1-563&lt;/code&gt;</description>
+      <guid>A7298</guid>
     </item>
   </channel>
 </rss>
