@@ -8972,7 +8972,8 @@
             "5.62-94.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
             "5.63-95.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
             "5.64-96.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
-            "5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3"
+            "5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
+            "5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4"
         ],
         "admin_list": [
             {
@@ -8992,11 +8993,11 @@
             }
         ],
         "network_licences": [],
-        "default": "5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3",
+        "default": "5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4",
         "default_type": "latest",
-        "last_updated": 1740132630,
+        "last_updated": 1786672768,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/InterProScan/5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/InterProScan/5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4.lua",
         "force_hide": "False",
         "force_show": "False"
     },
