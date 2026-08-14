@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 14 Aug 2026 12:20:44 -0000">
+  <channel lastBuildDate="Fri, 14 Aug 2026 14:20:44 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75281,6 +75281,32 @@ If you wish to continue using 2.1.12-gimkl-2022a in any of your scripts, make su
       <description>The default version of eggnog-mapper has changed from 2.1.12-gimkl-2022a to 2.1.14-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load eggnog-mapper&lt;/code&gt;.
 If you wish to continue using 2.1.12-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load eggnog-mapper/2.1.12-gimkl-2022a&lt;/code&gt;</description>
       <guid>A7324</guid>
+    </item>
+    <item>
+      <title>InterProScan/5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">InterProScan</category>
+      <pubDate>Fri, 14 Aug 2026 14:20:44 -0000</pubDate>
+      <description>InterProScan has been updated with a new version, 5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4. &lt;pre&gt;&lt;code&gt;module load InterProScan/5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7325</guid>
+    </item>
+    <item>
+      <title>Default version of InterProScan has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">InterProScan</category>
+      <pubDate>Fri, 14 Aug 2026 14:20:44 -0000</pubDate>
+      <description>The default version of InterProScan has changed from 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 to 5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load InterProScan&lt;/code&gt;.
+If you wish to continue using 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load InterProScan/5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A7326</guid>
+    </item>
+    <item>
+      <title>Default version of InterProScan has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">InterProScan</category>
+      <pubDate>Fri, 14 Aug 2026 14:20:44 -0000</pubDate>
+      <description>The default version of InterProScan has changed from 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 to 5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load InterProScan&lt;/code&gt;.
+If you wish to continue using 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load InterProScan/5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3&lt;/code&gt;</description>
+      <guid>A7327</guid>
     </item>
   </channel>
 </rss>
