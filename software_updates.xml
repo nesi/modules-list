@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 14 Aug 2026 14:20:44 -0000">
+  <channel lastBuildDate="Sat, 15 Aug 2026 12:21:05 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75307,6 +75307,58 @@ If you wish to continue using 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 in 
       <description>The default version of InterProScan has changed from 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 to 5.78-109.0-foss-2026-Perl-5.42.1-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load InterProScan&lt;/code&gt;.
 If you wish to continue using 5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3 in any of your scripts, make sure to change them to &lt;code&gt;module load InterProScan/5.66-98.0-gimkl-2022aPerl-5.34.1-Python-3.11.3&lt;/code&gt;</description>
       <guid>A7327</guid>
+    </item>
+    <item>
+      <title>libxml2/2.11.4-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libxml2</category>
+      <pubDate>Sat, 15 Aug 2026 12:21:05 -0000</pubDate>
+      <description>libxml2 has been updated with a new version, 2.11.4-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load libxml2/2.11.4-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7328</guid>
+    </item>
+    <item>
+      <title>Default version of libxml2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxml2</category>
+      <pubDate>Sat, 15 Aug 2026 12:21:05 -0000</pubDate>
+      <description>The default version of libxml2 has changed from 2.11.4-GCCcore-12.3.0 to 2.11.4-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libxml2&lt;/code&gt;.
+If you wish to continue using 2.11.4-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libxml2/2.11.4-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7329</guid>
+    </item>
+    <item>
+      <title>Default version of libxml2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxml2</category>
+      <pubDate>Sat, 15 Aug 2026 12:21:05 -0000</pubDate>
+      <description>The default version of libxml2 has changed from 2.11.4-GCCcore-12.3.0 to 2.11.4-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libxml2&lt;/code&gt;.
+If you wish to continue using 2.11.4-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libxml2/2.11.4-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7330</guid>
+    </item>
+    <item>
+      <title>GLPK/5.0-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GLPK</category>
+      <pubDate>Sat, 15 Aug 2026 12:21:05 -0000</pubDate>
+      <description>GLPK has been updated with a new version, 5.0-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load GLPK/5.0-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7331</guid>
+    </item>
+    <item>
+      <title>Default version of GLPK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GLPK</category>
+      <pubDate>Sat, 15 Aug 2026 12:21:05 -0000</pubDate>
+      <description>The default version of GLPK has changed from 5.0-GCCcore-12.3.0 to 5.0-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GLPK&lt;/code&gt;.
+If you wish to continue using 5.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GLPK/5.0-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7332</guid>
+    </item>
+    <item>
+      <title>Default version of GLPK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GLPK</category>
+      <pubDate>Sat, 15 Aug 2026 12:21:05 -0000</pubDate>
+      <description>The default version of GLPK has changed from 5.0-GCCcore-12.3.0 to 5.0-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GLPK&lt;/code&gt;.
+If you wish to continue using 5.0-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GLPK/5.0-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7333</guid>
     </item>
   </channel>
 </rss>
