@@ -9975,6 +9975,7 @@
         "versions": [
             "22Jul2025-foss-2023a-kokkos",
             "22Jul2025-foss-2023a-kokkos-CUDA-12.2.2",
+            "22Jul2025-update5-foss-2026-kokkos",
             "23Jun2022-gimkl-2022a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos-ECHEMDID-CUDA-11.8.0",
             "23Jun2022-gimkl-2022a-kokkos-EChemDID",
