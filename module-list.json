@@ -8714,7 +8714,8 @@
         "homepage": "https://igraph.org",
         "support": "",
         "versions": [
-            "1.0.1-foss-2023a"
+            "1.0.1-foss-2023a",
+            "1.0.1-foss-2026"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -12264,15 +12265,16 @@
         "support": "",
         "versions": [
             "0.3.1-GCC-12.3.0",
+            "0.5.1-GCC-12.3.0",
             "0.5.1-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "0.5.1-GCC-15.2.0",
+        "default": "0.5.1-GCC-12.3.0",
         "default_type": "latest",
-        "last_updated": 1786573586,
+        "last_updated": 1787088247,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/mctc-lib/0.5.1-GCC-15.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/mctc-lib/0.5.1-GCC-12.3.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -22856,7 +22858,7 @@
             "6.4.2-foss-2023a",
             "6.4.2-intel-2022a",
             "6.4.3-foss-2023a",
-            "6.5.1-foss-2026"
+            "6.5.1-foss-2023a"
         ],
         "admin_list": [
             {
@@ -22869,7 +22871,7 @@
         "network_licences": [],
         "default": "6.4.2-intel-2022a",
         "default_type": "static",
-        "last_updated": 1786576250,
+        "last_updated": 1787091214,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/VASP/6.4.2-intel-2022a.lua",
         "force_hide": "False",
@@ -22973,6 +22975,26 @@
         "last_updated": 1770164095,
         "modulefile_text": "",
         "module_path": "/opt/nesi/zen3/modules/all/VCFtools/0.1.17-GCC-12.3.0-Perl-5.38.2.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
+    "vclust": {
+        "description": "Vclust is an alignment-based tool for fast and accurate calculation of Average Nucleotide Identity (ANI) between complete or metagenomically-assembled viral genomes.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/refresh-bio/vclust",
+        "support": "",
+        "versions": [
+            "1.3.1-foss-2026-Python-3.14.4"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.3.1-foss-2026-Python-3.14.4",
+        "default_type": "latest",
+        "last_updated": 1787088549,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/vclust/1.3.1-foss-2026-Python-3.14.4.lua",
         "force_hide": "False",
         "force_show": "False"
     },
