@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 18 Aug 2026 16:20:51 -0000">
+  <channel lastBuildDate="Wed, 19 Aug 2026 09:20:54 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75566,6 +75566,84 @@ If you wish to continue using 1.3.0-GCCcore-11.3.0-CUDA-11.8.0 in any of your sc
       <pubDate>Tue, 18 Aug 2026 16:20:51 -0000</pubDate>
       <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7357</guid>
+    </item>
+    <item>
+      <title>json-fortran/9.3.1-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>json-fortran has been updated with a new version, 9.3.1-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load json-fortran/9.3.1-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7358</guid>
+    </item>
+    <item>
+      <title>Default version of json-fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>The default version of json-fortran has changed from 9.3.1-GCC-15.2.0 to 9.3.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load json-fortran&lt;/code&gt;.
+If you wish to continue using 9.3.1-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load json-fortran/9.3.1-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7359</guid>
+    </item>
+    <item>
+      <title>Default version of json-fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">json-fortran</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>The default version of json-fortran has changed from 9.3.1-GCC-15.2.0 to 9.3.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load json-fortran&lt;/code&gt;.
+If you wish to continue using 9.3.1-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load json-fortran/9.3.1-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7360</guid>
+    </item>
+    <item>
+      <title>libxc/7.0.0-GCC-12.3.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libxc</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>libxc has been updated with a new version, 7.0.0-GCC-12.3.0. &lt;pre&gt;&lt;code&gt;module load libxc/7.0.0-GCC-12.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7361</guid>
+    </item>
+    <item>
+      <title>Default version of libxc has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxc</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>The default version of libxc has changed from 7.0.0-GCC-15.2.0 to 7.0.0-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libxc&lt;/code&gt;.
+If you wish to continue using 7.0.0-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libxc/7.0.0-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7362</guid>
+    </item>
+    <item>
+      <title>Default version of libxc has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxc</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>The default version of libxc has changed from 7.0.0-GCC-15.2.0 to 7.0.0-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libxc&lt;/code&gt;.
+If you wish to continue using 7.0.0-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libxc/7.0.0-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7363</guid>
+    </item>
+    <item>
+      <title>arpack-ng/3.9.1-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">arpack-ng</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>arpack-ng has been updated with a new version, 3.9.1-foss-2026. &lt;pre&gt;&lt;code&gt;module load arpack-ng/3.9.1-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7364</guid>
+    </item>
+    <item>
+      <title>Default version of arpack-ng has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">arpack-ng</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>The default version of arpack-ng has changed from 3.9.1-foss-2023a to 3.9.1-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load arpack-ng&lt;/code&gt;.
+If you wish to continue using 3.9.1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load arpack-ng/3.9.1-foss-2023a&lt;/code&gt;</description>
+      <guid>A7365</guid>
+    </item>
+    <item>
+      <title>Default version of arpack-ng has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">arpack-ng</category>
+      <pubDate>Wed, 19 Aug 2026 09:20:54 -0000</pubDate>
+      <description>The default version of arpack-ng has changed from 3.9.1-foss-2023a to 3.9.1-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load arpack-ng&lt;/code&gt;.
+If you wish to continue using 3.9.1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load arpack-ng/3.9.1-foss-2023a&lt;/code&gt;</description>
+      <guid>A7366</guid>
     </item>
   </channel>
 </rss>
