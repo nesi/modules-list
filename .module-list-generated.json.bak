@@ -3587,7 +3587,7 @@
                         "buffer_constant": 1,
                         "buffer_constant_other": 0,
                         "feature_name": "comsol",
-                        "hourly_average": 0.56,
+                        "hourly_average": 0.57,
                         "slurm_block": false,
                         "slurm_soak": false,
                         "slurm_token_name": "comsol@uc",
@@ -9459,7 +9459,9 @@
         "versions": [
             "22Jul2025-foss-2023a-kokkos",
             "22Jul2025-foss-2023a-kokkos-CUDA-12.2.2",
+            "22Jul2025-update5-foss-2026-GPU-CUDA-13.2.1",
             "22Jul2025-update5-foss-2026-kokkos",
+            "22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1",
             "23Jun2022-gimkl-2022a-kokkos",
             "23Jun2022-gimkl-2022a-kokkos-ECHEMDID-CUDA-11.8.0",
             "23Jun2022-gimkl-2022a-kokkos-EChemDID",
