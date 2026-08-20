@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 21 Aug 2026 09:20:56 -0000">
+  <channel lastBuildDate="Fri, 21 Aug 2026 10:20:53 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75878,6 +75878,17 @@ If you wish to continue using 3.5.0-intel-compilers-2025.3.0 in any of your scri
       <description>The default version of ScaLAPACK has changed from 2.2.2-iompi-2026-fb to 2.2.2-nvompi-2023b-fb, this is the version that will be loaded when you run &lt;code&gt;module load ScaLAPACK&lt;/code&gt;.
 If you wish to continue using 2.2.2-iompi-2026-fb in any of your scripts, make sure to change them to &lt;code&gt;module load ScaLAPACK/2.2.2-iompi-2026-fb&lt;/code&gt;</description>
       <guid>A7393</guid>
+    </item>
+    <item>
+      <title>nvofbf has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">nvofbf</category>
+      <pubDate>Fri, 21 Aug 2026 10:20:53 -0000</pubDate>
+      <description>NVHPC based toolchain, including OpenMPI for MPI support,
+OpenBLAS (via FlexiBLAS for BLAS and LAPACK support), FFTW and ScaLAPACK.
+(none)
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load nvofbf/2023b&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7394</guid>
     </item>
   </channel>
 </rss>
