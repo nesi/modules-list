@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 20 Aug 2026 09:20:52 -0000">
+  <channel lastBuildDate="Thu, 20 Aug 2026 12:20:50 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75730,6 +75730,16 @@ If you wish to continue using 7.0.0-GCC-12.3.0 in any of your scripts, make sure
       <pubDate>Thu, 20 Aug 2026 09:20:52 -0000</pubDate>
       <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7376</guid>
+    </item>
+    <item>
+      <title>nvidia-compilers has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">nvidia-compilers</category>
+      <pubDate>Thu, 20 Aug 2026 12:20:50 -0000</pubDate>
+      <description>C, C++ and Fortran compilers included with the NVIDIA HPC SDK
+https://developer.nvidia.com/hpc-sdk/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load nvidia-compilers/23.7-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7377</guid>
     </item>
   </channel>
 </rss>
