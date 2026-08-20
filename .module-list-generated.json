@@ -2258,6 +2258,7 @@
             "0.9.0-GCC-12.3.0",
             "2.0-GCC-15.2.0",
             "2.0-intel-compilers-2025.3.0",
+            "2.0-nvidia-compilers-23.7-CUDA-12.2.2",
             "4.0-GCC-11.3.0-amd"
         ],
         "admin_list": [],
@@ -5746,6 +5747,7 @@
             "3.3.10-gompi-2022a",
             "3.3.10-intel-compilers-2023.2.1",
             "3.3.10-intel-compilers-2025.3.0",
+            "3.3.10-nvidia-compilers-23.7-CUDA-12.2.2",
             "3.3.8-gimpi-2020a",
             "3.3.9-iimpi-2022a"
         ],
@@ -5770,7 +5772,8 @@
             "3.3.10-gompi-2023a",
             "3.3.10-gompi-2026",
             "3.3.10-iompi-2023a",
-            "3.3.10-iompi-2026"
+            "3.3.10-iompi-2026",
+            "3.3.10-nvompi-2023b"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -6014,15 +6017,16 @@
             "3.3.1-GCC-12.3.0",
             "3.4.4-intel-compilers-2023.2.1",
             "3.5.0-GCC-15.2.0",
-            "3.5.0-intel-compilers-2025.3.0"
+            "3.5.0-intel-compilers-2025.3.0",
+            "3.5.0-nvidia-compilers-23.7-CUDA-12.2.2"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.5.0-intel-compilers-2025.3.0",
+        "default": "3.5.0-nvidia-compilers-23.7-CUDA-12.2.2",
         "default_type": "latest",
-        "last_updated": 1778650933,
+        "last_updated": 1787201803,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/FlexiBLAS/3.5.0-intel-compilers-2025.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/FlexiBLAS/3.5.0-nvidia-compilers-23.7-CUDA-12.2.2.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -19318,7 +19322,8 @@
             "2.2.0-gompi-2023a-fb",
             "2.2.0-iompi-2023a-fb",
             "2.2.2-gompi-2026-fb",
-            "2.2.2-iompi-2026-fb"
+            "2.2.2-iompi-2026-fb",
+            "2.2.2-nvompi-2023b-fb"
         ],
         "admin_list": [],
         "network_licences": [],
