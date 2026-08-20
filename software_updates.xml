@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 20 Aug 2026 14:20:53 -0000">
+  <channel lastBuildDate="Thu, 20 Aug 2026 16:20:51 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75767,6 +75767,23 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load nvompi/202
       <description>The default version of OpenMPI has changed from 5.0.10-intel-compilers-2025.3.0 to 4.1.5-nvidia-compilers-23.7-CUDA-12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load OpenMPI&lt;/code&gt;.
 If you wish to continue using 5.0.10-intel-compilers-2025.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenMPI/5.0.10-intel-compilers-2025.3.0&lt;/code&gt;</description>
       <guid>A7380</guid>
+    </item>
+    <item>
+      <title>OpenBLAS/0.3.32-nvidia-compilers-23.7-CUDA-12.2.2 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Thu, 20 Aug 2026 16:20:51 -0000</pubDate>
+      <description>OpenBLAS has been updated with a new version, 0.3.32-nvidia-compilers-23.7-CUDA-12.2.2. &lt;pre&gt;&lt;code&gt;module load OpenBLAS/0.3.32-nvidia-compilers-23.7-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7381</guid>
+    </item>
+    <item>
+      <title>Default version of OpenBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Thu, 20 Aug 2026 16:20:51 -0000</pubDate>
+      <description>The default version of OpenBLAS has changed from 0.3.32-GCC-15.2.0 to 0.3.32-nvidia-compilers-23.7-CUDA-12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load OpenBLAS&lt;/code&gt;.
+If you wish to continue using 0.3.32-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenBLAS/0.3.32-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7382</guid>
     </item>
   </channel>
 </rss>
