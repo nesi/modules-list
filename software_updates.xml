@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 25 Aug 2026 09:21:00 -0000">
+  <channel lastBuildDate="Mon, 31 Aug 2026 13:20:59 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -75966,6 +75966,32 @@ If you wish to continue using 2025.2-foss-2023a-cuda-12.5.0-hybrid in any of you
       <description>The default version of GROMACS has changed from 2025.2-foss-2023a-cuda-12.5.0-hybrid to 2026.3-foss-2026-cuda-13.2.1-hybrid, this is the version that will be loaded when you run &lt;code&gt;module load GROMACS&lt;/code&gt;.
 If you wish to continue using 2025.2-foss-2023a-cuda-12.5.0-hybrid in any of your scripts, make sure to change them to &lt;code&gt;module load GROMACS/2025.2-foss-2023a-cuda-12.5.0-hybrid&lt;/code&gt;</description>
       <guid>A7403</guid>
+    </item>
+    <item>
+      <title>ORCA/6.1.1-OpenMPI-4.1.5 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ORCA</category>
+      <pubDate>Mon, 31 Aug 2026 13:20:59 -0000</pubDate>
+      <description>ORCA has been updated with a new version, 6.1.1-OpenMPI-4.1.5. &lt;pre&gt;&lt;code&gt;module load ORCA/6.1.1-OpenMPI-4.1.5&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7404</guid>
+    </item>
+    <item>
+      <title>Default version of ORCA has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ORCA</category>
+      <pubDate>Mon, 31 Aug 2026 13:20:59 -0000</pubDate>
+      <description>The default version of ORCA has changed from 6.1.0-f.0-OpenMPI-4.1.5 to 6.1.1-OpenMPI-4.1.5, this is the version that will be loaded when you run &lt;code&gt;module load ORCA&lt;/code&gt;.
+If you wish to continue using 6.1.0-f.0-OpenMPI-4.1.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ORCA/6.1.0-f.0-OpenMPI-4.1.5&lt;/code&gt;</description>
+      <guid>A7405</guid>
+    </item>
+    <item>
+      <title>Default version of ORCA has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ORCA</category>
+      <pubDate>Mon, 31 Aug 2026 13:20:59 -0000</pubDate>
+      <description>The default version of ORCA has changed from 6.1.0-f.0-OpenMPI-4.1.5 to 6.1.1-OpenMPI-4.1.5, this is the version that will be loaded when you run &lt;code&gt;module load ORCA&lt;/code&gt;.
+If you wish to continue using 6.1.0-f.0-OpenMPI-4.1.5 in any of your scripts, make sure to change them to &lt;code&gt;module load ORCA/6.1.0-f.0-OpenMPI-4.1.5&lt;/code&gt;</description>
+      <guid>A7406</guid>
     </item>
   </channel>
 </rss>
