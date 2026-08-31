@@ -15332,15 +15332,16 @@
             "5.0.3-OpenMPI-4.1.1",
             "5.0.4-OpenMPI-4.1.5",
             "6.0.1-OpenMPI-4.1.5",
-            "6.1.0-f.0-OpenMPI-4.1.5"
+            "6.1.0-f.0-OpenMPI-4.1.5",
+            "6.1.1-OpenMPI-4.1.5"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "6.1.0-f.0-OpenMPI-4.1.5",
+        "default": "6.1.1-OpenMPI-4.1.5",
         "default_type": "latest",
-        "last_updated": 1786486043,
+        "last_updated": 1788138960,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/ORCA/6.1.0-f.0-OpenMPI-4.1.5.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/ORCA/6.1.1-OpenMPI-4.1.5.lua",
         "force_hide": "False",
         "force_show": "False"
     },
