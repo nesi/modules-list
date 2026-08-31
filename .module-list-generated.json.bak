@@ -15671,6 +15671,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "PGPLOT": {
+        "description": "The PGPLOT Graphics Subroutine Library is a Fortran- or C-callable,\ndevice-independent graphics package for making simple scientific graphs. It is intended\nfor making graphical images of publication quality with minimum effort on the part of\nthe user. For most applications, the program can be device-independent, and the output\ncan be directed to the appropriate device at run time.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://sites.astro.caltech.edu/~tjp/pgplot/",
+        "support": "",
+        "versions": [
+            "5.2.2-GCCcore-15.2.0"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "5.2.2-GCCcore-15.2.0",
+        "default_type": "latest",
+        "last_updated": 1788150744,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/PGPLOT/5.2.2-GCCcore-15.2.0.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "phonopy": {
         "description": "Phonopy is an open source package of phonon calculations based on the supercell approach.",
         "domains": [],
