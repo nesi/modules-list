@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 01 Sep 2026 09:21:27 -0000">
+  <channel lastBuildDate="Wed, 02 Sep 2026 09:21:32 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76006,6 +76006,16 @@ can be directed to the appropriate device at run time.
 https://sites.astro.caltech.edu/~tjp/pgplot/
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load PGPLOT/5.2.2-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7407</guid>
+    </item>
+    <item>
+      <title>CMFGEN has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">CMFGEN</category>
+      <pubDate>Wed, 02 Sep 2026 09:21:32 -0000</pubDate>
+      <description>A radiative transfer code designed to solve the radiative transfer and statistical equilibrium equations in spherical geometry. It has been designed for application to W-R stars, O stars, and Luminous Blue-Variables.
+https://sites.pitt.edu/~hillier/web/CMFGEN.htm
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load CMFGEN/18-06-2025-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7408</guid>
     </item>
   </channel>
 </rss>
