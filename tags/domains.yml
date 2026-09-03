@@ -114,6 +114,7 @@ biology:
   - GRIDSS
   - GTDB-Tk
   - GUSHR
+  - HAL
   - haplocheck
   - hifiasm
   - HMMER2
@@ -197,7 +198,6 @@ biology:
   - NewHybrids
   - NextPolish2
   - nullarbor
-  - NWChem
   - ont-guppy-gpu
   - OpenBabel
   - OpenSlide
@@ -214,7 +214,7 @@ biology:
   - pgge
   - PhyloPhlAn
   - phyx
-  - PLUMED
+  - PILERCR
   - pod5
   - Porechop_ABI
   - PRANK
@@ -433,6 +433,9 @@ biology:
   - Velvet
   - VSEARCH
   - Wise2
+  - SKA2
+  - slow5-dorado
+  - vt
 chemistry:
   - AlphaFold
   - AlphaFold2DB
@@ -446,6 +449,7 @@ chemistry:
   - Foldseek
   - GOLD
   - GPAW
+  - GPUMD
   - HMMER
   - HMMER2
   - InterProScan
@@ -453,6 +457,7 @@ chemistry:
   - MiMiC
   - MiMiC-CommLib
   - Newton-X
+  - NWChem
   - phonopy
   - pymol-open-source
   - randfold
@@ -488,6 +493,7 @@ climate_science:
   - ESMF
   - CDO
   - PDAL
+  - PISM
 data_analytics:
   - Python
   - R
@@ -532,6 +538,54 @@ engineering:
   - FDS
   - Octave
   - ParaView
+gpu:
+  - AdaptiveCpp
+  - AlphaFold
+  - Amber
+  - AutoDock-GPU
+  - beagle-lib
+  - BEAST
+  - Clang
+  - CP2K
+  - CUDA
+  - cuDNN
+  - dadi
+  - DeepLabCut
+  - DeePMD-plugin
+  - Dorado
+  - EMAN2
+  - GPUMD
+  - GROMACS
+  - impi
+  - LAMMPS
+  - libcuda-stub
+  - libgpuarray
+  - LISFLOOD-FP
+  - magma
+  - medaka
+  - megalodon
+  - MiMiC
+  - MrBayes
+  - NAMD
+  - NCCL
+  - NVHPC
+  - ont-guppy-gpu
+  - OpenMPI
+  - PyTorch
+  - Racon
+  - Relion
+  - RFdiffusion
+  - SeisSol
+  - slow5-dorado
+  - TensorFlow
+  - TensorRT
+  - UCC-CUDA
+  - UCX
+  - UCX-CUDA
+  - Unicycler
+  - VASP
+  - ABAQUS
+  - MATLAB
 language:
   - Go
   - Julia
