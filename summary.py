@@ -59,8 +59,10 @@ def compare(old, new):
                 domain_stats[d]["versions_removed"] += removed_v
             total_versions_added += added_v
             total_versions_removed += removed_v
-
     print("[TOTAL]")
+    print(f"  modules {len(new_keys)}}")
+    print(f"  versions {len(new_keys)}")
+    print("[CHANGED]")
     print(f"  modules +{len(added)} / -{len(removed)}")
     print(f"  versions +{total_versions_added} / -{total_versions_removed}")
 
