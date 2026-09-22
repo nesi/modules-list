@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 21 Sep 2026 12:20:55 -0000">
+  <channel lastBuildDate="Wed, 23 Sep 2026 11:20:52 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76131,6 +76131,153 @@ If you wish to continue using 1.0.2-GCC-12.3.0 in any of your scripts, make sure
       <description>The default version of CapnProto has changed from 1.0.2-GCC-12.3.0 to 1.5.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load CapnProto&lt;/code&gt;.
 If you wish to continue using 1.0.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load CapnProto/1.0.2-GCC-12.3.0&lt;/code&gt;</description>
       <guid>A7421</guid>
+    </item>
+    <item>
+      <title>CheckM/1.2.5-foss-2026-Python-3.14.4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">CheckM</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>CheckM has been updated with a new version, 1.2.5-foss-2026-Python-3.14.4. &lt;pre&gt;&lt;code&gt;module load CheckM/1.2.5-foss-2026-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7422</guid>
+    </item>
+    <item>
+      <title>Default version of CheckM has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CheckM</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of CheckM has changed from 1.2.3-foss-2023a-Python-3.11.6 to 1.2.5-foss-2026-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load CheckM&lt;/code&gt;.
+If you wish to continue using 1.2.3-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load CheckM/1.2.3-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A7423</guid>
+    </item>
+    <item>
+      <title>Default version of CheckM has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CheckM</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of CheckM has changed from 1.2.3-foss-2023a-Python-3.11.6 to 1.2.5-foss-2026-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load CheckM&lt;/code&gt;.
+If you wish to continue using 1.2.3-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load CheckM/1.2.3-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A7424</guid>
+    </item>
+    <item>
+      <title>FastANI/1.34-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FastANI</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>FastANI has been updated with a new version, 1.34-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load FastANI/1.34-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7425</guid>
+    </item>
+    <item>
+      <title>Default version of FastANI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FastANI</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of FastANI has changed from 1.33-intel-2020a to 1.34-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FastANI&lt;/code&gt;.
+If you wish to continue using 1.33-intel-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load FastANI/1.33-intel-2020a&lt;/code&gt;</description>
+      <guid>A7426</guid>
+    </item>
+    <item>
+      <title>Default version of FastANI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FastANI</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of FastANI has changed from 1.33-intel-2020a to 1.34-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FastANI&lt;/code&gt;.
+If you wish to continue using 1.33-intel-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load FastANI/1.33-intel-2020a&lt;/code&gt;</description>
+      <guid>A7427</guid>
+    </item>
+    <item>
+      <title>MUMmer/4.0.1-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">MUMmer</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>MUMmer has been updated with a new version, 4.0.1-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load MUMmer/4.0.1-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7428</guid>
+    </item>
+    <item>
+      <title>Default version of MUMmer has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUMmer</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of MUMmer has changed from 4.0.1-GCCcore-12.3.0 to 4.0.1-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load MUMmer&lt;/code&gt;.
+If you wish to continue using 4.0.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUMmer/4.0.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7429</guid>
+    </item>
+    <item>
+      <title>skani/0.3.2-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">skani</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>skani has been updated with a new version, 0.3.2-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load skani/0.3.2-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7430</guid>
+    </item>
+    <item>
+      <title>Default version of skani has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">skani</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of skani has changed from 0.2.2-GCC-12.3.0 to 0.3.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load skani&lt;/code&gt;.
+If you wish to continue using 0.2.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load skani/0.2.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7431</guid>
+    </item>
+    <item>
+      <title>Default version of skani has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">skani</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of skani has changed from 0.2.2-GCC-12.3.0 to 0.3.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load skani&lt;/code&gt;.
+If you wish to continue using 0.2.2-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load skani/0.2.2-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7432</guid>
+    </item>
+    <item>
+      <title>Mash/2.3-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Mash</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>Mash has been updated with a new version, 2.3-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load Mash/2.3-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7433</guid>
+    </item>
+    <item>
+      <title>Default version of Mash has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Mash</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of Mash has changed from 2.3-GCC-12.3.0 to 2.3-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load Mash&lt;/code&gt;.
+If you wish to continue using 2.3-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Mash/2.3-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7434</guid>
+    </item>
+    <item>
+      <title>Default version of Mash has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Mash</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of Mash has changed from 2.3-GCC-12.3.0 to 2.3-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load Mash&lt;/code&gt;.
+If you wish to continue using 2.3-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Mash/2.3-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7435</guid>
+    </item>
+    <item>
+      <title>ANIcalculator/1.0-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ANIcalculator</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>ANIcalculator has been updated with a new version, 1.0-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load ANIcalculator/1.0-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7436</guid>
+    </item>
+    <item>
+      <title>Default version of ANIcalculator has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ANIcalculator</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of ANIcalculator has changed from 1.0-GCC-11.3.0 to 1.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load ANIcalculator&lt;/code&gt;.
+If you wish to continue using 1.0-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load ANIcalculator/1.0-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7437</guid>
+    </item>
+    <item>
+      <title>Default version of ANIcalculator has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ANIcalculator</category>
+      <pubDate>Wed, 23 Sep 2026 11:20:52 -0000</pubDate>
+      <description>The default version of ANIcalculator has changed from 1.0-GCC-11.3.0 to 1.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load ANIcalculator&lt;/code&gt;.
+If you wish to continue using 1.0-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load ANIcalculator/1.0-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7438</guid>
     </item>
   </channel>
 </rss>

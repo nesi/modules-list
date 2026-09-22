@@ -540,22 +540,23 @@
         "force_show": "False"
     },
     "ANIcalculator": {
-        "description": "Calculate the bidirectional average nucleotide identity (gANI) and \nAlignment Fraction (AF) between two genomes.",
+        "description": "Calculate the bidirectional average nucleotide identity (gANI) and \nAlignment Fraction (AF) between two genomes. Also known as gANI",
         "domains": [],
         "extensions": [],
         "licence_type": "",
         "homepage": "https://ani.jgi.doe.gov/html/home.php",
         "support": "",
         "versions": [
-            "1.0-GCC-11.3.0"
+            "1.0-GCC-11.3.0",
+            "1.0-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.0-GCC-11.3.0",
+        "default": "1.0-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132625,
+        "last_updated": 1790118672,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ANIcalculator/1.0-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/ANIcalculator/1.0-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -2950,14 +2951,17 @@
     "CheckM": {
         "description": "CheckM provides a set of tools for assessing the quality of genomes recovered from isolates,\n single cells, or metagenomes.",
         "domains": [],
-        "extensions": [],
+        "extensions": [
+            "checkm-genome-1.2.5"
+        ],
         "licence_type": "",
         "homepage": "https://github.com/Ecogenomics/CheckM",
         "support": "",
         "versions": [
             "1.0.13-gimkl-2018b-Python-2.7.16",
             "1.2.1-gimkl-2022a-Python-3.10.5",
-            "1.2.3-foss-2023a-Python-3.11.6"
+            "1.2.3-foss-2023a-Python-3.11.6",
+            "1.2.5-foss-2026-Python-3.14.4"
         ],
         "admin_list": [
             {
@@ -2965,11 +2969,11 @@
             }
         ],
         "network_licences": [],
-        "default": "1.2.3-foss-2023a-Python-3.11.6",
+        "default": "1.2.5-foss-2026-Python-3.14.4",
         "default_type": "latest",
-        "last_updated": 1740132628,
+        "last_updated": 1790119092,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/CheckM/1.2.3-foss-2023a-Python-3.11.6.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/CheckM/1.2.5-foss-2026-Python-3.14.4.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -5498,7 +5502,8 @@
             "1.3-GCCcore-9.2.0",
             "1.33-GCC-11.3.0",
             "1.33-intel-2020a",
-            "1.33-intel-2022a"
+            "1.33-intel-2022a",
+            "1.34-GCC-15.2.0"
         ],
         "admin_list": [
             {
@@ -5506,11 +5511,11 @@
             }
         ],
         "network_licences": [],
-        "default": "1.33-intel-2020a",
+        "default": "1.34-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1790118362,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/FastANI/1.33-intel-2020a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/FastANI/1.34-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -11232,15 +11237,16 @@
             "2.2-GCC-9.2.0",
             "2.3-GCC-11.3.0",
             "2.3-GCC-12.3.0",
+            "2.3-GCC-15.2.0",
             "2.3-GCC-9.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.3-GCC-12.3.0",
+        "default": "2.3-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132631,
+        "last_updated": 1790118228,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/Mash/2.3-GCC-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/Mash/2.3-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
@@ -12859,7 +12865,8 @@
             "3.23-gimkl-2018b",
             "4.0.0rc1-GCCcore-11.3.0",
             "4.0.0rc1-GCCcore-9.2.0",
-            "4.0.1-GCCcore-12.3.0"
+            "4.0.1-GCCcore-12.3.0",
+            "4.0.1-GCCcore-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
@@ -19886,15 +19893,16 @@
         "homepage": "https://github.com/bluenote-1577/skani",
         "support": "",
         "versions": [
-            "0.2.2-GCC-12.3.0"
+            "0.2.2-GCC-12.3.0",
+            "0.3.2-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "0.2.2-GCC-12.3.0",
+        "default": "0.3.2-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132639,
+        "last_updated": 1790118617,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/skani/0.2.2-GCC-12.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/skani/0.3.2-GCC-15.2.0.lua",
         "force_hide": "False",
         "force_show": "False"
     },
