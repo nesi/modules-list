@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 24 Sep 2026 11:20:52 -0000">
+  <channel lastBuildDate="Thu, 24 Sep 2026 15:20:52 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76328,6 +76328,16 @@ If you wish to continue using 3.4.2-gimkl-2022a-Python-3.10.5 in any of your scr
       <pubDate>Thu, 24 Sep 2026 11:20:52 -0000</pubDate>
       <description>Warning: CheckM/1.2.1-gimkl-2022a-Python-3.10.5 is old and marked for deletion. Please select a more recent version or let us know that you still need it.</description>
       <guid>A7444</guid>
+    </item>
+    <item>
+      <title>squashfs-tools has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">squashfs-tools</category>
+      <pubDate>Thu, 24 Sep 2026 15:20:51 -0000</pubDate>
+      <description>tools to create and extract Squashfs filesystems
+https://github.com/plougher/squashfs-tools
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load squashfs-tools/4.7.5&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7445</guid>
     </item>
   </channel>
 </rss>
