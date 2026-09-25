@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 24 Sep 2026 15:20:52 -0000">
+  <channel lastBuildDate="Fri, 25 Sep 2026 14:20:55 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76338,6 +76338,32 @@ If you wish to continue using 3.4.2-gimkl-2022a-Python-3.10.5 in any of your scr
 https://github.com/plougher/squashfs-tools
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load squashfs-tools/4.7.5&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7445</guid>
+    </item>
+    <item>
+      <title>Libint/2.13.1-GCC-15.2.0-lmax-6-cp2k added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Libint</category>
+      <pubDate>Fri, 25 Sep 2026 14:20:55 -0000</pubDate>
+      <description>Libint has been updated with a new version, 2.13.1-GCC-15.2.0-lmax-6-cp2k. &lt;pre&gt;&lt;code&gt;module load Libint/2.13.1-GCC-15.2.0-lmax-6-cp2k&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7446</guid>
+    </item>
+    <item>
+      <title>Default version of Libint has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Libint</category>
+      <pubDate>Fri, 25 Sep 2026 14:20:55 -0000</pubDate>
+      <description>The default version of Libint has changed from 2.11.2-GCC-12.3.0-lmax-6-cp2k to 2.13.1-GCC-15.2.0-lmax-6-cp2k, this is the version that will be loaded when you run &lt;code&gt;module load Libint&lt;/code&gt;.
+If you wish to continue using 2.11.2-GCC-12.3.0-lmax-6-cp2k in any of your scripts, make sure to change them to &lt;code&gt;module load Libint/2.11.2-GCC-12.3.0-lmax-6-cp2k&lt;/code&gt;</description>
+      <guid>A7447</guid>
+    </item>
+    <item>
+      <title>Default version of Libint has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Libint</category>
+      <pubDate>Fri, 25 Sep 2026 14:20:55 -0000</pubDate>
+      <description>The default version of Libint has changed from 2.11.2-GCC-12.3.0-lmax-6-cp2k to 2.13.1-GCC-15.2.0-lmax-6-cp2k, this is the version that will be loaded when you run &lt;code&gt;module load Libint&lt;/code&gt;.
+If you wish to continue using 2.11.2-GCC-12.3.0-lmax-6-cp2k in any of your scripts, make sure to change them to &lt;code&gt;module load Libint/2.11.2-GCC-12.3.0-lmax-6-cp2k&lt;/code&gt;</description>
+      <guid>A7448</guid>
     </item>
   </channel>
 </rss>
