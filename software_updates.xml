@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 25 Sep 2026 16:20:55 -0000">
+  <channel lastBuildDate="Sat, 26 Sep 2026 12:21:19 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76399,6 +76399,134 @@ If you wish to continue using 2.11.2-GCC-12.3.0-lmax-6-cp2k in any of your scrip
       <description>The default version of Libint has changed from 2.11.2-GCC-12.3.0-lmax-6-cp2k to 2.13.1-GCC-15.2.0-lmax-6-cp2k, this is the version that will be loaded when you run &lt;code&gt;module load Libint&lt;/code&gt;.
 If you wish to continue using 2.11.2-GCC-12.3.0-lmax-6-cp2k in any of your scripts, make sure to change them to &lt;code&gt;module load Libint/2.11.2-GCC-12.3.0-lmax-6-cp2k&lt;/code&gt;</description>
       <guid>A7452</guid>
+    </item>
+    <item>
+      <title>DBCSR has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">DBCSR</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>DBCSR stands for Distributed Blocked Compressed Sparse Row. It is a library designed to
+ efficiently perform sparse matrix-matrix multiplication, among other operations. Used by CP2K
+https://cp2k.github.io/dbcsr/
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load DBCSR/2.10.0-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7453</guid>
+    </item>
+    <item>
+      <title>libxs has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">libxs</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>LIBXS is a portable C library providing building blocks for memory operations,
+ numerics, synchronization and more, with a focus on performance and minimal dependencies. It is
+ used by CP2K and DBCSR for host-side small matrix multiplication, with
+ LIBXSMM layered on top to supply the JIT-compiled kernels.
+https://github.com/hfp/libxs
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libxs/1.0.0-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7454</guid>
+    </item>
+    <item>
+      <title>libxc/7.1.2-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libxc</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>libxc has been updated with a new version, 7.1.2-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load libxc/7.1.2-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7455</guid>
+    </item>
+    <item>
+      <title>Default version of libxc has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxc</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of libxc has changed from 6.2.2-intel-2022a to 7.1.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libxc&lt;/code&gt;.
+If you wish to continue using 6.2.2-intel-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load libxc/6.2.2-intel-2022a&lt;/code&gt;</description>
+      <guid>A7456</guid>
+    </item>
+    <item>
+      <title>Default version of libxc has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxc</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of libxc has changed from 6.2.2-intel-2022a to 7.1.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libxc&lt;/code&gt;.
+If you wish to continue using 6.2.2-intel-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load libxc/6.2.2-intel-2022a&lt;/code&gt;</description>
+      <guid>A7457</guid>
+    </item>
+    <item>
+      <title>libxsmm/2.1.0-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libxsmm</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>libxsmm has been updated with a new version, 2.1.0-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load libxsmm/2.1.0-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7458</guid>
+    </item>
+    <item>
+      <title>Default version of libxsmm has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxsmm</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of libxsmm has changed from 1.17-GCC-12.3.0 to 2.1.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libxsmm&lt;/code&gt;.
+If you wish to continue using 1.17-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libxsmm/1.17-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7459</guid>
+    </item>
+    <item>
+      <title>Default version of libxsmm has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libxsmm</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of libxsmm has changed from 1.17-GCC-12.3.0 to 2.1.0-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libxsmm&lt;/code&gt;.
+If you wish to continue using 1.17-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libxsmm/1.17-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7460</guid>
+    </item>
+    <item>
+      <title>libvori/220621-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libvori</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>libvori has been updated with a new version, 220621-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load libvori/220621-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7461</guid>
+    </item>
+    <item>
+      <title>Default version of libvori has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libvori</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of libvori has changed from 220621-GCCcore-12.3.0 to 220621-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libvori&lt;/code&gt;.
+If you wish to continue using 220621-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libvori/220621-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7462</guid>
+    </item>
+    <item>
+      <title>Default version of libvori has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libvori</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of libvori has changed from 220621-GCCcore-12.3.0 to 220621-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libvori&lt;/code&gt;.
+If you wish to continue using 220621-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libvori/220621-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7463</guid>
+    </item>
+    <item>
+      <title>CP2K/2026.2-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">CP2K</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>CP2K has been updated with a new version, 2026.2-foss-2026. &lt;pre&gt;&lt;code&gt;module load CP2K/2026.2-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7464</guid>
+    </item>
+    <item>
+      <title>Default version of CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CP2K</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of CP2K has changed from 2025.2-foss-2023a to 2026.2-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load CP2K&lt;/code&gt;.
+If you wish to continue using 2025.2-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load CP2K/2025.2-foss-2023a&lt;/code&gt;</description>
+      <guid>A7465</guid>
+    </item>
+    <item>
+      <title>Default version of CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">CP2K</category>
+      <pubDate>Sat, 26 Sep 2026 12:21:19 -0000</pubDate>
+      <description>The default version of CP2K has changed from 2025.2-foss-2023a to 2026.2-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load CP2K&lt;/code&gt;.
+If you wish to continue using 2025.2-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load CP2K/2025.2-foss-2023a&lt;/code&gt;</description>
+      <guid>A7466</guid>
     </item>
   </channel>
 </rss>
