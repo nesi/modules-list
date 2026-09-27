@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Sat, 26 Sep 2026 12:21:19 -0000">
+  <channel lastBuildDate="Mon, 28 Sep 2026 11:21:48 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76527,6 +76527,16 @@ If you wish to continue using 2025.2-foss-2023a in any of your scripts, make sur
       <description>The default version of CP2K has changed from 2025.2-foss-2023a to 2026.2-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load CP2K&lt;/code&gt;.
 If you wish to continue using 2025.2-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load CP2K/2025.2-foss-2023a&lt;/code&gt;</description>
       <guid>A7466</guid>
+    </item>
+    <item>
+      <title>micro has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">micro</category>
+      <pubDate>Mon, 28 Sep 2026 11:21:48 -0000</pubDate>
+      <description>micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.
+https://github.com/micro-editor/micro
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load micro/2.0.15&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7467</guid>
     </item>
   </channel>
 </rss>
