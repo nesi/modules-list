@@ -12201,6 +12201,26 @@
         "force_hide": "False",
         "force_show": "False"
     },
+    "micro": {
+        "description": "micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the capabilities of modern terminals.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://github.com/micro-editor/micro",
+        "support": "",
+        "versions": [
+            "2.0.15"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "2.0.15",
+        "default_type": "latest",
+        "last_updated": 1790544368,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/micro/2.0.15.lua",
+        "force_hide": "False",
+        "force_show": "False"
+    },
     "MiMiC": {
         "description": "MiMiC: A Framework for Multiscale Modeling in Computational Chemistry\n\nThis package includes mimicpy",
         "domains": [],
