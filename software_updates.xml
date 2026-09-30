@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 28 Sep 2026 11:21:48 -0000">
+  <channel lastBuildDate="Thu, 01 Oct 2026 09:21:13 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76537,6 +76537,49 @@ If you wish to continue using 2025.2-foss-2023a in any of your scripts, make sur
 https://github.com/micro-editor/micro
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load micro/2.0.15&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7467</guid>
+    </item>
+    <item>
+      <title>GROMACS_CP2K/2026.2 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GROMACS_CP2K</category>
+      <pubDate>Thu, 01 Oct 2026 09:21:13 -0000</pubDate>
+      <description>GROMACS_CP2K has been updated with a new version, 2026.2. &lt;pre&gt;&lt;code&gt;module load GROMACS_CP2K/2026.2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7468</guid>
+    </item>
+    <item>
+      <title>Default version of GROMACS_CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GROMACS_CP2K</category>
+      <pubDate>Thu, 01 Oct 2026 09:21:13 -0000</pubDate>
+      <description>The default version of GROMACS_CP2K has changed from 2025.2 to 2026.2, this is the version that will be loaded when you run &lt;code&gt;module load GROMACS_CP2K&lt;/code&gt;.
+If you wish to continue using 2025.2 in any of your scripts, make sure to change them to &lt;code&gt;module load GROMACS_CP2K/2025.2&lt;/code&gt;</description>
+      <guid>A7469</guid>
+    </item>
+    <item>
+      <title>GROMACS_CP2K/2026.2-CUDA-12.8 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GROMACS_CP2K</category>
+      <pubDate>Thu, 01 Oct 2026 09:21:13 -0000</pubDate>
+      <description>GROMACS_CP2K has been updated with a new version, 2026.2-CUDA-12.8. &lt;pre&gt;&lt;code&gt;module load GROMACS_CP2K/2026.2-CUDA-12.8&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7470</guid>
+    </item>
+    <item>
+      <title>Default version of GROMACS_CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GROMACS_CP2K</category>
+      <pubDate>Thu, 01 Oct 2026 09:21:13 -0000</pubDate>
+      <description>The default version of GROMACS_CP2K has changed from 2025.2 to 2026.2-CUDA-12.8, this is the version that will be loaded when you run &lt;code&gt;module load GROMACS_CP2K&lt;/code&gt;.
+If you wish to continue using 2025.2 in any of your scripts, make sure to change them to &lt;code&gt;module load GROMACS_CP2K/2025.2&lt;/code&gt;</description>
+      <guid>A7471</guid>
+    </item>
+    <item>
+      <title>Default version of GROMACS_CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GROMACS_CP2K</category>
+      <pubDate>Thu, 01 Oct 2026 09:21:13 -0000</pubDate>
+      <description>The default version of GROMACS_CP2K has changed from 2025.2 to 2026.2-CUDA-12.8, this is the version that will be loaded when you run &lt;code&gt;module load GROMACS_CP2K&lt;/code&gt;.
+If you wish to continue using 2025.2 in any of your scripts, make sure to change them to &lt;code&gt;module load GROMACS_CP2K/2025.2&lt;/code&gt;</description>
+      <guid>A7472</guid>
     </item>
   </channel>
 </rss>
