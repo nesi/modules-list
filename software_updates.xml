@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 07 Oct 2026 10:20:59 -0000">
+  <channel lastBuildDate="Wed, 07 Oct 2026 11:21:05 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76798,6 +76798,16 @@ If you wish to continue using 8.2-GCCcore-12.3.0 in any of your scripts, make su
       <pubDate>Wed, 07 Oct 2026 10:20:59 -0000</pubDate>
       <description>CMFGEN has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load CMFGEN&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7496</guid>
+    </item>
+    <item>
+      <title>CMFGEN has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">CMFGEN</category>
+      <pubDate>Wed, 07 Oct 2026 11:21:05 -0000</pubDate>
+      <description>A radiative transfer code designed to solve the radiative transfer and statistical equilibrium equations in spherical geometry. It has been designed for application to W-R stars, O stars, and Luminous Blue-Variables.
+https://sites.pitt.edu/~hillier/web/CMFGEN.htm
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load CMFGEN/18-06-2025-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7497</guid>
     </item>
   </channel>
 </rss>
