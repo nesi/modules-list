@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 06 Oct 2026 11:21:52 -0000">
+  <channel lastBuildDate="Tue, 06 Oct 2026 14:21:18 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76712,6 +76712,84 @@ If you wish to continue using 0.2.7-gimkl-2022a in any of your scripts, make sur
       <description>The default version of compleasm has changed from 0.2.7-gimkl-2022a to 0.2.9, this is the version that will be loaded when you run &lt;code&gt;module load compleasm&lt;/code&gt;.
 If you wish to continue using 0.2.7-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load compleasm/0.2.7-gimkl-2022a&lt;/code&gt;</description>
       <guid>A7486</guid>
+    </item>
+    <item>
+      <title>Siesta/5.4.2-foss-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Siesta</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>Siesta has been updated with a new version, 5.4.2-foss-2026. &lt;pre&gt;&lt;code&gt;module load Siesta/5.4.2-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7487</guid>
+    </item>
+    <item>
+      <title>Default version of Siesta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Siesta</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>The default version of Siesta has changed from 5.0.0-beta1-foss-2023a to 5.4.2-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load Siesta&lt;/code&gt;.
+If you wish to continue using 5.0.0-beta1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Siesta/5.0.0-beta1-foss-2023a&lt;/code&gt;</description>
+      <guid>A7488</guid>
+    </item>
+    <item>
+      <title>Default version of Siesta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Siesta</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>The default version of Siesta has changed from 5.0.0-beta1-foss-2023a to 5.4.2-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load Siesta&lt;/code&gt;.
+If you wish to continue using 5.0.0-beta1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load Siesta/5.0.0-beta1-foss-2023a&lt;/code&gt;</description>
+      <guid>A7489</guid>
+    </item>
+    <item>
+      <title>netCDF-Fortran/4.6.4-gompi-2026 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">netCDF-Fortran</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>netCDF-Fortran has been updated with a new version, 4.6.4-gompi-2026. &lt;pre&gt;&lt;code&gt;module load netCDF-Fortran/4.6.4-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7490</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF-Fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF-Fortran</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>The default version of netCDF-Fortran has changed from 4.6.1-iofbf-2023a to 4.6.4-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load netCDF-Fortran&lt;/code&gt;.
+If you wish to continue using 4.6.1-iofbf-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF-Fortran/4.6.1-iofbf-2023a&lt;/code&gt;</description>
+      <guid>A7491</guid>
+    </item>
+    <item>
+      <title>Default version of netCDF-Fortran has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">netCDF-Fortran</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>The default version of netCDF-Fortran has changed from 4.6.1-iofbf-2023a to 4.6.4-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load netCDF-Fortran&lt;/code&gt;.
+If you wish to continue using 4.6.1-iofbf-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load netCDF-Fortran/4.6.1-iofbf-2023a&lt;/code&gt;</description>
+      <guid>A7492</guid>
+    </item>
+    <item>
+      <title>libreadline/8.3-GCCcore-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">libreadline</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>libreadline has been updated with a new version, 8.3-GCCcore-15.2.0. &lt;pre&gt;&lt;code&gt;module load libreadline/8.3-GCCcore-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7493</guid>
+    </item>
+    <item>
+      <title>Default version of libreadline has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libreadline</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>The default version of libreadline has changed from 8.2-GCCcore-12.3.0 to 8.3-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libreadline&lt;/code&gt;.
+If you wish to continue using 8.2-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libreadline/8.2-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7494</guid>
+    </item>
+    <item>
+      <title>Default version of libreadline has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libreadline</category>
+      <pubDate>Tue, 06 Oct 2026 14:21:18 -0000</pubDate>
+      <description>The default version of libreadline has changed from 8.2-GCCcore-12.3.0 to 8.3-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libreadline&lt;/code&gt;.
+If you wish to continue using 8.2-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libreadline/8.2-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7495</guid>
     </item>
   </channel>
 </rss>
