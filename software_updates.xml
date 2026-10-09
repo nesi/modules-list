@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 07 Oct 2026 11:21:05 -0000">
+  <channel lastBuildDate="Fri, 09 Oct 2026 13:21:25 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -76808,6 +76808,636 @@ If you wish to continue using 8.2-GCCcore-12.3.0 in any of your scripts, make su
 https://sites.pitt.edu/~hillier/web/CMFGEN.htm
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load CMFGEN/18-06-2025-foss-2026&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7497</guid>
+    </item>
+    <item>
+      <title>Default version of AOCL-BLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">AOCL-BLAS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of AOCL-BLAS has changed from 5.2.2-GCC-15.2.0 to 5.2.2-intel-compilers-2025.3.0, this is the version that will be loaded when you run &lt;code&gt;module load AOCL-BLAS&lt;/code&gt;.
+If you wish to continue using 5.2.2-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load AOCL-BLAS/5.2.2-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7498</guid>
+    </item>
+    <item>
+      <title>Default version of AUGUSTUS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">AUGUSTUS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of AUGUSTUS has changed from 3.5.0-foss-2023a to 3.5.0-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load AUGUSTUS&lt;/code&gt;.
+If you wish to continue using 3.5.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load AUGUSTUS/3.5.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A7499</guid>
+    </item>
+    <item>
+      <title>Default version of BEEF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BEEF</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of BEEF has changed from 0.1.1-r16-foss-2026 to 0.1.1-r16-iofbf-2026, this is the version that will be loaded when you run &lt;code&gt;module load BEEF&lt;/code&gt;.
+If you wish to continue using 0.1.1-r16-foss-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load BEEF/0.1.1-r16-foss-2026&lt;/code&gt;</description>
+      <guid>A7500</guid>
+    </item>
+    <item>
+      <title>Default version of BRAKER has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">BRAKER</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of BRAKER has changed from 3.0.8-GCC-12.3.0-Perl-5.40.3 to 3.0.8-gimkl-2022a-Perl-5.34.1, this is the version that will be loaded when you run &lt;code&gt;module load BRAKER&lt;/code&gt;.
+If you wish to continue using 3.0.8-GCC-12.3.0-Perl-5.40.3 in any of your scripts, make sure to change them to &lt;code&gt;module load BRAKER/3.0.8-GCC-12.3.0-Perl-5.40.3&lt;/code&gt;</description>
+      <guid>A7501</guid>
+    </item>
+    <item>
+      <title>Default version of Bio-DB-BigFile has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Bio-DB-BigFile</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Bio-DB-BigFile has changed from 1.07-GCC-9.2.0-Perl-5.30.1-mt to 1.07-GCC-11.3.0-Perl-5.34.1, this is the version that will be loaded when you run &lt;code&gt;module load Bio-DB-BigFile&lt;/code&gt;.
+If you wish to continue using 1.07-GCC-9.2.0-Perl-5.30.1-mt in any of your scripts, make sure to change them to &lt;code&gt;module load Bio-DB-BigFile/1.07-GCC-9.2.0-Perl-5.30.1-mt&lt;/code&gt;</description>
+      <guid>A7502</guid>
+    </item>
+    <item>
+      <title>Default version of Bio-DB-HTS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Bio-DB-HTS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Bio-DB-HTS has changed from 3.01-GCC-9.2.0-Perl-5.30.1-mt to 3.01-GCC-15.2.0-Perl-5.42.1, this is the version that will be loaded when you run &lt;code&gt;module load Bio-DB-HTS&lt;/code&gt;.
+If you wish to continue using 3.01-GCC-9.2.0-Perl-5.30.1-mt in any of your scripts, make sure to change them to &lt;code&gt;module load Bio-DB-HTS/3.01-GCC-9.2.0-Perl-5.30.1-mt&lt;/code&gt;</description>
+      <guid>A7503</guid>
+    </item>
+    <item>
+      <title>Default version of Bowtie has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Bowtie</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Bowtie has changed from 1.3.1-GCC-11.3.0 to 1.3.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Bowtie&lt;/code&gt;.
+If you wish to continue using 1.3.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Bowtie/1.3.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7504</guid>
+    </item>
+    <item>
+      <title>Default version of Canu has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Canu</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Canu has changed from 2.2-GCC-9.2.0 to 2.2-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Canu&lt;/code&gt;.
+If you wish to continue using 2.2-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Canu/2.2-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7505</guid>
+    </item>
+    <item>
+      <title>Default version of Clustal-Omega has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Clustal-Omega</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Clustal-Omega has changed from 1.2.4-GCC-11.3.0 to 1.2.4-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Clustal-Omega&lt;/code&gt;.
+If you wish to continue using 1.2.4-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Clustal-Omega/1.2.4-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7506</guid>
+    </item>
+    <item>
+      <title>Default version of DBus has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">DBus</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of DBus has changed from 1.13.8-GCCcore-7.4.0 to 1.13.8-GCCcore-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load DBus&lt;/code&gt;.
+If you wish to continue using 1.13.8-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load DBus/1.13.8-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A7507</guid>
+    </item>
+    <item>
+      <title>Default version of EMAN2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">EMAN2</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of EMAN2 has changed from 2.99.47-cpu to 2.99.47-gpu, this is the version that will be loaded when you run &lt;code&gt;module load EMAN2&lt;/code&gt;.
+If you wish to continue using 2.99.47-cpu in any of your scripts, make sure to change them to &lt;code&gt;module load EMAN2/2.99.47-cpu&lt;/code&gt;</description>
+      <guid>A7508</guid>
+    </item>
+    <item>
+      <title>Default version of FFTW has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFTW</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of FFTW has changed from 3.3.10-GCC-15.2.0 to 3.3.10-nvidia-compilers-23.7-CUDA-12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load FFTW&lt;/code&gt;.
+If you wish to continue using 3.3.10-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FFTW/3.3.10-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7509</guid>
+    </item>
+    <item>
+      <title>Default version of FFTW.MPI has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FFTW.MPI</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of FFTW.MPI has changed from 3.3.10-iompi-2026 to 3.3.10-nvompi-2023b, this is the version that will be loaded when you run &lt;code&gt;module load FFTW.MPI&lt;/code&gt;.
+If you wish to continue using 3.3.10-iompi-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load FFTW.MPI/3.3.10-iompi-2026&lt;/code&gt;</description>
+      <guid>A7510</guid>
+    </item>
+    <item>
+      <title>Default version of FastTree has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FastTree</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of FastTree has changed from 2.1.11-GCC-12.3.0 to 2.1.11-GCCcore-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FastTree&lt;/code&gt;.
+If you wish to continue using 2.1.11-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FastTree/2.1.11-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7511</guid>
+    </item>
+    <item>
+      <title>Default version of FreeXL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FreeXL</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of FreeXL has changed from 1.0.5-GCCcore-9.2.0 to 1.0.5-GCCcore-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load FreeXL&lt;/code&gt;.
+If you wish to continue using 1.0.5-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FreeXL/1.0.5-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A7512</guid>
+    </item>
+    <item>
+      <title>Default version of GROMACS_CP2K has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GROMACS_CP2K</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of GROMACS_CP2K has changed from 2026.2-CUDA-12.8 to 2026.2, this is the version that will be loaded when you run &lt;code&gt;module load GROMACS_CP2K&lt;/code&gt;.
+If you wish to continue using 2026.2-CUDA-12.8 in any of your scripts, make sure to change them to &lt;code&gt;module load GROMACS_CP2K/2026.2-CUDA-12.8&lt;/code&gt;</description>
+      <guid>A7513</guid>
+    </item>
+    <item>
+      <title>Default version of GUSHR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GUSHR</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of GUSHR has changed from 2020-09-28-foss-2023a-Python-3.11.6 to 2020-09-28-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load GUSHR&lt;/code&gt;.
+If you wish to continue using 2020-09-28-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load GUSHR/2020-09-28-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A7514</guid>
+    </item>
+    <item>
+      <title>Default version of GlimmerHMM has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GlimmerHMM</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of GlimmerHMM has changed from 3.0.4c-GCC-9.2.0 to 3.0.4c-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load GlimmerHMM&lt;/code&gt;.
+If you wish to continue using 3.0.4c-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GlimmerHMM/3.0.4c-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7515</guid>
+    </item>
+    <item>
+      <title>Default version of HDF has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HDF</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of HDF has changed from 4.2.16-GCC-11.3.0 to 4.2.16-intel-compilers-2022.0.2, this is the version that will be loaded when you run &lt;code&gt;module load HDF&lt;/code&gt;.
+If you wish to continue using 4.2.16-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load HDF/4.2.16-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7516</guid>
+    </item>
+    <item>
+      <title>Default version of HDF5 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HDF5</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of HDF5 has changed from 1.14.6-gompi-2026 to 1.14.6-nvompi-2023b, this is the version that will be loaded when you run &lt;code&gt;module load HDF5&lt;/code&gt;.
+If you wish to continue using 1.14.6-gompi-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load HDF5/1.14.6-gompi-2026&lt;/code&gt;</description>
+      <guid>A7517</guid>
+    </item>
+    <item>
+      <title>Default version of HarfBuzz has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HarfBuzz</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of HarfBuzz has changed from 4.4.1-GCC-11.3.0 to 4.4.1-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load HarfBuzz&lt;/code&gt;.
+If you wish to continue using 4.4.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load HarfBuzz/4.4.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7518</guid>
+    </item>
+    <item>
+      <title>Default version of Jellyfish has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Jellyfish</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Jellyfish has changed from 2.3.0-GCC-12.3.0 to 2.3.0-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load Jellyfish&lt;/code&gt;.
+If you wish to continue using 2.3.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Jellyfish/2.3.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7519</guid>
+    </item>
+    <item>
+      <title>Default version of KorfSNAP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">KorfSNAP</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of KorfSNAP has changed from 2013-11-29-GCC-7.4.0 to 2013-11-29-GCC-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load KorfSNAP&lt;/code&gt;.
+If you wish to continue using 2013-11-29-GCC-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load KorfSNAP/2013-11-29-GCC-7.4.0&lt;/code&gt;</description>
+      <guid>A7520</guid>
+    </item>
+    <item>
+      <title>Default version of LAME has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">LAME</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of LAME has changed from 3.100-GCC-11.3.0 to 3.100-GCCcore-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load LAME&lt;/code&gt;.
+If you wish to continue using 3.100-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load LAME/3.100-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7521</guid>
+    </item>
+    <item>
+      <title>Default version of LINKS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">LINKS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of LINKS has changed from 1.8.7-GCC-9.2.0 to 1.8.7-gimkl-2018b, this is the version that will be loaded when you run &lt;code&gt;module load LINKS&lt;/code&gt;.
+If you wish to continue using 1.8.7-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load LINKS/1.8.7-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7522</guid>
+    </item>
+    <item>
+      <title>Default version of LISFLOOD-FP has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">LISFLOOD-FP</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of LISFLOOD-FP has changed from 8.1-gompi-2023a-CUDA-12.6.3 to 8.1-gompi-2023a, this is the version that will be loaded when you run &lt;code&gt;module load LISFLOOD-FP&lt;/code&gt;.
+If you wish to continue using 8.1-gompi-2023a-CUDA-12.6.3 in any of your scripts, make sure to change them to &lt;code&gt;module load LISFLOOD-FP/8.1-gompi-2023a-CUDA-12.6.3&lt;/code&gt;</description>
+      <guid>A7523</guid>
+    </item>
+    <item>
+      <title>Default version of MUMmer has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MUMmer</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of MUMmer has changed from 4.0.1-GCCcore-12.3.0 to 4.0.1-GCCcore-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load MUMmer&lt;/code&gt;.
+If you wish to continue using 4.0.1-GCCcore-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load MUMmer/4.0.1-GCCcore-12.3.0&lt;/code&gt;</description>
+      <guid>A7524</guid>
+    </item>
+    <item>
+      <title>Default version of MitoZ has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">MitoZ</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of MitoZ has changed from 2.3-gimkl-2018b-Python-3.7.3 to 2.3-gimkl-2020a-Python-3.8.2, this is the version that will be loaded when you run &lt;code&gt;module load MitoZ&lt;/code&gt;.
+If you wish to continue using 2.3-gimkl-2018b-Python-3.7.3 in any of your scripts, make sure to change them to &lt;code&gt;module load MitoZ/2.3-gimkl-2018b-Python-3.7.3&lt;/code&gt;</description>
+      <guid>A7525</guid>
+    </item>
+    <item>
+      <title>Default version of Newton-X has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Newton-X</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Newton-X has changed from 2.4-gimkl-2022a to 2.4, this is the version that will be loaded when you run &lt;code&gt;module load Newton-X&lt;/code&gt;.
+If you wish to continue using 2.4-gimkl-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load Newton-X/2.4-gimkl-2022a&lt;/code&gt;</description>
+      <guid>A7526</guid>
+    </item>
+    <item>
+      <title>Default version of OpenBLAS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenBLAS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of OpenBLAS has changed from 0.3.32-GCC-15.2.0 to 0.3.32-nvidia-compilers-23.7-CUDA-12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load OpenBLAS&lt;/code&gt;.
+If you wish to continue using 0.3.32-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenBLAS/0.3.32-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7527</guid>
+    </item>
+    <item>
+      <title>Default version of OpenFOAM has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenFOAM</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of OpenFOAM has changed from v2212-gimkl-2022a-noParaview to 10-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load OpenFOAM&lt;/code&gt;.
+If you wish to continue using v2212-gimkl-2022a-noParaview in any of your scripts, make sure to change them to &lt;code&gt;module load OpenFOAM/v2212-gimkl-2022a-noParaview&lt;/code&gt;</description>
+      <guid>A7528</guid>
+    </item>
+    <item>
+      <title>Default version of OpenJPEG has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenJPEG</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of OpenJPEG has changed from 2.5.0-GCCcore-11.3.0 to 2.5.0-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenJPEG&lt;/code&gt;.
+If you wish to continue using 2.5.0-GCCcore-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenJPEG/2.5.0-GCCcore-11.3.0&lt;/code&gt;</description>
+      <guid>A7529</guid>
+    </item>
+    <item>
+      <title>Default version of OpenSSL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenSSL</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of OpenSSL has changed from 1.1.1k-GCCcore-9.2.0 to 1.1.1k-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load OpenSSL&lt;/code&gt;.
+If you wish to continue using 1.1.1k-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenSSL/1.1.1k-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A7530</guid>
+    </item>
+    <item>
+      <title>Default version of OpenSeesPy has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenSeesPy</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of OpenSeesPy has changed from 3.3.0.0 to 20220411-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load OpenSeesPy&lt;/code&gt;.
+If you wish to continue using 3.3.0.0 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenSeesPy/3.3.0.0&lt;/code&gt;</description>
+      <guid>A7531</guid>
+    </item>
+    <item>
+      <title>Default version of PAML has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PAML</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of PAML has changed from 4.9j-GCC-9.2.0 to 4.10.7-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load PAML&lt;/code&gt;.
+If you wish to continue using 4.9j-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PAML/4.9j-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7532</guid>
+    </item>
+    <item>
+      <title>Default version of ParMETIS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ParMETIS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of ParMETIS has changed from 4.0.3-gimpi-2018b to 4.0.3-gimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load ParMETIS&lt;/code&gt;.
+If you wish to continue using 4.0.3-gimpi-2018b in any of your scripts, make sure to change them to &lt;code&gt;module load ParMETIS/4.0.3-gimpi-2018b&lt;/code&gt;</description>
+      <guid>A7533</guid>
+    </item>
+    <item>
+      <title>Default version of Porechop has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Porechop</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Porechop has changed from 0.2.4-gimkl-2020a-Python-3.8.2 to 0.2.4-gimkl-2022a-Python-3.11.3, this is the version that will be loaded when you run &lt;code&gt;module load Porechop&lt;/code&gt;.
+If you wish to continue using 0.2.4-gimkl-2020a-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load Porechop/0.2.4-gimkl-2020a-Python-3.8.2&lt;/code&gt;</description>
+      <guid>A7534</guid>
+    </item>
+    <item>
+      <title>Default version of PostgreSQL has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PostgreSQL</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of PostgreSQL has changed from 12.2-GCC-9.2.0 to 12.2-gimkl-2020a-PostGIS-3.1.1, this is the version that will be loaded when you run &lt;code&gt;module load PostgreSQL&lt;/code&gt;.
+If you wish to continue using 12.2-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load PostgreSQL/12.2-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7535</guid>
+    </item>
+    <item>
+      <title>Default version of QUAST has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">QUAST</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of QUAST has changed from 5.2.0-foss-2023a to 5.2.0-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load QUAST&lt;/code&gt;.
+If you wish to continue using 5.2.0-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load QUAST/5.2.0-foss-2023a&lt;/code&gt;</description>
+      <guid>A7536</guid>
+    </item>
+    <item>
+      <title>Default version of QuickTree has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">QuickTree</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of QuickTree has changed from 2.5-GCC-11.3.0 to 2.5-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load QuickTree&lt;/code&gt;.
+If you wish to continue using 2.5-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load QuickTree/2.5-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7537</guid>
+    </item>
+    <item>
+      <title>Default version of RAxML has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">RAxML</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of RAxML has changed from 8.2.12-gimkl-2020a to 8.2.12-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load RAxML&lt;/code&gt;.
+If you wish to continue using 8.2.12-gimkl-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load RAxML/8.2.12-gimkl-2020a&lt;/code&gt;</description>
+      <guid>A7538</guid>
+    </item>
+    <item>
+      <title>Default version of RSGISLib has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">RSGISLib</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of RSGISLib has changed from 5.0.10-gimkl-2020a-Python-3.9.9 to 5.0.10-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load RSGISLib&lt;/code&gt;.
+If you wish to continue using 5.0.10-gimkl-2020a-Python-3.9.9 in any of your scripts, make sure to change them to &lt;code&gt;module load RSGISLib/5.0.10-gimkl-2020a-Python-3.9.9&lt;/code&gt;</description>
+      <guid>A7539</guid>
+    </item>
+    <item>
+      <title>Default version of SMRT-Link has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">SMRT-Link</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of SMRT-Link has changed from 8.0.0.80529-cli-tools-only to 11.1.0.166339-cli-tools-only, this is the version that will be loaded when you run &lt;code&gt;module load SMRT-Link&lt;/code&gt;.
+If you wish to continue using 8.0.0.80529-cli-tools-only in any of your scripts, make sure to change them to &lt;code&gt;module load SMRT-Link/8.0.0.80529-cli-tools-only&lt;/code&gt;</description>
+      <guid>A7540</guid>
+    </item>
+    <item>
+      <title>Default version of STAR has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">STAR</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of STAR has changed from 2.7.9a-GCC-9.2.0 to 2.7.10b-GCC-11.3.0-alpha, this is the version that will be loaded when you run &lt;code&gt;module load STAR&lt;/code&gt;.
+If you wish to continue using 2.7.9a-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load STAR/2.7.9a-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7541</guid>
+    </item>
+    <item>
+      <title>Default version of ScaLAPACK has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ScaLAPACK</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of ScaLAPACK has changed from 2.2.2-iompi-2026-fb to 2.2.2-nvompi-2023b-fb, this is the version that will be loaded when you run &lt;code&gt;module load ScaLAPACK&lt;/code&gt;.
+If you wish to continue using 2.2.2-iompi-2026-fb in any of your scripts, make sure to change them to &lt;code&gt;module load ScaLAPACK/2.2.2-iompi-2026-fb&lt;/code&gt;</description>
+      <guid>A7542</guid>
+    </item>
+    <item>
+      <title>Default version of StringTie has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">StringTie</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of StringTie has changed from 2.2.3-GCC-12.3.0 to 2.2.3-gimkl-2022a, this is the version that will be loaded when you run &lt;code&gt;module load StringTie&lt;/code&gt;.
+If you wish to continue using 2.2.3-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load StringTie/2.2.3-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7543</guid>
+    </item>
+    <item>
+      <title>Default version of Szip has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Szip</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Szip has changed from 2.1.1-GCCcore-9.2.0 to 2.1.1-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Szip&lt;/code&gt;.
+If you wish to continue using 2.1.1-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Szip/2.1.1-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A7544</guid>
+    </item>
+    <item>
+      <title>Default version of Tk has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Tk</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Tk has changed from 8.6.10-GCCcore-9.2.0 to 8.6.10-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load Tk&lt;/code&gt;.
+If you wish to continue using 8.6.10-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Tk/8.6.10-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A7545</guid>
+    </item>
+    <item>
+      <title>Default version of UDUNITS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">UDUNITS</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of UDUNITS has changed from 2.2.28-GCC-15.2.0 to 2.2.28-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load UDUNITS&lt;/code&gt;.
+If you wish to continue using 2.2.28-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load UDUNITS/2.2.28-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7546</guid>
+    </item>
+    <item>
+      <title>Default version of USEARCH has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">USEARCH</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of USEARCH has changed from README to 11.0.667-i86linux64, this is the version that will be loaded when you run &lt;code&gt;module load USEARCH&lt;/code&gt;.
+If you wish to continue using README in any of your scripts, make sure to change them to &lt;code&gt;module load USEARCH/README&lt;/code&gt;</description>
+      <guid>A7547</guid>
+    </item>
+    <item>
+      <title>Default version of Voro++ has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Voro++</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of Voro++ has changed from 0.4.6-GCC-12.3.0 to 0.4.6-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load Voro++&lt;/code&gt;.
+If you wish to continue using 0.4.6-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Voro++/0.4.6-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7548</guid>
+    </item>
+    <item>
+      <title>Default version of ant has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ant</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of ant has changed from 1.10.9-Java-1.8.0_144 to 1.10.9-Java-11.0.4, this is the version that will be loaded when you run &lt;code&gt;module load ant&lt;/code&gt;.
+If you wish to continue using 1.10.9-Java-1.8.0_144 in any of your scripts, make sure to change them to &lt;code&gt;module load ant/1.10.9-Java-1.8.0_144&lt;/code&gt;</description>
+      <guid>A7549</guid>
+    </item>
+    <item>
+      <title>Default version of argtable has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">argtable</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of argtable has changed from 2.13-GCC-11.3.0 to 2.13-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load argtable&lt;/code&gt;.
+If you wish to continue using 2.13-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load argtable/2.13-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7550</guid>
+    </item>
+    <item>
+      <title>Default version of chopper has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">chopper</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of chopper has changed from 0.9.0-GCC-12.3.0 to 0.12.0b-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load chopper&lt;/code&gt;.
+If you wish to continue using 0.9.0-GCC-12.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load chopper/0.9.0-GCC-12.3.0&lt;/code&gt;</description>
+      <guid>A7551</guid>
+    </item>
+    <item>
+      <title>Default version of cuDNN has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">cuDNN</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of cuDNN has changed from 9.5.1.17-CUDA-12.6.3 to 9.24.0.43-CUDA-13.2.1, this is the version that will be loaded when you run &lt;code&gt;module load cuDNN&lt;/code&gt;.
+If you wish to continue using 9.5.1.17-CUDA-12.6.3 in any of your scripts, make sure to change them to &lt;code&gt;module load cuDNN/9.5.1.17-CUDA-12.6.3&lt;/code&gt;</description>
+      <guid>A7552</guid>
+    </item>
+    <item>
+      <title>Default version of double-conversion has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">double-conversion</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of double-conversion has changed from 3.1.5-GCCcore-7.4.0 to 3.1.5-GCCcore-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load double-conversion&lt;/code&gt;.
+If you wish to continue using 3.1.5-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load double-conversion/3.1.5-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A7553</guid>
+    </item>
+    <item>
+      <title>Default version of genometools has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">genometools</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of genometools has changed from 1.6.1-GCC-9.2.0 to 1.6.1-GCCcore-7.4.0, this is the version that will be loaded when you run &lt;code&gt;module load genometools&lt;/code&gt;.
+If you wish to continue using 1.6.1-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load genometools/1.6.1-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7554</guid>
+    </item>
+    <item>
+      <title>Default version of igraph has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">igraph</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of igraph has changed from 1.0.1-foss-2023a to 1.0.1-foss-2026, this is the version that will be loaded when you run &lt;code&gt;module load igraph&lt;/code&gt;.
+If you wish to continue using 1.0.1-foss-2023a in any of your scripts, make sure to change them to &lt;code&gt;module load igraph/1.0.1-foss-2023a&lt;/code&gt;</description>
+      <guid>A7555</guid>
+    </item>
+    <item>
+      <title>Default version of imkl-FFTW has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">imkl-FFTW</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of imkl-FFTW has changed from 2022.0.2-gimpi-2022a to 2022.0.2-iimpi-2022a, this is the version that will be loaded when you run &lt;code&gt;module load imkl-FFTW&lt;/code&gt;.
+If you wish to continue using 2022.0.2-gimpi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load imkl-FFTW/2022.0.2-gimpi-2022a&lt;/code&gt;</description>
+      <guid>A7556</guid>
+    </item>
+    <item>
+      <title>Default version of impi has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">impi</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of impi has changed from 2021.5.1-GCC-11.3.0 to 2021.5.1-intel-compilers-2022.0.2, this is the version that will be loaded when you run &lt;code&gt;module load impi&lt;/code&gt;.
+If you wish to continue using 2021.5.1-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load impi/2021.5.1-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7557</guid>
+    </item>
+    <item>
+      <title>Default version of libgd has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libgd</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of libgd has changed from 2.3.3-GCCcore-11.3.0 to 2.3.3-GCCcore-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load libgd&lt;/code&gt;.
+If you wish to continue using 2.3.3-GCCcore-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libgd/2.3.3-GCCcore-11.3.0&lt;/code&gt;</description>
+      <guid>A7558</guid>
+    </item>
+    <item>
+      <title>Default version of libglvnd has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">libglvnd</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of libglvnd has changed from 1.2.0-GCC-7.4.0 to 1.2.0-GCCcore-9.2.0, this is the version that will be loaded when you run &lt;code&gt;module load libglvnd&lt;/code&gt;.
+If you wish to continue using 1.2.0-GCC-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load libglvnd/1.2.0-GCC-7.4.0&lt;/code&gt;</description>
+      <guid>A7559</guid>
+    </item>
+    <item>
+      <title>Default version of lp_solve has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">lp_solve</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of lp_solve has changed from 5.5.2.5-gimkl-2020a to 5.5.2.11-GCC-12.3.0, this is the version that will be loaded when you run &lt;code&gt;module load lp_solve&lt;/code&gt;.
+If you wish to continue using 5.5.2.5-gimkl-2020a in any of your scripts, make sure to change them to &lt;code&gt;module load lp_solve/5.5.2.5-gimkl-2020a&lt;/code&gt;</description>
+      <guid>A7560</guid>
+    </item>
+    <item>
+      <title>Default version of muParser has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">muParser</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of muParser has changed from 2.2.5-GCC-11.3.0 to 2.2.5-gimkl-2020a, this is the version that will be loaded when you run &lt;code&gt;module load muParser&lt;/code&gt;.
+If you wish to continue using 2.2.5-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load muParser/2.2.5-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A7561</guid>
+    </item>
+    <item>
+      <title>Default version of nullarbor has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">nullarbor</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of nullarbor has changed from 2.0.20191013_LIC to 2.0.20191013, this is the version that will be loaded when you run &lt;code&gt;module load nullarbor&lt;/code&gt;.
+If you wish to continue using 2.0.20191013_LIC in any of your scripts, make sure to change them to &lt;code&gt;module load nullarbor/2.0.20191013_LIC&lt;/code&gt;</description>
+      <guid>A7562</guid>
+    </item>
+    <item>
+      <title>Default version of pauvre has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">pauvre</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of pauvre has changed from 0.2.3-foss-2023a-Python-3.11.6 to 0.2.3-gimkl-2022a-Python-3.10.5, this is the version that will be loaded when you run &lt;code&gt;module load pauvre&lt;/code&gt;.
+If you wish to continue using 0.2.3-foss-2023a-Python-3.11.6 in any of your scripts, make sure to change them to &lt;code&gt;module load pauvre/0.2.3-foss-2023a-Python-3.11.6&lt;/code&gt;</description>
+      <guid>A7563</guid>
+    </item>
+    <item>
+      <title>Default version of prodigal has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">prodigal</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of prodigal has changed from 2.6.3-GCC-15.2.0 to 2.6.3-GCCcore-7.4.0, this is the version that will be loaded when you run &lt;code&gt;module load prodigal&lt;/code&gt;.
+If you wish to continue using 2.6.3-GCC-15.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load prodigal/2.6.3-GCC-15.2.0&lt;/code&gt;</description>
+      <guid>A7564</guid>
+    </item>
+    <item>
+      <title>Default version of pullseq has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">pullseq</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of pullseq has changed from 1.0.2-GCCcore-7.4.0 to 1.0.2, this is the version that will be loaded when you run &lt;code&gt;module load pullseq&lt;/code&gt;.
+If you wish to continue using 1.0.2-GCCcore-7.4.0 in any of your scripts, make sure to change them to &lt;code&gt;module load pullseq/1.0.2-GCCcore-7.4.0&lt;/code&gt;</description>
+      <guid>A7565</guid>
+    </item>
+    <item>
+      <title>Default version of samblaster has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">samblaster</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of samblaster has changed from 0.1.26-GCC-9.2.0 to 0.1.26-GCC-11.3.0, this is the version that will be loaded when you run &lt;code&gt;module load samblaster&lt;/code&gt;.
+If you wish to continue using 0.1.26-GCC-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load samblaster/0.1.26-GCC-9.2.0&lt;/code&gt;</description>
+      <guid>A7566</guid>
+    </item>
+    <item>
+      <title>Default version of sismonr has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">sismonr</category>
+      <pubDate>Fri, 09 Oct 2026 13:21:25 -0000</pubDate>
+      <description>The default version of sismonr has changed from 2.0.0-gimkl-2020a-R-4.1.0-Julia-1.7.1 to 2.0.0-gimkl-2020a-R-4.1.0, this is the version that will be loaded when you run &lt;code&gt;module load sismonr&lt;/code&gt;.
+If you wish to continue using 2.0.0-gimkl-2020a-R-4.1.0-Julia-1.7.1 in any of your scripts, make sure to change them to &lt;code&gt;module load sismonr/2.0.0-gimkl-2020a-R-4.1.0-Julia-1.7.1&lt;/code&gt;</description>
+      <guid>A7567</guid>
     </item>
   </channel>
 </rss>
