@@ -11454,7 +11454,7 @@
                 "server": "MATLAB@uow",
                 "server_polling": true,
                 "server_type": "FLEXlm",
-                "server_uptime": 0.0,
+                "server_uptime": 0.5,
                 "server_version": "",
                 "features": []
             },
