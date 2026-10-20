@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 21 Oct 2026 09:21:13 -0000">
+  <channel lastBuildDate="Wed, 21 Oct 2026 10:21:04 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -77472,6 +77472,14 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load dorado/2.1
       <pubDate>Wed, 21 Oct 2026 09:21:12 -0000</pubDate>
       <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-L4. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-L4&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7571</guid>
+    </item>
+    <item>
+      <title>LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-RTX-Pro-6000 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Wed, 21 Oct 2026 10:21:04 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-RTX-Pro-6000. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-RTX-Pro-6000&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7572</guid>
     </item>
   </channel>
 </rss>
