@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 14 Oct 2026 14:21:15 -0000">
+  <channel lastBuildDate="Wed, 21 Oct 2026 09:21:13 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -77448,6 +77448,30 @@ If you wish to continue using 2.0.0-gimkl-2020a-R-4.1.0-Julia-1.7.1 in any of yo
 https://github.com/nanoporetech/dorado
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load dorado/2.1.2-foss-2026-CUDA-13.2.1&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7568</guid>
+    </item>
+    <item>
+      <title>LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-A100 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Wed, 21 Oct 2026 09:21:12 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-A100. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-A100&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7569</guid>
+    </item>
+    <item>
+      <title>LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-H100 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Wed, 21 Oct 2026 09:21:12 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-H100. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-H100&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7570</guid>
+    </item>
+    <item>
+      <title>LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-L4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Wed, 21 Oct 2026 09:21:12 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-L4. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-L4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7571</guid>
     </item>
   </channel>
 </rss>
