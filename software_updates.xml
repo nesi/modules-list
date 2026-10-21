@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 21 Oct 2026 14:21:17 -0000">
+  <channel lastBuildDate="Wed, 21 Oct 2026 15:21:16 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -77497,6 +77497,18 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load dorado/2.1
       <description>The default version of Rust has changed from 1.90.0 to 1.94.1, this is the version that will be loaded when you run &lt;code&gt;module load Rust&lt;/code&gt;.
 If you wish to continue using 1.90.0 in any of your scripts, make sure to change them to &lt;code&gt;module load Rust/1.90.0&lt;/code&gt;</description>
       <guid>A7574</guid>
+    </item>
+    <item>
+      <title>Autocycler has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">Autocycler</category>
+      <pubDate>Wed, 21 Oct 2026 15:21:16 -0000</pubDate>
+      <description>Autocycler is a tool for generating consensus long-read
+assemblies for bacterial genomes.  It is the successor to Trycycler, and for
+most users, I recommend Autocycler over Trycycler.
+https://github.com/rrwick/Autocycler
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Autocycler/0.8.0-foss-2026-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7575</guid>
     </item>
   </channel>
 </rss>
