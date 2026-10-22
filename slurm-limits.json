@@ -73,7 +73,7 @@
         },
         {
             "cores_per_socket": 21,
-            "count": 1,
+            "count": 2,
             "cpus": 336,
             "features": [
                 "big",
@@ -91,7 +91,7 @@
         },
         {
             "cores_per_socket": 21,
-            "count": 1,
+            "count": 2,
             "cpus": 336,
             "features": [
                 "big"
@@ -148,7 +148,7 @@
         },
         {
             "cores_per_socket": 21,
-            "count": 25,
+            "count": 26,
             "cpus": 336,
             "features": [
                 "nogpu",
@@ -225,7 +225,7 @@
         },
         {
             "cores_per_socket": 84,
-            "count": 7,
+            "count": 6,
             "cpus": 336,
             "features": [
                 "big",
@@ -243,7 +243,7 @@
         },
         {
             "cores_per_socket": 84,
-            "count": 3,
+            "count": 2,
             "cpus": 336,
             "features": [
                 "big"
@@ -281,7 +281,7 @@
         },
         {
             "cores_per_socket": 84,
-            "count": 19,
+            "count": 18,
             "cpus": 336,
             "features": [
                 "nogpu",
