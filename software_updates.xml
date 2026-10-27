@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Wed, 21 Oct 2026 15:21:16 -0000">
+  <channel lastBuildDate="Wed, 28 Oct 2026 12:21:40 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -77509,6 +77509,31 @@ most users, I recommend Autocycler over Trycycler.
 https://github.com/rrwick/Autocycler
 This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load Autocycler/0.8.0-foss-2026-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7575</guid>
+    </item>
+    <item>
+      <title>PyTorch/2.13.0-foss-2026-Python-3.14.4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">PyTorch</category>
+      <pubDate>Wed, 28 Oct 2026 12:21:40 -0000</pubDate>
+      <description>PyTorch has been updated with a new version, 2.13.0-foss-2026-Python-3.14.4. &lt;pre&gt;&lt;code&gt;module load PyTorch/2.13.0-foss-2026-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7576</guid>
+    </item>
+    <item>
+      <title>Default version of PyTorch has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">PyTorch</category>
+      <pubDate>Wed, 28 Oct 2026 12:21:40 -0000</pubDate>
+      <description>The default version of PyTorch has changed from 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1 to 2.13.0-foss-2026-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load PyTorch&lt;/code&gt;.
+If you wish to continue using 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1 in any of your scripts, make sure to change them to &lt;code&gt;module load PyTorch/2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1&lt;/code&gt;</description>
+      <guid>A7577</guid>
+    </item>
+    <item>
+      <title>Siesta/5.4.2-foss-2023a added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">Siesta</category>
+      <pubDate>Wed, 28 Oct 2026 12:21:40 -0000</pubDate>
+      <description>Siesta has been updated with a new version, 5.4.2-foss-2023a. &lt;pre&gt;&lt;code&gt;module load Siesta/5.4.2-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7578</guid>
     </item>
   </channel>
 </rss>
