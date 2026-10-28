@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 29 Oct 2026 09:21:48 -0000">
+  <channel lastBuildDate="Thu, 29 Oct 2026 10:21:45 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -77542,6 +77542,14 @@ If you wish to continue using 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1 in any 
       <pubDate>Thu, 29 Oct 2026 09:21:47 -0000</pubDate>
       <description>LAMMPS/22Jul2025-update5-foss-2026-kokkos has been removed and can no longer be loaded. Other available versions: 22Jul2025-foss-2023a-kokkos-CUDA-12.2.2, 22Jul2025-foss-2023a-kokkos, 22Jul2025-update5-foss-2026-GPU-CUDA-13.2.1, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-A100, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-H100, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-L4, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1-RTX-Pro-6000, 22Jul2025-update5-foss-2026-kokkos-CUDA-13.2.1, 23Jun2022-gimkl-2022a-kokkos-ECHEMDID-CUDA-11.8.0, 23Jun2022-gimkl-2022a-kokkos-EChemDID, 23Jun2022-gimkl-2022a-kokkos, 31Aug2021-gimkl-2022a-kokkos-EChemDID. The default is &lt;pre&gt;&lt;code&gt;module load LAMMPS/23Jun2022-gimkl-2022a-kokkos&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7579</guid>
+    </item>
+    <item>
+      <title>LAMMPS/22Jul2025-update5-foss-2026-kokkos added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">LAMMPS</category>
+      <pubDate>Thu, 29 Oct 2026 10:21:45 -0000</pubDate>
+      <description>LAMMPS has been updated with a new version, 22Jul2025-update5-foss-2026-kokkos. &lt;pre&gt;&lt;code&gt;module load LAMMPS/22Jul2025-update5-foss-2026-kokkos&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7580</guid>
     </item>
   </channel>
 </rss>
