@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 29 Oct 2026 13:22:19 -0000">
+  <channel lastBuildDate="Thu, 29 Oct 2026 16:24:02 -0000">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -77558,6 +77558,14 @@ If you wish to continue using 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1 in any 
       <pubDate>Thu, 29 Oct 2026 13:22:19 -0000</pubDate>
       <description>OpenMPI has been updated with a new version, 5.0.10-GCC-15.2.0-no-hcoll. &lt;pre&gt;&lt;code&gt;module load OpenMPI/5.0.10-GCC-15.2.0-no-hcoll&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7581</guid>
+    </item>
+    <item>
+      <title>OpenMPI/5.0.10-GCC-15.2.0-no-hcoll removed.</title>
+      <category domain="type">versionRemoved</category>
+      <category domain="software">OpenMPI</category>
+      <pubDate>Thu, 29 Oct 2026 16:24:02 -0000</pubDate>
+      <description>OpenMPI/5.0.10-GCC-15.2.0-no-hcoll has been removed and can no longer be loaded. Other available versions: 1.6.5-GCC-5.4.0, 2.0.2-GCC-6.3.0, 2.1.6-GCC-7.4.0-CUDA-10.0.130, 3.1.4-GCC-9.2.0, 4.1.1-GCC-9.2.0, 4.1.3-GCC-11.3.0, 4.1.3-NVHPC-22.3-GCC-11.3.0-CUDA-11.6.2, 4.1.5-GCC-12.3.0-CUDA-12.2.2, 4.1.5-GCC-12.3.0, 4.1.5-intel-compilers-2023.2.1, 4.1.5-NVHPC-23.9-CUDA-12.2.2-CUDA-12.2.2, 4.1.5-NVHPC-23.9-GCC-12.3.0-CUDA-12.2.2, 4.1.5-nvidia-compilers-23.7-CUDA-12.2.2, 5.0.10-GCC-15.2.0, 5.0.10-intel-compilers-2025.3.0. The default is &lt;pre&gt;&lt;code&gt;module load OpenMPI/5.0.10-intel-compilers-2025.3.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A7582</guid>
     </item>
   </channel>
 </rss>
