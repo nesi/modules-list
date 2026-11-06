@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 29 Oct 2026 16:24:02 -0000">
+  <channel lastBuildDate="Fri, 06 Nov 2026 15:21:03 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -9,66 +9,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2024 02:51:48 +0000</lastBuildDate>
     <ns0:link href="http://docs.nesi.org.nz/software_updates.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>EasyBuild/5.1.2 added.</title>
-      <category domain="type">versionAdded</category>
-      <category domain="software">EasyBuild</category>
-      <pubDate>Thu, 06 Nov 2025 13:52:52 +1300</pubDate>
-      <description>EasyBuild has been updated with a new version, 5.1.2. &lt;pre&gt;&lt;code&gt;module load EasyBuild/5.1.2&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4716</guid>
-    </item>
-    <item>
-      <title>Default version of EasyBuild has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">EasyBuild</category>
-      <pubDate>Thu, 06 Nov 2025 13:52:52 +1300</pubDate>
-      <description>The default version of EasyBuild has changed from 4.9.2 to 5.1.2, this is the version that will be loaded when you run &lt;code&gt;module load EasyBuild&lt;/code&gt;.
-If you wish to continue using 4.9.2 in any of your scripts, make sure to change them to &lt;code&gt;module load EasyBuild/4.9.2&lt;/code&gt;</description>
-      <guid>A4717</guid>
-    </item>
-    <item>
-      <title>UCX-CUDA has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">UCX-CUDA</category>
-      <pubDate>Thu, 06 Nov 2025 14:47:22 +1300</pubDate>
-      <description>Unified Communication X
-An open-source production grade communication framework for data centric
-and high-performance applications
-This module adds the UCX CUDA support.
-http://www.openucx.org/
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load UCX-CUDA/1.18.1-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4719</guid>
-    </item>
-    <item>
-      <title>NCCL/2.27.7-GCCcore-12.3.0-CUDA-12.2.2 added.</title>
-      <category domain="type">versionAdded</category>
-      <category domain="software">NCCL</category>
-      <pubDate>Thu, 06 Nov 2025 14:55:46 +1300</pubDate>
-      <description>NCCL has been updated with a new version, 2.27.7-GCCcore-12.3.0-CUDA-12.2.2. &lt;pre&gt;&lt;code&gt;module load NCCL/2.27.7-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4720</guid>
-    </item>
-    <item>
-      <title>Default version of NCCL has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">NCCL</category>
-      <pubDate>Thu, 06 Nov 2025 14:55:46 +1300</pubDate>
-      <description>The default version of NCCL has changed from 2.17.1-CUDA-12.0.0 to 2.27.7-GCCcore-12.3.0-CUDA-12.2.2, this is the version that will be loaded when you run &lt;code&gt;module load NCCL&lt;/code&gt;.
-If you wish to continue using 2.17.1-CUDA-12.0.0 in any of your scripts, make sure to change them to &lt;code&gt;module load NCCL/2.17.1-CUDA-12.0.0&lt;/code&gt;</description>
-      <guid>A4721</guid>
-    </item>
-    <item>
-      <title>UCC-CUDA has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">UCC-CUDA</category>
-      <pubDate>Thu, 06 Nov 2025 15:00:11 +1300</pubDate>
-      <description>UCC (Unified Collective Communication) is a collective
-communication operations API and library that is flexible, complete, and
-feature-rich for current and emerging programming models and runtimes.
-This module adds the UCC CUDA support.
-https://www.openucx.org/
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load UCC-CUDA/1.3.0-GCCcore-12.3.0-CUDA-12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4723</guid>
-    </item>
     <item>
       <title>OpenMPI/4.1.5-GCC-12.3.0-CUDA-12.2.2 added.</title>
       <category domain="type">versionAdded</category>
@@ -7592,6 +7532,23 @@ If you wish to continue using 2.13.0-foss-2026-Python-3.14.4-CUDA-13.2.1 in any 
       <pubDate>Wed, 28 Oct 2026 12:21:40 +1300</pubDate>
       <description>Siesta has been updated with a new version, 5.4.2-foss-2023a. &lt;pre&gt;&lt;code&gt;module load Siesta/5.4.2-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A7578</guid>
+    </item>
+    <item>
+      <title>Siesta/5.4.2-foss-2026 removed.</title>
+      <category domain="type">versionRemoved</category>
+      <category domain="software">Siesta</category>
+      <pubDate>Fri, 06 Nov 2026 15:21:03 +1300</pubDate>
+      <description>Siesta/5.4.2-foss-2026 has been removed and can no longer be loaded. Other available versions: 4.1-b4-intel-2020a, 4.1.5-intel-2022a, 5.0.0-beta1-foss-2023a, 5.0.0-foss-2023a, 5.4.2-foss-2023a. The default is &lt;pre&gt;&lt;code&gt;module load Siesta/5.4.2-foss-2023a&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A864</guid>
+    </item>
+    <item>
+      <title>Default version of Siesta has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">Siesta</category>
+      <pubDate>Fri, 06 Nov 2026 15:21:03 +1300</pubDate>
+      <description>The default version of Siesta has changed from 5.4.2-foss-2026 to 5.4.2-foss-2023a, this is the version that will be loaded when you run &lt;code&gt;module load Siesta&lt;/code&gt;.
+If you wish to continue using 5.4.2-foss-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load Siesta/5.4.2-foss-2026&lt;/code&gt;</description>
+      <guid>A865</guid>
     </item>
   </channel>
 </rss>
