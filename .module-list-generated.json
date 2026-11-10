@@ -12659,6 +12659,26 @@
         "force_hide": false,
         "force_show": false
     },
+    "MOAB": {
+        "description": "The Mesh-Oriented datABase (MOAB) is a component for representing and evaluating mesh\ndata. MOAB can store and represent structured and unstructured meshes consisting of elements in the\nfinite element zoo, including polygons and polyhedra.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://sigma.mcs.anl.gov/moab-library",
+        "support": "",
+        "versions": [
+            "5.6.0-foss-2026"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "5.6.0-foss-2026",
+        "default_type": "latest",
+        "last_updated": 1794269955,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/MOAB/5.6.0-foss-2026.lua",
+        "force_hide": false,
+        "force_show": false
+    },
     "modbam2bed": {
         "description": "A program to aggregate modified base counts stored in a modified-base BAM file to a bedMethyl file.",
         "domains": [],
@@ -16275,15 +16295,16 @@
         "versions": [
             "1.9.0-intel-2020a",
             "1.13.0-gompi-2023a",
-            "1.13.0-iimpi-2022a"
+            "1.13.0-iimpi-2022a",
+            "1.14.1-gompi-2026"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "1.13.0-iimpi-2022a",
+        "default": "1.14.1-gompi-2026",
         "default_type": "latest",
-        "last_updated": 1740132633,
+        "last_updated": 1794269278,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/PnetCDF/1.13.0-iimpi-2022a.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/PnetCDF/1.14.1-gompi-2026.lua",
         "force_hide": false,
         "force_show": false
     },
