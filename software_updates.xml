@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 10 Nov 2026 13:22:50 +1300">
+  <channel lastBuildDate="Tue, 10 Nov 2026 14:22:31 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -7544,6 +7544,33 @@ This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load MOAB/5.6.0
       <description>The default version of PnetCDF has changed from 1.13.0-iimpi-2022a to 1.14.1-gompi-2026, this is the version that will be loaded when you run &lt;code&gt;module load PnetCDF&lt;/code&gt;.
 If you wish to continue using 1.13.0-iimpi-2022a in any of your scripts, make sure to change them to &lt;code&gt;module load PnetCDF/1.13.0-iimpi-2022a&lt;/code&gt;</description>
       <guid>A862</guid>
+    </item>
+    <item>
+      <title>DAGMC has been added.</title>
+      <category domain="type">softwareAdded</category>
+      <category domain="software">DAGMC</category>
+      <pubDate>Tue, 10 Nov 2026 14:22:31 +1300</pubDate>
+      <description>Direct Accelerated Geometry Monte Carlo (DAGMC) is a software package that allows users to perform Monte Carlo radiation transport directly on CAD models.
+https://svalinn.github.io/DAGMC/index.html
+This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load DAGMC/3.2.4-gompi-2026&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A859</guid>
+    </item>
+    <item>
+      <title>OpenMC/0.16.0-gompi-2026-Python-3.14.4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">OpenMC</category>
+      <pubDate>Tue, 10 Nov 2026 14:22:31 +1300</pubDate>
+      <description>OpenMC has been updated with a new version, 0.16.0-gompi-2026-Python-3.14.4. &lt;pre&gt;&lt;code&gt;module load OpenMC/0.16.0-gompi-2026-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A860</guid>
+    </item>
+    <item>
+      <title>Default version of OpenMC has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">OpenMC</category>
+      <pubDate>Tue, 10 Nov 2026 14:22:31 +1300</pubDate>
+      <description>The default version of OpenMC has changed from 0.15.2-gompi-2026 to 0.16.0-gompi-2026-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load OpenMC&lt;/code&gt;.
+If you wish to continue using 0.15.2-gompi-2026 in any of your scripts, make sure to change them to &lt;code&gt;module load OpenMC/0.15.2-gompi-2026&lt;/code&gt;</description>
+      <guid>A861</guid>
     </item>
   </channel>
 </rss>
