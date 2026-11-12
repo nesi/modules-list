@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 12 Nov 2026 14:37:43 +1300">
+  <channel lastBuildDate="Fri, 13 Nov 2026 11:20:58 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -7704,6 +7704,14 @@ If you wish to continue using 2.4i-GCC-11.3.0 in any of your scripts, make sure 
       <description>The default version of antiSMASH has changed from 6.0.1-gimkl-2020a-Python-3.8.2 to 8.0.4-foss-2026-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load antiSMASH&lt;/code&gt;.
 If you wish to continue using 6.0.1-gimkl-2020a-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load antiSMASH/6.0.1-gimkl-2020a-Python-3.8.2&lt;/code&gt;</description>
       <guid>A876</guid>
+    </item>
+    <item>
+      <title>ANSYS/2025R2 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">ANSYS</category>
+      <pubDate>Fri, 13 Nov 2026 11:20:58 +1300</pubDate>
+      <description>ANSYS has been updated with a new version, 2025R2. &lt;pre&gt;&lt;code&gt;module load ANSYS/2025R2&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A877</guid>
     </item>
   </channel>
 </rss>
