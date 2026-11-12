@@ -2106,6 +2106,26 @@
         "force_hide": false,
         "force_show": false
     },
+    "Biopython": {
+        "description": "Biopython is a set of freely available tools for biological\n computation written in Python by an international team of developers. It is\n a distributed collaborative effort to develop Python libraries and\n applications which address the needs of current and future work in\n bioinformatics.",
+        "domains": [],
+        "extensions": [],
+        "licence_type": "",
+        "homepage": "https://www.biopython.org",
+        "support": "",
+        "versions": [
+            "1.81-foss-2026-Python-3.14.4"
+        ],
+        "admin_list": [],
+        "network_licences": [],
+        "default": "1.81-foss-2026-Python-3.14.4",
+        "default_type": "latest",
+        "last_updated": 1794442811,
+        "modulefile_text": "",
+        "module_path": "/opt/nesi/zen3/modules/all/Biopython/1.81-foss-2026-Python-3.14.4.lua",
+        "force_hide": false,
+        "force_show": false
+    },
     "Bismark": {
         "description": "A tool to map bisulfite converted sequence reads and\ndetermine cytosine methylation states",
         "domains": [],
@@ -4679,15 +4699,16 @@
             "2.1.9-GCC-11.3.0",
             "2.1.10-GCC-12.3.0",
             "2.1.14-GCC-12.3.0",
-            "2.2.1-GCC-15.2.0"
+            "2.2.1-GCC-15.2.0",
+            "2.2.8-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "2.2.1-GCC-15.2.0",
+        "default": "2.2.8-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1780456412,
+        "last_updated": 1794442593,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/zen3/modules/all/DIAMOND/2.2.1-GCC-15.2.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/DIAMOND/2.2.8-GCC-15.2.0.lua",
         "force_hide": false,
         "force_show": false
     },
@@ -7125,15 +7146,16 @@
         "support": "",
         "versions": [
             "3.0.4c-GCC-9.2.0",
-            "3.0.4c-GCC-11.3.0"
+            "3.0.4c-GCC-11.3.0",
+            "3.0.4c-GCC-15.2.0"
         ],
         "admin_list": [],
         "network_licences": [],
-        "default": "3.0.4c-GCC-11.3.0",
+        "default": "3.0.4c-GCC-15.2.0",
         "default_type": "latest",
-        "last_updated": 1740132629,
+        "last_updated": 1794442625,
         "modulefile_text": "",
-        "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/GlimmerHMM/3.0.4c-GCC-11.3.0.lua",
+        "module_path": "/opt/nesi/zen3/modules/all/GlimmerHMM/3.0.4c-GCC-15.2.0.lua",
         "force_hide": false,
         "force_show": false
     },
