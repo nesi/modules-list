@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Thu, 12 Nov 2026 13:20:47 +1300">
+  <channel lastBuildDate="Thu, 12 Nov 2026 14:37:43 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -7653,6 +7653,57 @@ If you wish to continue using 2.2.1-GCC-15.2.0 in any of your scripts, make sure
       <description>The default version of GlimmerHMM has changed from 3.0.4c-GCC-11.3.0 to 3.0.4c-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GlimmerHMM&lt;/code&gt;.
 If you wish to continue using 3.0.4c-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load GlimmerHMM/3.0.4c-GCC-11.3.0&lt;/code&gt;</description>
       <guid>A870</guid>
+    </item>
+    <item>
+      <title>FastTree/2.2-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">FastTree</category>
+      <pubDate>Thu, 12 Nov 2026 14:37:43 +1300</pubDate>
+      <description>FastTree has been updated with a new version, 2.2-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load FastTree/2.2-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A871</guid>
+    </item>
+    <item>
+      <title>Default version of FastTree has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">FastTree</category>
+      <pubDate>Thu, 12 Nov 2026 14:37:43 +1300</pubDate>
+      <description>The default version of FastTree has changed from 2.1.11-GCCcore-9.2.0 to 2.2-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load FastTree&lt;/code&gt;.
+If you wish to continue using 2.1.11-GCCcore-9.2.0 in any of your scripts, make sure to change them to &lt;code&gt;module load FastTree/2.1.11-GCCcore-9.2.0&lt;/code&gt;</description>
+      <guid>A872</guid>
+    </item>
+    <item>
+      <title>HMMER2/2.4i-GCC-15.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">HMMER2</category>
+      <pubDate>Thu, 12 Nov 2026 14:37:43 +1300</pubDate>
+      <description>HMMER2 has been updated with a new version, 2.4i-GCC-15.2.0. &lt;pre&gt;&lt;code&gt;module load HMMER2/2.4i-GCC-15.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A873</guid>
+    </item>
+    <item>
+      <title>Default version of HMMER2 has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">HMMER2</category>
+      <pubDate>Thu, 12 Nov 2026 14:37:43 +1300</pubDate>
+      <description>The default version of HMMER2 has changed from 2.4i-GCC-11.3.0 to 2.4i-GCC-15.2.0, this is the version that will be loaded when you run &lt;code&gt;module load HMMER2&lt;/code&gt;.
+If you wish to continue using 2.4i-GCC-11.3.0 in any of your scripts, make sure to change them to &lt;code&gt;module load HMMER2/2.4i-GCC-11.3.0&lt;/code&gt;</description>
+      <guid>A874</guid>
+    </item>
+    <item>
+      <title>antiSMASH/8.0.4-foss-2026-Python-3.14.4 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">antiSMASH</category>
+      <pubDate>Thu, 12 Nov 2026 14:37:43 +1300</pubDate>
+      <description>antiSMASH has been updated with a new version, 8.0.4-foss-2026-Python-3.14.4. &lt;pre&gt;&lt;code&gt;module load antiSMASH/8.0.4-foss-2026-Python-3.14.4&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A875</guid>
+    </item>
+    <item>
+      <title>Default version of antiSMASH has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">antiSMASH</category>
+      <pubDate>Thu, 12 Nov 2026 14:37:43 +1300</pubDate>
+      <description>The default version of antiSMASH has changed from 6.0.1-gimkl-2020a-Python-3.8.2 to 8.0.4-foss-2026-Python-3.14.4, this is the version that will be loaded when you run &lt;code&gt;module load antiSMASH&lt;/code&gt;.
+If you wish to continue using 6.0.1-gimkl-2020a-Python-3.8.2 in any of your scripts, make sure to change them to &lt;code&gt;module load antiSMASH/6.0.1-gimkl-2020a-Python-3.8.2&lt;/code&gt;</description>
+      <guid>A876</guid>
     </item>
   </channel>
 </rss>
