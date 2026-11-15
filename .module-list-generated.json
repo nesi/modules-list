@@ -763,7 +763,7 @@
         ],
         "default": "19.2",
         "default_type": "static",
-        "last_updated": 1794776185,
+        "last_updated": 1794784064,
         "modulefile_text": "",
         "module_path": "/opt/nesi/CS400_centos7_bdw/modules/all/ANSYS/19.2.lua",
         "force_hide": false,
