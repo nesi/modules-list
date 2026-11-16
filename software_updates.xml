@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Fri, 13 Nov 2026 11:20:58 +1300">
+  <channel lastBuildDate="Mon, 16 Nov 2026 16:21:18 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -9,23 +9,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2024 02:51:48 +0000</lastBuildDate>
     <ns0:link href="http://docs.nesi.org.nz/software_updates.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>util-linux/2.41 added.</title>
-      <category domain="type">versionAdded</category>
-      <category domain="software">util-linux</category>
-      <pubDate>Thu, 13 Nov 2025 14:11:35 +1300</pubDate>
-      <description>util-linux has been updated with a new version, 2.41. &lt;pre&gt;&lt;code&gt;module load util-linux/2.41&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4730</guid>
-    </item>
-    <item>
-      <title>Default version of util-linux has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">util-linux</category>
-      <pubDate>Thu, 13 Nov 2025 14:11:35 +1300</pubDate>
-      <description>The default version of util-linux has changed from 2.38 to 2.41, this is the version that will be loaded when you run &lt;code&gt;module load util-linux&lt;/code&gt;.
-If you wish to continue using 2.38 in any of your scripts, make sure to change them to &lt;code&gt;module load util-linux/2.38&lt;/code&gt;</description>
-      <guid>A4731</guid>
-    </item>
     <item>
       <title>libcuda-stub has been added.</title>
       <category domain="type">softwareAdded</category>
@@ -7712,6 +7695,14 @@ If you wish to continue using 6.0.1-gimkl-2020a-Python-3.8.2 in any of your scri
       <pubDate>Fri, 13 Nov 2026 11:20:58 +1300</pubDate>
       <description>ANSYS has been updated with a new version, 2025R2. &lt;pre&gt;&lt;code&gt;module load ANSYS/2025R2&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A877</guid>
+    </item>
+    <item>
+      <title>Biopython has been removed.</title>
+      <category domain="type">softwareRemoved</category>
+      <category domain="software">Biopython</category>
+      <pubDate>Mon, 16 Nov 2026 16:21:18 +1300</pubDate>
+      <description>Biopython has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Biopython&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A878</guid>
     </item>
   </channel>
 </rss>
