@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Mon, 16 Nov 2026 16:21:18 +1300">
+  <channel lastBuildDate="Tue, 17 Nov 2026 13:22:17 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -7703,6 +7703,15 @@ If you wish to continue using 6.0.1-gimkl-2020a-Python-3.8.2 in any of your scri
       <pubDate>Mon, 16 Nov 2026 16:21:18 +1300</pubDate>
       <description>Biopython has been removed and can no longer be accessed via &lt;pre&gt;&lt;code&gt;module load Biopython&lt;/code&gt;&lt;/pre&gt;</description>
       <guid>A878</guid>
+    </item>
+    <item>
+      <title>Default version of ANSYS has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">ANSYS</category>
+      <pubDate>Tue, 17 Nov 2026 13:22:17 +1300</pubDate>
+      <description>The default version of ANSYS has changed from 19.2 to 2025R2, this is the version that will be loaded when you run &lt;code&gt;module load ANSYS&lt;/code&gt;.
+If you wish to continue using 19.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ANSYS/19.2&lt;/code&gt;</description>
+      <guid>A877</guid>
     </item>
   </channel>
 </rss>
