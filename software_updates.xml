@@ -1,6 +1,6 @@
 <?xml version="1.0" ?>
 <rss xmlns:ns0="http://www.w3.org/2005/Atom" version="2.0">
-  <channel lastBuildDate="Tue, 17 Nov 2026 13:22:17 +1300">
+  <channel lastBuildDate="Wed, 18 Nov 2026 16:20:53 +1300">
     <title>Software Updates</title>
     <link>http://docs.nesi.org.nz</link>
     <description>Automated Software Updates Feed</description>
@@ -9,43 +9,6 @@
     <language>en</language>
     <lastBuildDate>Wed, 16 Oct 2024 02:51:48 +0000</lastBuildDate>
     <ns0:link href="http://docs.nesi.org.nz/software_updates.xml" rel="self" type="application/rss+xml"/>
-    <item>
-      <title>libcuda-stub has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">libcuda-stub</category>
-      <pubDate>Mon, 17 Nov 2025 13:39:26 +1300</pubDate>
-      <description>
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4733</guid>
-    </item>
-    <item>
-      <title>libcuda-stub/12.5.0 added.</title>
-      <category domain="type">versionAdded</category>
-      <category domain="software">libcuda-stub</category>
-      <pubDate>Mon, 17 Nov 2025 13:46:40 +1300</pubDate>
-      <description>libcuda-stub has been updated with a new version, 12.5.0. &lt;pre&gt;&lt;code&gt;module load libcuda-stub/12.5.0&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4734</guid>
-    </item>
-    <item>
-      <title>Default version of libcuda-stub has changed</title>
-      <category domain="type">defaultChanged</category>
-      <category domain="software">libcuda-stub</category>
-      <pubDate>Mon, 17 Nov 2025 13:46:40 +1300</pubDate>
-      <description>The default version of libcuda-stub has changed from 12.2.2 to 12.5.0, this is the version that will be loaded when you run &lt;code&gt;module load libcuda-stub&lt;/code&gt;.
-If you wish to continue using 12.2.2 in any of your scripts, make sure to change them to &lt;code&gt;module load libcuda-stub/12.2.2&lt;/code&gt;</description>
-      <guid>A4735</guid>
-    </item>
-    <item>
-      <title>BCL-Convert has been added.</title>
-      <category domain="type">softwareAdded</category>
-      <category domain="software">BCL-Convert</category>
-      <pubDate>Mon, 17 Nov 2025 16:07:44 +1300</pubDate>
-      <description>Converts per cycle binary data output by Illumina sequencers containing basecall
-files and quality scores to per read FASTQ files
-https://support.illumina.com/sequencing/sequencing_software/bcl-convert.html
-This new module can be loaded with &lt;pre&gt;&lt;code&gt;module load BCL-Convert/4.2.4&lt;/code&gt;&lt;/pre&gt;</description>
-      <guid>A4737</guid>
-    </item>
     <item>
       <title>Voro++ has been added.</title>
       <category domain="type">softwareAdded</category>
@@ -7712,6 +7675,23 @@ If you wish to continue using 6.0.1-gimkl-2020a-Python-3.8.2 in any of your scri
       <description>The default version of ANSYS has changed from 19.2 to 2025R2, this is the version that will be loaded when you run &lt;code&gt;module load ANSYS&lt;/code&gt;.
 If you wish to continue using 19.2 in any of your scripts, make sure to change them to &lt;code&gt;module load ANSYS/19.2&lt;/code&gt;</description>
       <guid>A877</guid>
+    </item>
+    <item>
+      <title>GOLD/2026.2.0 added.</title>
+      <category domain="type">versionAdded</category>
+      <category domain="software">GOLD</category>
+      <pubDate>Wed, 18 Nov 2026 16:20:53 +1300</pubDate>
+      <description>GOLD has been updated with a new version, 2026.2.0. &lt;pre&gt;&lt;code&gt;module load GOLD/2026.2.0&lt;/code&gt;&lt;/pre&gt;</description>
+      <guid>A878</guid>
+    </item>
+    <item>
+      <title>Default version of GOLD has changed</title>
+      <category domain="type">defaultChanged</category>
+      <category domain="software">GOLD</category>
+      <pubDate>Wed, 18 Nov 2026 16:20:53 +1300</pubDate>
+      <description>The default version of GOLD has changed from 2022 to 2026.2.0, this is the version that will be loaded when you run &lt;code&gt;module load GOLD&lt;/code&gt;.
+If you wish to continue using 2022 in any of your scripts, make sure to change them to &lt;code&gt;module load GOLD/2022&lt;/code&gt;</description>
+      <guid>A879</guid>
     </item>
   </channel>
 </rss>
